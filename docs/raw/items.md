@@ -1,7 +1,7 @@
 # RegMonthly — Export
 
-Window: `2026-01-01T06:00:00Z` → `2026-02-01T06:00:00Z` (UTC)
-Last updated: `2026-02-16T09:54:37-06:00` (CT) — `2026-02-16T15:54:37Z` (UTC)
+Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
+Last updated: `2026-02-16T12:21:49-06:00` (CT) — `2026-02-16T18:21:49Z` (UTC)
 
 ## Press Release: First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois
 - Source: FDIC

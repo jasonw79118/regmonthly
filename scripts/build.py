@@ -39,8 +39,11 @@ RAW_SITEMAP_PATH = f"{RAW_DIR}/sitemap.xml"
 PRINT_DIR = "docs/print"
 PRINT_HTML_PATH = f"{PRINT_DIR}/items.html"
 
-# ✅ UPDATED for new site
+# ✅ IMPORTANT: update base for regmonthly
 PUBLIC_BASE = "https://jasonw79118.github.io/regmonthly"
+
+# (Legacy) Rolling-window config is no longer used; window is now previous calendar month (CT)
+WINDOW_DAYS = 14
 
 MAX_LISTING_LINKS = 220
 GLOBAL_DETAIL_FETCH_CAP = 160
@@ -72,7 +75,6 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
 }
 DEFAULT_SOURCE_DETAIL_CAP = 15
 
-# ✅ UPDATED UA for new repo/site (optional but recommended)
 UA = "regmonthly/1.0 (+https://github.com/jasonw79118/regmonthly)"
 
 
@@ -95,10 +97,10 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     "Fannie Mae": "Mortgage",
     "Freddie Mac": "Mortgage",
     # ✅ Split tiles:
-    # Legislative = Senate Banking + Federal Register
+    # Legislative: Senate Banking + Federal Register
     "Senate Banking": "Legislative",
     "Federal Register": "Legislative",
-    # Executive = White House
+    # Executive: White House
     "White House": "Executive",
     # USDA tile
     "USDA Rural Development": "USDA",
@@ -177,7 +179,7 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
         "allow_domains": {"content.govdelivery.com"},
         "allow_path_prefixes": {"/accounts/USDARD/bulletins", "/bulletins/"},
     },
-    # OFAC (FIX: allow /recent-actions/ item pages)
+    # OFAC (allow /recent-actions/ item pages)
     "OFAC": {
         "allow_domains": {"ofac.treasury.gov"},
         "allow_path_prefixes": {"/recent-actions/"},
@@ -196,12 +198,10 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
         },
     },
     # Payment networks
-    # FIX: Visa press releases often use /press-releases.releaseId.XXXXX.html (dot)
     "Visa": {
         "allow_domains": {"usa.visa.com"},
         "allow_path_prefixes": {"/about-visa/newsroom/press-releases"},
     },
-    # FIX: Mastercard press releases often use /global/en/news-and-trends/press/...
     "Mastercard": {
         "allow_domains": {"www.mastercard.com"},
         "allow_path_prefixes": {
@@ -368,7 +368,7 @@ def parse_date(s: str, *, dayfirst: bool = False) -> Optional[datetime]:
         return None
 
 
-# --- FIX (Visa only): Visa listing pages can be DD/MM/YYYY while detail pages may be M/D/YYYY ---
+# --- Visa listing pages can be DD/MM/YYYY while detail pages may be M/D/YYYY ---
 def parse_slash_date_best(s: str) -> Optional[datetime]:
     """
     Visa listing pages often use DD/MM/YYYY, but Visa detail pages often use M/D/YYYY.
@@ -394,25 +394,8 @@ def parse_slash_date_best(s: str) -> Optional[datetime]:
     return min(cands, key=lambda d: abs((now - d).total_seconds()))
 
 
-# ✅ end-exclusive window to avoid boundary duplicates
-def in_window(dt: datetime, start: datetime, end_exclusive: datetime) -> bool:
-    return start <= dt < end_exclusive
-
-
-# ✅ prior calendar month window, using America/Chicago boundaries
-def prior_month_window_utc(now_utc: datetime) -> Tuple[datetime, datetime]:
-    """
-    Returns (start_utc, end_utc_exclusive) for the PRIOR calendar month,
-    using America/Chicago as the boundary.
-    Example: run on Mar 1 CT -> Feb 1 00:00 CT to Mar 1 00:00 CT.
-    """
-    now_ct = now_utc.astimezone(CENTRAL_TZ)
-    first_this_month_ct = now_ct.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
-    first_prev_month_ct = (first_this_month_ct - timedelta(days=1)).replace(day=1)
-    return (
-        first_prev_month_ct.astimezone(timezone.utc),
-        first_this_month_ct.astimezone(timezone.utc),
-    )
+def in_window(dt: datetime, start: datetime, end: datetime) -> bool:
+    return start <= dt <= end
 
 
 def polite_get(url: str, timeout: int = 25) -> Optional[str]:
@@ -456,7 +439,7 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
                 "Pragma": "no-cache",
             }
 
-        # ✅ Payment Card Networks: make requests look like a real browser (scoped only to these domains)
+        # Payment Card Networks: look like a real browser (scoped only to these domains)
         browser_ua = (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -534,33 +517,34 @@ def fetch_json(url: str, params: Optional[Dict[str, Any]] = None, timeout: int =
 
 # ============================
 # SCHEDULER GATE (GitHub Actions friendly)
+#   ✅ Monthly: run only on the 1st of the month (CT)
 # ============================
 
-def _load_last_run_marker() -> str:
+def _load_last_run_month() -> str:
     try:
         with open(LAST_RUN_PATH, "r", encoding="utf-8") as f:
-            return (json.load(f) or {}).get("date", "")
+            return (json.load(f) or {}).get("month", "")
     except Exception:
         return ""
 
 
-def _save_last_run_marker(marker: str) -> None:
+def _save_last_run_month(month_str: str) -> None:
     os.makedirs(os.path.dirname(LAST_RUN_PATH), exist_ok=True)
     with open(LAST_RUN_PATH, "w", encoding="utf-8") as f:
-        json.dump({"date": marker, "saved_at_utc": iso_z(utc_now())}, f)
+        json.dump({"month": month_str, "saved_at_utc": iso_z(utc_now())}, f)
 
 
-def should_run_monthly_ct(target_hour: int = 7, window_minutes: int = 240) -> bool:
+def should_run_monthly_ct(target_hour: int = 7, window_minutes: int = 180) -> bool:
     """
-    Run only on the 1st of the month, within a window, and only once per month.
-    Marker stored as YYYY-MM.
+    True if current CT time is within the target window AND today is the 1st,
+    AND we haven't already run for this YYYY-MM.
     """
     now_ct = datetime.now(CENTRAL_TZ)
     if now_ct.day != 1:
         return False
 
-    month_key = now_ct.strftime("%Y-%m")
-    if _load_last_run_marker() == month_key:
+    ym = now_ct.strftime("%Y-%m")
+    if _load_last_run_month() == ym:
         return False
 
     start = now_ct.replace(hour=target_hour, minute=0, second=0, microsecond=0)
@@ -577,6 +561,34 @@ def running_in_github_actions() -> bool:
 
 
 # ============================
+# MONTH WINDOW (previous calendar month in CT)
+# ============================
+
+def monthly_window_utc(now_utc: datetime) -> Tuple[datetime, datetime, datetime]:
+    """
+    Returns (window_start_utc, window_end_utc, window_start_ct)
+    for the previous calendar month in Central Time.
+    """
+    now_ct = now_utc.astimezone(CENTRAL_TZ)
+
+    first_of_this_month_ct = now_ct.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
+    end_prev_month_ct = first_of_this_month_ct - timedelta(seconds=1)
+    start_prev_month_ct = end_prev_month_ct.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
+
+    return (
+        start_prev_month_ct.astimezone(timezone.utc),
+        end_prev_month_ct.astimezone(timezone.utc),
+        start_prev_month_ct,
+    )
+
+
+def irs_news_releases_for_month_url(window_start_ct: datetime) -> str:
+    month = window_start_ct.strftime("%B").lower()
+    year = window_start_ct.year
+    return f"https://www.irs.gov/newsroom/news-releases-for-{month}-{year}"
+
+
+# ============================
 # DATE PATTERNS
 # ============================
 
@@ -584,7 +596,7 @@ MONTH_DATE_RE = re.compile(r"(?P<md>([A-Z][a-z]{2,9})\.?\s+\d{1,2},\s+\d{4})")
 SLASH_DATE_RE = re.compile(r"(?P<sd>\b\d{1,2}/\d{1,2}/\d{2,4}\b)")
 ISO_DATE_RE = re.compile(r"(?P<id>\b\d{4}-\d{2}-\d{2}\b)")
 
-# FIX: Visa US dates are month/day/year, so keep empty (no dayfirst sources)
+# Visa US dates are month/day/year, so keep empty (no dayfirst sources)
 DAYFIRST_SOURCES: set[str] = set()
 
 
@@ -601,7 +613,6 @@ def extract_any_date(text: str, source: str = "") -> Optional[datetime]:
     m = SLASH_DATE_RE.search(text)
     if m:
         sd = m.group("sd")
-        # FIX (Visa only): listing often DD/MM/YYYY, detail can be M/D/YYYY
         if source == "Visa":
             dt = parse_slash_date_best(sd)
         else:
@@ -770,7 +781,7 @@ def discover_feeds(page_url: str, html: str) -> List[str]:
     return out
 
 
-def items_from_feed(source: str, feed_url: str, start: datetime, end_exclusive: datetime) -> List[Dict[str, Any]]:
+def items_from_feed(source: str, feed_url: str, start: datetime, end: datetime) -> List[Dict[str, Any]]:
     out: List[Dict[str, Any]] = []
 
     b = fetch_bytes(feed_url, timeout=40)
@@ -808,7 +819,7 @@ def items_from_feed(source: str, feed_url: str, start: datetime, end_exclusive: 
             except Exception:
                 dt = None
 
-        if not dt or not in_window(dt, start, end_exclusive):
+        if not dt or not in_window(dt, start, end):
             continue
 
         summary = ""
@@ -833,12 +844,11 @@ def items_from_feed(source: str, feed_url: str, start: datetime, end_exclusive: 
 # FEDERAL REGISTER API ITEMS
 # ============================
 
-def items_from_federal_register_topics(start: datetime, end_exclusive: datetime) -> List[Dict[str, Any]]:
+def items_from_federal_register_topics(start: datetime, end: datetime) -> List[Dict[str, Any]]:
     out: List[Dict[str, Any]] = []
 
     start_d = start.date().isoformat()
-    # end_exclusive is first day of current month; API is inclusive, so use (end_exclusive - 1 day)
-    end_inclusive_d = (end_exclusive - timedelta(days=1)).date().isoformat()
+    end_d = end.date().isoformat()
     endpoint = f"{FEDREG_API_BASE.rstrip('/')}/documents.json"
 
     for topic in FEDREG_TOPICS:
@@ -847,7 +857,7 @@ def items_from_federal_register_topics(start: datetime, end_exclusive: datetime)
             "page": 1,
             "order": ["publication_date", "desc"],
             "conditions[publication_date][gte]": start_d,
-            "conditions[publication_date][lte]": end_inclusive_d,
+            "conditions[publication_date][lte]": end_d,
             "conditions[topics][]": topic,
             "fields[]": [
                 "title",
@@ -877,7 +887,7 @@ def items_from_federal_register_topics(start: datetime, end_exclusive: datetime)
                     continue
 
                 dt = parse_date(pub_s)
-                if not dt or not in_window(dt, start, end_exclusive):
+                if not dt or not in_window(dt, start, end):
                     continue
 
                 if url.startswith("/"):
@@ -1003,7 +1013,6 @@ def find_time_near_anchor(a: Any, source: str) -> Optional[datetime]:
     t = parent.find("time")
     if t:
         raw = (t.get("datetime") or t.get_text(" ", strip=True) or "").strip()
-        # FIX (Visa only): handle DD/MM/YYYY vs M/D/YYYY ambiguity safely
         if source == "Visa" and SLASH_DATE_RE.search(raw):
             dt = parse_slash_date_best(raw)
         else:
@@ -1029,10 +1038,23 @@ def is_likely_article_anchor(a: Any) -> bool:
 
 
 # ----------------------------
-# OFAC (FIX): site structure doesn't reliably match is_likely_article_anchor()
-# Target item pages: /recent-actions/YYYYMMDD
+# OFAC: item pages are /recent-actions/YYYYMMDD
+#   ✅ FIX: derive date from URL so items don't get dropped
 # ----------------------------
 OFAC_ITEM_RE = re.compile(r"^/recent-actions/\d{8}(/)?$")
+OFAC_URL_DATE_RE = re.compile(r"/recent-actions/(?P<ymd>\d{8})(?:/)?$")
+
+
+def ofac_date_from_url(url: str) -> Optional[datetime]:
+    try:
+        m = OFAC_URL_DATE_RE.search(urlparse(url).path)
+        if not m:
+            return None
+        ymd = m.group("ymd")
+        dt = datetime.strptime(ymd, "%Y%m%d").replace(tzinfo=timezone.utc)
+        return dt
+    except Exception:
+        return None
 
 
 def ofac_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
@@ -1066,6 +1088,11 @@ def ofac_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
         seen.add(url)
 
         dt = find_time_near_anchor(a, "OFAC")
+
+        # ✅ NEW: fallback date from URL /recent-actions/YYYYMMDD
+        if dt is None:
+            dt = ofac_date_from_url(url)
+
         if dt is None:
             wrap = a.find_parent(["div", "article", "section", "p"]) or a.parent
             if wrap:
@@ -1173,7 +1200,7 @@ def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[
     return links
 
 
-# ✅ NEW: Visa listing pages often have the date as a standalone line ABOVE the headline anchor.
+# Visa listing pages often have the date as a standalone line ABOVE the headline anchor.
 def visa_date_from_listing_context(a: Any) -> Optional[datetime]:
     if not a:
         return None
@@ -1491,47 +1518,53 @@ KNOWN_FEEDS: Dict[str, List[str]] = {
     "Fiserv": ["https://investors.fiserv.com/newsroom/rss"],
 }
 
-START_PAGES: List[SourcePage] = [
-    # OFAC
-    SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions"),
-    SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions/enforcement-actions"),
-    # IRS
-    SourcePage("IRS", "https://www.irs.gov/newsroom"),
-    SourcePage("IRS", "https://www.irs.gov/newsroom/news-releases-for-current-month"),
-    SourcePage("IRS", "https://www.irs.gov/newsroom/irs-tax-tips"),
-    SourcePage("IRS", "https://www.irs.gov/downloads/rss"),
-    # USDA RD
-    SourcePage("USDA Rural Development", "https://www.rd.usda.gov/newsroom/news-releases"),
-    # Banking regulators
-    SourcePage("OCC", "https://www.occ.gov/news-issuances/news-releases/index-news-releases.html"),
-    SourcePage("FDIC", "https://www.fdic.gov/news/press-releases/"),
-    SourcePage("FRB", "https://www.federalreserve.gov/newsevents/pressreleases.htm"),
-    # Mortgage / housing GSEs
-    SourcePage("FHLB MPF", "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates"),
-    SourcePage("Fannie Mae", "https://www.fanniemae.com/rss/rss.xml"),
-    SourcePage("Fannie Mae", "https://www.fanniemae.com/newsroom/fannie-mae-news"),
-    SourcePage("Freddie Mac", "https://www.globenewswire.com/search/organization/Freddie%20Mac"),
-    # Legislative / exec
-    SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom"),
-    SourcePage("White House", "https://www.whitehouse.gov/news/"),
-    SourcePage("White House", "https://www.whitehouse.gov/presidential-actions/"),
-    # Payments
-    SourcePage("NACHA", "https://www.nacha.org/taxonomy/term/362"),
-    # Fintech vendors
-    SourcePage("FIS", "https://investor.fisglobal.com/press-releases"),
-    SourcePage("Fiserv", "https://investors.fiserv.com/newsroom/news-releases"),
-    SourcePage("Jack Henry", "https://ir.jackhenry.com/press-releases"),
-    SourcePage("Temenos", "https://www.temenos.com/news/press-releases/"),
-    SourcePage("Mambu", "https://mambu.com/en/insights/press"),
-    SourcePage("Finastra", "https://www.finastra.com/news-events/media-room"),
-    SourcePage("TCS", "https://www.tcs.com/who-we-are/newsroom"),
-    # Payment Networks
-    SourcePage("Visa", "https://usa.visa.com/about-visa/newsroom/press-releases-listing.html"),
-    SourcePage("Mastercard", "https://www.mastercard.com/us/en/news-and-trends/press.html"),
-    # InfoSec (feed-only)
-    SourcePage("BleepingComputer", "https://www.bleepingcomputer.com/"),
-    SourcePage("Microsoft MSRC", "https://api.msrc.microsoft.com/"),
-]
+
+def get_start_pages(window_start_ct: datetime) -> List[SourcePage]:
+    """
+    ✅ Dynamic START_PAGES so IRS monthly newsroom URL is correct each run.
+    Window is previous calendar month (CT).
+    """
+    return [
+        # OFAC
+        SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions"),
+        SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions/enforcement-actions"),
+        # IRS
+        SourcePage("IRS", "https://www.irs.gov/newsroom"),
+        SourcePage("IRS", irs_news_releases_for_month_url(window_start_ct)),
+        SourcePage("IRS", "https://www.irs.gov/newsroom/irs-tax-tips"),
+        SourcePage("IRS", "https://www.irs.gov/downloads/rss"),
+        # USDA RD
+        SourcePage("USDA Rural Development", "https://www.rd.usda.gov/newsroom/news-releases"),
+        # Banking regulators
+        SourcePage("OCC", "https://www.occ.gov/news-issuances/news-releases/index-news-releases.html"),
+        SourcePage("FDIC", "https://www.fdic.gov/news/press-releases/"),
+        SourcePage("FRB", "https://www.federalreserve.gov/newsevents/pressreleases.htm"),
+        # Mortgage / housing GSEs
+        SourcePage("FHLB MPF", "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates"),
+        SourcePage("Fannie Mae", "https://www.fanniemae.com/rss/rss.xml"),
+        SourcePage("Fannie Mae", "https://www.fanniemae.com/newsroom/fannie-mae-news"),
+        SourcePage("Freddie Mac", "https://www.globenewswire.com/search/organization/Freddie%20Mac"),
+        # Legislative / exec
+        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom"),
+        SourcePage("White House", "https://www.whitehouse.gov/news/"),
+        SourcePage("White House", "https://www.whitehouse.gov/presidential-actions/"),
+        # Payments
+        SourcePage("NACHA", "https://www.nacha.org/taxonomy/term/362"),
+        # Fintech vendors
+        SourcePage("FIS", "https://investor.fisglobal.com/press-releases"),
+        SourcePage("Fiserv", "https://investors.fiserv.com/newsroom/news-releases"),
+        SourcePage("Jack Henry", "https://ir.jackhenry.com/press-releases"),
+        SourcePage("Temenos", "https://www.temenos.com/news/press-releases/"),
+        SourcePage("Mambu", "https://mambu.com/en/insights/press"),
+        SourcePage("Finastra", "https://www.finastra.com/news-events/media-room"),
+        SourcePage("TCS", "https://www.tcs.com/who-we-are/newsroom"),
+        # Payment Networks
+        SourcePage("Visa", "https://usa.visa.com/about-visa/newsroom/press-releases-listing.html"),
+        SourcePage("Mastercard", "https://www.mastercard.com/us/en/news-and-trends/press.html"),
+        # InfoSec (feed-only)
+        SourcePage("BleepingComputer", "https://www.bleepingcomputer.com/"),
+        SourcePage("Microsoft MSRC", "https://api.msrc.microsoft.com/"),
+    ]
 
 
 # ============================
@@ -1750,17 +1783,18 @@ def build() -> None:
     now_utc = utc_now()
     now_ct = now_utc.astimezone(CENTRAL_TZ).replace(microsecond=0)
 
-    # ✅ prior calendar month, CT boundaries
-    window_start, window_end = prior_month_window_utc(now_utc)
+    # ✅ Previous calendar month window (CT), converted to UTC for filtering
+    window_start, window_end, window_start_ct = monthly_window_utc(now_utc)
 
     all_items: List[Dict[str, Any]] = []
     global_detail_fetches = 0
     per_source_detail_fetches: Dict[str, int] = {}
 
     pages_by_source: Dict[str, List[str]] = {}
-    for sp in START_PAGES:
+    for sp in get_start_pages(window_start_ct):
         pages_by_source.setdefault(sp.source, []).append(sp.url)
 
+    # ensure these exist even if their pages are only from feeds or API
     for src in set(KNOWN_FEEDS.keys()) | {"Federal Register"}:
         pages_by_source.setdefault(src, [])
 
@@ -1774,9 +1808,10 @@ def build() -> None:
                 all_items.extend(got)
                 print(f"[api] Federal Register: {len(got)} items (topics)", flush=True)
             else:
-                print(f"[note] Federal Register: no qualifying items in window (or API issue).", flush=True)
+                print("[note] Federal Register: no qualifying items in window (or API issue).", flush=True)
             continue
 
+        # known feeds first
         for fu in KNOWN_FEEDS.get(source, []):
             got = items_from_feed(source, fu, window_start, window_end)
             if got:
@@ -1824,8 +1859,7 @@ def build() -> None:
 
                 snippet = ""
 
-                # ✅ Visa-only rescue:
-                # If listing produced a date but it's outside the window, try detail fetch to correct it.
+                # Visa-only rescue: if listing produced a date but it's outside window, try detail fetch to correct it.
                 if source == "Visa" and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
                     if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
                         detail_html = polite_get(url)
@@ -1881,8 +1915,9 @@ def build() -> None:
 
         gained = len(all_items) - source_items_before
         if gained == 0:
-            print("[note] {source}: no qualifying items in the window (or blocked/changed).", flush=True)
+            print("[note] no qualifying items in month window (or blocked/changed).", flush=True)
 
+    # dedupe by canonical URL
     dedup: Dict[str, Dict[str, Any]] = {}
     for it in sorted(all_items, key=lambda x: x["published_at"], reverse=True):
         key = canonical_url(it["url"])
@@ -1942,13 +1977,13 @@ if __name__ == "__main__":
         if force_run_enabled():
             print("[run] FORCE_RUN enabled -> building now", flush=True)
             build()
-            _save_last_run_marker(datetime.now(CENTRAL_TZ).strftime("%Y-%m"))
-        elif should_run_monthly_ct(target_hour=7, window_minutes=240):
+            _save_last_run_month(datetime.now(CENTRAL_TZ).strftime("%Y-%m"))
+        elif should_run_monthly_ct(target_hour=7, window_minutes=180):
             build()
-            _save_last_run_marker(datetime.now(CENTRAL_TZ).strftime("%Y-%m"))
+            _save_last_run_month(datetime.now(CENTRAL_TZ).strftime("%Y-%m"))
         else:
-            print("[skip] Not in monthly run window (1st @ ~7:00 AM CT) or already ran this month. Set FORCE_RUN=1 to override.", flush=True)
+            print("[skip] Not in monthly window (1st of month, CT) or already ran this month. Set FORCE_RUN=1 to override.", flush=True)
     else:
         print("[run] Local execution -> building now", flush=True)
         build()
-        _save_last_run_marker(datetime.now(CENTRAL_TZ).strftime("%Y-%m"))
+        _save_last_run_month(datetime.now(CENTRAL_TZ).strftime("%Y-%m"))
