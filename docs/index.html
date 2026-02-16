@@ -1,109 +1,233 @@
+$index = @'
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <title>Monthly Regulatory Update</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; line-height: 1.35; }
-    header { margin-bottom: 18px; }
-    .subtitle { color:#444; }
-    .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap: 12px; margin: 14px 0; }
-    .tile { border: 1px solid #ddd; border-radius: 12px; padding: 12px; background:#fff; }
-    .tile h3 { margin: 0 0 6px 0; font-size: 14px; color:#333; }
-    .count { font-size: 28px; font-weight: 700; }
-    .small { font-size: 12px; color:#555; }
-    .section { margin-top: 18px; }
-    .section h2 { margin: 0 0 8px 0; font-size: 18px; }
-    .card { border: 1px solid #eee; border-radius: 12px; padding: 12px; margin: 10px 0; }
-    .meta { display:flex; flex-wrap:wrap; gap: 10px; font-size: 12px; color:#555; margin-bottom: 6px; }
-    a { text-decoration:none; }
-    a:hover { text-decoration:underline; }
-    code { background:#f4f4f4; padding:2px 6px; border-radius: 6px; }
-  </style>
+  <link rel="stylesheet" href="assets/style.css" />
 </head>
+
 <body>
   <header>
     <h1>Monthly Regulatory Update</h1>
     <div class="subtitle">Prior-month regulatory intelligence, published monthly.</div>
-    <div id="window" class="small"></div>
-    <div class="small">
-      Exports:
-      <a href="raw/" target="_blank" rel="noopener">raw</a> ·
-      <a href="raw/items.md" target="_blank" rel="noopener">items.md</a> ·
-      <a href="raw/items.txt" target="_blank" rel="noopener">items.txt</a> ·
-      <a href="raw/items.ndjson" target="_blank" rel="noopener">items.ndjson</a> ·
+
+    <div class="header-meta">
+      <div id="window" class="window">Window: (loading)</div>
+      <div id="count" class="window">Items: (loading)</div>
+    </div>
+
+    <div class="nav">
+      <a href="raw/" target="_blank" rel="noopener">Static Export</a>
+      <a href="raw/items.md" target="_blank" rel="noopener">items.md</a>
+      <a href="raw/items.txt" target="_blank" rel="noopener">items.txt</a>
+      <a href="raw/items.ndjson" target="_blank" rel="noopener">items.ndjson</a>
       <a href="print/items.html" target="_blank" rel="noopener">print</a>
     </div>
   </header>
 
-  <div class="grid" id="tiles"></div>
+  <main>
+    <div id="loading">Loading monthly items…</div>
 
-  <div id="sections"></div>
+    <section class="tiles" id="tiles"></section>
+  </main>
+
+  <footer>
+    <hr />
+    <p class="disclaimer">
+      This dashboard summarizes public sources for convenience. Always refer to the official source for final language.
+    </p>
+  </footer>
 
 <script>
-(async () => {
-  const res = await fetch("data/items.json", { cache: "no-store" });
-  if (!res.ok) {
-    document.getElementById("window").textContent = "Missing data/items.json (run build.py).";
-    return;
-  }
-  const payload = await res.json();
-  const items = payload.items || [];
-
-  const ws = payload.window_start || "";
-  const we = payload.window_end || "";
-  const gen = payload.generated_at_ct || payload.generated_at_utc || "";
-  document.getElementById("window").innerHTML =
-    `Window: <code>${ws}</code> → <code>${we}</code> (UTC) · Updated: <code>${gen}</code>`;
-
-  // Tile order (includes split Legislative/Executive)
-  const categories = [
+(function () {
+  const TILE_ORDER = [
     "OFAC","IRS","Payments","Banking","Mortgage","USDA",
     "Legislative","Executive",
     "Fintech Watch","Payment Card Networks","IS"
   ];
 
-  const counts = {};
-  for (const c of categories) counts[c] = 0;
-  for (const it of items) {
-    const c = it.category || "Other";
-    counts[c] = (counts[c] || 0) + 1;
+  // Accent colors per tile (left stripe)
+  const TILE_ACCENT = {
+    "OFAC": "#ef4444",
+    "IRS": "#f59e0b",
+    "Payments": "#2563eb",
+    "Banking": "#0ea5e9",
+    "Mortgage": "#22c55e",
+    "USDA": "#16a34a",
+    "Legislative": "#a855f7",
+    "Executive": "#f97316",
+    "Fintech Watch": "#06b6d4",
+    "Payment Card Networks": "#111827",
+    "IS": "#64748b",
+  };
+
+  const TILE_SOURCES = {
+    "OFAC": [
+      ["OFAC Recent Actions","https://ofac.treasury.gov/recent-actions"]
+    ],
+    "IRS": [
+      ["IRS Newsroom","https://www.irs.gov/newsroom"]
+    ],
+    "Payments": [
+      ["NACHA","https://www.nacha.org/"],
+      ["Federal Reserve","https://www.federalreserve.gov/"]
+    ],
+    "Banking": [
+      ["OCC","https://www.occ.gov/"],
+      ["FDIC","https://www.fdic.gov/"]
+    ],
+    "Mortgage": [
+      ["FHLB MPF","https://www.fhlbmpf.com/"],
+      ["Fannie Mae","https://www.fanniemae.com/"],
+      ["Freddie Mac","https://www.freddiemac.com/"]
+    ],
+    "USDA": [
+      ["USDA Rural Development","https://www.rd.usda.gov/"]
+    ],
+    "Legislative": [
+      ["Senate Banking Newsroom","https://www.banking.senate.gov/newsroom"],
+      ["Federal Register","https://www.federalregister.gov/"]
+    ],
+    "Executive": [
+      ["White House News","https://www.whitehouse.gov/news/"]
+    ],
+    "Fintech Watch": [
+      ["FIS","https://investor.fisglobal.com/press-releases"],
+      ["Fiserv","https://investors.fiserv.com/newsroom/news-releases"],
+      ["Jack Henry","https://ir.jackhenry.com/press-releases"]
+    ],
+    "Payment Card Networks": [
+      ["Visa","https://usa.visa.com/about-visa/newsroom.html"],
+      ["Mastercard","https://www.mastercard.com/us/en/news-and-trends/press.html"]
+    ],
+    "IS": [
+      ["BleepingComputer","https://www.bleepingcomputer.com/"],
+      ["Microsoft MSRC","https://api.msrc.microsoft.com/"]
+    ],
+  };
+
+  function esc(s) {
+    return String(s ?? "")
+      .replaceAll("&","&amp;").replaceAll("<","&lt;")
+      .replaceAll(">","&gt;").replaceAll('"',"&quot;")
+      .replaceAll("'","&#39;");
   }
 
-  // Render tiles
-  const tiles = document.getElementById("tiles");
-  tiles.innerHTML = categories.map(c => `
-    <div class="tile">
-      <h3>${c}</h3>
-      <div class="count">${counts[c] || 0}</div>
-    </div>
-  `).join("");
-
-  // Render sections (only categories that have items)
-  const byCat = {};
-  for (const it of items) {
-    const c = it.category || "Other";
-    (byCat[c] ||= []).push(it);
+  function fmtDate(iso) {
+    if (!iso) return "";
+    // show YYYY-MM-DD only
+    return String(iso).slice(0,10);
   }
 
-  const sections = document.getElementById("sections");
-  sections.innerHTML = categories
-    .filter(c => (byCat[c] || []).length)
-    .map(c => {
-      const list = byCat[c].map(it => `
-        <div class="card">
-          <div class="meta">
-            <span>[${it.source || ""}]</span>
-            <span>${it.published_at || ""}</span>
-          </div>
-          <div><a href="${it.url}" target="_blank" rel="noopener">${it.title || ""}</a></div>
-          ${it.summary ? `<div class="small" style="margin-top:6px">${it.summary}</div>` : ""}
+  function tileTemplate(cat) {
+    const accent = TILE_ACCENT[cat] || "#2563eb";
+    return `
+      <section class="tile" data-cat="${esc(cat)}" style="--accent:${esc(accent)}">
+        <div class="tile-head">
+          <h2>${esc(cat)}</h2>
         </div>
+        <div class="tile-body">
+          <ul class="items" id="list-${esc(cat)}"></ul>
+          <div class="empty" id="empty-${esc(cat)}" style="display:none;">No items for this month.</div>
+        </div>
+        <div class="tile-foot" id="foot-${esc(cat)}"></div>
+      </section>
+    `;
+  }
+
+  function renderSources(cat) {
+    const srcs = TILE_SOURCES[cat] || [];
+    if (!srcs.length) return "";
+    const links = srcs.map(([label,url]) => `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`).join(" · ");
+    return `Sources: ${links}`;
+  }
+
+  async function run() {
+    const tilesEl = document.getElementById("tiles");
+    const loadingEl = document.getElementById("loading");
+
+    tilesEl.innerHTML = TILE_ORDER.map(tileTemplate).join("");
+
+    // Set footers
+    for (const cat of TILE_ORDER) {
+      const f = document.getElementById(`foot-${cat}`);
+      if (f) f.innerHTML = renderSources(cat);
+    }
+
+    let payload;
+    try {
+      const res = await fetch("data/items.json", { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      payload = await res.json();
+    } catch (e) {
+      loadingEl.textContent = "Missing data/items.json (run build.py / workflow).";
+      return;
+    }
+
+    const items = Array.isArray(payload.items) ? payload.items : [];
+
+    // header meta
+    const ws = payload.window_start || "";
+    const we = payload.window_end || "";
+    const gen = payload.generated_at_ct || payload.generated_at_utc || "";
+    document.getElementById("window").innerHTML = `Window: <code>${esc(ws)}</code> → <code>${esc(we)}</code> (UTC)`;
+    document.getElementById("count").innerHTML = `Items: <code>${items.length}</code> · Updated: <code>${esc(gen)}</code>`;
+
+    // group by category
+    const byCat = {};
+    for (const it of items) {
+      const c = it.category || "Other";
+      (byCat[c] ||= []).push(it);
+    }
+
+    // sort within category (newest first)
+    for (const c in byCat) {
+      byCat[c].sort((a,b) => String(b.published_at||"").localeCompare(String(a.published_at||"")));
+    }
+
+    // render lists (show up to 25 per tile; adjust if you want)
+    const MAX_PER_TILE = 25;
+
+    for (const cat of TILE_ORDER) {
+      const list = document.getElementById(`list-${cat}`);
+      const empty = document.getElementById(`empty-${cat}`);
+      if (!list || !empty) continue;
+
+      const arr = byCat[cat] || [];
+      if (!arr.length) {
+        empty.style.display = "block";
+        continue;
+      }
+
+      empty.style.display = "none";
+      list.innerHTML = arr.slice(0, MAX_PER_TILE).map(it => `
+        <li>
+          <div class="headline">
+            <a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+            <span class="date">${esc(fmtDate(it.published_at))}</span>
+          </div>
+          <div class="summary">
+            <span class="source">[${esc(it.source)}]</span>
+            ${it.summary ? esc(it.summary) : ""}
+          </div>
+        </li>
       `).join("");
-      return `<div class="section"><h2>${c}</h2>${list}</div>`;
-    }).join("");
+    }
+
+    loadingEl.style.display = "none";
+  }
+
+  run();
 })();
 </script>
 </body>
 </html>
+'@
+
+Set-Content -Path .\docs\index.html -Value $index -Encoding utf8
+
+git add .\docs\index.html
+git commit -m "Upgrade homepage to tile UI + split Legislative/Executive"
+git push
