@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Monthly Regulatory Update</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; line-height: 1.35; }
+    header { margin-bottom: 18px; }
+    .subtitle { color:#444; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap: 12px; margin: 14px 0; }
+    .tile { border: 1px solid #ddd; border-radius: 12px; padding: 12px; background:#fff; }
+    .tile h3 { margin: 0 0 6px 0; font-size: 14px; color:#333; }
+    .count { font-size: 28px; font-weight: 700; }
+    .small { font-size: 12px; color:#555; }
+    .section { margin-top: 18px; }
+    .section h2 { margin: 0 0 8px 0; font-size: 18px; }
+    .card { border: 1px solid #eee; border-radius: 12px; padding: 12px; margin: 10px 0; }
+    .meta { display:flex; flex-wrap:wrap; gap: 10px; font-size: 12px; color:#555; margin-bottom: 6px; }
+    a { text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    code { background:#f4f4f4; padding:2px 6px; border-radius: 6px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Monthly Regulatory Update</h1>
+    <div class="subtitle">Prior-month regulatory intelligence, published monthly.</div>
+    <div id="window" class="small"></div>
+    <div class="small">
+      Exports:
+      <a href="raw/" target="_blank" rel="noopener">raw</a> ·
+      <a href="raw/items.md" target="_blank" rel="noopener">items.md</a> ·
+      <a href="raw/items.txt" target="_blank" rel="noopener">items.txt</a> ·
+      <a href="raw/items.ndjson" target="_blank" rel="noopener">items.ndjson</a> ·
+      <a href="print/items.html" target="_blank" rel="noopener">print</a>
+    </div>
+  </header>
+
+  <div class="grid" id="tiles"></div>
+
+  <div id="sections"></div>
+
+<script>
+(async () => {
+  const res = await fetch("data/items.json", { cache: "no-store" });
+  if (!res.ok) {
+    document.getElementById("window").textContent = "Missing data/items.json (run build.py).";
+    return;
+  }
+  const payload = await res.json();
+  const items = payload.items || [];
+
+  const ws = payload.window_start || "";
+  const we = payload.window_end || "";
+  const gen = payload.generated_at_ct || payload.generated_at_utc || "";
+  document.getElementById("window").innerHTML =
+    `Window: <code>${ws}</code> → <code>${we}</code> (UTC) · Updated: <code>${gen}</code>`;
+
+  // Tile order (includes split Legislative/Executive)
+  const categories = [
+    "OFAC","IRS","Payments","Banking","Mortgage","USDA",
+    "Legislative","Executive",
+    "Fintech Watch","Payment Card Networks","IS"
+  ];
+
+  const counts = {};
+  for (const c of categories) counts[c] = 0;
+  for (const it of items) {
+    const c = it.category || "Other";
+    counts[c] = (counts[c] || 0) + 1;
+  }
+
+  // Render tiles
+  const tiles = document.getElementById("tiles");
+  tiles.innerHTML = categories.map(c => `
+    <div class="tile">
+      <h3>${c}</h3>
+      <div class="count">${counts[c] || 0}</div>
+    </div>
+  `).join("");
+
+  // Render sections (only categories that have items)
+  const byCat = {};
+  for (const it of items) {
+    const c = it.category || "Other";
+    (byCat[c] ||= []).push(it);
+  }
+
+  const sections = document.getElementById("sections");
+  sections.innerHTML = categories
+    .filter(c => (byCat[c] || []).length)
+    .map(c => {
+      const list = byCat[c].map(it => `
+        <div class="card">
+          <div class="meta">
+            <span>[${it.source || ""}]</span>
+            <span>${it.published_at || ""}</span>
+          </div>
+          <div><a href="${it.url}" target="_blank" rel="noopener">${it.title || ""}</a></div>
+          ${it.summary ? `<div class="small" style="margin-top:6px">${it.summary}</div>` : ""}
+        </div>
+      `).join("");
+      return `<div class="section"><h2>${c}</h2>${list}</div>`;
+    }).join("");
+})();
+</script>
+</body>
+</html>
