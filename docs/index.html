@@ -236,6 +236,14 @@ if (lower === "fintech watch" || lower === "fintech") return "Fintech Watch";
 
       const counts = frCollectTagCounts(allItems);
       const tags = Array.from(counts.keys());
+
+      // ✅ Always include Small Business filter option (match RegDashboard),
+      // even if this month has 0 matching items.
+      const mustHave = ["topic:small-business"];
+      mustHave.forEach(t => {
+        if (!tags.includes(t)) tags.push(t);
+        if (!counts.has(t)) counts.set(t, 0);
+      });
       if (!tags.length) return; // no tags -> no filter UI
 
       filtersWrap.className = "fr-filters";

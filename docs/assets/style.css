@@ -485,3 +485,20 @@ header{
   box-shadow: 0 0 0 3px rgba(59,130,246,.25);
   border-color: rgba(59,130,246,.55);
 }
+
+
+/* ============================
+   FedReg filter sizing fix (RegMonthly)
+   - keep dropdown inside tile
+   - slightly smaller like RegDashboard
+   ============================ */
+.fr-filters{ max-width: 100%; }
+.fr-select{
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  height: 34px;
+  padding: 6px 10px;
+}
+.tile-head{ overflow: hidden; }
