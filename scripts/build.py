@@ -46,14 +46,14 @@ PUBLIC_BASE = "https://jasonw79118.github.io/regmonthly"
 WINDOW_DAYS = 14
 
 # Bump caps so Visa/Mastercard can resolve dates for more listing links
-MAX_LISTING_LINKS = 2000  # monthly: allow many listing links (full month coverage)
-GLOBAL_DETAIL_FETCH_CAP = 1400  # monthly: allow many detail fetches (full month coverage)
+MAX_LISTING_LINKS = 3500  # monthly: allow many listing links (full month coverage)
+GLOBAL_DETAIL_FETCH_CAP = 2200  # monthly: allow many detail fetches (full month coverage)
 REQUEST_DELAY_SEC = 0.12
 
 PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
-    "IRS": 70,
-    "Senate Banking": 80,
-    "FinCEN": 120,
+    "IRS": 140,
+    "Senate Banking": 160,
+    "FinCEN": 220,
     "USDA Rural Development": 55,
     "Mastercard": 120,
     "Visa": 160,
@@ -65,14 +65,14 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
     "Jack Henry": 25,
     "Finastra": 20,
     "TCS": 25,
-    "OFAC": 120,
-    "Treasury": 120,
+    "OFAC": 220,
+    "Treasury": 220,
     "OCC": 25,
     "FDIC": 25,
     "FRB": 30,
     "FRB Payments": 30,
     "NACHA": 25,
-    "White House": 120,
+    "White House": 220,
     "Federal Register": 0,  # API only
     "BleepingComputer": 0,  # feed-only
     "Microsoft MSRC": 0,    # feed-only
@@ -80,10 +80,10 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
     # New tiles/sources
     "CDIA": 25,
     "FASB": 25,
-    "ABA": 25,
+    "ABA": 120,
     "TBA": 25,
-    "Wolters Kluwer": 25,
-    "Bankers Online": 25,
+    "Wolters Kluwer": 120,
+    "Bankers Online": 120,
 }
 
 # Sources where we keep listing links but DO NOT fetch detail pages (to avoid blocks/timeouts)
@@ -1697,6 +1697,69 @@ def _find_next_page_url(page_url: str, html: str) -> Optional[str]:
     return None
 
 
+
+def _bump_query_page(url: str, param: str = "page") -> Optional[str]:
+    """Increment a querystring page param (page=1 -> page=2). If absent, add page=2."""
+    try:
+        from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+        p = urlparse(url)
+        qs = parse_qs(p.query)
+        cur = 1
+        if param in qs and qs[param]:
+            try:
+                cur = int(qs[param][0])
+            except Exception:
+                cur = 1
+        qs[param] = [str(cur + 1)]
+        new_query = urlencode(qs, doseq=True)
+        return urlunparse((p.scheme, p.netloc, p.path, p.params, new_query, p.fragment))
+    except Exception:
+        return None
+
+
+def _append_path_page(url: str, n: int) -> Optional[str]:
+    """Turn .../news/ into .../news/page/N/ if not already."""
+    try:
+        u = canonical_url(url)
+        # normalize trailing slash
+        if not u.endswith("/"):
+            u += "/"
+        if "/page/" in u:
+            return None
+        return canonical_url(urljoin(u, f"page/{n}/"))
+    except Exception:
+        return None
+
+
+def _next_page_url_source_fallback(source: str, cur_url: str, cur_html: str, page_i: int) -> Optional[str]:
+    """
+    Source-specific pagination fallback when HTML doesn't expose a clear 'Next' link.
+    We only attempt a few known patterns for sources that routinely hide pager controls.
+    """
+    u = canonical_url(cur_url)
+
+    # OFAC recent actions commonly uses ?page=N (pager sometimes icon-only)
+    if source == "OFAC" and "ofac.treasury.gov/recent-actions" in u:
+        return _bump_query_page(u, "page")
+
+    # Treasury press releases supports ?page=N
+    if source in ("Treasury", "Treasury Press Releases") and "home.treasury.gov/news/press-releases" in u:
+        return _bump_query_page(u, "page")
+
+    # White House uses /news/page/N/ and /presidential-actions/page/N/
+    if source == "White House" and ("whitehouse.gov/news" in u or "whitehouse.gov/presidential-actions" in u):
+        # page_i is zero-based loop counter; next page number starts at 2
+        return _append_path_page(u, page_i + 2)
+
+    # Senate Banking: try simple query page increment if present/typical
+    if source == "Senate Banking" and "banking.senate.gov/newsroom" in u:
+        # some senate sites use ?PageNum= or ?page= (best effort)
+        nxt = _bump_query_page(u, "PageNum") or _bump_query_page(u, "page")
+        return nxt
+
+    return None
+
+
 def _paginate_listing(
     source: str,
     first_url: str,
@@ -1729,6 +1792,8 @@ def _paginate_listing(
                 break
 
         next_url = _find_next_page_url(cur_url, cur_html)
+        if not next_url:
+            next_url = _next_page_url_source_fallback(source, cur_url, cur_html, _i)
         if not next_url or canonical_url(next_url) == canonical_url(cur_url):
             break
 

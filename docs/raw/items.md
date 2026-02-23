@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-23T13:42:35-06:00` (CT) — `2026-02-23T19:42:35Z` (UTC)
+Last updated: `2026-02-23T16:37:42-06:00` (CT) — `2026-02-23T22:37:42Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
@@ -887,12 +887,6 @@ The Coast Guard is changing the operating schedule that governs the Dorset Avenu
 
 Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but “Government Price Fixing” “Card rate and interchange caps sound politically appealing but government price fixing always fails to solve affordability issues, and it ultimately leads to unintended economic consequences. Any serious consideration of the data shows card rate caps would hurt small businesse…
 
-## President Trump is the Most Pro-Life President in History
-- Source: White House
-- Category: Executive
-- Published: 2026-01-23T21:03:45Z
-- URL: https://www.whitehouse.gov/articles/2026/01/president-trump-is-the-most-pro-life-president-in-history/
-
 ## Congressional Bill H.R. 4323 and H.R. 6938 Signed into Law
 - Source: White House
 - Category: Executive
@@ -1313,18 +1307,6 @@ The Deep Seabed Hard Mineral Resources Act (DSHMRA or the Act) charges NOAA with
 - Published: 2026-01-20T17:57:27Z
 - URL: https://www.whitehouse.gov/articles/2026/01/365-wins-in-365-days-president-trumps-return-marks-new-era-of-success-prosperity/
 
-## Business to Business
-- Source: NACHA
-- Category: Payments
-- Published: 2026-01-20T15:50:45Z
-- URL: https://www.nacha.org/taxonomy/term/341
-
-## Podcast
-- Source: NACHA
-- Category: Payments
-- Published: 2026-01-20T15:50:45Z
-- URL: https://www.nacha.org/taxonomy/term/385
-
 ## CVE-2026-20818 Windows Kernel Information Disclosure Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -1364,12 +1346,6 @@ Updated the build numbers. This is an informational update only.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20848
 
 Updated the build numbers. This is an informational update only.
-
-## As New Nacha Rules Approach, the Risks of Credit-Push Fraud are Real
-- Source: NACHA
-- Category: Payments
-- Published: 2026-01-20T00:00:00Z
-- URL: https://www.nacha.org/news/new-nacha-rules-approach-risks-credit-push-fraud-are-real
 
 ## Should RDFIs Have a Role in Identifying First-Party Fraud?
 - Source: NACHA
@@ -1866,6 +1842,22 @@ Updated acknowledgment. This is an informational change only.
 - Category: Payments
 - Published: 2026-01-14T00:00:00Z
 - URL: https://www.nacha.org/news/eft-healthcare-claim-payments-continue-rise-2025
+
+## Penny Phaseout
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-01-14T00:00:00Z
+- URL: https://www.aba.com/banking-topics/payments/penny-phaseout
+
+This page provides resources to help your bank track trends, manage customer expectations, and respond to the operational impacts of the penny’s retirement.
+
+## Innovation & Fintech
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-01-14T00:00:00Z
+- URL: https://www.aba.com/banking-topics/technology/innovation-fintech
+
+ABA offers resources to ensure that banks of all sizes have the tools they need to serve their customers and communities today and in the future.
 
 ## Marketable Treasury Securities Redemption Operations
 - Source: Federal Register
@@ -4969,6 +4961,12 @@ User interface (ui) misrepresentation of critical information in Microsoft Edge 
 
 Information published.
 
+## Nacha Wants Your Help in Compiling the 2025 ACH Volume Survey
+- Source: NACHA
+- Category: Payments
+- Published: 2026-01-07T00:00:00Z
+- URL: https://www.nacha.org/news/nacha-wants-your-help-compiling-2025-ach-volume-survey
+
 ## Home Mortgage Disclosure (Regulation C) Adjustment to Asset-Size Exemption Threshold
 - Source: Federal Register
 - Category: Federal Register
@@ -5048,6 +5046,12 @@ Minutes of the Board's discount rate meeting on December 10, 2025
 - Category: Executive
 - Published: 2026-01-06T18:31:42Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-epiphany/
+
+## Podcast
+- Source: NACHA
+- Category: Payments
+- Published: 2026-01-06T16:41:53Z
+- URL: https://www.nacha.org/taxonomy/term/385
 
 ## Federal Reserve Board issues enforcement action with former employee of Regions Bank
 - Source: FRB

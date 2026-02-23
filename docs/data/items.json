@@ -1,8 +1,8 @@
 {
   "window_start": "2026-01-01T06:00:00Z",
   "window_end": "2026-02-01T05:59:59Z",
-  "generated_at_utc": "2026-02-23T19:42:35Z",
-  "generated_at_ct": "2026-02-23T13:42:35-06:00",
+  "generated_at_utc": "2026-02-23T22:37:42Z",
+  "generated_at_ct": "2026-02-23T16:37:42-06:00",
   "items": [
     {
       "category": "Executive",
@@ -1177,14 +1177,6 @@
     {
       "category": "Executive",
       "source": "White House",
-      "title": "President Trump is the Most Pro-Life President in History",
-      "published_at": "2026-01-23T21:03:45Z",
-      "url": "https://www.whitehouse.gov/articles/2026/01/president-trump-is-the-most-pro-life-president-in-history/",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
       "title": "Congressional Bill H.R. 4323 and H.R. 6938 Signed into Law",
       "published_at": "2026-01-23T20:49:06Z",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-4323-and-h-r-6938-signed-into-law/",
@@ -1778,22 +1770,6 @@
       "summary": ""
     },
     {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "Business to Business",
-      "published_at": "2026-01-20T15:50:45Z",
-      "url": "https://www.nacha.org/taxonomy/term/341",
-      "summary": ""
-    },
-    {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "Podcast",
-      "published_at": "2026-01-20T15:50:45Z",
-      "url": "https://www.nacha.org/taxonomy/term/385",
-      "summary": ""
-    },
-    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2026-20818 Windows Kernel Information Disclosure Vulnerability",
@@ -1832,14 +1808,6 @@
       "published_at": "2026-01-20T08:00:00Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20848",
       "summary": "Updated the build numbers. This is an informational update only."
-    },
-    {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "As New Nacha Rules Approach, the Risks of Credit-Push Fraud are Real",
-      "published_at": "2026-01-20T00:00:00Z",
-      "url": "https://www.nacha.org/news/new-nacha-rules-approach-risks-credit-push-fraud-are-real",
-      "summary": ""
     },
     {
       "category": "Payments",
@@ -2521,6 +2489,22 @@
       "published_at": "2026-01-14T00:00:00Z",
       "url": "https://www.nacha.org/news/eft-healthcare-claim-payments-continue-rise-2025",
       "summary": ""
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Penny Phaseout",
+      "published_at": "2026-01-14T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/payments/penny-phaseout",
+      "summary": "This page provides resources to help your bank track trends, manage customer expectations, and respond to the operational impacts of the penny’s retirement."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Innovation & Fintech",
+      "published_at": "2026-01-14T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/technology/innovation-fintech",
+      "summary": "ABA offers resources to ensure that banks of all sizes have the tools they need to serve their customers and communities today and in the future."
     },
     {
       "category": "Federal Register",
@@ -5893,6 +5877,14 @@
       "summary": "Information published."
     },
     {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Nacha Wants Your Help in Compiling the 2025 ACH Volume Survey",
+      "published_at": "2026-01-07T00:00:00Z",
+      "url": "https://www.nacha.org/news/nacha-wants-your-help-compiling-2025-ach-volume-survey",
+      "summary": ""
+    },
+    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Home Mortgage Disclosure (Regulation C) Adjustment to Asset-Size Exemption Threshold",
@@ -6022,6 +6014,14 @@
       "title": "Presidential Message on Epiphany",
       "published_at": "2026-01-06T18:31:42Z",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-epiphany/",
+      "summary": ""
+    },
+    {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Podcast",
+      "published_at": "2026-01-06T16:41:53Z",
+      "url": "https://www.nacha.org/taxonomy/term/385",
       "summary": ""
     },
     {

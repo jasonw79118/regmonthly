@@ -805,12 +805,6 @@ Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but �
 ------------------------------------------------------------
 Executive
 White House
-2026-01-23T21:03:45Z
-President Trump is the Most Pro-Life President in History
-https://www.whitehouse.gov/articles/2026/01/president-trump-is-the-most-pro-life-president-in-history/
-------------------------------------------------------------
-Executive
-White House
 2026-01-23T20:49:06Z
 Congressional Bill H.R. 4323 and H.R. 6938 Signed into Law
 https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-4323-and-h-r-6938-signed-into-law/
@@ -1193,18 +1187,6 @@ White House
 365 WINS IN 365 DAYS: President Trump’s Return Marks New Era of Success, Prosperity
 https://www.whitehouse.gov/articles/2026/01/365-wins-in-365-days-president-trumps-return-marks-new-era-of-success-prosperity/
 ------------------------------------------------------------
-Payments
-NACHA
-2026-01-20T15:50:45Z
-Business to Business
-https://www.nacha.org/taxonomy/term/341
-------------------------------------------------------------
-Payments
-NACHA
-2026-01-20T15:50:45Z
-Podcast
-https://www.nacha.org/taxonomy/term/385
-------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-20T08:00:00Z
@@ -1239,12 +1221,6 @@ Microsoft MSRC
 CVE-2026-20848 Windows SMB Server Elevation of Privilege Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20848
 Updated the build numbers. This is an informational update only.
-------------------------------------------------------------
-Payments
-NACHA
-2026-01-20T00:00:00Z
-As New Nacha Rules Approach, the Risks of Credit-Push Fraud are Real
-https://www.nacha.org/news/new-nacha-rules-approach-risks-credit-push-fraud-are-real
 ------------------------------------------------------------
 Payments
 NACHA
@@ -1700,6 +1676,20 @@ NACHA
 2026-01-14T00:00:00Z
 EFT Healthcare Claim Payments Continue to Rise in 2025
 https://www.nacha.org/news/eft-healthcare-claim-payments-continue-rise-2025
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-01-14T00:00:00Z
+Penny Phaseout
+https://www.aba.com/banking-topics/payments/penny-phaseout
+This page provides resources to help your bank track trends, manage customer expectations, and respond to the operational impacts of the penny’s retirement.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-01-14T00:00:00Z
+Innovation & Fintech
+https://www.aba.com/banking-topics/technology/innovation-fintech
+ABA offers resources to ensure that banks of all sizes have the tools they need to serve their customers and communities today and in the future.
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -4434,6 +4424,12 @@ CVE-2025-4432 Ring: some aes functions may panic when overflow checking is enabl
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-4432
 Information published.
 ------------------------------------------------------------
+Payments
+NACHA
+2026-01-07T00:00:00Z
+Nacha Wants Your Help in Compiling the 2025 ACH Volume Survey
+https://www.nacha.org/news/nacha-wants-your-help-compiling-2025-ach-volume-survey
+------------------------------------------------------------
 Federal Register
 Federal Register
 2026-01-07T00:00:00Z
@@ -4506,6 +4502,12 @@ White House
 2026-01-06T18:31:42Z
 Presidential Message on Epiphany
 https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-epiphany/
+------------------------------------------------------------
+Payments
+NACHA
+2026-01-06T16:41:53Z
+Podcast
+https://www.nacha.org/taxonomy/term/385
 ------------------------------------------------------------
 Banking
 FRB
