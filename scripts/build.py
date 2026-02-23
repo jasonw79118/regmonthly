@@ -40,68 +40,70 @@ PRINT_DIR = "docs/print"
 PRINT_HTML_PATH = f"{PRINT_DIR}/items.html"
 
 # ✅ IMPORTANT: base for regdashboard (your live site)
-PUBLIC_BASE = "https://jasonw79118.github.io/regdashboard"
+PUBLIC_BASE = "https://jasonw79118.github.io/regmonthly"
 
-# (Legacy) Rolling-window config is no longer used; window is now previous calendar month (CT)
+# ✅ RegDashboard MUST be a rolling window (2 weeks)
 WINDOW_DAYS = 14
 
-MAX_LISTING_LINKS = 220
-GLOBAL_DETAIL_FETCH_CAP = 180
+# Bump caps so Visa/Mastercard can resolve dates for more listing links
+MAX_LISTING_LINKS = 260
+GLOBAL_DETAIL_FETCH_CAP = 260
 REQUEST_DELAY_SEC = 0.12
 
 PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
     "IRS": 70,
     "USDA Rural Development": 55,
-    "Mastercard": 45,
-    "Visa": 45,
+    "Mastercard": 120,
+    "Visa": 160,
+    "FHLB MPF": 25,
     "Fannie Mae": 35,
-    "Freddie Mac": 10,  # GlobeNewswire org page usually has dates in listing; keep small for occasional detail fetch
+    "Freddie Mac": 10,
     "FIS": 25,
-    "Fiserv": 25,
+    "Fiserv": 25,       # ✅ DO NOT CHANGE (your request)
     "Jack Henry": 25,
-    "Temenos": 25,
-    "Mambu": 20,
     "Finastra": 20,
     "TCS": 25,
-    "OFAC": 35,
+    "OFAC": 45,
+    "Treasury": 60,
     "OCC": 25,
     "FDIC": 25,
     "FRB": 30,
+    "FRB Payments": 30,
     "NACHA": 25,
     "White House": 45,
-
-    # ✅ ADD: Treasury Newsroom Press Releases
-    "Treasury Press Releases": 35,
-
     "Federal Register": 0,  # API only
     "BleepingComputer": 0,  # feed-only
-    "Microsoft MSRC": 0,  # feed-only
+    "Microsoft MSRC": 0,    # feed-only
 
     # New tiles/sources
-    "CDIA": 20,
+    "CDIA": 25,
     "FASB": 25,
     "ABA": 25,
     "TBA": 25,
     "Wolters Kluwer": 25,
-    "Bankers Online": 20,
+    "Bankers Online": 25,
 }
+
+# Sources where we keep listing links but DO NOT fetch detail pages (to avoid blocks/timeouts)
+SKIP_DETAIL_SOURCES = {"Visa", "Fannie Mae"}
 DEFAULT_SOURCE_DETAIL_CAP = 15
 
-UA = "regdashboard/4.0 (+https://github.com/jasonw79118/regdashboard)"
+UA = "regmonthly/1.0 (+https://github.com/jasonw79118/regmonthly)"
 
 
 # ============================
 # CATEGORY MAPPING (for tiles)
-#   IMPORTANT: these strings must match your index.html tile keys EXACTLY.
 # ============================
 
 CATEGORY_BY_SOURCE: Dict[str, str] = {
     "OFAC": "OFAC",
+    "Treasury": "OFAC",
     "IRS": "IRS",
 
     # Payments tile
     "NACHA": "Payments",
-    "FRB": "Payments",
+    "FRB Payments": "Payments",
+    "FRB": "Banking",
 
     # Banking tile
     "OCC": "Banking",
@@ -116,7 +118,7 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     "Senate Banking": "Legislative",
     "White House": "Executive",
 
-    # ✅ NEW: Federal Register gets its OWN tile/category
+    # Federal Register
     "Federal Register": "Federal Register",
 
     # USDA tile
@@ -126,8 +128,6 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     "FIS": "Fintech Watch",
     "Fiserv": "Fintech Watch",
     "Jack Henry": "Fintech Watch",
-    "Temenos": "Fintech Watch",
-    "Mambu": "Fintech Watch",
     "Finastra": "Fintech Watch",
     "TCS": "Fintech Watch",
 
@@ -139,13 +139,9 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     "BleepingComputer": "IS",
     "Microsoft MSRC": "IS",
 
-    # ✅ ADD: Treasury Press Releases -> OFAC tile
-    # If your tile key is different (e.g., "OFAC, Sanctions & AML"), change this value to match index.html exactly.
-    "Treasury Press Releases": "OFAC",
-
-    # ✅ NEW tiles
-    "CDIA": "CDIA",
-    "FASB": "FASB",
+    # Compliance Watch tile
+    "CDIA": "Compliance Watch",
+    "FASB": "Compliance Watch",
     "ABA": "Compliance Watch",
     "TBA": "Compliance Watch",
     "Wolters Kluwer": "Compliance Watch",
@@ -154,108 +150,86 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
 
 
 # ============================
-# FEDERAL REGISTER API (topics)
+# FEDERAL REGISTER API (filters)
 # ============================
 
 FEDREG_API_BASE = "https://www.federalregister.gov/api/v1"
 
-RAW_FEDREG_TOPICS = [
-    "banks-banking",
-    "executive-orders",
-    "federal-reserve-system",
-    "national-banks",
-    "securities",
-    "mortgages",
-    "truth-lending",
-    "truth-savings",
-    "Consumer-Financial-Protection-Bureau",
-    "FDIC",
-    "Bank-deposit-industry",
-    "Business-and-industry",
-    "child-labor",
-    "credit",
-    "credit-unions",
-    "currency",
-    "economic-statistics",
-    "employment",
-    "employment-taxes",
-    "fair-housing",
-    "federal-home-loan-banks",
-    "flood-insurance",
-    "foreign-banking",
-    "government-sponsored-enterprise",
-    "holding-companies",
-    "housing",
-    "income-taxes",
-    "insurance",
-    "investment-companies",
-    "investments",
-    "justice-department",
-    "Loan-programs",
-    "Loan-programs-agriculture",
-    "Loan-programs-business",
-    "Loan-programs-communications",
-    "Loan-programs-education",
-    "Manufactured-home",
-    "Mortgage-Insurance",
-    "Personally-identifiable-information",
-    "Savings-associations",
-    "Small-business",
-    "Trust-and-trustees",
+RAW_FEDREG_FILTERS: List[Dict[str, str]] = [
+    {"kind": "topics", "value": "banks-banking"},
+    {"kind": "topics", "value": "executive-orders"},
+    {"kind": "topics", "value": "federal-reserve-system"},
+    {"kind": "topics", "value": "national-banks"},
+    {"kind": "topics", "value": "securities"},
+    {"kind": "topics", "value": "mortgages"},
+    {"kind": "topics", "value": "truth-lending"},
+    {"kind": "topics", "value": "truth-savings"},
+
+    {"kind": "agencies", "value": "consumer-financial-protection-bureau"},
+    {"kind": "agencies", "value": "federal-deposit-insurance-corporation"},
+
+    {"kind": "topics", "value": "child-labor"},
+    {"kind": "topics", "value": "credit"},
+    {"kind": "topics", "value": "credit-unions"},
+    {"kind": "topics", "value": "currency"},
+    {"kind": "topics", "value": "economic-statistics"},
+    {"kind": "topics", "value": "employment"},
+    {"kind": "topics", "value": "employment-taxes"},
+    {"kind": "topics", "value": "fair-housing"},
+    {"kind": "topics", "value": "federal-home-loan-banks"},
+    {"kind": "topics", "value": "flood-insurance"},
+    {"kind": "topics", "value": "foreign-banking"},
+    {"kind": "topics", "value": "government-sponsored-enterprise"},
+    {"kind": "topics", "value": "holding-companies"},
+    {"kind": "topics", "value": "housing"},
+    {"kind": "topics", "value": "income-taxes"},
+    {"kind": "topics", "value": "insurance"},
+    {"kind": "topics", "value": "investment-companies"},
+    {"kind": "topics", "value": "investments"},
+    {"kind": "topics", "value": "justice-department"},
+    {"kind": "topics", "value": "loan-programs"},
+    {"kind": "topics", "value": "loan-programs-agriculture"},
+    {"kind": "topics", "value": "loan-programs-business"},
+    {"kind": "topics", "value": "loan-programs-communications"},
+    {"kind": "topics", "value": "loan-programs-education"},
+    {"kind": "topics", "value": "manufactured-home"},
+    {"kind": "topics", "value": "mortgage-insurance"},
+    {"kind": "topics", "value": "personally-identifiable-information"},
+    {"kind": "topics", "value": "savings-associations"},
+    {"kind": "topics", "value": "small-business"},
+    {"kind": "topics", "value": "trust-and-trustees"},
 ]
 
-FEDREG_TOPIC_ALIASES: Dict[str, str] = {
-    "consumer-financial-protection-bureau": "consumer-financial-protection-bureau",
-    "cfpb": "consumer-financial-protection-bureau",
 
-    # FDIC as a “topic” often appears as "federal-deposit-insurance-corporation"
-    "fdic": "federal-deposit-insurance-corporation",
-    "federal-deposit-insurance-corporation": "federal-deposit-insurance-corporation",
-
-    # This one in your list looks like it was meant to be "bank-deposit-insurance"
-    "bank-deposit-industry": "bank-deposit-insurance",
-
-    # normalize a few capitalized / dashed
-    "loan-programs": "loan-programs",
-    "loan-programs-agriculture": "loan-programs-agriculture",
-    "loan-programs-business": "loan-programs-business",
-    "loan-programs-communications": "loan-programs-communications",
-    "loan-programs-education": "loan-programs-education",
-
-    "manufactured-home": "manufactured-homes",
-    "mortgage-insurance": "mortgage-insurance",
-    "small-business": "small-businesses",
-}
-
-
-def normalize_fedreg_topic(raw: str) -> str:
+def normalize_fedreg_slug(raw: str) -> str:
     s = (raw or "").strip()
     s = s.replace("_", "-")
     s = re.sub(r"\s+", "-", s)
     s = s.strip("-")
     s = s.lower()
-
-    # de-dupe common double-dash
     s = re.sub(r"-{2,}", "-", s)
+    return s
 
-    return FEDREG_TOPIC_ALIASES.get(s, s)
 
-
-def build_fedreg_topics() -> List[str]:
-    seen = set()
-    out: List[str] = []
-    for t in RAW_FEDREG_TOPICS:
-        nt = normalize_fedreg_topic(t)
-        if not nt:
+def build_fedreg_filters() -> List[Dict[str, str]]:
+    out: List[Dict[str, str]] = []
+    seen: set[Tuple[str, str]] = set()
+    for f in RAW_FEDREG_FILTERS:
+        kind = (f.get("kind") or "").strip().lower()
+        val = normalize_fedreg_slug(f.get("value") or "")
+        if kind not in {"topics", "agencies", "sections"}:
             continue
-        if nt in seen:
+        if not val:
             continue
-        seen.add(nt)
-        out.append(nt)
+        key = (kind, val)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append({"kind": kind, "value": val})
     return out
 
 
-FEDREG_TOPICS = build_fedreg_topics()
+FEDREG_FILTERS = build_fedreg_filters()
 
 
 # ============================
@@ -284,8 +258,8 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
         "deny_domains": {"sa.www4.irs.gov"},
     },
     "FRB": {"deny_domains": {"www.facebook.com"}},
+    "FRB Payments": {"deny_domains": {"www.facebook.com"}},
 
-    # Freddie Mac (WORKING SOURCE): GlobeNewswire org page + release pages
     "Freddie Mac": {
         "allow_domains": {"www.globenewswire.com"},
         "allow_path_prefixes": {
@@ -296,25 +270,21 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
         },
     },
 
-    # USDA RD (GovDelivery)
     "USDA Rural Development": {
         "allow_domains": {"content.govdelivery.com", "www.rd.usda.gov"},
         "allow_path_prefixes": {"/accounts/USDARD/bulletins", "/bulletins/", "/newsroom/"},
     },
 
-    # OFAC (allow /recent-actions/ item pages)
     "OFAC": {
         "allow_domains": {"ofac.treasury.gov"},
         "allow_path_prefixes": {"/recent-actions/"},
     },
 
-    # ✅ ADD: Treasury Press Releases (home.treasury.gov)
-    "Treasury Press Releases": {
+    "Treasury": {
         "allow_domains": {"home.treasury.gov"},
         "allow_path_prefixes": {"/news/press-releases"},
     },
 
-    # White House
     "White House": {
         "allow_domains": {"www.whitehouse.gov"},
         "allow_path_prefixes": {
@@ -328,47 +298,54 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
         },
     },
 
-    # Payment networks
     "Visa": {
         "allow_domains": {"usa.visa.com"},
         "allow_path_prefixes": {"/about-visa/newsroom/press-releases"},
     },
+
     "Mastercard": {
         "allow_domains": {"www.mastercard.com"},
         "allow_path_prefixes": {
             "/us/en/news-and-trends/press/",
             "/global/en/news-and-trends/press/",
             "/news-and-trends/press/",
+            "/en/news-and-trends/press/",
+            "/gb/en/news-and-trends/press/",
+            "/mea/en/news-and-trends/press/",
         },
     },
 
-    # Federal Register (items are API-produced URLs; allow documents pages)
     "Federal Register": {
         "allow_domains": {"www.federalregister.gov"},
         "allow_path_prefixes": {"/documents/"},
     },
 
-    "FIS": {"allow_domains": {"investor.fisglobal.com"}},
+    "FIS": {"allow_domains": {"investor.fisglobal.com", "www.investor.fisglobal.com"}},
     "Fiserv": {"allow_domains": {"investors.fiserv.com"}},
-    "Jack Henry": {"allow_domains": {"ir.jackhenry.com"}},
-    "Temenos": {"allow_domains": {"www.temenos.com"}},
-    "Mambu": {"allow_domains": {"mambu.com"}},
-    "Finastra": {"allow_domains": {"www.finastra.com"}},
-    "TCS": {"allow_domains": {"www.tcs.com"}},
 
-    # ✅ NEW: CDIA
+    # ✅ Jack Henry links are often in tables; allow both press-releases and news-releases detail pages.
+    "Jack Henry": {"allow_domains": {"ir.jackhenry.com"}},
+
+    "Finastra": {"allow_domains": {"www.finastra.com"}},
+
+    # ✅ TCS: add feedburner domains because many press releases advertise RSS via feeds2.feedburner.com
+    "TCS": {"allow_domains": {"www.tcs.com", "feeds2.feedburner.com", "feedburner.com"}},
+
+    "FHLB MPF": {
+        "allow_domains": {"www.fhlbmpf.com"},
+        "allow_path_prefixes": {"/program-guidelines/mpf-program-updates"},
+    },
+
     "CDIA": {
         "allow_domains": {"www.cdiaonline.org"},
         "allow_path_prefixes": {"/news", "/news-events-blogs", "/events", "/blog", "/"},
     },
 
-    # ✅ NEW: FASB
     "FASB": {
-        "allow_domains": {"www.fasb.org"},
+        "allow_domains": {"www.fasb.org", "fasb.org"},
         "allow_path_prefixes": {"/news-and-meetings/in-the-news", "/news-and-meetings/"},
     },
 
-    # ✅ NEW: Compliance Watch sources
     "ABA": {
         "allow_domains": {"www.aba.com", "bankingjournal.aba.com"},
         "allow_path_prefixes": {"/news-research/", "/"},
@@ -398,6 +375,52 @@ GLOBAL_DENY_SCHEMES = {"mailto", "tel", "javascript"}
 warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
 LAST_RUN_PATH = "docs/data/last_run.json"
+
+
+# ============================
+# SCHEDULER GATE (GitHub Actions friendly)
+#   ✅ Monthly: run only on the 1st of the month (CT) and only once per month.
+#   Set FORCE_RUN=1 to override (useful for testing / re-runs).
+# ============================
+
+def _load_last_run_month() -> str:
+    try:
+        with open(LAST_RUN_PATH, "r", encoding="utf-8") as f:
+            return (json.load(f) or {}).get("month", "")
+    except Exception:
+        return ""
+
+
+def _save_last_run_month(month_str: str) -> None:
+    os.makedirs(os.path.dirname(LAST_RUN_PATH), exist_ok=True)
+    with open(LAST_RUN_PATH, "w", encoding="utf-8") as f:
+        json.dump({"month": month_str, "saved_at_utc": iso_z(utc_now())}, f)
+
+
+def should_run_monthly_ct(target_hour: int = 7, window_minutes: int = 180) -> bool:
+    """
+    True if current CT time is within the target window AND today is the 1st,
+    AND we haven't already run for this YYYY-MM.
+    """
+    now_ct = datetime.now(CENTRAL_TZ)
+    if now_ct.day != 1:
+        return False
+
+    ym = now_ct.strftime("%Y-%m")
+    if _load_last_run_month() == ym:
+        return False
+
+    start = now_ct.replace(hour=target_hour, minute=0, second=0, microsecond=0)
+    end = start + timedelta(minutes=window_minutes)
+    return start <= now_ct <= end
+
+
+def force_run_enabled() -> bool:
+    return os.getenv("FORCE_RUN", "").strip().lower() in {"1", "true", "yes"}
+
+
+def running_in_github_actions() -> bool:
+    return os.getenv("GITHUB_ACTIONS", "").strip().lower() == "true"
 
 
 def _safe_central_tz():
@@ -469,14 +492,12 @@ def looks_like_error_html(html: str) -> bool:
         return True
 
     s = html.lower()
-
     has_html = "<html" in s or "<!doctype html" in s
     has_title = "<title" in s
     has_main = "<main" in s or 'role="main"' in s
 
     if "<title>404" in s or "<title>page not found" in s:
         return True
-
     if re.search(r">(\s*)page not found(\s*)<", s):
         return True
     if re.search(r">(\s*)404(\s*)<", s) and ("not found" in s):
@@ -532,12 +553,7 @@ def parse_date(s: str, *, dayfirst: bool = False) -> Optional[datetime]:
         return None
 
 
-# --- Visa listing pages can be DD/MM/YYYY while detail pages may be M/D/YYYY ---
 def parse_slash_date_best(s: str) -> Optional[datetime]:
-    """
-    Visa listing pages often use DD/MM/YYYY, but Visa detail pages often use M/D/YYYY.
-    Try both and choose the interpretation that isn't implausibly far in the future.
-    """
     if not s:
         return None
 
@@ -562,6 +578,19 @@ def in_window(dt: datetime, start: datetime, end: datetime) -> bool:
     return start <= dt <= end
 
 
+# ============================
+# ✅ Proxy helper (r.jina.ai)
+# ============================
+
+def _jina_proxy_url(url: str) -> str:
+    u = url.strip()
+    if u.startswith("https://"):
+        return "https://r.jina.ai/https://" + u[len("https://") :]
+    if u.startswith("http://"):
+        return "https://r.jina.ai/http://" + u[len("http://") :]
+    return "https://r.jina.ai/http://" + u
+
+
 def polite_get(url: str, timeout: int = 25) -> Optional[str]:
     if not is_http_url(url):
         return None
@@ -576,49 +605,55 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
         read_timeout = 35
     if "globenewswire.com" in h:
         read_timeout = 40
+    if "federalregister.gov" in h:
+        read_timeout = 35
+    if "tcs.com" in h:
+        read_timeout = 40
 
     try:
         time.sleep(REQUEST_DELAY_SEC)
 
         headers: Dict[str, str] = {}
 
-        # Existing per-site header tweaks
+        browser_ua = (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/122.0.0.0 Safari/537.36"
+        )
+
         if "whitehouse.gov" in h:
             headers = {
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                 "Referer": "https://www.whitehouse.gov/",
                 "Cache-Control": "no-cache",
                 "Pragma": "no-cache",
+                "User-Agent": browser_ua,
             }
+
         if "globenewswire.com" in h:
             headers = {
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                 "Referer": "https://www.globenewswire.com/",
+                "User-Agent": browser_ua,
             }
+
         if "ofac.treasury.gov" in h:
             headers = {
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                 "Referer": "https://ofac.treasury.gov/",
                 "Cache-Control": "no-cache",
                 "Pragma": "no-cache",
+                "User-Agent": browser_ua,
             }
 
-        # ✅ Treasury Press Releases: simple browser-like headers (helps some bot filters)
         if "home.treasury.gov" in h:
             headers = {
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                "Accept-Language": "en-US,en;q=0.9",
                 "Referer": "https://home.treasury.gov/",
                 "Cache-Control": "no-cache",
                 "Pragma": "no-cache",
+                "User-Agent": browser_ua,
             }
-
-        # Payment Card Networks: look like a real browser (scoped only to these domains)
-        browser_ua = (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/122.0.0.0 Safari/537.36"
-        )
 
         if h == "usa.visa.com":
             headers = {
@@ -640,12 +675,94 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
                 "Pragma": "no-cache",
             }
 
+        # ✅ Helps some vendor sites behave more like a browser
+        if h in {"ir.jackhenry.com", "www.tcs.com", "mambu.com", "www.finastra.com", "www.bankersonline.com"}:
+            headers = {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+                "User-Agent": browser_ua,
+                "Cache-Control": "no-cache",
+                "Pragma": "no-cache",
+            }
+
         r = SESSION.get(
             url,
             headers=headers if headers else None,
             timeout=(10, read_timeout),
             allow_redirects=True,
         )
+
+        # ✅ Mastercard: known 403 -> proxy retry
+        if r.status_code == 403 and h == "www.mastercard.com":
+            print(f"[warn] GET 403: {url} (retrying via proxy)", flush=True)
+            proxy_url = _jina_proxy_url(url)
+            try:
+                time.sleep(REQUEST_DELAY_SEC)
+                pr = SESSION.get(
+                    proxy_url,
+                    headers={"User-Agent": browser_ua, "Accept": "text/html,application/xhtml+xml,*/*"},
+                    timeout=(10, max(read_timeout, 40)),
+                    allow_redirects=True,
+                )
+                if pr.status_code < 400:
+                    txtp = pr.text or ""
+                    if not looks_like_error_html(txtp):
+                        return txtp
+                    else:
+                        print(f"[warn] proxy returned error-like content: {url}", flush=True)
+                else:
+                    print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
+            except Exception as e:
+                print(f"[warn] proxy GET failed: {proxy_url} :: {e}", flush=True)
+            return None
+
+        # ✅ Finastra: 403 is common -> proxy retry
+        if r.status_code == 403 and h == "www.finastra.com":
+            print(f"[warn] GET 403: {url} (retrying via proxy)", flush=True)
+            proxy_url = _jina_proxy_url(url)
+            try:
+                time.sleep(REQUEST_DELAY_SEC)
+                pr = SESSION.get(
+                    proxy_url,
+                    headers={"User-Agent": browser_ua, "Accept": "text/html,application/xhtml+xml,*/*"},
+                    timeout=(10, max(read_timeout, 45)),
+                    allow_redirects=True,
+                )
+                if pr.status_code < 400:
+                    txtp = pr.text or ""
+                    if not looks_like_error_html(txtp):
+                        return txtp
+                    else:
+                        print(f"[warn] proxy returned error-like content: {url}", flush=True)
+                else:
+                    print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
+            except Exception as e:
+                print(f"[warn] proxy GET failed: {proxy_url} :: {e}", flush=True)
+            return None
+        # ✅ BankersOnline: 403 is common -> proxy retry
+        if r.status_code == 403 and h == "www.bankersonline.com":
+            print(f"[warn] GET 403: {url} (retrying via proxy)", flush=True)
+            proxy_url = _jina_proxy_url(url)
+            try:
+                time.sleep(REQUEST_DELAY_SEC)
+                pr = SESSION.get(
+                    proxy_url,
+                    headers={"User-Agent": browser_ua, "Accept": "text/html,application/xhtml+xml,*/*"},
+                    timeout=(10, max(read_timeout, 40)),
+                    allow_redirects=True,
+                )
+                if pr.status_code < 400:
+                    txtp = pr.text or ""
+                    if not looks_like_error_html(txtp):
+                        return txtp
+                    else:
+                        print(f"[warn] proxy returned error-like content: {url}", flush=True)
+                else:
+                    print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
+            except Exception as e:
+                print(f"[warn] proxy GET failed: {proxy_url} :: {e}", flush=True)
+            return None
+
         if r.status_code >= 400:
             print(f"[warn] GET {r.status_code}: {url}", flush=True)
             return None
@@ -676,62 +793,60 @@ def fetch_bytes(url: str, timeout: int = 25) -> Optional[bytes]:
         return None
 
 
-def fetch_json(url: str, params: Optional[Dict[str, Any]] = None, timeout: int = 35) -> Optional[Dict[str, Any]]:
+def fetch_json(
+    url: str,
+    params: Optional[Dict[str, Any]] = None,
+    timeout: int = 35,
+) -> Optional[Dict[str, Any]]:
     try:
         time.sleep(REQUEST_DELAY_SEC)
-        r = SESSION.get(url, params=params or {}, timeout=(10, timeout), allow_redirects=True)
+        r = SESSION.get(
+            url,
+            params=params or {},
+            headers={"Accept": "application/json"},
+            timeout=(10, timeout),
+            allow_redirects=True,
+        )
         if r.status_code >= 400:
-            print(f"[warn] GET {r.status_code}: {r.url}", flush=True)
+            print(f"[warn] JSON GET {r.status_code}: {r.url}", flush=True)
             return None
-        return r.json()
+        try:
+            return r.json()
+        except Exception:
+            preview = (r.text or "")[:300].replace("\n", " ")
+            print(f"[warn] JSON parse failed: {r.url} :: preview={preview}", flush=True)
+            return None
     except Exception as e:
         print(f"[warn] JSON GET failed: {url} :: {e}", flush=True)
         return None
 
 
-# ============================
-# SCHEDULER GATE (GitHub Actions friendly)
-#   ✅ Monthly: run only on the 1st of the month (CT)
-# ============================
-
-def _load_last_run_month() -> str:
+def fetch_json_status(
+    url: str,
+    params: Optional[Dict[str, Any]] = None,
+    timeout: int = 35,
+) -> Tuple[Optional[Dict[str, Any]], int, str]:
     try:
-        with open(LAST_RUN_PATH, "r", encoding="utf-8") as f:
-            return (json.load(f) or {}).get("month", "")
+        time.sleep(REQUEST_DELAY_SEC)
+        r = SESSION.get(
+            url,
+            params=params or {},
+            headers={"Accept": "application/json"},
+            timeout=(10, timeout),
+            allow_redirects=True,
+        )
+        final_url = r.url
+        status = int(getattr(r, "status_code", 0) or 0)
+
+        if status >= 400:
+            return None, status, final_url
+
+        try:
+            return r.json(), status, final_url
+        except Exception:
+            return None, 0, final_url
     except Exception:
-        return ""
-
-
-def _save_last_run_month(month_str: str) -> None:
-    os.makedirs(os.path.dirname(LAST_RUN_PATH), exist_ok=True)
-    with open(LAST_RUN_PATH, "w", encoding="utf-8") as f:
-        json.dump({"month": month_str, "saved_at_utc": iso_z(utc_now())}, f)
-
-
-def should_run_monthly_ct(target_hour: int = 7, window_minutes: int = 180) -> bool:
-    """
-    True if current CT time is within the target window AND today is the 1st,
-    AND we haven't already run for this YYYY-MM.
-    """
-    now_ct = datetime.now(CENTRAL_TZ)
-    if now_ct.day != 1:
-        return False
-
-    ym = now_ct.strftime("%Y-%m")
-    if _load_last_run_month() == ym:
-        return False
-
-    start = now_ct.replace(hour=target_hour, minute=0, second=0, microsecond=0)
-    end = start + timedelta(minutes=window_minutes)
-    return start <= now_ct <= end
-
-
-def force_run_enabled() -> bool:
-    return os.getenv("FORCE_RUN", "").strip().lower() in {"1", "true", "yes"}
-
-
-def running_in_github_actions() -> bool:
-    return os.getenv("GITHUB_ACTIONS", "").strip().lower() == "true"
+        return None, 0, url
 
 
 # ============================
@@ -762,6 +877,7 @@ def irs_news_releases_for_month_url(window_start_ct: datetime) -> str:
     return f"https://www.irs.gov/newsroom/news-releases-for-{month}-{year}"
 
 
+
 # ============================
 # DATE PATTERNS
 # ============================
@@ -770,7 +886,6 @@ MONTH_DATE_RE = re.compile(r"(?P<md>([A-Z][a-z]{2,9})\.?\s+\d{1,2},\s+\d{4})")
 SLASH_DATE_RE = re.compile(r"(?P<sd>\b\d{1,2}/\d{1,2}/\d{2,4}\b)")
 ISO_DATE_RE = re.compile(r"(?P<id>\b\d{4}-\d{2}-\d{2}\b)")
 
-# Visa US dates are month/day/year, so keep empty (no dayfirst sources)
 DAYFIRST_SOURCES: set[str] = set()
 
 
@@ -864,6 +979,12 @@ def is_probably_nav_link(source: str, title: str, url: str) -> bool:
         if t.lower() in {"all", "featured", "news", "gallery", "livestream", "contact"}:
             return True
 
+    # OCC pages sometimes include non-article CTA links titled 'More' / 'More More'
+    if source == "OCC":
+        tl = t.strip().lower()
+        if tl in {"more", "more more", "moremore"}:
+            return True
+
     return False
 
 
@@ -900,6 +1021,18 @@ def is_generic_listing_or_home(source: str, title: str, url: str) -> bool:
         if pl.startswith("/news-release/"):
             return False
         if pl.startswith("/en/news-release/"):
+            return False
+
+    if source == "Treasury":
+        if p.endswith("/news/press-releases"):
+            return False
+
+    if source == "Mastercard":
+        if p.endswith("/news-and-trends/press"):
+            return False
+
+    if source == "FHLB MPF":
+        if p.endswith("/program-guidelines/mpf-program-updates"):
             return False
 
     return False
@@ -1020,40 +1153,209 @@ def items_from_feed(source: str, feed_url: str, start: datetime, end: datetime) 
 # FEDERAL REGISTER API ITEMS
 # ============================
 
-def items_from_federal_register_topics(start: datetime, end: datetime) -> List[Dict[str, Any]]:
-    out: List[Dict[str, Any]] = []
+def _fedreg_params_for_filter(
+    kind: str,
+    value: str,
+    start_d: str,
+    end_d: str,
+    page: int,
+) -> Dict[str, Any]:
+    params: Dict[str, Any] = {
+        "per_page": 200,
+        "page": page,
+        "order": "newest",
+        "conditions[publication_date][gte]": start_d,
+        "conditions[publication_date][lte]": end_d,
+        "fields[]": [
+            "title",
+            "publication_date",
+            "html_url",
+            "document_number",
+            "type",
+            "abstract",
+            "agencies",
+        ],
+    }
 
+    if kind == "topics":
+        params["conditions[topics][]"] = value
+    elif kind == "agencies":
+        params["conditions[agencies][]"] = value
+    elif kind == "sections":
+        params["conditions[sections][]"] = value
+    else:
+        params["conditions[term]"] = value
+
+    return params
+
+
+def _fedreg_pretty_slug(s: str) -> str:
+    # "truth-lending" -> "Truth Lending"
+    s = (s or "").strip()
+    s = s.replace("_", "-")
+    s = re.sub(r"-{2,}", "-", s)
+    s = s.replace("-", " ")
+    s = re.sub(r"\s+", " ", s).strip()
+    return s.title() if s else ""
+
+
+def _fedreg_group_from_agencies(agencies: Any) -> Optional[str]:
+    # agencies is typically a list of dicts like {"id":..., "name":..., "slug":...}
+    try:
+        if not agencies or not isinstance(agencies, list):
+            return None
+        names: List[str] = []
+        for a in agencies:
+            if not isinstance(a, dict):
+                continue
+            nm = str(a.get("name") or "").strip()
+            if nm:
+                names.append(nm)
+        if not names:
+            return None
+        # Keep it readable (avoid 6+ agencies blowing up the UI)
+        if len(names) == 1:
+            return names[0]
+        if len(names) == 2:
+            return f"{names[0]} + {names[1]}"
+        return f"{names[0]} + {names[1]} +{len(names)-2}"
+    except Exception:
+        return None
+
+
+def _fedreg_group_label(kind: str, value: str, agencies: Any) -> Tuple[str, str]:
+    """
+    Returns (group_type, group_label)
+    group_type: "agency" | "topic" | "section" | "filter"
+    """
+    agency_label = _fedreg_group_from_agencies(agencies)
+    if agency_label:
+        return "agency", agency_label
+
+    k = (kind or "").strip().lower()
+    v = (value or "").strip()
+    pretty = _fedreg_pretty_slug(v)
+
+    if k == "topics":
+        return "topic", (pretty or v)
+    if k == "agencies":
+        return "agency", (pretty or v)
+    if k == "sections":
+        return "section", (pretty or v)
+
+    return "filter", (pretty or v or "Federal Register")
+
+
+def _fedreg_source_for_group(group_label: str) -> str:
+    gl = (group_label or "").strip()
+    if not gl:
+        return "Federal Register"
+    return f"Federal Register • {gl}"
+
+
+def _fedreg_kind_singular(kind: str) -> str:
+    k = (kind or "").strip().lower()
+    if k.endswith("s"):
+        k = k[:-1]
+    if k in {"topic", "agency", "section"}:
+        return k
+    return "filter"
+
+
+def _fedreg_tag(kind: str, value: str) -> str:
+    k = _fedreg_kind_singular(kind)
+    v = normalize_fedreg_slug(value or "")
+    return f"{k}:{v}" if v else k
+
+
+def _fedreg_agency_tags(agencies: Any) -> List[str]:
+    tags: List[str] = []
+    try:
+        if not agencies or not isinstance(agencies, list):
+            return tags
+        for a in agencies:
+            if not isinstance(a, dict):
+                continue
+            slug = normalize_fedreg_slug(str(a.get("slug") or ""))
+            if slug:
+                tags.append(f"agency:{slug}")
+    except Exception:
+        return tags
+    # de-dupe while preserving order
+    out: List[str] = []
+    seen: set[str] = set()
+    for t in tags:
+        if t not in seen:
+            seen.add(t)
+            out.append(t)
+    return out
+
+
+def items_from_federal_register_topics(start: datetime, end: datetime) -> List[Dict[str, Any]]:
+    """
+    Pull Federal Register documents via API across a set of topic/agency/section filters.
+
+    IMPORTANT for the frontend filter chips (index.html):
+    - source must be exactly "Federal Register"
+    - each item must include `fr_tags: [ "topic:...", "agency:...", "section:..." ]`
+    """
     start_d = start.date().isoformat()
     end_d = end.date().isoformat()
     endpoint = f"{FEDREG_API_BASE.rstrip('/')}/documents.json"
 
-    seen_docnums: set[str] = set()
+    # Deduplicate by document_number but *merge* tags from multiple filters.
+    by_doc: Dict[str, Dict[str, Any]] = {}
 
-    for topic in FEDREG_TOPICS:
+    for f in FEDREG_FILTERS:
+        kind = f["kind"]
+        value = f["value"]
+        filter_tag = _fedreg_tag(kind, value)
+
         page = 1
-        total_for_topic = 0
+        total_unique_touched = 0
+        tried_fallback = False
 
         while True:
-            params: Dict[str, Any] = {
-                "per_page": 200,
-                "page": page,
-                "order": "newest",
-                "conditions[publication_date][gte]": start_d,
-                "conditions[publication_date][lte]": end_d,
-                "conditions[topics][]": topic,
-                "fields[]": [
-                    "title",
-                    "publication_date",
-                    "html_url",
-                    "document_number",
-                    "type",
-                    "abstract",
-                    "agencies",
-                ],
-            }
+            params = _fedreg_params_for_filter(kind, value, start_d, end_d, page)
 
-            j = fetch_json(endpoint, params=params, timeout=45)
+            j, status, final_url = fetch_json_status(endpoint, params=params, timeout=45)
+
+            # Some combinations can 400. Try alternate condition keys.
+            if j is None and status == 400 and not tried_fallback:
+                tried_fallback = True
+
+                fallbacks: List[str] = []
+                if kind == "topics":
+                    fallbacks = ["sections", "agencies", "term"]
+                elif kind == "sections":
+                    fallbacks = ["topics", "agencies", "term"]
+                elif kind == "agencies":
+                    fallbacks = ["topics", "sections", "term"]
+                else:
+                    fallbacks = ["topics", "sections", "agencies"]
+
+                fixed = False
+                for nk in fallbacks:
+                    params2 = _fedreg_params_for_filter(nk, value, start_d, end_d, page)
+                    j2, status2, _u2 = fetch_json_status(endpoint, params=params2, timeout=45)
+                    if j2 is not None and status2 < 400:
+                        kind = nk
+                        filter_tag = _fedreg_tag(kind, value)
+                        j = j2
+                        status = status2
+                        fixed = True
+                        break
+
+                if not fixed:
+                    print(
+                        f"[warn] Federal Register filter '{value}' failed (400) for kinds tried; last={final_url}",
+                        flush=True,
+                    )
+                    break
+
             if not j:
+                if status >= 400 and status != 400:
+                    print(f"[warn] Federal Register JSON GET {status}: {final_url}", flush=True)
                 break
 
             results = j.get("results") or []
@@ -1070,9 +1372,6 @@ def items_from_federal_register_topics(start: datetime, end: datetime) -> List[D
                     if not title or not pub_s or not url:
                         continue
 
-                    if docnum and docnum in seen_docnums:
-                        continue
-
                     dt = parse_date(pub_s)
                     if not dt or not in_window(dt, start, end):
                         continue
@@ -1086,34 +1385,53 @@ def items_from_federal_register_topics(start: datetime, end: datetime) -> List[D
 
                     abstract = clean_text(str(r.get("abstract") or ""), 380)
 
-                    out.append(
-                        {
-                            # ✅ HARD OVERRIDE: ensures Federal Register tile is never empty due to mis-mapping
+                    agencies = r.get("agencies")
+                    agency_tags = _fedreg_agency_tags(agencies)
+
+                    # Key: prefer doc number, else fall back to URL.
+                    key = docnum or url
+
+                    existing = by_doc.get(key)
+                    if not existing:
+                        by_doc[key] = {
                             "category": "Federal Register",
                             "source": "Federal Register",
                             "title": title,
                             "published_at": iso_z(dt),
                             "url": url,
                             "summary": abstract,
+                            # frontend filter chips read this
+                            "fr_tags": sorted(set([filter_tag] + agency_tags)),
+                            # useful debug metadata
+                            "fedreg_document_number": docnum,
                         }
-                    )
+                        total_unique_touched += 1
+                    else:
+                        # Merge tags if the same doc is hit by multiple filters.
+                        tags = set(existing.get("fr_tags") or [])
+                        tags.add(filter_tag)
+                        tags.update(agency_tags)
+                        existing["fr_tags"] = sorted(tags)
 
-                    if docnum:
-                        seen_docnums.add(docnum)
-
-                    total_for_topic += 1
+                        # Prefer a non-empty summary.
+                        if not existing.get("summary") and abstract:
+                            existing["summary"] = abstract
                 except Exception:
                     continue
 
-            # Safety stop: don’t paginate forever
             page += 1
             if page > 20:
                 break
 
-        print(f"[api] Federal Register topic '{topic}': kept {total_for_topic} items", flush=True)
+        print(
+            f"[api] Federal Register {_fedreg_kind_singular(kind)} '{value}': touched {total_unique_touched} unique docs",
+            flush=True,
+        )
 
+    # Return newest-first like other tiles
+    out = list(by_doc.values())
+    out.sort(key=lambda x: x.get("published_at", ""), reverse=True)
     return out
-
 
 # ============================
 # DETAIL PAGE EXTRACTION
@@ -1192,6 +1510,9 @@ def looks_js_rendered(html: str) -> bool:
         return True
     if "select year" in s and "loading" in s:
         return True
+    # Some vendor sites render tiles after hydration
+    if "data-reactroot" in s and "press" in s and "insights" in s:
+        return True
     return False
 
 
@@ -1235,10 +1556,69 @@ def is_likely_article_anchor(a: Any) -> bool:
     return False
 
 
-# ----------------------------
-# OFAC: item pages are /recent-actions/YYYYMMDD
-#   ✅ FIX: derive date from URL so items don't get dropped
-# ----------------------------
+# ============================
+# FHLB MPF
+# ============================
+
+FHLBMPF_LISTING_PATH = "/program-guidelines/mpf-program-updates"
+FHLBMPF_DETAIL_PREFIX = "/program-guidelines/mpf-program-updates/"
+
+
+def fhlbmpf_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    strip_nav_like(container)
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen = set()
+
+    for a in container.select(f'a[href^="{FHLBMPF_DETAIL_PREFIX}"]'):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#"):
+            continue
+
+        if href.rstrip("/") == FHLBMPF_LISTING_PATH.rstrip("/"):
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("FHLB MPF", url):
+            continue
+
+        raw_title = (a.get_text(" ", strip=True) or "").strip()
+        if not raw_title:
+            raw_title = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
+
+        title = clean_text(raw_title, 220)
+        if not title or len(title) < 8:
+            continue
+
+        if title.lower() in {"read more", "learn more", "more", "details"}:
+            continue
+        if is_probably_nav_link("FHLB MPF", title, url):
+            continue
+        if is_generic_listing_or_home("FHLB MPF", title, url):
+            continue
+
+        if url in seen:
+            continue
+        seen.add(url)
+
+        dt = find_time_near_anchor(a, "FHLB MPF")
+
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    return links
+
+
+# ============================
+# OFAC
+# ============================
+
 OFAC_ITEM_RE = re.compile(r"^/recent-actions/\d{8}(/)?$")
 OFAC_URL_DATE_RE = re.compile(r"/recent-actions/(?P<ymd>\d{8})(?:/)?$")
 
@@ -1286,8 +1666,6 @@ def ofac_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
         seen.add(url)
 
         dt = find_time_near_anchor(a, "OFAC")
-
-        # ✅ fallback date from URL /recent-actions/YYYYMMDD
         if dt is None:
             dt = ofac_date_from_url(url)
 
@@ -1346,6 +1724,178 @@ def whitehouse_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[
     return links
 
 
+# ============================
+# Mastercard
+# ============================
+
+MASTERCARD_PR_PATH_RE = re.compile(
+    r"^/(us|global|gb|mea)/en/news-and-trends/press/"
+    r"(?P<year>\d{4})"
+    r"(?:/[a-z]{3,12})?"
+    r"/[a-z0-9\-%]+\.html$",
+    re.I,
+)
+
+MC_MARKDOWN_LINK_RE = re.compile(
+    r"\[([^\]]{8,220})\]\((https?://www\.mastercard\.com/[^\s)]+)\)",
+    re.I,
+)
+
+
+def _mastercard_links_from_text(page_url: str, text: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    for m in MC_MARKDOWN_LINK_RE.finditer(text or ""):
+        title = clean_text(m.group(1), 220)
+        url = canonical_url(m.group(2))
+        if not url:
+            continue
+        if not allowed_for_source("Mastercard", url):
+            continue
+        if not MASTERCARD_PR_PATH_RE.match(urlparse(url).path):
+            continue
+        if is_probably_nav_link("Mastercard", title, url):
+            continue
+        if is_generic_listing_or_home("Mastercard", title, url):
+            continue
+        if url in seen:
+            continue
+        seen.add(url)
+
+        dt = extract_any_date(text, source="Mastercard")
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            return links
+
+    raw_url_re = re.compile(r"(https?://www\.mastercard\.com/[^\s\"')<>]+)", re.I)
+    for m in raw_url_re.finditer(text or ""):
+        url = canonical_url(m.group(1))
+        if not url:
+            continue
+        if not allowed_for_source("Mastercard", url):
+            continue
+        if not MASTERCARD_PR_PATH_RE.match(urlparse(url).path):
+            continue
+        if url in seen:
+            continue
+        seen.add(url)
+        links.append(("Mastercard press release", url, None))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    return links
+
+
+
+def _parse_date_any(text: str) -> Optional[datetime]:
+    t = (text or "").strip()
+    if not t:
+        return None
+    # Common formats like "February 23, 2026" or "Feb 23, 2026"
+    try:
+        dt = dtparser.parse(t, fuzzy=True)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=CENTRAL_TZ)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def aba_news_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    """
+    ABA's /news-research page is server-rendered and includes a short list of fresh items with dates.
+    We pull only the real story links (usually bankingjournal.aba.com) and attach the nearby date text.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen = set()
+
+    # Grab anchors that look like actual stories (most are on bankingjournal.aba.com)
+    for a in soup.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href:
+            continue
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("ABA", url):
+            continue
+
+        title = clean_text(a.get_text(" ", strip=True) or "", 220)
+        if not title or len(title) < 10:
+            continue
+
+        # Find a nearby date string within the same block
+        dt: Optional[datetime] = None
+        block = a.parent
+        # Walk up a bit to find the small card/list item
+        for _ in range(4):
+            if not block:
+                break
+            txtb = block.get_text(" ", strip=True)
+            # quick month-name heuristic
+            if re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\b\s+\d{1,2},\s+\d{4}", txtb):
+                dt = _parse_date_any(txtb)
+                break
+            block = block.parent
+
+        key = (title, url)
+        if key in seen:
+            continue
+        seen.add(key)
+        links.append((title, url, dt))
+
+    # Prefer most recent-looking first if dates exist
+    links.sort(key=lambda t: (t[2] is None, t[2] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
+    return links[:MAX_LISTING_LINKS]
+
+
+def wolterskluwer_news_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    """
+    Wolters Kluwer /en/news is server-rendered; links point to /en/news/<slug>.
+    Capture those and try to extract the nearby date in the same card.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen = set()
+
+    for a in soup.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href:
+            continue
+        # keep only newsroom article slugs
+        if "/en/news/" not in href:
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("Wolters Kluwer", url):
+            continue
+
+        title = clean_text(a.get_text(" ", strip=True) or "", 220)
+        if not title or len(title) < 10:
+            continue
+        if title.lower() in {"read more", "learn more"}:
+            continue
+
+        dt: Optional[datetime] = None
+        block = a.parent
+        for _ in range(5):
+            if not block:
+                break
+            txtb = block.get_text(" ", strip=True)
+            if re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\b\s+\d{1,2},\s+\d{4}", txtb):
+                dt = _parse_date_any(txtb)
+                break
+            block = block.parent
+
+        key = (title, url)
+        if key in seen:
+            continue
+        seen.add(key)
+        links.append((title, url, dt))
+
+    links.sort(key=lambda t: (t[2] is None, t[2] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
+    return links[:MAX_LISTING_LINKS]
+
 def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
@@ -1355,20 +1905,24 @@ def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen = set()
 
-    for a in container.select('a[href*="/news-and-trends/press/"]'):
+    for a in container.select("a[href]"):
         href = (a.get("href") or "").strip()
         if not href or href.startswith("#"):
             continue
 
-        url = canonical_url(urljoin(page_url, href))
+        u = urlparse(urljoin(page_url, href))
+        if u.netloc.lower() != "www.mastercard.com":
+            continue
+        if not MASTERCARD_PR_PATH_RE.match(u.path):
+            continue
+
+        url = canonical_url(u.geturl())
         if not allowed_for_source("Mastercard", url):
             continue
 
         raw_title = (a.get_text(" ", strip=True) or "").strip()
         if not raw_title:
-            raw_title = (a.get("aria-label") or "").strip()
-        if not raw_title:
-            raw_title = (a.get("title") or "").strip()
+            raw_title = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
 
         title = clean_text(raw_title, 220)
         if not title or len(title) < 10:
@@ -1393,10 +1947,24 @@ def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[
 
         links.append((title, url, dt))
         if len(links) >= MAX_LISTING_LINKS:
-            break
+            return links
+
+    if len(links) < 5:
+        extra = _mastercard_links_from_text(page_url, html)
+        for t, u, d in extra:
+            if u in seen:
+                continue
+            seen.add(u)
+            links.append((t, u, d))
+            if len(links) >= MAX_LISTING_LINKS:
+                break
 
     return links
 
+
+# ============================
+# Visa
+# ============================
 
 def visa_date_from_listing_context(a: Any) -> Optional[datetime]:
     if not a:
@@ -1404,7 +1972,6 @@ def visa_date_from_listing_context(a: Any) -> Optional[datetime]:
 
     head = a.find_parent(["h1", "h2", "h3"]) or a
 
-    # Scan previous siblings for a nearby date line
     try:
         checked = 0
         for sib in head.previous_siblings:
@@ -1421,31 +1988,6 @@ def visa_date_from_listing_context(a: Any) -> Optional[datetime]:
                 except Exception:
                     txt = ""
 
-            if not txt:
-                continue
-
-            m = SLASH_DATE_RE.search(txt)
-            if m:
-                return parse_slash_date_best(m.group("sd"))
-
-            dt = extract_any_date(txt, source="Visa")
-            if dt:
-                return dt
-    except Exception:
-        pass
-
-    # Fallback: scan prior elements (small bounded)
-    try:
-        checked = 0
-        for el in a.previous_elements:
-            if checked >= 120:
-                break
-            checked += 1
-
-            if not getattr(el, "get_text", None) and not isinstance(el, str):
-                continue
-
-            txt = el.strip() if isinstance(el, str) else (el.get_text(" ", strip=True) or "").strip()
             if not txt:
                 continue
 
@@ -1513,6 +2055,128 @@ def visa_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
             links.append((title, url, dt))
             if len(links) >= MAX_LISTING_LINKS:
                 return links
+
+    return links
+
+
+# ============================
+# Treasury press releases
+# ============================
+
+TREASURY_PR_PATH_RE = re.compile(r"^/news/press-releases/[a-z0-9\-]+$", re.I)
+
+
+def treasury_date_from_listing_context(a: Any) -> Optional[datetime]:
+    if not a:
+        return None
+
+    wrap = a.find_parent(["li", "article", "div", "section"]) or a.parent
+    if wrap:
+        blob = clean_text(wrap.get_text(" ", strip=True), 900)
+        dt = extract_any_date(blob, source="Treasury")
+        if dt:
+            return dt
+
+    head = a.find_parent(["h1", "h2", "h3", "h4"]) or a
+    try:
+        checked = 0
+        for sib in head.previous_siblings:
+            if checked >= 30:
+                break
+            checked += 1
+            txt = ""
+            if isinstance(sib, str):
+                txt = sib.strip()
+            else:
+                try:
+                    txt = (sib.get_text(" ", strip=True) or "").strip()
+                except Exception:
+                    txt = ""
+            if not txt:
+                continue
+            dt = extract_any_date(txt, source="Treasury")
+            if dt:
+                return dt
+    except Exception:
+        pass
+
+    return None
+
+
+def treasury_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen = set()
+
+    for a in container.select('a[href^="/news/press-releases/"]'):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#"):
+            continue
+        if not TREASURY_PR_PATH_RE.match(href):
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("Treasury", url):
+            continue
+
+        raw_title = (a.get_text(" ", strip=True) or "").strip()
+        if not raw_title:
+            raw_title = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
+
+        title = clean_text(raw_title, 220)
+        if not title or len(title) < 8:
+            continue
+
+        if title.lower() in {"read more", "learn more", "more", "details"}:
+            continue
+        if is_probably_nav_link("Treasury", title, url):
+            continue
+        if is_generic_listing_or_home("Treasury", title, url):
+            continue
+
+        if url in seen:
+            continue
+        seen.add(url)
+
+        dt = find_time_near_anchor(a, "Treasury")
+        if dt is None:
+            dt = treasury_date_from_listing_context(a)
+
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    if not links:
+        for a in container.select("h2 a[href], h3 a[href]"):
+            href = (a.get("href") or "").strip()
+            if not href or not href.startswith("/news/press-releases/"):
+                continue
+            if not TREASURY_PR_PATH_RE.match(href):
+                continue
+
+            url = canonical_url(urljoin(page_url, href))
+            if not allowed_for_source("Treasury", url):
+                continue
+
+            title = clean_text(a.get_text(" ", strip=True) or "", 220)
+            if not title:
+                continue
+
+            if url in seen:
+                continue
+            seen.add(url)
+
+            dt = find_time_near_anchor(a, "Treasury")
+            if dt is None:
+                dt = treasury_date_from_listing_context(a)
+
+            links.append((title, url, dt))
+            if len(links) >= MAX_LISTING_LINKS:
+                break
 
     return links
 
@@ -1614,7 +2278,7 @@ def freddiemac_globenewswire_links(page_url: str, html: str) -> List[Tuple[str, 
 
 
 # ============================
-# ✅ CDIA: listing uses "Read More" links; capture title from nearby text
+# CDIA
 # ============================
 
 def cdia_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
@@ -1638,18 +2302,15 @@ def cdia_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
         t = (a.get_text(" ", strip=True) or "").strip()
         tl = t.lower()
 
-        # Many CDIA links are "Read More" — we need a smarter title extraction.
         if tl in {"read more", "learn more", "more", ""}:
             wrap = a.find_parent(["article", "div", "section", "li"]) or a.parent
             if not wrap:
                 continue
 
-            # Try to find a nearby heading in the same block
             h = wrap.find(["h1", "h2", "h3", "h4"])
             if h:
                 title = clean_text(h.get_text(" ", strip=True), 220)
             else:
-                # fallback: use first ~80 chars of the block as a “title”
                 blob = clean_text(wrap.get_text(" ", strip=True), 500)
                 title = clean_text(blob.split("…")[0], 220)
 
@@ -1675,9 +2336,315 @@ def cdia_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
     return links
 
 
+# ============================
+# ✅ NEW: Jack Henry listing extractor (table-based)
+# ============================
+
+JH_DETAIL_RE = re.compile(r"^/news-releases/news-release-details/", re.I)
+
+def jackhenry_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    strip_nav_like(container)
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    # Most IR templates: PR links are "/news-releases/news-release-details/<slug>"
+    for a in container.select('a[href^="/news-releases/news-release-details/"]'):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#"):
+            continue
+        if not JH_DETAIL_RE.match(href):
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("Jack Henry", url):
+            continue
+
+        raw_title = (a.get_text(" ", strip=True) or "").strip()
+        if not raw_title:
+            continue
+        title = clean_text(raw_title, 220)
+        if not title or title.lower() in {"read more", "learn more", "more", "details"}:
+            continue
+        if is_probably_nav_link("Jack Henry", title, url):
+            continue
+
+        if url in seen:
+            continue
+        seen.add(url)
+
+        # Date is often in same row (tr) or near the link
+        dt = None
+        row = a.find_parent("tr")
+        if row:
+            dt = extract_any_date(clean_text(row.get_text(" ", strip=True), 500), source="Jack Henry")
+        if dt is None:
+            dt = find_time_near_anchor(a, "Jack Henry")
+
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    # Fallback: sometimes anchor pattern differs, but detail pages still use /news-release-details/
+    if not links:
+        for a in container.find_all("a", href=True):
+            href = (a.get("href") or "").strip()
+            if not href or href.startswith("#"):
+                continue
+            if "/news-releases/news-release-details/" not in href:
+                continue
+            url = canonical_url(urljoin(page_url, href))
+            if not allowed_for_source("Jack Henry", url):
+                continue
+            title = clean_text((a.get_text(" ", strip=True) or "").strip(), 220)
+            if not title or title.lower() in {"read more", "learn more", "more", "details"}:
+                continue
+            if url in seen:
+                continue
+            seen.add(url)
+            dt = find_time_near_anchor(a, "Jack Henry")
+            links.append((title, url, dt))
+            if len(links) >= MAX_LISTING_LINKS:
+                break
+
+    return links
+
+
+# ============================
+# ✅ NEW: TCS listing extractor (non-article DOM)
+# ============================
+
+TCS_PR_PATH_RE = re.compile(r"^/who-we-are/newsroom/press-release/", re.I)
+
+def tcs_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+    strip_nav_like(container)
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    for a in container.select('a[href^="/who-we-are/newsroom/press-release/"]'):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#"):
+            continue
+        if not TCS_PR_PATH_RE.match(href):
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("TCS", url):
+            continue
+
+        raw_title = (a.get_text(" ", strip=True) or "").strip()
+        if not raw_title:
+            raw_title = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
+        title = clean_text(raw_title, 220)
+        if not title:
+            continue
+        if title.lower() in {"read more", "learn more", "more", "details"}:
+            continue
+        if is_probably_nav_link("TCS", title, url):
+            continue
+
+        if url in seen:
+            continue
+        seen.add(url)
+
+        dt = find_time_near_anchor(a, "TCS")
+        if dt is None:
+            wrap = a.find_parent(["li", "article", "div", "section", "p"]) or a.parent
+            if wrap:
+                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 800), source="TCS")
+
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    return links
+
+
+# ============================
+# ✅ NEW: Mambu listing extractor (JS page -> regex + proxy fallback)
+# ============================
+
+MAMBU_PR_RE = re.compile(r"/en/insights/press/[a-z0-9\-]+", re.I)
+
+def mambu_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    # Try normal DOM first
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        container = soup
+
+    strip_nav_like(container)
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    for a in container.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#"):
+            continue
+        if "/en/insights/press/" not in href:
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("Mambu", url):
+            continue
+
+        title = clean_text((a.get_text(" ", strip=True) or "").strip(), 220)
+        if not title or title.lower() in {"read more", "learn more", "more", "details"}:
+            continue
+
+        if url in seen:
+            continue
+        seen.add(url)
+
+        dt = find_time_near_anchor(a, "Mambu")
+        if dt is None:
+            wrap = a.find_parent(["li", "article", "div", "section", "p"]) or a.parent
+            if wrap:
+                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 900), source="Mambu")
+
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            return links
+
+    # If page is JS-rendered and DOM found nothing, use regex on raw HTML (sometimes hrefs exist but not in main container)
+    if not links:
+        for m in MAMBU_PR_RE.finditer(html or ""):
+            href = m.group(0)
+            url = canonical_url(urljoin(page_url, href))
+            if not allowed_for_source("Mambu", url):
+                continue
+            if url in seen:
+                continue
+            seen.add(url)
+            links.append(("Mambu press release", url, None))
+            if len(links) >= MAX_LISTING_LINKS:
+                return links
+
+    # Optional last resort: proxy the listing page itself and regex again
+    if not links:
+        proxy_html = polite_get(_jina_proxy_url(page_url))
+        if proxy_html:
+            for m in MAMBU_PR_RE.finditer(proxy_html or ""):
+                href = m.group(0)
+                url = canonical_url(urljoin(page_url, href))
+                if not allowed_for_source("Mambu", url):
+                    continue
+                if url in seen:
+                    continue
+                seen.add(url)
+                links.append(("Mambu press release", url, None))
+                if len(links) >= MAX_LISTING_LINKS:
+                    break
+
+    return links
+
+
+# ============================
+# ✅ NEW: Finastra listing extractor (fixes "Read the article" titles)
+# ============================
+
+FINASTRA_DETAIL_RE = re.compile(r"^/press-media/[a-z0-9\-]+", re.I)
+
+def finastra_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    strip_nav_like(container)
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    # Finastra "media room" cards frequently have a CTA link text like "Read the article"
+    for a in container.select('a[href^="/press-media/"]'):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#"):
+            continue
+        if not FINASTRA_DETAIL_RE.match(href):
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("Finastra", url):
+            continue
+
+        raw = (a.get_text(" ", strip=True) or "").strip()
+        if not raw:
+            raw = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
+
+        # If the link is just the CTA, pull the headline from the surrounding card.
+        tl = (raw or "").strip().lower()
+        if tl in {"read the article", "read article", "read more", "learn more", "more", "details"}:
+            wrap = a.find_parent(["article", "li", "div", "section"]) or a.parent
+            title = ""
+            if wrap:
+                h = wrap.find(["h1", "h2", "h3", "h4"])
+                if h:
+                    title = clean_text(h.get_text(" ", strip=True), 220)
+
+                # fallback: sometimes headline is in a strong/span instead of heading tag
+                if not title:
+                    for sel in ["strong", ".title", ".headline", "[class*='title']", "[class*='headline']"]:
+                        try:
+                            el = wrap.select_one(sel)
+                        except Exception:
+                            el = None
+                        if el and getattr(el, "get_text", None):
+                            cand = clean_text(el.get_text(" ", strip=True), 220)
+                            if cand and cand.lower() not in {"read the article", "read more", "learn more"}:
+                                title = cand
+                                break
+
+            if not title:
+                # last resort: use a non-generic label
+                title = "Finastra press article"
+        else:
+            title = clean_text(raw, 220)
+
+        if not title or len(title) < 8:
+            continue
+        if is_probably_nav_link("Finastra", title, url):
+            continue
+        if is_generic_listing_or_home("Finastra", title, url):
+            continue
+
+        if url in seen:
+            continue
+        seen.add(url)
+
+        dt = find_time_near_anchor(a, "Finastra")
+        if dt is None:
+            wrap = a.find_parent(["article", "li", "div", "section", "p"]) or a.parent
+            if wrap:
+                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 900), source="Finastra")
+
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    return links
+
+
+# ============================
+# MAIN CONTENT LINK ROUTER
+# ============================
+
 def main_content_links(source: str, page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     if source == "OFAC":
         return ofac_links(page_url, html)
+    if source == "Treasury":
+        return treasury_links(page_url, html)
     if source == "White House":
         return whitehouse_links(page_url, html)
     if source == "Mastercard":
@@ -1688,6 +2655,24 @@ def main_content_links(source: str, page_url: str, html: str) -> List[Tuple[str,
         return freddiemac_globenewswire_links(page_url, html)
     if source == "CDIA":
         return cdia_links(page_url, html)
+    if source == "FHLB MPF":
+        return fhlbmpf_links(page_url, html)
+
+    if source == "ABA":
+        return aba_news_links(page_url, html)
+    if source == "Wolters Kluwer":
+        return wolterskluwer_news_links(page_url, html)
+
+
+    # ✅ NEW vendor-specific extractors (fixes your missing pulls)
+    if source == "Jack Henry":
+        return jackhenry_links(page_url, html)
+    if source == "TCS":
+        return tcs_links(page_url, html)
+    if source == "Mambu":
+        return mambu_links(page_url, html)
+    if source == "Finastra":
+        return finastra_links(page_url, html)
 
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup)
@@ -1759,27 +2744,36 @@ KNOWN_FEEDS: Dict[str, List[str]] = {
     ],
     "BleepingComputer": ["https://www.bleepingcomputer.com/feed/"],
     "Microsoft MSRC": ["https://api.msrc.microsoft.com/update-guide/rss"],
-    "Fiserv": ["https://investors.fiserv.com/newsroom/rss"],
+    "Fiserv": ["https://investors.fiserv.com/newsroom/rss"],  # ✅ unchanged
+
+    # ✅ NEW: TCS press releases RSS (commonly referenced as Feedburner)
+    "TCS": ["http://feeds2.feedburner.com/tcspress"],
 }
 
 
-def get_start_pages(window_start_ct: datetime) -> List[SourcePage]:
-    """
-    ✅ Dynamic START_PAGES so IRS monthly newsroom URL is correct each run.
-    Window is previous calendar month (CT).
-    """
-    return [
+def get_start_pages() -> List[SourcePage]:
+    now_ct = utc_now().astimezone(CENTRAL_TZ)
+    y = now_ct.year
+    mc_year_pages = [
+        f"https://www.mastercard.com/us/en/news-and-trends/press/{y}.html",
+        f"https://www.mastercard.com/us/en/news-and-trends/press/{y-1}.html",
+    ]
+
+    # Previous calendar month window (CT) drives the RegMonthly timeframe
+    _ws_utc, _we_utc, window_start_ct = monthly_window_utc(utc_now())
+    irs_month_url = irs_news_releases_for_month_url(window_start_ct)
+
+    pages = [
         # OFAC
         SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions"),
         SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions/enforcement-actions"),
 
-        # ✅ ADD: Treasury Press Releases (Newsroom)
-        SourcePage("Treasury Press Releases", "https://home.treasury.gov/news/press-releases"),
+        # Treasury Press Releases (OFAC tile)
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases"),
 
         # IRS
         SourcePage("IRS", "https://www.irs.gov/newsroom"),
-        SourcePage("IRS", irs_news_releases_for_month_url(window_start_ct)),
-        SourcePage("IRS", "https://www.irs.gov/newsroom/irs-tax-tips"),
+        SourcePage("IRS", irs_month_url),
         SourcePage("IRS", "https://www.irs.gov/downloads/rss"),
 
         # USDA RD
@@ -1789,6 +2783,7 @@ def get_start_pages(window_start_ct: datetime) -> List[SourcePage]:
         SourcePage("OCC", "https://www.occ.gov/news-issuances/news-releases/index-news-releases.html"),
         SourcePage("FDIC", "https://www.fdic.gov/news/press-releases/"),
         SourcePage("FRB", "https://www.federalreserve.gov/newsevents/pressreleases.htm"),
+        SourcePage("FRB Payments", "https://www.federalreserve.gov/newsevents/pressreleases.htm"),
 
         # Mortgage / housing GSEs
         SourcePage("FHLB MPF", "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates"),
@@ -1802,39 +2797,45 @@ def get_start_pages(window_start_ct: datetime) -> List[SourcePage]:
         SourcePage("White House", "https://www.whitehouse.gov/presidential-actions/"),
 
         # Payments
-        SourcePage("NACHA", "https://www.nacha.org/taxonomy/term/362"),
+        SourcePage("NACHA", "https://www.nacha.org/news"),
 
         # Fintech vendors
-        SourcePage("FIS", "https://investor.fisglobal.com/press-releases"),
+        SourcePage("FIS", "https://www.investor.fisglobal.com/press-releases/"),
         SourcePage("Fiserv", "https://investors.fiserv.com/newsroom/news-releases"),
         SourcePage("Jack Henry", "https://ir.jackhenry.com/press-releases"),
-        SourcePage("Temenos", "https://www.temenos.com/news/press-releases/"),
-        SourcePage("Mambu", "https://mambu.com/en/insights/press"),
         SourcePage("Finastra", "https://www.finastra.com/news-events/media-room"),
-        SourcePage("TCS", "https://www.tcs.com/who-we-are/newsroom"),
-
+      
         # Payment Networks
         SourcePage("Visa", "https://usa.visa.com/about-visa/newsroom/press-releases-listing.html"),
+
+        # Mastercard
         SourcePage("Mastercard", "https://www.mastercard.com/us/en/news-and-trends/press.html"),
-
-        # InfoSec (feed-only)
-        SourcePage("BleepingComputer", "https://www.bleepingcomputer.com/"),
-        SourcePage("Microsoft MSRC", "https://api.msrc.microsoft.com/"),
-
-        # ✅ NEW: Federal Register gets its own tile, but still API-only (no start pages needed).
-
-        # ✅ NEW: CDIA
-        SourcePage("CDIA", "https://www.cdiaonline.org/news-events-blogs"),
-
-        # ✅ NEW: FASB
-        SourcePage("FASB", "https://www.fasb.org/news-and-meetings/in-the-news"),
-
-        # ✅ NEW: Compliance Watch
-        SourcePage("ABA", "https://www.aba.com/news-research/all-news"),
-        SourcePage("TBA", "https://www.texasbankers.com/news/"),
-        SourcePage("Wolters Kluwer", "https://www.wolterskluwer.com/en/news?f:contenttype=News%20Page%7CPress%20Release%20Page"),
-        SourcePage("Bankers Online", "https://www.bankersonline.com/topstory"),
     ]
+
+    for u in mc_year_pages:
+        pages.append(SourcePage("Mastercard", u))
+
+    pages.extend(
+        [
+            # InfoSec (feed-only)
+            SourcePage("BleepingComputer", "https://www.bleepingcomputer.com/"),
+            SourcePage("Microsoft MSRC", "https://api.msrc.microsoft.com/"),
+
+            # CDIA
+            SourcePage("CDIA", "https://www.cdiaonline.org/news-events-blogs"),
+
+            # FASB
+            SourcePage("FASB", "https://www.fasb.org/news-and-meetings/in-the-news"),
+
+            # Compliance Watch sources
+            SourcePage("ABA", "https://www.aba.com/news-research"),
+            SourcePage("TBA", "https://www.texasbankers.com/news/"),
+            SourcePage("Wolters Kluwer", "https://www.wolterskluwer.com/en/news"),
+            SourcePage("Bankers Online", "https://www.bankersonline.com/topstory"),
+        ]
+    )
+
+    return pages
 
 
 # ============================
@@ -2049,22 +3050,34 @@ def write_raw_aux_files() -> None:
 # BUILD
 # ============================
 
+def _fedreg_group_rank(it: Dict[str, Any]) -> int:
+    # Higher is better
+    if str(it.get("category") or "") != "Federal Register":
+        return 0
+    gt = str(it.get("fedreg_group_type") or "").strip().lower()
+    if gt == "agency":
+        return 3
+    if gt == "topic":
+        return 2
+    if gt == "section":
+        return 1
+    return 0
+
+
 def build() -> None:
     now_utc = utc_now()
     now_ct = now_utc.astimezone(CENTRAL_TZ).replace(microsecond=0)
 
-    # ✅ Previous calendar month window (CT), converted to UTC for filtering
-    window_start, window_end, window_start_ct = monthly_window_utc(now_utc)
+    window_start, window_end, _window_start_ct = monthly_window_utc(now_utc)
 
     all_items: List[Dict[str, Any]] = []
     global_detail_fetches = 0
     per_source_detail_fetches: Dict[str, int] = {}
 
     pages_by_source: Dict[str, List[str]] = {}
-    for sp in get_start_pages(window_start_ct):
+    for sp in get_start_pages():
         pages_by_source.setdefault(sp.source, []).append(sp.url)
 
-    # ensure these exist even if their pages are only from feeds or API
     for src in set(KNOWN_FEEDS.keys()) | {"Federal Register"}:
         pages_by_source.setdefault(src, [])
 
@@ -2076,12 +3089,11 @@ def build() -> None:
             got = items_from_federal_register_topics(window_start, window_end)
             if got:
                 all_items.extend(got)
-                print(f"[api] Federal Register: {len(got)} items (topics)", flush=True)
+                print(f"[api] Federal Register: {len(got)} items (filters)", flush=True)
             else:
                 print("[note] Federal Register: no qualifying items in window (or API issue).", flush=True)
             continue
 
-        # known feeds first
         for fu in KNOWN_FEEDS.get(source, []):
             got = items_from_feed(source, fu, window_start, window_end)
             if got:
@@ -2129,7 +3141,7 @@ def build() -> None:
 
                 snippet = ""
 
-                # Visa-only rescue: if listing produced a date but it's outside window, try detail fetch to correct it.
+                # If Visa has a date but outside window, let detail override
                 if source == "Visa" and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
                     if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
                         detail_html = polite_get(url)
@@ -2144,6 +3156,7 @@ def build() -> None:
                             if snippet2:
                                 snippet = snippet2
 
+                # If we still don't have a date, use detail page (bounded by caps)
                 if dt is None and src_cap > 0:
                     if global_detail_fetches >= GLOBAL_DETAIL_FETCH_CAP:
                         continue
@@ -2167,16 +3180,9 @@ def build() -> None:
                 if not in_window(dt, window_start, window_end):
                     continue
 
-                # ✅ HARD OVERRIDE categories where you absolutely need the tile key correct
-                cat = CATEGORY_BY_SOURCE.get(source, source)
-                if source == "Federal Register":
-                    cat = "Federal Register"
-                if source == "Treasury Press Releases":
-                    cat = CATEGORY_BY_SOURCE.get("Treasury Press Releases", "OFAC")
-
                 all_items.append(
                     {
-                        "category": cat,
+                        "category": CATEGORY_BY_SOURCE.get(source, source),
                         "source": source,
                         "title": title,
                         "published_at": iso_z(dt),
@@ -2192,17 +3198,28 @@ def build() -> None:
 
         gained = len(all_items) - source_items_before
         if gained == 0:
-            print("[note] no qualifying items in month window (or blocked/changed).", flush=True)
+            print("[note] no qualifying items in rolling window (or blocked/changed).", flush=True)
 
-    # dedupe by canonical URL
+    # ---- DEDUPE (with preference rules) ----
     dedup: Dict[str, Dict[str, Any]] = {}
     for it in sorted(all_items, key=lambda x: x["published_at"], reverse=True):
         key = canonical_url(it["url"])
         if key not in dedup:
             dedup[key] = it
-        else:
-            if (not dedup[key].get("summary")) and it.get("summary"):
+            continue
+
+        cur = dedup[key]
+
+        # Prefer Federal Register item with better grouping (agency > topic > section > other)
+        if str(it.get("category") or "") == "Federal Register" and str(cur.get("category") or "") == "Federal Register":
+            if _fedreg_group_rank(it) > _fedreg_group_rank(cur):
                 dedup[key] = it
+                continue
+
+        # Prefer summary-filled versions
+        if (not cur.get("summary")) and it.get("summary"):
+            dedup[key] = it
+            continue
 
     items = list(dedup.values())
     items.sort(key=lambda x: x["published_at"], reverse=True)
@@ -2259,7 +3276,11 @@ if __name__ == "__main__":
             build()
             _save_last_run_month(datetime.now(CENTRAL_TZ).strftime("%Y-%m"))
         else:
-            print("[skip] Not in monthly window (1st of month, CT) or already ran this month. Set FORCE_RUN=1 to override.", flush=True)
+            print(
+                "[skip] Not in monthly window (1st of month, CT) or already ran this month. "
+                "Set FORCE_RUN=1 to override.",
+                flush=True,
+            )
     else:
         print("[run] Local execution -> building now", flush=True)
         build()
