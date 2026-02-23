@@ -279,3 +279,55 @@ footer hr{
   font-size: 12px;
   line-height: 1.45;
 }
+/* ============================
+   Federal Register filter chips
+   ============================ */
+
+/* If your index.html adds class="fr-chip" to each filter button */
+.fr-chip{
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(2,6,23,.14);
+  background: rgba(2,6,23,.04);
+  font-size: 12px;
+  font-weight: 650;
+  cursor: pointer;
+  user-select: none;
+  line-height: 1;
+}
+
+.fr-chip:hover{
+  filter: brightness(.98);
+}
+
+/* Apply this class in JS when a chip is selected */
+.fr-chip.is-active{
+  background: rgba(37,99,235,.10);
+  border-color: rgba(37,99,235,.35);
+}
+
+.fr-chip:focus{
+  outline: 2px solid rgba(37, 99, 235, 0.35);
+  outline-offset: 2px;
+}
+
+/* Optional: container for chips (if you wrap them in <div class="fr-filters">) */
+.fr-filters{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0 12px 0;
+}
+
+/* Optional: keep filters visible while scrolling inside the FedReg tile */
+#fedreg .tile-body .fr-filters{
+  position: sticky;
+  top: 0;
+  background: var(--card);
+  padding-top: 6px;
+  padding-bottom: 10px;
+  z-index: 2;
+}
