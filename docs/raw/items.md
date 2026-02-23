@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-23T13:01:28-06:00` (CT) — `2026-02-23T19:01:28Z` (UTC)
+Last updated: `2026-02-23T13:42:35-06:00` (CT) — `2026-02-23T19:42:35Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
@@ -899,6 +899,12 @@ Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but �
 - Published: 2026-01-23T20:49:06Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-4323-and-h-r-6938-signed-into-law/
 
+## First Lady Melania Trump to Ring Opening Bell of the New York Stock Exchange
+- Source: White House
+- Category: Executive
+- Published: 2026-01-23T15:02:07Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/first-lady-melania-trump-to-ring-opening-bell-of-the-new-york-stock-exchange/
+
 ## Chromium: CVE-2026-1220 Race in V8
 - Source: Microsoft MSRC
 - Category: IS
@@ -906,6 +912,12 @@ Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but �
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1220
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
+
+## Presidential Message on National Sanctity of Human Life Day, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-01-23T01:29:14Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-national-sanctity-of-human-life-day-2026/
 
 ## Iran-related Designations; Issuance of Iran-related General License
 - Source: OFAC
@@ -974,6 +986,18 @@ The Coast Guard is establishing a temporary security zone for navigable waters w
 - URL: https://www.federalregister.gov/documents/2026/01/23/2026-01226/flight-restrictions-in-the-vicinity-of-ronald-reagan-washington-national-airport-dca
 
 FAA is revising its regulations to implement certain flight restrictions in the airspace over the Potomac River near Ronald Reagan Washington National Airport (DCA) permanently. These revisions are necessary to mitigate the potential for midair collisions resulting from insufficient separation between fixed-wing aircraft operating to or from DCA and helicopters or powered-lift…
+
+## President Trump Ratifies Board of Peace in Historic Ceremony, Opening Path to Hope and Dignity for Gazans
+- Source: White House
+- Category: Executive
+- Published: 2026-01-22T22:18:50Z
+- URL: https://www.whitehouse.gov/articles/2026/01/president-trump-ratifies-board-of-peace-in-historic-ceremony-opening-path-to-hope-and-dignity-for-gazans/
+
+## ICYMI: Murder Rate Plunges to 125-Year Low as President Trump Restores Law and Order
+- Source: White House
+- Category: Executive
+- Published: 2026-01-22T19:52:54Z
+- URL: https://www.whitehouse.gov/articles/2026/01/icymi-murder-rate-plunges-to-125-year-low-as-president-trump-restores-law-and-order/
 
 ## Press Release: FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah
 - Source: FDIC
@@ -1145,11 +1169,41 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 
 As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collec…
 
+## In Davos, President Trump Outlines Bold Vision for American Prosperity, Transatlantic Strength
+- Source: White House
+- Category: Executive
+- Published: 2026-01-21T20:54:15Z
+- URL: https://www.whitehouse.gov/articles/2026/01/in-davos-president-trump-outlines-bold-vision-for-american-prosperity-transatlantic-strength/
+
+## CEQ Issues Guidance on Emergencies and the National Environmental Policy Act
+- Source: White House
+- Category: Executive
+- Published: 2026-01-21T17:27:03Z
+- URL: https://www.whitehouse.gov/articles/2026/01/ceq-issues-guidance-on-emergencies-and-the-national-environmental-policy-act/
+
+## Artificial Intelligence and the Great Divergence
+- Source: White House
+- Category: Executive
+- Published: 2026-01-21T16:00:00Z
+- URL: https://www.whitehouse.gov/research/2026/01/artificial-intelligence-and-the-great-divergence/
+
+## Fact Sheet: President Donald J. Trump Stops Wall Street from Competing with Main Street Homebuyers
+- Source: White House
+- Category: Executive
+- Published: 2026-01-21T00:18:34Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-stops-wall-street-from-competing-with-main-street-homebuyers/
+
 ## Stopping Wall Street from Competing with Main Street Homebuyers
 - Source: White House
 - Category: Executive
 - Published: 2026-01-21T00:14:03Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers/
+
+## Congressional Bill H.R. 224, H.R. 1823, H.R. 4446 Signed into Law
+- Source: White House
+- Category: Executive
+- Published: 2026-01-21T00:13:41Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-224-h-r-1823-h-r-4446-signed-into-law/
 
 ## National Day of Patriotic Devotion, 2026
 - Source: White House
@@ -1252,6 +1306,12 @@ In this document, the Federal Communications Commission (Commission or FCC) reco
 - URL: https://www.federalregister.gov/documents/2026/01/21/2026-01044/deep-seabed-mining-revisions-to-regulations-for-exploration-license-and-commercial-recovery-permit
 
 The Deep Seabed Hard Mineral Resources Act (DSHMRA or the Act) charges NOAA with the responsibility for issuing licenses for exploration and permits for commercial recovery of hard mineral resources, as defined in the Act, from the deep seabed in areas beyond national jurisdiction and promulgating regulations necessary to carry out the provisions of the Act. Some provisions of…
+
+## 365 WINS IN 365 DAYS: President Trump’s Return Marks New Era of Success, Prosperity
+- Source: White House
+- Category: Executive
+- Published: 2026-01-20T17:57:27Z
+- URL: https://www.whitehouse.gov/articles/2026/01/365-wins-in-365-days-president-trumps-return-marks-new-era-of-success-prosperity/
 
 ## Business to Business
 - Source: NACHA
@@ -1387,6 +1447,24 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - Published: 2026-01-19T22:53:34Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/martin-luther-king-jr-federal-holiday-2026/
 
+## Presidential Message on the College Football Playoff National Championship
+- Source: White House
+- Category: Executive
+- Published: 2026-01-19T16:10:18Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-the-college-football-playoff-national-championship/
+
+## America 250: Presidential Message on the Birthday of Benjamin Franklin
+- Source: White House
+- Category: Executive
+- Published: 2026-01-17T20:25:07Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-birthday-of-benjamin-franklin/
+
+## Statement on President Trump’s Comprehensive Plan to End the Gaza Conflict
+- Source: White House
+- Category: Executive
+- Published: 2026-01-16T21:51:58Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/
+
 ## Religious Freedom Day, 2026
 - Source: White House
 - Category: Executive
@@ -1481,6 +1559,24 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 
 Federal Reserve Board announces approval of application by Banco Inter, S.A.
 
+## First Lady Melania Trump Inspires America’s Children to be Curious, Use AI to Achieve their Career Ambitions
+- Source: White House
+- Category: Executive
+- Published: 2026-01-16T17:37:08Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/first-lady-melania-trump-inspires-americas-children-to-be-curious-use-ai-to-achieve-their-career-ambitions/
+
+## Fact Sheet: President Donald J. Trump Celebrates the Great, Historic Investment in Rural Health
+- Source: White House
+- Category: Executive
+- Published: 2026-01-16T17:08:26Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-the-great-historic-investment-in-rural-health/
+
+## Minnesota’s “Sanctuary” Defiance Has Consequences
+- Source: White House
+- Category: Executive
+- Published: 2026-01-16T15:38:38Z
+- URL: https://www.whitehouse.gov/articles/2026/01/minnesotas-sanctuary-defiance-has-consequences/
+
 ## CVE-2026-21223 Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -1550,6 +1646,18 @@ SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open ses
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html
 
 SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its fiscal first quarter 2026 financial results on Thursday, January 29, 2026 . After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial
+
+## President Trump Unveils The Great Healthcare Plan to Lower Costs and Deliver Money Directly to the People
+- Source: White House
+- Category: Executive
+- Published: 2026-01-15T16:23:48Z
+- URL: https://www.whitehouse.gov/articles/2026/01/president-trump-unveils-the-great-healthcare-plan-to-lower-costs-and-deliver-money-directly-to-the-people/
+
+## Fact Sheet: President Donald J. Trump Calls on Congress to Enact The Great Healthcare Plan
+- Source: White House
+- Category: Executive
+- Published: 2026-01-15T16:02:12Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-calls-on-congress-to-enact-the-great-healthcare-plan/
 
 ## Federal Reserve Board issues enforcement action with former employee of PrimeLending
 - Source: FRB
@@ -1663,11 +1771,35 @@ We, the U.S. Fish and Wildlife Service, made deregulatory actions pertaining to 
 - Published: 2026-01-15T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/15/2026-00641/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17d-1
 
+## America 250: Presidential Message on the Anniversary of the Ratification of the 1783 Treaty of Paris
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T22:40:58Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-ratification-of-the-1783-treaty-of-paris/
+
+## ICYMI: “The Trump Administration Is Moving To Fix a Broken Permitting System”
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T21:53:20Z
+- URL: https://www.whitehouse.gov/articles/2026/01/icymi-the-trump-administration-is-moving-to-fix-a-broken-permitting-system/
+
 ## ADJUSTING IMPORTS OF SEMICONDUCTORS, SEMICONDUCTOR MANUFACTURING EQUIPMENT, AND THEIR DERIVATIVE PRODUCTS INTO THE UNITED STATES
 - Source: White House
 - Category: Executive
 - Published: 2026-01-14T21:38:15Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/
+
+## Fact Sheet: President Donald J. Trump Takes Action on Certain Advanced Computing Chips to Protect America’s Economic and National Security
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T21:23:31Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/
+
+## Fact Sheet: President Donald J. Trump Directs Negotiations to Adjust Imports of Processed Critical Minerals and Their Derivative Products into the United States
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T21:23:18Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-directs-negotiations-to-adjust-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/
 
 ## Establishing a Second Emergency Board to Investigate Disputes Between the Long Island Rail Road Company and Certain of its Employees Represented by Certain Labor Organizations
 - Source: White House
@@ -1680,6 +1812,24 @@ We, the U.S. Fish and Wildlife Service, made deregulatory actions pertaining to 
 - Category: Executive
 - Published: 2026-01-14T21:13:17Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/
+
+## Mass Deportations Are Improving Americans’ Quality of Life
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T21:10:20Z
+- URL: https://www.whitehouse.gov/articles/2026/01/mass-deportations-are-improving-americans-quality-of-life/
+
+## Congressional Bill S. 222 Signed into Law
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T21:05:20Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-s-222-signed-into-law/
+
+## As President Trump Tackles Housing Affordability, Progress Emerges — and More Relief Is on the Horizon
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T19:21:36Z
+- URL: https://www.whitehouse.gov/articles/2026/01/as-president-trump-tackles-housing-affordability-progress-emerges-and-more-relief-is-on-the-horizon/
 
 ## Healthcare EFT
 - Source: NACHA
@@ -1851,11 +2001,29 @@ The Surface Transportation Board (Board) is issuing a final rule to implement th
 
 Federal Reserve Board announces approval of application by Fifth Third Bancorp
 
+## Back in Michigan, President Trump Celebrates Auto Industry, Economic Revival
+- Source: White House
+- Category: Executive
+- Published: 2026-01-13T22:23:33Z
+- URL: https://www.whitehouse.gov/articles/2026/01/back-in-michigan-president-trump-celebrates-auto-industry-economic-revival/
+
 ## Nominations Sent to the Senate
 - Source: White House
 - Category: Executive
 - Published: 2026-01-13T18:53:42Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-078c/
+
+## Make Driving Great Again: President Trump Showcases American Auto Industry’s Revival in Michigan
+- Source: White House
+- Category: Executive
+- Published: 2026-01-13T17:48:15Z
+- URL: https://www.whitehouse.gov/articles/2026/01/make-driving-great-again-president-trump-showcases-american-auto-industrys-revival-in-michigan/
+
+## American Workers Win Big as Inflation Remains Low, Wages Surge
+- Source: White House
+- Category: Executive
+- Published: 2026-01-13T15:25:05Z
+- URL: https://www.whitehouse.gov/articles/2026/01/american-workers-win-big-as-inflation-remains-low-wages-surge/
 
 ## Press Release: Travis Hill Sworn in as the 23rd Chairman of the FDIC
 - Source: FDIC
@@ -2769,6 +2937,12 @@ PRESS RELEASE | JANUARY 12, 2026 Agencies Issue 2025 Shared National Credit Prog
 
 Agencies issue 2025 Shared National Credit Program report
 
+## Big Wins for American Families as Gas Prices, Mortgage Rates Plummet
+- Source: White House
+- Category: Executive
+- Published: 2026-01-12T17:16:41Z
+- URL: https://www.whitehouse.gov/articles/2026/01/big-wins-for-american-families-as-gas-prices-mortgage-rates-plummet/
+
 ## MPF Announcement 2026-01
 - Source: FHLB MPF
 - Category: Mortgage
@@ -2849,6 +3023,18 @@ The Department of Homeland Security (DHS) is increasing premium processing fees 
 - Published: 2026-01-10T04:12:00Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/safeguarding-venezuelan-oil-revenue-for-the-good-of-the-american-and-venezuelan-people/
 
+## Fact Sheet: President Donald J. Trump Safeguards Venezuelan Oil Revenue for the Good of the American and Venezuelan People
+- Source: White House
+- Category: Executive
+- Published: 2026-01-10T01:57:00Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-safeguards-venezuelan-oil-revenue-for-the-good-of-the-american-and-venezuelan-people/
+
+## 57 Times Sick, Unhinged Democrats Declared War on Law Enforcement
+- Source: White House
+- Category: Executive
+- Published: 2026-01-09T20:20:29Z
+- URL: https://www.whitehouse.gov/articles/2026/01/57-times-sick-unhinged-democrats-declared-war-on-law-enforcement/
+
 ## Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026
 - Source: FRB
 - Category: Banking
@@ -2870,6 +3056,12 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Category: Payments
 - Published: 2026-01-09T06:01:01Z
 - URL: https://www.nacha.org/taxonomy/term/352
+
+## Walz Is Wrong: President Trump’s Immigration Policies Are Saving Lives
+- Source: White House
+- Category: Executive
+- Published: 2026-01-09T01:43:52Z
+- URL: https://www.whitehouse.gov/articles/2026/01/walz-is-wrong-president-trumps-immigration-policies-are-saving-lives/
 
 ## Affirmative is Now a Nacha Preferred Partner for Compliance/Fraud Monitoring/Risk and Fraud Prevention
 - Source: NACHA
@@ -2923,6 +3115,12 @@ The Environmental Protection Agency (EPA) is updating the materials that are inc
 
 The Surface Transportation Board proposes to repeal its regulations on "Intramodal Rail Competition," which implement the agency's statutory authority to prescribe reciprocal switching agreements, through routes, and through rates. The approach set out in the regulations, which narrows the Board's statutory discretion, may no longer be appropriate on an industrywide basis, and…
 
+## America 250: Presidential Message on the Anniversary of the Battle of New Orleans
+- Source: White House
+- Category: Executive
+- Published: 2026-01-08T21:47:16Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-battle-of-new-orleans/
+
 ## Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.
 - Source: FRB
 - Category: Banking
@@ -2930,6 +3128,18 @@ The Surface Transportation Board proposes to repeal its regulations on "Intramod
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/orders20260108a.htm
 
 Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.
+
+## Fact Sheet: President Donald J. Trump Establishes New Department of Justice Division for National Fraud Enforcement
+- Source: White House
+- Category: Executive
+- Published: 2026-01-08T19:06:14Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-establishes-new-department-of-justice-division-for-national-fraud-enforcement/
+
+## WHAT THEY ARE SAYING: Trump Administration Puts Real Food First in Dietary Guidelines
+- Source: White House
+- Category: Executive
+- Published: 2026-01-08T17:55:34Z
+- URL: https://www.whitehouse.gov/articles/2026/01/what-they-are-saying-trump-administration-puts-real-food-first-in-dietary-guidelines/
 
 ## CVE-2024-42317 mm/huge_memory: avoid PMD-size page cache if needed
 - Source: Microsoft MSRC
@@ -4335,11 +4545,23 @@ Nationwide Permits (NWPs) authorize activities under Section 404 of the Clean Wa
 - Published: 2026-01-07T23:49:03Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/withdrawing-the-united-states-from-international-organizations-conventions-and-treaties-that-are-contrary-to-the-interests-of-the-united-states/
 
+## Fact Sheet: President Donald J. Trump Prioritizes the Warfighter in Defense Contracting
+- Source: White House
+- Category: Executive
+- Published: 2026-01-07T23:46:35Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-prioritizes-the-warfighter-in-defense-contracting/
+
 ## Prioritizing the Warfighter in Defense Contracting
 - Source: White House
 - Category: Executive
 - Published: 2026-01-07T23:38:15Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/prioritizing-the-warfighter-in-defense-contracting/
+
+## Fact Sheet: President Donald J. Trump Withdraws the United States from International Organizations that Are Contrary to the Interests of the United States
+- Source: White House
+- Category: Executive
+- Published: 2026-01-07T21:53:04Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/
 
 ## CVE-2025-68343 can: gs_usb: gs_usb_receive_bulk_callback(): check actual_length before accessing header
 - Source: Microsoft MSRC
@@ -4725,6 +4947,12 @@ Information published.
 
 Information published.
 
+## CEQ Fixes Decades-Long Permitting Failure Through Deregulation
+- Source: White House
+- Category: Executive
+- Published: 2026-01-07T14:18:04Z
+- URL: https://www.whitehouse.gov/articles/2026/01/ceq-fixes-decades-long-permitting-failure-through-deregulation/
+
 ## CVE-2025-62224 Microsoft Edge (Chromium-based) for Android Spoofing Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -4789,6 +5017,18 @@ In July 2025, President Trump signed the One Big Beautiful Bill Act. Section 400
 
 The Coast Guard is proposing to establish a safety zone for certain navigable waters west of Cyril E. King Airport in St. Thomas, USVI. The safety zone is needed protect personnel, vessels, and the marine environment from potential hazards created by the proximity of the low flying aircrafts to vessels in the vicinity of the waters off the Cyril E. King Airport in St. Thomas,…
 
+## Trump Policies Power U.S. Auto Sales to Best Year Since 2019 — Proving “Experts” Wrong (Again)
+- Source: White House
+- Category: Executive
+- Published: 2026-01-06T21:39:25Z
+- URL: https://www.whitehouse.gov/articles/2026/01/trump-policies-power-u-s-auto-sales-to-best-year-since-2019-proving-experts-wrong-again/
+
+## Sara Carter Confirmed As Drug Czar
+- Source: White House
+- Category: Executive
+- Published: 2026-01-06T21:13:05Z
+- URL: https://www.whitehouse.gov/articles/2026/01/sara-carter-confirmed-as-drug-czar/
+
 ## Minutes of the Board's discount rate meeting on December 10, 2025
 - Source: FRB
 - Category: Banking
@@ -4796,6 +5036,18 @@ The Coast Guard is proposing to establish a safety zone for certain navigable wa
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm
 
 Minutes of the Board's discount rate meeting on December 10, 2025
+
+## Presidential Message on National Slavery and Human Trafficking Prevention Month
+- Source: White House
+- Category: Executive
+- Published: 2026-01-06T18:32:49Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-national-slavery-and-human-trafficking-prevention-month/
+
+## Presidential Message on Epiphany
+- Source: White House
+- Category: Executive
+- Published: 2026-01-06T18:31:42Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-epiphany/
 
 ## Federal Reserve Board issues enforcement action with former employee of Regions Bank
 - Source: FRB
@@ -4875,6 +5127,12 @@ U.S. Environmental Protection Agency (EPA or Agency) is approving a request to e
 
 The U.S. Department of Transportation is proposing to revise and update the investigatory and enforcement policies and practices of its Office of Aviation Consumer Protection (OACP), including the sanctions brought by OACP for non-compliance with aviation consumer protection requirements.
 
+## Democrats Once Demanded Maduro’s Ouster. Now They Mourn His Capture — Because Trump Did It.
+- Source: White House
+- Category: Executive
+- Published: 2026-01-05T21:57:08Z
+- URL: https://www.whitehouse.gov/articles/2026/01/democrats-once-demanded-maduros-ouster-now-they-mourn-his-capture-because-trump-did-it/
+
 ## Nominations Sent to the Senate
 - Source: White House
 - Category: Executive
@@ -4913,6 +5171,12 @@ Information published.
 
 NMFS is proposing several changes for commercial and recreational Atlantic shark fisheries. Specifically, NMFS is considering options to remove the blacknose shark management boundary in the Atlantic region, modify the commercial retention limit for blacknose sharks in the Atlantic region, revise the recreational minimum size limits for Atlantic shark species, and revise the r…
 
+## RUBIO: This Is Our Hemisphere — and President Trump Will Not Allow Our Security to be Threatened
+- Source: White House
+- Category: Executive
+- Published: 2026-01-04T20:17:47Z
+- URL: https://www.whitehouse.gov/articles/2026/01/rubio-this-is-our-hemisphere-and-president-trump-will-not-allow-our-security-to-be-threatened/
+
 ## CVE-2000-0006 strace allows local users to read arbitrary files via memory mapped file names.
 - Source: Microsoft MSRC
 - Category: IS
@@ -4920,6 +5184,18 @@ NMFS is proposing several changes for commercial and recreational Atlantic shark
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2000-0006
 
 Information published.
+
+## America 250: Presidential Message on the Anniversary of the Battle of Princeton
+- Source: White House
+- Category: Executive
+- Published: 2026-01-03T16:04:39Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-battle-of-princeton/
+
+## Here’s What the Trump Administration Is Doing to Crush Minnesota’s Fraud Epidemic
+- Source: White House
+- Category: Executive
+- Published: 2026-01-03T02:52:27Z
+- URL: https://www.whitehouse.gov/articles/2026/01/heres-what-the-trump-administration-is-doing-to-crush-minnesotas-fraud-epidemic/
 
 ## CVE-2025-68146 filelock has TOCTOU race condition that allows symlink attacks during lock file creation
 - Source: Microsoft MSRC
@@ -5239,6 +5515,12 @@ Information published.
 - Published: 2026-01-02T21:37:35Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/regarding-the-acquisition-of-certain-assets-of-emcore-corporation-by-hiefo-corporation/
 
+## Trump Administration’s Historic Rural Health Care Investments Hailed Nationwide
+- Source: White House
+- Category: Executive
+- Published: 2026-01-02T20:56:49Z
+- URL: https://www.whitehouse.gov/articles/2026/01/trump-administrations-historic-rural-health-care-investments-hailed-nationwide/
+
 ## Press Release: FDIC Issues List of Banks Examined for CRA Compliance
 - Source: FDIC
 - Category: Banking
@@ -5414,6 +5696,12 @@ Added acknowledgements. This is an informational change only.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60710
 
 Added an acknowledgement. This is an informational change only.
+
+## America 250: Presidential Message on the Anniversary of the Emancipation Proclamation
+- Source: White House
+- Category: Executive
+- Published: 2026-01-02T02:02:07Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-emancipation-proclamation/
 
 ## Delaying the Effective Date of the Anti-Money Laundering/Countering the Financing of Terrorism Program and Suspicious Activity Report Filing Requirements for Registered Investment Advisers and Exempt Reporting Advisers
 - Source: Federal Register

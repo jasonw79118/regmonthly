@@ -1,8 +1,8 @@
 {
   "window_start": "2026-01-01T06:00:00Z",
   "window_end": "2026-02-01T05:59:59Z",
-  "generated_at_utc": "2026-02-23T19:01:28Z",
-  "generated_at_ct": "2026-02-23T13:01:28-06:00",
+  "generated_at_utc": "2026-02-23T19:42:35Z",
+  "generated_at_ct": "2026-02-23T13:42:35-06:00",
   "items": [
     {
       "category": "Executive",
@@ -1191,12 +1191,28 @@
       "summary": ""
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "First Lady Melania Trump to Ring Opening Bell of the New York Stock Exchange",
+      "published_at": "2026-01-23T15:02:07Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/first-lady-melania-trump-to-ring-opening-bell-of-the-new-york-stock-exchange/",
+      "summary": ""
+    },
+    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "Chromium: CVE-2026-1220 Race in V8",
       "published_at": "2026-01-23T08:00:22Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1220",
       "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information."
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Presidential Message on National Sanctity of Human Life Day, 2026",
+      "published_at": "2026-01-23T01:29:14Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-national-sanctity-of-human-life-day-2026/",
+      "summary": ""
     },
     {
       "category": "OFAC",
@@ -1308,6 +1324,22 @@
         "filter:small-business"
       ],
       "fedreg_document_number": "2026-01226"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "President Trump Ratifies Board of Peace in Historic Ceremony, Opening Path to Hope and Dignity for Gazans",
+      "published_at": "2026-01-22T22:18:50Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/president-trump-ratifies-board-of-peace-in-historic-ceremony-opening-path-to-hope-and-dignity-for-gazans/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "ICYMI: Murder Rate Plunges to 125-Year Low as President Trump Restores Law and Order",
+      "published_at": "2026-01-22T19:52:54Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/icymi-murder-rate-plunges-to-125-year-low-as-president-trump-restores-law-and-order/",
+      "summary": ""
     },
     {
       "category": "Banking",
@@ -1521,9 +1553,49 @@
     {
       "category": "Executive",
       "source": "White House",
+      "title": "In Davos, President Trump Outlines Bold Vision for American Prosperity, Transatlantic Strength",
+      "published_at": "2026-01-21T20:54:15Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/in-davos-president-trump-outlines-bold-vision-for-american-prosperity-transatlantic-strength/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "CEQ Issues Guidance on Emergencies and the National Environmental Policy Act",
+      "published_at": "2026-01-21T17:27:03Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/ceq-issues-guidance-on-emergencies-and-the-national-environmental-policy-act/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Artificial Intelligence and the Great Divergence",
+      "published_at": "2026-01-21T16:00:00Z",
+      "url": "https://www.whitehouse.gov/research/2026/01/artificial-intelligence-and-the-great-divergence/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Stops Wall Street from Competing with Main Street Homebuyers",
+      "published_at": "2026-01-21T00:18:34Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-stops-wall-street-from-competing-with-main-street-homebuyers/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
       "title": "Stopping Wall Street from Competing with Main Street Homebuyers",
       "published_at": "2026-01-21T00:14:03Z",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Congressional Bill H.R. 224, H.R. 1823, H.R. 4446 Signed into Law",
+      "published_at": "2026-01-21T00:13:41Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-224-h-r-1823-h-r-4446-signed-into-law/",
       "summary": ""
     },
     {
@@ -1696,6 +1768,14 @@
         "filter:small-business"
       ],
       "fedreg_document_number": "2026-01044"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "365 WINS IN 365 DAYS: President Trump’s Return Marks New Era of Success, Prosperity",
+      "published_at": "2026-01-20T17:57:27Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/365-wins-in-365-days-president-trumps-return-marks-new-era-of-success-prosperity/",
+      "summary": ""
     },
     {
       "category": "Payments",
@@ -1887,6 +1967,30 @@
     {
       "category": "Executive",
       "source": "White House",
+      "title": "Presidential Message on the College Football Playoff National Championship",
+      "published_at": "2026-01-19T16:10:18Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-the-college-football-playoff-national-championship/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "America 250: Presidential Message on the Birthday of Benjamin Franklin",
+      "published_at": "2026-01-17T20:25:07Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-birthday-of-benjamin-franklin/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Statement on President Trump’s Comprehensive Plan to End the Gaza Conflict",
+      "published_at": "2026-01-16T21:51:58Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
       "title": "Religious Freedom Day, 2026",
       "published_at": "2026-01-16T20:59:19Z",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/01/religious-freedom-day-2026/",
@@ -1979,6 +2083,30 @@
       "published_at": "2026-01-16T18:45:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
       "summary": "Federal Reserve Board announces approval of application by Banco Inter, S.A."
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "First Lady Melania Trump Inspires America’s Children to be Curious, Use AI to Achieve their Career Ambitions",
+      "published_at": "2026-01-16T17:37:08Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/first-lady-melania-trump-inspires-americas-children-to-be-curious-use-ai-to-achieve-their-career-ambitions/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Celebrates the Great, Historic Investment in Rural Health",
+      "published_at": "2026-01-16T17:08:26Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-the-great-historic-investment-in-rural-health/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Minnesota’s “Sanctuary” Defiance Has Consequences",
+      "published_at": "2026-01-16T15:38:38Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/minnesotas-sanctuary-defiance-has-consequences/",
+      "summary": ""
     },
     {
       "category": "IS",
@@ -2074,6 +2202,22 @@
       "published_at": "2026-01-15T21:05:00Z",
       "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html",
       "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its fiscal first quarter 2026 financial results on Thursday, January 29, 2026 . After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "President Trump Unveils The Great Healthcare Plan to Lower Costs and Deliver Money Directly to the People",
+      "published_at": "2026-01-15T16:23:48Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/president-trump-unveils-the-great-healthcare-plan-to-lower-costs-and-deliver-money-directly-to-the-people/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Calls on Congress to Enact The Great Healthcare Plan",
+      "published_at": "2026-01-15T16:02:12Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-calls-on-congress-to-enact-the-great-healthcare-plan/",
+      "summary": ""
     },
     {
       "category": "Banking",
@@ -2261,9 +2405,41 @@
     {
       "category": "Executive",
       "source": "White House",
+      "title": "America 250: Presidential Message on the Anniversary of the Ratification of the 1783 Treaty of Paris",
+      "published_at": "2026-01-14T22:40:58Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-ratification-of-the-1783-treaty-of-paris/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "ICYMI: “The Trump Administration Is Moving To Fix a Broken Permitting System”",
+      "published_at": "2026-01-14T21:53:20Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/icymi-the-trump-administration-is-moving-to-fix-a-broken-permitting-system/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
       "title": "ADJUSTING IMPORTS OF SEMICONDUCTORS, SEMICONDUCTOR MANUFACTURING EQUIPMENT, AND THEIR DERIVATIVE PRODUCTS INTO THE UNITED STATES",
       "published_at": "2026-01-14T21:38:15Z",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Takes Action on Certain Advanced Computing Chips to Protect America’s Economic and National Security",
+      "published_at": "2026-01-14T21:23:31Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Directs Negotiations to Adjust Imports of Processed Critical Minerals and Their Derivative Products into the United States",
+      "published_at": "2026-01-14T21:23:18Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-directs-negotiations-to-adjust-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/",
       "summary": ""
     },
     {
@@ -2280,6 +2456,30 @@
       "title": "Adjusting Imports of Processed Critical Minerals and Their Derivative Products into the United States",
       "published_at": "2026-01-14T21:13:17Z",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Mass Deportations Are Improving Americans’ Quality of Life",
+      "published_at": "2026-01-14T21:10:20Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/mass-deportations-are-improving-americans-quality-of-life/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Congressional Bill S. 222 Signed into Law",
+      "published_at": "2026-01-14T21:05:20Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-s-222-signed-into-law/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "As President Trump Tackles Housing Affordability, Progress Emerges — and More Relief Is on the Horizon",
+      "published_at": "2026-01-14T19:21:36Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/as-president-trump-tackles-housing-affordability-progress-emerges-and-more-relief-is-on-the-horizon/",
       "summary": ""
     },
     {
@@ -2562,9 +2762,33 @@
     {
       "category": "Executive",
       "source": "White House",
+      "title": "Back in Michigan, President Trump Celebrates Auto Industry, Economic Revival",
+      "published_at": "2026-01-13T22:23:33Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/back-in-michigan-president-trump-celebrates-auto-industry-economic-revival/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
       "title": "Nominations Sent to the Senate",
       "published_at": "2026-01-13T18:53:42Z",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-078c/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Make Driving Great Again: President Trump Showcases American Auto Industry’s Revival in Michigan",
+      "published_at": "2026-01-13T17:48:15Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/make-driving-great-again-president-trump-showcases-american-auto-industrys-revival-in-michigan/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "American Workers Win Big as Inflation Remains Low, Wages Surge",
+      "published_at": "2026-01-13T15:25:05Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/american-workers-win-big-as-inflation-remains-low-wages-surge/",
       "summary": ""
     },
     {
@@ -3491,6 +3715,14 @@
       "summary": "Agencies issue 2025 Shared National Credit Program report"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Big Wins for American Families as Gas Prices, Mortgage Rates Plummet",
+      "published_at": "2026-01-12T17:16:41Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/big-wins-for-american-families-as-gas-prices-mortgage-rates-plummet/",
+      "summary": ""
+    },
+    {
       "category": "Mortgage",
       "source": "FHLB MPF",
       "title": "MPF Announcement 2026-01",
@@ -3623,6 +3855,22 @@
       "summary": ""
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Safeguards Venezuelan Oil Revenue for the Good of the American and Venezuelan People",
+      "published_at": "2026-01-10T01:57:00Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-safeguards-venezuelan-oil-revenue-for-the-good-of-the-american-and-venezuelan-people/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "57 Times Sick, Unhinged Democrats Declared War on Law Enforcement",
+      "published_at": "2026-01-09T20:20:29Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/57-times-sick-unhinged-democrats-declared-war-on-law-enforcement/",
+      "summary": ""
+    },
+    {
       "category": "Banking",
       "source": "FRB",
       "title": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
@@ -3644,6 +3892,14 @@
       "title": "Preferred Partner Program",
       "published_at": "2026-01-09T06:01:01Z",
       "url": "https://www.nacha.org/taxonomy/term/352",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Walz Is Wrong: President Trump’s Immigration Policies Are Saving Lives",
+      "published_at": "2026-01-09T01:43:52Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/walz-is-wrong-president-trumps-immigration-policies-are-saving-lives/",
       "summary": ""
     },
     {
@@ -3738,12 +3994,36 @@
       "fedreg_document_number": "2026-00241"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of New Orleans",
+      "published_at": "2026-01-08T21:47:16Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-battle-of-new-orleans/",
+      "summary": ""
+    },
+    {
       "category": "Banking",
       "source": "FRB",
       "title": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
       "published_at": "2026-01-08T21:00:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260108a.htm",
       "summary": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc."
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Establishes New Department of Justice Division for National Fraud Enforcement",
+      "published_at": "2026-01-08T19:06:14Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-establishes-new-department-of-justice-division-for-national-fraud-enforcement/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "WHAT THEY ARE SAYING: Trump Administration Puts Real Food First in Dietary Guidelines",
+      "published_at": "2026-01-08T17:55:34Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/what-they-are-saying-trump-administration-puts-real-food-first-in-dietary-guidelines/",
+      "summary": ""
     },
     {
       "category": "IS",
@@ -5183,9 +5463,25 @@
     {
       "category": "Executive",
       "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Prioritizes the Warfighter in Defense Contracting",
+      "published_at": "2026-01-07T23:46:35Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-prioritizes-the-warfighter-in-defense-contracting/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
       "title": "Prioritizing the Warfighter in Defense Contracting",
       "published_at": "2026-01-07T23:38:15Z",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/01/prioritizing-the-warfighter-in-defense-contracting/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Withdraws the United States from International Organizations that Are Contrary to the Interests of the United States",
+      "published_at": "2026-01-07T21:53:04Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/",
       "summary": ""
     },
     {
@@ -5573,6 +5869,14 @@
       "summary": "Information published."
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "CEQ Fixes Decades-Long Permitting Failure Through Deregulation",
+      "published_at": "2026-01-07T14:18:04Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/ceq-fixes-decades-long-permitting-failure-through-deregulation/",
+      "summary": ""
+    },
+    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2025-62224 Microsoft Edge (Chromium-based) for Android Spoofing Vulnerability",
@@ -5681,12 +5985,44 @@
       "fedreg_document_number": "2026-00048"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Trump Policies Power U.S. Auto Sales to Best Year Since 2019 — Proving “Experts” Wrong (Again)",
+      "published_at": "2026-01-06T21:39:25Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/trump-policies-power-u-s-auto-sales-to-best-year-since-2019-proving-experts-wrong-again/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Sara Carter Confirmed As Drug Czar",
+      "published_at": "2026-01-06T21:13:05Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/sara-carter-confirmed-as-drug-czar/",
+      "summary": ""
+    },
+    {
       "category": "Banking",
       "source": "FRB",
       "title": "Minutes of the Board's discount rate meeting on December 10, 2025",
       "published_at": "2026-01-06T19:00:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm",
       "summary": "Minutes of the Board's discount rate meeting on December 10, 2025"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Presidential Message on National Slavery and Human Trafficking Prevention Month",
+      "published_at": "2026-01-06T18:32:49Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-national-slavery-and-human-trafficking-prevention-month/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Presidential Message on Epiphany",
+      "published_at": "2026-01-06T18:31:42Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-epiphany/",
+      "summary": ""
     },
     {
       "category": "Banking",
@@ -5791,6 +6127,14 @@
     {
       "category": "Executive",
       "source": "White House",
+      "title": "Democrats Once Demanded Maduro’s Ouster. Now They Mourn His Capture — Because Trump Did It.",
+      "published_at": "2026-01-05T21:57:08Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/democrats-once-demanded-maduros-ouster-now-they-mourn-his-capture-because-trump-did-it/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
       "title": "Nominations Sent to the Senate",
       "published_at": "2026-01-05T20:39:36Z",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-3f7b/",
@@ -5835,12 +6179,36 @@
       "fedreg_document_number": "2025-24264"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "RUBIO: This Is Our Hemisphere — and President Trump Will Not Allow Our Security to be Threatened",
+      "published_at": "2026-01-04T20:17:47Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/rubio-this-is-our-hemisphere-and-president-trump-will-not-allow-our-security-to-be-threatened/",
+      "summary": ""
+    },
+    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2000-0006 strace allows local users to read arbitrary files via memory mapped file names.",
       "published_at": "2026-01-04T14:35:13Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2000-0006",
       "summary": "Information published."
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of Princeton",
+      "published_at": "2026-01-03T16:04:39Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-battle-of-princeton/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Here’s What the Trump Administration Is Doing to Crush Minnesota’s Fraud Epidemic",
+      "published_at": "2026-01-03T02:52:27Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/heres-what-the-trump-administration-is-doing-to-crush-minnesotas-fraud-epidemic/",
+      "summary": ""
     },
     {
       "category": "IS",
@@ -6163,6 +6531,14 @@
       "summary": ""
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Trump Administration’s Historic Rural Health Care Investments Hailed Nationwide",
+      "published_at": "2026-01-02T20:56:49Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/trump-administrations-historic-rural-health-care-investments-hailed-nationwide/",
+      "summary": ""
+    },
+    {
       "category": "Banking",
       "source": "FDIC",
       "title": "Press Release: FDIC Issues List of Banks Examined for CRA Compliance",
@@ -6337,6 +6713,14 @@
       "published_at": "2026-01-02T08:00:00Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60710",
       "summary": "Added an acknowledgement. This is an informational change only."
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "America 250: Presidential Message on the Anniversary of the Emancipation Proclamation",
+      "published_at": "2026-01-02T02:02:07Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-emancipation-proclamation/",
+      "summary": ""
     },
     {
       "category": "Federal Register",

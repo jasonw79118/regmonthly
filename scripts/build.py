@@ -46,8 +46,8 @@ PUBLIC_BASE = "https://jasonw79118.github.io/regmonthly"
 WINDOW_DAYS = 14
 
 # Bump caps so Visa/Mastercard can resolve dates for more listing links
-MAX_LISTING_LINKS = 800  # monthly: allow more listing links
-GLOBAL_DETAIL_FETCH_CAP = 420  # monthly: allow more detail fetches
+MAX_LISTING_LINKS = 2000  # monthly: allow many listing links (full month coverage)
+GLOBAL_DETAIL_FETCH_CAP = 1400  # monthly: allow many detail fetches (full month coverage)
 REQUEST_DELAY_SEC = 0.12
 
 PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
@@ -1644,7 +1644,7 @@ def ofac_date_from_url(url: str) -> Optional[datetime]:
 
 
 
-PAGINATION_MAX_PAGES = 10  # monthly: crawl more listing pages where available
+PAGINATION_MAX_PAGES = 40  # monthly: deeper pagination for OFAC/Treasury/White House/Senate
 
 
 def _find_next_page_url(page_url: str, html: str) -> Optional[str]:
