@@ -1,7 +1,13 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-23T12:04:10-06:00` (CT) — `2026-02-23T18:04:10Z` (UTC)
+Last updated: `2026-02-23T13:01:28-06:00` (CT) — `2026-02-23T19:01:28Z` (UTC)
+
+## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
+- Source: White House
+- Category: Executive
+- Published: 2026-01-30T23:43:32Z
+- URL: https://www.whitehouse.gov/articles/2026/01/wide-acclaim-for-president-trumps-nomination-of-kevin-warsh-as-fed-chair/
 
 ## Press Release: First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois
 - Source: FDIC
@@ -19,6 +25,18 @@ PRESS RELEASE | JANUARY 30, 2026 First Independence Bank, Detroit, Michigan, Ass
 
 Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.
 
+## Celebrating American Greatness with American Motor Racing
+- Source: White House
+- Category: Executive
+- Published: 2026-01-30T17:35:30Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/celebrating-american-greatness-with-american-motor-racing/
+
+## Fact Sheet: President Donald J. Trump Celebrates American Greatness with the Freedom 250 Grand Prix of Washington, D.C.
+- Source: White House
+- Category: Executive
+- Published: 2026-01-30T17:15:53Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-american-greatness-with-the-freedom-250-grand-prix-of-washington-d-c/
+
 ## Press Release: FDIC Publishes Enforcement Orders for December 2025
 - Source: FDIC
 - Category: Banking
@@ -34,6 +52,12 @@ PRESS RELEASE | JANUARY 30, 2026 FDIC Publishes Enforcement Orders for December 
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1504
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
+
+## Iran-related Designations; Counter Terrorism Designations; Non-Proliferation Designation Update and Designation Removal
+- Source: OFAC
+- Category: OFAC
+- Published: 2026-01-30T00:00:00Z
+- URL: https://ofac.treasury.gov/recent-actions/20260130
 
 ## IRS announces 2026 Tax Counseling for the Elderly and Volunteer Income Tax Assistance Program Grants
 - Source: IRS
@@ -285,6 +309,36 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - Published: 2026-01-30T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/30/2026-01825/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a
 
+## Addressing Threats to the United States by the Government of Cuba
+- Source: White House
+- Category: Executive
+- Published: 2026-01-29T23:03:47Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/addressing-threats-to-the-united-states-by-the-government-of-cuba/
+
+## Addressing Addiction through the Great American Recovery Initiative
+- Source: White House
+- Category: Executive
+- Published: 2026-01-29T23:02:40Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/addressing-addiction-through-the-great-american-recovery-initiative/
+
+## Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Cuba
+- Source: White House
+- Category: Executive
+- Published: 2026-01-29T23:02:04Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-cuba/
+
+## Year of Celebration and Rededication, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-01-29T22:58:35Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/year-of-celebration-and-rededication-2026/
+
+## Fact Sheet: President Donald J. Trump Launches the Great American Recovery Initiative to Address the Addiction Crisis
+- Source: White House
+- Category: Executive
+- Published: 2026-01-29T22:56:02Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-launches-the-great-american-recovery-initiative-to-address-the-addiction-crisis/
+
 ## Visa Fiscal First Quarter 2026 Financial Results
 - Source: Visa
 - Category: Payment Card Networks
@@ -300,6 +354,24 @@ SAN FRANCISCO --(BUSINESS WIRE)--Jan. 29, 2026-- Visa (NYSE: V) today announced 
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/other20260129a.htm
 
 Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)
+
+## Border Czar Affirms Commitment to Public Safety, Removing Violent Criminals in Minnesota
+- Source: White House
+- Category: Executive
+- Published: 2026-01-29T16:40:17Z
+- URL: https://www.whitehouse.gov/articles/2026/01/border-czar-affirms-commitment-to-public-safety-removing-violent-criminals-in-minnesota/
+
+## CEQ Demos Tech to Speed Up Federal Environmental Reviews – CE Works
+- Source: White House
+- Category: Executive
+- Published: 2026-01-29T15:18:17Z
+- URL: https://www.whitehouse.gov/articles/2026/01/ceq-demos-tech-to-speed-up-federal-environmental-reviews-ce-works/
+
+## America 250: Presidential Message on the Birthday of President William McKinley
+- Source: White House
+- Category: Executive
+- Published: 2026-01-29T15:03:42Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-birthday-of-president-william-mckinley/
 
 ## CVE-2026-20960 PowerApps Desktop Client Remote Code Execution Vulnerability
 - Source: Microsoft MSRC
@@ -320,6 +392,12 @@ Corrected Download links in the Security Updates table. This is an informational
 - Category: Payments
 - Published: 2026-01-29T07:44:05Z
 - URL: https://www.nacha.org/taxonomy/term/337
+
+## Issuance of Venezuela-related General License
+- Source: OFAC
+- Category: OFAC
+- Published: 2026-01-29T00:00:00Z
+- URL: https://ofac.treasury.gov/recent-actions/20260129
 
 ## Tax Pros: Get Ready for the filing season and save time with Tax Pro Account; encourage clients to use their IRS individual online account
 - Source: IRS
@@ -403,6 +481,12 @@ The U.S. Small Business Administration (SBA or Agency) is issuing this interim f
 
 The Small Business Administration (SBA) will submit the information collection described below to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, as amended, on or after the date of publication of this notice. SBA is publishing this notice to allow all interested members of the public an additional 30 d…
 
+## National School Choice Week, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-01-28T23:03:37Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/national-school-choice-week-2026/
+
 ## 2026 CDIA Consumer Reporting Roundtable agenda is now available!
 - Source: CDIA
 - Category: Compliance Watch
@@ -435,6 +519,12 @@ Federal Reserve issues FOMC statement
 
 Federal Open Market Committee reaffirms its "Statement on Longer-Run Goals and Monetary Policy Strategy"
 
+## The Economic Impact of State Income Tax Elimination
+- Source: White House
+- Category: Executive
+- Published: 2026-01-28T18:12:57Z
+- URL: https://www.whitehouse.gov/research/2026/01/the-economic-impact-of-state-income-tax-elimination/
+
 ## Comment Letter on the Consumer Financial Protection Bureau’s Consumer Response Intake Form
 - Source: CDIA
 - Category: Compliance Watch
@@ -442,6 +532,12 @@ Federal Open Market Committee reaffirms its "Statement on Longer-Run Goals and M
 - URL: https://www.cdiaonline.org/news/2026/01/28/comment-letter-on-the-consumer-financial-protection-bureaus-consumer-response-intake-form/
 
 This week, CDIA submitted formal comments advocating changes to the Consumer Finance Protection Bureau’s complaint portal. As with our prior comments and... The post Comment Letter on the Consumer Financial Protection Bureau’s Consumer Response Intake Form appeared first on CDIA .
+
+## America 250: Presidential Message on the Anniversary of the Space Shuttle Challenger Disaster
+- Source: White House
+- Category: Executive
+- Published: 2026-01-28T16:05:49Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-space-shuttle-challenger-disaster/
 
 ## Visa Spending Study Shows How Americans Will Use AI to Plan, Book and Spend on Winter Sports
 - Source: Visa
@@ -595,6 +691,30 @@ On May 8, 2024, we published a final rule amending the horse protection regulati
 
 According to Zelle’s 2025 data report, 337 financial institutions either launched Zelle or signed up to use it, with 97% being community banks and credit unions holding less than $10 billion in assets. The report reveals: “Zelle already reaches 80% of U.S. bank and credit union accounts and last year was about widening access – […] The post Zelle expands across community banks…
 
+## Iowa Families Are Winning Again Under President Trump’s Leadership
+- Source: White House
+- Category: Executive
+- Published: 2026-01-27T18:54:07Z
+- URL: https://www.whitehouse.gov/articles/2026/01/iowa-families-are-winning-again-under-president-trumps-leadership/
+
+## Fact Sheet: President Donald J. Trump Addresses State and Local Failures to Rebuild Los Angeles After Wildfire Disasters
+- Source: White House
+- Category: Executive
+- Published: 2026-01-27T15:14:22Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-addresses-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/
+
+## Addressing State and Local Failures to Rebuild Los Angeles After Wildfire Disasters
+- Source: White House
+- Category: Executive
+- Published: 2026-01-27T14:57:37Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/addressing-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/
+
+## Presidential Message on International Holocaust Remembrance Day
+- Source: White House
+- Category: Executive
+- Published: 2026-01-27T13:42:41Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-international-holocaust-remembrance-day/
+
 ## CVE-2026-20805 Desktop Window Manager Information Disclosure Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -642,6 +762,18 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - URL: https://www.federalregister.gov/documents/2026/01/27/2026-01549/reflectorization-of-rail-freight-rolling-stock-codifying-existing-waivers
 
 This rule amends the standards for Reflectorization of Rail Freight Rolling Stock (Reflectorization Standards or Part 224) to codify waivers and remove the outdated implementation schedule. The changes are expected to enhance safety, promote innovation, clarify existing requirements, and reduce unnecessary paperwork burdens. The amendments are consistent with the mandate of th…
+
+## President Trump Delivers Largest Tax Refund Season in U.S. History
+- Source: White House
+- Category: Executive
+- Published: 2026-01-26T22:21:10Z
+- URL: https://www.whitehouse.gov/articles/2026/01/president-trump-delivers-largest-tax-refund-season-in-u-s-history/
+
+## Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group
+- Source: White House
+- Category: Executive
+- Published: 2026-01-26T18:12:20Z
+- URL: https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/
 
 ## Visa Debuts Milano Cortina 2026 Campaign Starring Record‑Breaking Athletes Mikaela Shiffrin and Oksana Masters
 - Source: Visa
@@ -741,6 +873,12 @@ The Coast Guard is removing 81 special drawbridge operating regulations that pre
 
 The Coast Guard is changing the operating schedule that governs the Dorset Avenue Bridge across Inside Thorofare, mile 72.1, at Ventnor City, NJ. The final rule will allow the drawbridge to only open between the hours of 11 p.m. to 7 a.m., if at least four hours' notice is given.
 
+## Continuance of the Federal Emergency Management Agency Review Council
+- Source: White House
+- Category: Executive
+- Published: 2026-01-24T00:00:00Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/continuance-of-the-federal-emergency-management-agency-review-council/
+
 ## Statement of TBA CEO Chris Furlow on card rate and interchange cap proposals
 - Source: TBA
 - Category: Compliance Watch
@@ -749,6 +887,18 @@ The Coast Guard is changing the operating schedule that governs the Dorset Avenu
 
 Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but “Government Price Fixing” “Card rate and interchange caps sound politically appealing but government price fixing always fails to solve affordability issues, and it ultimately leads to unintended economic consequences. Any serious consideration of the data shows card rate caps would hurt small businesse…
 
+## President Trump is the Most Pro-Life President in History
+- Source: White House
+- Category: Executive
+- Published: 2026-01-23T21:03:45Z
+- URL: https://www.whitehouse.gov/articles/2026/01/president-trump-is-the-most-pro-life-president-in-history/
+
+## Congressional Bill H.R. 4323 and H.R. 6938 Signed into Law
+- Source: White House
+- Category: Executive
+- Published: 2026-01-23T20:49:06Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-4323-and-h-r-6938-signed-into-law/
+
 ## Chromium: CVE-2026-1220 Race in V8
 - Source: Microsoft MSRC
 - Category: IS
@@ -756,6 +906,12 @@ Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but �
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1220
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
+
+## Iran-related Designations; Issuance of Iran-related General License
+- Source: OFAC
+- Category: OFAC
+- Published: 2026-01-23T00:00:00Z
+- URL: https://ofac.treasury.gov/recent-actions/20260123
 
 ## MPF Announcement 2026-02
 - Source: FHLB MPF
@@ -915,6 +1071,12 @@ Improper neutralization of input during web page generation ('cross-site scripti
 
 The FDIC board voted to establish an independent office to hear banks’ appeals of the agency’s supervisory decisions. Comptroller Jonathan Gould also said the Office of the Comptroller of the Currency will review possible changes to its own supervisory appeals framework. The new Office of Supervisory Appeals will replace the Supervision Appeals Review Committee and […] The pos…
 
+## Counter Narcotics Designations
+- Source: OFAC
+- Category: OFAC
+- Published: 2026-01-22T00:00:00Z
+- URL: https://ofac.treasury.gov/recent-actions/20260122
+
 ## Mortgage Rates Remain the Lowest in Three Years
 - Source: Freddie Mac
 - Category: Mortgage
@@ -982,6 +1144,24 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - URL: https://www.federalregister.gov/documents/2026/01/22/2026-01104/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated
 
 As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collec…
+
+## Stopping Wall Street from Competing with Main Street Homebuyers
+- Source: White House
+- Category: Executive
+- Published: 2026-01-21T00:14:03Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers/
+
+## National Day of Patriotic Devotion, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-01-21T00:12:22Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/national-day-of-patriotic-devotion-2026/
+
+## Counter Terrorism Designations and Designations Removals
+- Source: OFAC
+- Category: OFAC
+- Published: 2026-01-21T00:00:00Z
+- URL: https://ofac.treasury.gov/recent-actions/20260121
 
 ## Fiserv and Sumitomo Mitsui Introduce Clover Suite of Products, Enabling Digital Commerce for Millions of Merchants
 - Source: Fiserv
@@ -1201,6 +1381,18 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 
 As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collectio…
 
+## Martin Luther King, Jr., Federal Holiday, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-01-19T22:53:34Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/martin-luther-king-jr-federal-holiday-2026/
+
+## Religious Freedom Day, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-01-16T20:59:19Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/religious-freedom-day-2026/
+
 ## Chromium: CVE-2026-0908 Use after free in ANGLE
 - Source: Microsoft MSRC
 - Category: IS
@@ -1297,6 +1489,12 @@ Federal Reserve Board announces approval of application by Banco Inter, S.A.
 
 Microsoft Edge Elevation Service exposes a privileged COM interface that inadequately validates the privileges of the calling process. A standard (non‑administrator) local user can invoke the IElevatorEdge interface method LaunchUpdateCmdElevatedAndWait, causing the service to execute privileged update commands as LocalSystem. This allows a non‑administrator to enable or disab…
 
+## Counter Terrorism Designations and Designation Update
+- Source: OFAC
+- Category: OFAC
+- Published: 2026-01-16T00:00:00Z
+- URL: https://ofac.treasury.gov/recent-actions/20260116
+
 ## Featured Publications View All Publications
 - Source: OCC
 - Category: Banking
@@ -1360,6 +1558,12 @@ SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its 
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm
 
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
+
+## Iran-related Designations
+- Source: OFAC
+- Category: OFAC
+- Published: 2026-01-15T00:00:00Z
+- URL: https://ofac.treasury.gov/recent-actions/20260115
 
 ## The Average 30-Year Fixed-Rate Mortgage Hits Lowest Level in Over Three Years
 - Source: Freddie Mac
@@ -1458,6 +1662,24 @@ We, the U.S. Fish and Wildlife Service, made deregulatory actions pertaining to 
 - Category: Federal Register
 - Published: 2026-01-15T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/15/2026-00641/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17d-1
+
+## ADJUSTING IMPORTS OF SEMICONDUCTORS, SEMICONDUCTOR MANUFACTURING EQUIPMENT, AND THEIR DERIVATIVE PRODUCTS INTO THE UNITED STATES
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T21:38:15Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/
+
+## Establishing a Second Emergency Board to Investigate Disputes Between the Long Island Rail Road Company and Certain of its Employees Represented by Certain Labor Organizations
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T21:21:10Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/establishing-a-second-emergency-board-to-investigate-disputes-between-the-long-island-rail-road-company-and-certain-of-its-employees-represented-by-certain-labor-organizations/
+
+## Adjusting Imports of Processed Critical Minerals and Their Derivative Products into the United States
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T21:13:17Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/
 
 ## Healthcare EFT
 - Source: NACHA
@@ -1628,6 +1850,12 @@ The Surface Transportation Board (Board) is issuing a final rule to implement th
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm
 
 Federal Reserve Board announces approval of application by Fifth Third Bancorp
+
+## Nominations Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-01-13T18:53:42Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-078c/
 
 ## Press Release: Travis Hill Sworn in as the 23rd Chairman of the FDIC
 - Source: FDIC
@@ -2614,6 +2842,12 @@ The Coast Guard is establishing a temporary safety zone for navigable waters of 
 - URL: https://www.federalregister.gov/documents/2026/01/12/2026-00321/adjustment-to-premium-processing-fees
 
 The Department of Homeland Security (DHS) is increasing premium processing fees charged by U.S. Citizenship and Immigration Services (USCIS) to reflect the amount of inflation from June 2023 through June 2025 according to the Consumer Price Index for All Urban Consumers.
+
+## Safeguarding Venezuelan Oil Revenue for the Good of the American and Venezuelan People
+- Source: White House
+- Category: Executive
+- Published: 2026-01-10T04:12:00Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/safeguarding-venezuelan-oil-revenue-for-the-good-of-the-american-and-venezuelan-people/
 
 ## Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026
 - Source: FRB
@@ -4095,6 +4329,18 @@ The U.S. Small Business Administration ("SBA" or "Agency") is correcting a final
 
 Nationwide Permits (NWPs) authorize activities under Section 404 of the Clean Water Act and Section 10 of the Rivers and Harbors Act of 1899 that have no more than minimal individual and cumulative adverse environmental effects. The NWPs help protect the aquatic environment and the public interest by providing incentives to reduce impacts to jurisdictional waters. In this fina…
 
+## Withdrawing the United States from International Organizations, Conventions, and Treaties that Are Contrary to the Interests of the United States
+- Source: White House
+- Category: Executive
+- Published: 2026-01-07T23:49:03Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/withdrawing-the-united-states-from-international-organizations-conventions-and-treaties-that-are-contrary-to-the-interests-of-the-united-states/
+
+## Prioritizing the Warfighter in Defense Contracting
+- Source: White House
+- Category: Executive
+- Published: 2026-01-07T23:38:15Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/prioritizing-the-warfighter-in-defense-contracting/
+
 ## CVE-2025-68343 can: gs_usb: gs_usb_receive_bulk_callback(): check actual_length before accessing header
 - Source: Microsoft MSRC
 - Category: IS
@@ -4629,6 +4875,12 @@ U.S. Environmental Protection Agency (EPA or Agency) is approving a request to e
 
 The U.S. Department of Transportation is proposing to revise and update the investigatory and enforcement policies and practices of its Office of Aviation Consumer Protection (OACP), including the sanctions brought by OACP for non-compliance with aviation consumer protection requirements.
 
+## Nominations Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-01-05T20:39:36Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-3f7b/
+
 ## CVE-2025-61594 URI Credential Leakage Bypass over CVE-2025-27221
 - Source: Microsoft MSRC
 - Category: IS
@@ -4980,6 +5232,12 @@ Information published.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-69277
 
 Information published.
+
+## Regarding the Acquisition of Certain Assets of Emcore Corporation by Hiefo Corporation
+- Source: White House
+- Category: Executive
+- Published: 2026-01-02T21:37:35Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/01/regarding-the-acquisition-of-certain-assets-of-emcore-corporation-by-hiefo-corporation/
 
 ## Press Release: FDIC Issues List of Banks Examined for CRA Compliance
 - Source: FDIC

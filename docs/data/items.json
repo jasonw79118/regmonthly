@@ -1,9 +1,17 @@
 {
   "window_start": "2026-01-01T06:00:00Z",
   "window_end": "2026-02-01T05:59:59Z",
-  "generated_at_utc": "2026-02-23T18:04:10Z",
-  "generated_at_ct": "2026-02-23T12:04:10-06:00",
+  "generated_at_utc": "2026-02-23T19:01:28Z",
+  "generated_at_ct": "2026-02-23T13:01:28-06:00",
   "items": [
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair",
+      "published_at": "2026-01-30T23:43:32Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/wide-acclaim-for-president-trumps-nomination-of-kevin-warsh-as-fed-chair/",
+      "summary": ""
+    },
     {
       "category": "Banking",
       "source": "FDIC",
@@ -21,6 +29,22 @@
       "summary": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc."
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Celebrating American Greatness with American Motor Racing",
+      "published_at": "2026-01-30T17:35:30Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/celebrating-american-greatness-with-american-motor-racing/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Celebrates American Greatness with the Freedom 250 Grand Prix of Washington, D.C.",
+      "published_at": "2026-01-30T17:15:53Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-american-greatness-with-the-freedom-250-grand-prix-of-washington-d-c/",
+      "summary": ""
+    },
+    {
       "category": "Banking",
       "source": "FDIC",
       "title": "Press Release: FDIC Publishes Enforcement Orders for December 2025",
@@ -35,6 +59,14 @@
       "published_at": "2026-01-30T03:20:43Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1504",
       "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information."
+    },
+    {
+      "category": "OFAC",
+      "source": "OFAC",
+      "title": "Iran-related Designations; Counter Terrorism Designations; Non-Proliferation Designation Update and Designation Removal",
+      "published_at": "2026-01-30T00:00:00Z",
+      "url": "https://ofac.treasury.gov/recent-actions/20260130",
+      "summary": ""
     },
     {
       "category": "IRS",
@@ -347,6 +379,46 @@
       "fedreg_document_number": "2026-01825"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Addressing Threats to the United States by the Government of Cuba",
+      "published_at": "2026-01-29T23:03:47Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/addressing-threats-to-the-united-states-by-the-government-of-cuba/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Addressing Addiction through the Great American Recovery Initiative",
+      "published_at": "2026-01-29T23:02:40Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/addressing-addiction-through-the-great-american-recovery-initiative/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Cuba",
+      "published_at": "2026-01-29T23:02:04Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-cuba/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Year of Celebration and Rededication, 2026",
+      "published_at": "2026-01-29T22:58:35Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/year-of-celebration-and-rededication-2026/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Launches the Great American Recovery Initiative to Address the Addiction Crisis",
+      "published_at": "2026-01-29T22:56:02Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-launches-the-great-american-recovery-initiative-to-address-the-addiction-crisis/",
+      "summary": ""
+    },
+    {
       "category": "Payment Card Networks",
       "source": "Visa",
       "title": "Visa Fiscal First Quarter 2026 Financial Results",
@@ -361,6 +433,30 @@
       "published_at": "2026-01-29T18:30:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260129a.htm",
       "summary": "Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Border Czar Affirms Commitment to Public Safety, Removing Violent Criminals in Minnesota",
+      "published_at": "2026-01-29T16:40:17Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/border-czar-affirms-commitment-to-public-safety-removing-violent-criminals-in-minnesota/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "CEQ Demos Tech to Speed Up Federal Environmental Reviews – CE Works",
+      "published_at": "2026-01-29T15:18:17Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/ceq-demos-tech-to-speed-up-federal-environmental-reviews-ce-works/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "America 250: Presidential Message on the Birthday of President William McKinley",
+      "published_at": "2026-01-29T15:03:42Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-birthday-of-president-william-mckinley/",
+      "summary": ""
     },
     {
       "category": "IS",
@@ -384,6 +480,14 @@
       "title": "Same Day ACH",
       "published_at": "2026-01-29T07:44:05Z",
       "url": "https://www.nacha.org/taxonomy/term/337",
+      "summary": ""
+    },
+    {
+      "category": "OFAC",
+      "source": "OFAC",
+      "title": "Issuance of Venezuela-related General License",
+      "published_at": "2026-01-29T00:00:00Z",
+      "url": "https://ofac.treasury.gov/recent-actions/20260129",
       "summary": ""
     },
     {
@@ -506,6 +610,14 @@
       "fedreg_document_number": "2026-01779"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "National School Choice Week, 2026",
+      "published_at": "2026-01-28T23:03:37Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/national-school-choice-week-2026/",
+      "summary": ""
+    },
+    {
       "category": "Compliance Watch",
       "source": "CDIA",
       "title": "2026 CDIA Consumer Reporting Roundtable agenda is now available!",
@@ -538,12 +650,28 @@
       "summary": "Federal Open Market Committee reaffirms its \"Statement on Longer-Run Goals and Monetary Policy Strategy\""
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "The Economic Impact of State Income Tax Elimination",
+      "published_at": "2026-01-28T18:12:57Z",
+      "url": "https://www.whitehouse.gov/research/2026/01/the-economic-impact-of-state-income-tax-elimination/",
+      "summary": ""
+    },
+    {
       "category": "Compliance Watch",
       "source": "CDIA",
       "title": "Comment Letter on the Consumer Financial Protection Bureau’s Consumer Response Intake Form",
       "published_at": "2026-01-28T17:10:58Z",
       "url": "https://www.cdiaonline.org/news/2026/01/28/comment-letter-on-the-consumer-financial-protection-bureaus-consumer-response-intake-form/",
       "summary": "This week, CDIA submitted formal comments advocating changes to the Consumer Finance Protection Bureau’s complaint portal. As with our prior comments and... The post Comment Letter on the Consumer Financial Protection Bureau’s Consumer Response Intake Form appeared first on CDIA ."
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "America 250: Presidential Message on the Anniversary of the Space Shuttle Challenger Disaster",
+      "published_at": "2026-01-28T16:05:49Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-space-shuttle-challenger-disaster/",
+      "summary": ""
     },
     {
       "category": "Payment Card Networks",
@@ -760,6 +888,38 @@
       "summary": "According to Zelle’s 2025 data report, 337 financial institutions either launched Zelle or signed up to use it, with 97% being community banks and credit unions holding less than $10 billion in assets. The report reveals: “Zelle already reaches 80% of U.S. bank and credit union accounts and last year was about widening access – […] The post Zelle expands across community banks…"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Iowa Families Are Winning Again Under President Trump’s Leadership",
+      "published_at": "2026-01-27T18:54:07Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/iowa-families-are-winning-again-under-president-trumps-leadership/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Addresses State and Local Failures to Rebuild Los Angeles After Wildfire Disasters",
+      "published_at": "2026-01-27T15:14:22Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-addresses-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Addressing State and Local Failures to Rebuild Los Angeles After Wildfire Disasters",
+      "published_at": "2026-01-27T14:57:37Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/addressing-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Presidential Message on International Holocaust Remembrance Day",
+      "published_at": "2026-01-27T13:42:41Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-international-holocaust-remembrance-day/",
+      "summary": ""
+    },
+    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2026-20805 Desktop Window Manager Information Disclosure Vulnerability",
@@ -823,6 +983,22 @@
         "filter:small-business"
       ],
       "fedreg_document_number": "2026-01549"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "President Trump Delivers Largest Tax Refund Season in U.S. History",
+      "published_at": "2026-01-26T22:21:10Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/president-trump-delivers-largest-tax-refund-season-in-u-s-history/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group",
+      "published_at": "2026-01-26T18:12:20Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/",
+      "summary": ""
     },
     {
       "category": "Payment Card Networks",
@@ -983,6 +1159,14 @@
       "fedreg_document_number": "2026-01398"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Continuance of the Federal Emergency Management Agency Review Council",
+      "published_at": "2026-01-24T00:00:00Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/continuance-of-the-federal-emergency-management-agency-review-council/",
+      "summary": ""
+    },
+    {
       "category": "Compliance Watch",
       "source": "TBA",
       "title": "Statement of TBA CEO Chris Furlow on card rate and interchange cap proposals",
@@ -991,12 +1175,36 @@
       "summary": "Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but “Government Price Fixing” “Card rate and interchange caps sound politically appealing but government price fixing always fails to solve affordability issues, and it ultimately leads to unintended economic consequences. Any serious consideration of the data shows card rate caps would hurt small businesse…"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "President Trump is the Most Pro-Life President in History",
+      "published_at": "2026-01-23T21:03:45Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/president-trump-is-the-most-pro-life-president-in-history/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Congressional Bill H.R. 4323 and H.R. 6938 Signed into Law",
+      "published_at": "2026-01-23T20:49:06Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-4323-and-h-r-6938-signed-into-law/",
+      "summary": ""
+    },
+    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "Chromium: CVE-2026-1220 Race in V8",
       "published_at": "2026-01-23T08:00:22Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1220",
       "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information."
+    },
+    {
+      "category": "OFAC",
+      "source": "OFAC",
+      "title": "Iran-related Designations; Issuance of Iran-related General License",
+      "published_at": "2026-01-23T00:00:00Z",
+      "url": "https://ofac.treasury.gov/recent-actions/20260123",
+      "summary": ""
     },
     {
       "category": "Mortgage",
@@ -1198,6 +1406,14 @@
       "summary": "The FDIC board voted to establish an independent office to hear banks’ appeals of the agency’s supervisory decisions. Comptroller Jonathan Gould also said the Office of the Comptroller of the Currency will review possible changes to its own supervisory appeals framework. The new Office of Supervisory Appeals will replace the Supervision Appeals Review Committee and […] The pos…"
     },
     {
+      "category": "OFAC",
+      "source": "OFAC",
+      "title": "Counter Narcotics Designations",
+      "published_at": "2026-01-22T00:00:00Z",
+      "url": "https://ofac.treasury.gov/recent-actions/20260122",
+      "summary": ""
+    },
+    {
       "category": "Mortgage",
       "source": "Freddie Mac",
       "title": "Mortgage Rates Remain the Lowest in Three Years",
@@ -1301,6 +1517,30 @@
         "filter:small-business"
       ],
       "fedreg_document_number": "2026-01104"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Stopping Wall Street from Competing with Main Street Homebuyers",
+      "published_at": "2026-01-21T00:14:03Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "National Day of Patriotic Devotion, 2026",
+      "published_at": "2026-01-21T00:12:22Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/national-day-of-patriotic-devotion-2026/",
+      "summary": ""
+    },
+    {
+      "category": "OFAC",
+      "source": "OFAC",
+      "title": "Counter Terrorism Designations and Designations Removals",
+      "published_at": "2026-01-21T00:00:00Z",
+      "url": "https://ofac.treasury.gov/recent-actions/20260121",
+      "summary": ""
     },
     {
       "category": "Fintech Watch",
@@ -1637,6 +1877,22 @@
       "fedreg_document_number": "2026-00889"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Martin Luther King, Jr., Federal Holiday, 2026",
+      "published_at": "2026-01-19T22:53:34Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/martin-luther-king-jr-federal-holiday-2026/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Religious Freedom Day, 2026",
+      "published_at": "2026-01-16T20:59:19Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/religious-freedom-day-2026/",
+      "summary": ""
+    },
+    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "Chromium: CVE-2026-0908 Use after free in ANGLE",
@@ -1733,6 +1989,14 @@
       "summary": "Microsoft Edge Elevation Service exposes a privileged COM interface that inadequately validates the privileges of the calling process. A standard (non‑administrator) local user can invoke the IElevatorEdge interface method LaunchUpdateCmdElevatedAndWait, causing the service to execute privileged update commands as LocalSystem. This allows a non‑administrator to enable or disab…"
     },
     {
+      "category": "OFAC",
+      "source": "OFAC",
+      "title": "Counter Terrorism Designations and Designation Update",
+      "published_at": "2026-01-16T00:00:00Z",
+      "url": "https://ofac.treasury.gov/recent-actions/20260116",
+      "summary": ""
+    },
+    {
       "category": "Banking",
       "source": "OCC",
       "title": "Featured Publications View All Publications",
@@ -1818,6 +2082,14 @@
       "published_at": "2026-01-15T16:00:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
       "summary": "Federal Reserve Board issues enforcement action with former employee of PrimeLending"
+    },
+    {
+      "category": "OFAC",
+      "source": "OFAC",
+      "title": "Iran-related Designations",
+      "published_at": "2026-01-15T00:00:00Z",
+      "url": "https://ofac.treasury.gov/recent-actions/20260115",
+      "summary": ""
     },
     {
       "category": "Mortgage",
@@ -1985,6 +2257,30 @@
         "filter:small-business"
       ],
       "fedreg_document_number": "2026-00641"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "ADJUSTING IMPORTS OF SEMICONDUCTORS, SEMICONDUCTOR MANUFACTURING EQUIPMENT, AND THEIR DERIVATIVE PRODUCTS INTO THE UNITED STATES",
+      "published_at": "2026-01-14T21:38:15Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Establishing a Second Emergency Board to Investigate Disputes Between the Long Island Rail Road Company and Certain of its Employees Represented by Certain Labor Organizations",
+      "published_at": "2026-01-14T21:21:10Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/establishing-a-second-emergency-board-to-investigate-disputes-between-the-long-island-rail-road-company-and-certain-of-its-employees-represented-by-certain-labor-organizations/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Adjusting Imports of Processed Critical Minerals and Their Derivative Products into the United States",
+      "published_at": "2026-01-14T21:13:17Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/",
+      "summary": ""
     },
     {
       "category": "Payments",
@@ -2262,6 +2558,14 @@
       "published_at": "2026-01-13T22:30:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
       "summary": "Federal Reserve Board announces approval of application by Fifth Third Bancorp"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Nominations Sent to the Senate",
+      "published_at": "2026-01-13T18:53:42Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-078c/",
+      "summary": ""
     },
     {
       "category": "Banking",
@@ -3309,6 +3613,14 @@
         "filter:small-business"
       ],
       "fedreg_document_number": "2026-00321"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Safeguarding Venezuelan Oil Revenue for the Good of the American and Venezuelan People",
+      "published_at": "2026-01-10T04:12:00Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/safeguarding-venezuelan-oil-revenue-for-the-good-of-the-american-and-venezuelan-people/",
+      "summary": ""
     },
     {
       "category": "Banking",
@@ -4861,6 +5173,22 @@
       "fedreg_document_number": "2026-00121"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Withdrawing the United States from International Organizations, Conventions, and Treaties that Are Contrary to the Interests of the United States",
+      "published_at": "2026-01-07T23:49:03Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/withdrawing-the-united-states-from-international-organizations-conventions-and-treaties-that-are-contrary-to-the-interests-of-the-united-states/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Prioritizing the Warfighter in Defense Contracting",
+      "published_at": "2026-01-07T23:38:15Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/prioritizing-the-warfighter-in-defense-contracting/",
+      "summary": ""
+    },
+    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2025-68343 can: gs_usb: gs_usb_receive_bulk_callback(): check actual_length before accessing header",
@@ -5461,6 +5789,14 @@
       "fedreg_document_number": "2025-24282"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Nominations Sent to the Senate",
+      "published_at": "2026-01-05T20:39:36Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-3f7b/",
+      "summary": ""
+    },
+    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2025-61594 URI Credential Leakage Bypass over CVE-2025-27221",
@@ -5817,6 +6153,14 @@
       "published_at": "2026-01-03T01:01:58Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-69277",
       "summary": "Information published."
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Regarding the Acquisition of Certain Assets of Emcore Corporation by Hiefo Corporation",
+      "published_at": "2026-01-02T21:37:35Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/01/regarding-the-acquisition-of-certain-assets-of-emcore-corporation-by-hiefo-corporation/",
+      "summary": ""
     },
     {
       "category": "Banking",

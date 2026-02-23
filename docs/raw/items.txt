@@ -1,3 +1,9 @@
+Executive
+White House
+2026-01-30T23:43:32Z
+Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
+https://www.whitehouse.gov/articles/2026/01/wide-acclaim-for-president-trumps-nomination-of-kevin-warsh-as-fed-chair/
+------------------------------------------------------------
 Banking
 FDIC
 2026-01-30T23:12:07Z
@@ -12,6 +18,18 @@ Federal Reserve Board announces approval of application by Cornerstone Capital B
 https://www.federalreserve.gov/newsevents/pressreleases/orders20260130a.htm
 Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.
 ------------------------------------------------------------
+Executive
+White House
+2026-01-30T17:35:30Z
+Celebrating American Greatness with American Motor Racing
+https://www.whitehouse.gov/presidential-actions/2026/01/celebrating-american-greatness-with-american-motor-racing/
+------------------------------------------------------------
+Executive
+White House
+2026-01-30T17:15:53Z
+Fact Sheet: President Donald J. Trump Celebrates American Greatness with the Freedom 250 Grand Prix of Washington, D.C.
+https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-american-greatness-with-the-freedom-250-grand-prix-of-washington-d-c/
+------------------------------------------------------------
 Banking
 FDIC
 2026-01-30T15:02:09Z
@@ -25,6 +43,12 @@ Microsoft MSRC
 Chromium: CVE-2026-1504 Inappropriate implementation in Background Fetch API
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1504
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-30T00:00:00Z
+Iran-related Designations; Counter Terrorism Designations; Non-Proliferation Designation Update and Designation Removal
+https://ofac.treasury.gov/recent-actions/20260130
 ------------------------------------------------------------
 IRS
 IRS
@@ -247,6 +271,36 @@ Federal Register
 Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 5110 (Corporate Financing Rule-Underwriting Terms and Arrangements) and 5123…
 https://www.federalregister.gov/documents/2026/01/30/2026-01825/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a
 ------------------------------------------------------------
+Executive
+White House
+2026-01-29T23:03:47Z
+Addressing Threats to the United States by the Government of Cuba
+https://www.whitehouse.gov/presidential-actions/2026/01/addressing-threats-to-the-united-states-by-the-government-of-cuba/
+------------------------------------------------------------
+Executive
+White House
+2026-01-29T23:02:40Z
+Addressing Addiction through the Great American Recovery Initiative
+https://www.whitehouse.gov/presidential-actions/2026/01/addressing-addiction-through-the-great-american-recovery-initiative/
+------------------------------------------------------------
+Executive
+White House
+2026-01-29T23:02:04Z
+Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Cuba
+https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-cuba/
+------------------------------------------------------------
+Executive
+White House
+2026-01-29T22:58:35Z
+Year of Celebration and Rededication, 2026
+https://www.whitehouse.gov/presidential-actions/2026/01/year-of-celebration-and-rededication-2026/
+------------------------------------------------------------
+Executive
+White House
+2026-01-29T22:56:02Z
+Fact Sheet: President Donald J. Trump Launches the Great American Recovery Initiative to Address the Addiction Crisis
+https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-launches-the-great-american-recovery-initiative-to-address-the-addiction-crisis/
+------------------------------------------------------------
 Payment Card Networks
 Visa
 2026-01-29T21:05:00Z
@@ -260,6 +314,24 @@ FRB
 Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)
 https://www.federalreserve.gov/newsevents/pressreleases/other20260129a.htm
 Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)
+------------------------------------------------------------
+Executive
+White House
+2026-01-29T16:40:17Z
+Border Czar Affirms Commitment to Public Safety, Removing Violent Criminals in Minnesota
+https://www.whitehouse.gov/articles/2026/01/border-czar-affirms-commitment-to-public-safety-removing-violent-criminals-in-minnesota/
+------------------------------------------------------------
+Executive
+White House
+2026-01-29T15:18:17Z
+CEQ Demos Tech to Speed Up Federal Environmental Reviews – CE Works
+https://www.whitehouse.gov/articles/2026/01/ceq-demos-tech-to-speed-up-federal-environmental-reviews-ce-works/
+------------------------------------------------------------
+Executive
+White House
+2026-01-29T15:03:42Z
+America 250: Presidential Message on the Birthday of President William McKinley
+https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-birthday-of-president-william-mckinley/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -279,6 +351,12 @@ NACHA
 2026-01-29T07:44:05Z
 Same Day ACH
 https://www.nacha.org/taxonomy/term/337
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-29T00:00:00Z
+Issuance of Venezuela-related General License
+https://ofac.treasury.gov/recent-actions/20260129
 ------------------------------------------------------------
 IRS
 IRS
@@ -357,6 +435,12 @@ Reporting and Recordkeeping Requirements Under Office of Management and Budget R
 https://www.federalregister.gov/documents/2026/01/29/2026-01779/reporting-and-recordkeeping-requirements-under-office-of-management-and-budget-review
 The Small Business Administration (SBA) will submit the information collection described below to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, as amended, on or after the date of publication of this notice. SBA is publishing this notice to allow all interested members of the public an additional 30 d…
 ------------------------------------------------------------
+Executive
+White House
+2026-01-28T23:03:37Z
+National School Choice Week, 2026
+https://www.whitehouse.gov/presidential-actions/2026/01/national-school-choice-week-2026/
+------------------------------------------------------------
 Compliance Watch
 CDIA
 2026-01-28T22:00:53Z
@@ -385,12 +469,24 @@ Federal Open Market Committee reaffirms its "Statement on Longer-Run Goals and M
 https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128b.htm
 Federal Open Market Committee reaffirms its "Statement on Longer-Run Goals and Monetary Policy Strategy"
 ------------------------------------------------------------
+Executive
+White House
+2026-01-28T18:12:57Z
+The Economic Impact of State Income Tax Elimination
+https://www.whitehouse.gov/research/2026/01/the-economic-impact-of-state-income-tax-elimination/
+------------------------------------------------------------
 Compliance Watch
 CDIA
 2026-01-28T17:10:58Z
 Comment Letter on the Consumer Financial Protection Bureau’s Consumer Response Intake Form
 https://www.cdiaonline.org/news/2026/01/28/comment-letter-on-the-consumer-financial-protection-bureaus-consumer-response-intake-form/
 This week, CDIA submitted formal comments advocating changes to the Consumer Finance Protection Bureau’s complaint portal. As with our prior comments and... The post Comment Letter on the Consumer Financial Protection Bureau’s Consumer Response Intake Form appeared first on CDIA .
+------------------------------------------------------------
+Executive
+White House
+2026-01-28T16:05:49Z
+America 250: Presidential Message on the Anniversary of the Space Shuttle Challenger Disaster
+https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-space-shuttle-challenger-disaster/
 ------------------------------------------------------------
 Payment Card Networks
 Visa
@@ -528,6 +624,30 @@ Zelle expands across community banks, data reveals
 https://www.texasbankers.com/zelle-expands-across-community-banks-data-reveals/
 According to Zelle’s 2025 data report, 337 financial institutions either launched Zelle or signed up to use it, with 97% being community banks and credit unions holding less than $10 billion in assets. The report reveals: “Zelle already reaches 80% of U.S. bank and credit union accounts and last year was about widening access – […] The post Zelle expands across community banks…
 ------------------------------------------------------------
+Executive
+White House
+2026-01-27T18:54:07Z
+Iowa Families Are Winning Again Under President Trump’s Leadership
+https://www.whitehouse.gov/articles/2026/01/iowa-families-are-winning-again-under-president-trumps-leadership/
+------------------------------------------------------------
+Executive
+White House
+2026-01-27T15:14:22Z
+Fact Sheet: President Donald J. Trump Addresses State and Local Failures to Rebuild Los Angeles After Wildfire Disasters
+https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-addresses-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/
+------------------------------------------------------------
+Executive
+White House
+2026-01-27T14:57:37Z
+Addressing State and Local Failures to Rebuild Los Angeles After Wildfire Disasters
+https://www.whitehouse.gov/presidential-actions/2026/01/addressing-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/
+------------------------------------------------------------
+Executive
+White House
+2026-01-27T13:42:41Z
+Presidential Message on International Holocaust Remembrance Day
+https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-international-holocaust-remembrance-day/
+------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-27T08:00:00Z
@@ -569,6 +689,18 @@ Federal Register
 Reflectorization of Rail Freight Rolling Stock; Codifying Existing Waivers
 https://www.federalregister.gov/documents/2026/01/27/2026-01549/reflectorization-of-rail-freight-rolling-stock-codifying-existing-waivers
 This rule amends the standards for Reflectorization of Rail Freight Rolling Stock (Reflectorization Standards or Part 224) to codify waivers and remove the outdated implementation schedule. The changes are expected to enhance safety, promote innovation, clarify existing requirements, and reduce unnecessary paperwork burdens. The amendments are consistent with the mandate of th…
+------------------------------------------------------------
+Executive
+White House
+2026-01-26T22:21:10Z
+President Trump Delivers Largest Tax Refund Season in U.S. History
+https://www.whitehouse.gov/articles/2026/01/president-trump-delivers-largest-tax-refund-season-in-u-s-history/
+------------------------------------------------------------
+Executive
+White House
+2026-01-26T18:12:20Z
+Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group
+https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/
 ------------------------------------------------------------
 Payment Card Networks
 Visa
@@ -658,6 +790,12 @@ Drawbridge Operation Regulation; Inside Thorofare, Ventnor City, New Jersey
 https://www.federalregister.gov/documents/2026/01/26/2026-01398/drawbridge-operation-regulation-inside-thorofare-ventnor-city-new-jersey
 The Coast Guard is changing the operating schedule that governs the Dorset Avenue Bridge across Inside Thorofare, mile 72.1, at Ventnor City, NJ. The final rule will allow the drawbridge to only open between the hours of 11 p.m. to 7 a.m., if at least four hours' notice is given.
 ------------------------------------------------------------
+Executive
+White House
+2026-01-24T00:00:00Z
+Continuance of the Federal Emergency Management Agency Review Council
+https://www.whitehouse.gov/presidential-actions/2026/01/continuance-of-the-federal-emergency-management-agency-review-council/
+------------------------------------------------------------
 Compliance Watch
 TBA
 2026-01-23T21:23:14Z
@@ -665,12 +803,30 @@ Statement of TBA CEO Chris Furlow on card rate and interchange cap proposals
 https://www.texasbankers.com/statement-of-tba-ceo-chris-furlow-on-card-rate-and-interchange-cap-proposals/
 Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but “Government Price Fixing” “Card rate and interchange caps sound politically appealing but government price fixing always fails to solve affordability issues, and it ultimately leads to unintended economic consequences. Any serious consideration of the data shows card rate caps would hurt small businesse…
 ------------------------------------------------------------
+Executive
+White House
+2026-01-23T21:03:45Z
+President Trump is the Most Pro-Life President in History
+https://www.whitehouse.gov/articles/2026/01/president-trump-is-the-most-pro-life-president-in-history/
+------------------------------------------------------------
+Executive
+White House
+2026-01-23T20:49:06Z
+Congressional Bill H.R. 4323 and H.R. 6938 Signed into Law
+https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-4323-and-h-r-6938-signed-into-law/
+------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-23T08:00:22Z
 Chromium: CVE-2026-1220 Race in V8
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1220
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-23T00:00:00Z
+Iran-related Designations; Issuance of Iran-related General License
+https://ofac.treasury.gov/recent-actions/20260123
 ------------------------------------------------------------
 Mortgage
 FHLB MPF
@@ -811,6 +967,12 @@ FDIC adopts independent supervisory appeals office
 https://www.texasbankers.com/fdic-adopts-independent-supervisory-appeals-office/
 The FDIC board voted to establish an independent office to hear banks’ appeals of the agency’s supervisory decisions. Comptroller Jonathan Gould also said the Office of the Comptroller of the Currency will review possible changes to its own supervisory appeals framework. The new Office of Supervisory Appeals will replace the Supervision Appeals Review Committee and […] The pos…
 ------------------------------------------------------------
+OFAC
+OFAC
+2026-01-22T00:00:00Z
+Counter Narcotics Designations
+https://ofac.treasury.gov/recent-actions/20260122
+------------------------------------------------------------
 Mortgage
 Freddie Mac
 2026-01-22T00:00:00Z
@@ -871,6 +1033,24 @@ Federal Register
 Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority
 https://www.federalregister.gov/documents/2026/01/22/2026-01104/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated
 As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collec…
+------------------------------------------------------------
+Executive
+White House
+2026-01-21T00:14:03Z
+Stopping Wall Street from Competing with Main Street Homebuyers
+https://www.whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers/
+------------------------------------------------------------
+Executive
+White House
+2026-01-21T00:12:22Z
+National Day of Patriotic Devotion, 2026
+https://www.whitehouse.gov/presidential-actions/2026/01/national-day-of-patriotic-devotion-2026/
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-21T00:00:00Z
+Counter Terrorism Designations and Designations Removals
+https://ofac.treasury.gov/recent-actions/20260121
 ------------------------------------------------------------
 Fintech Watch
 Fiserv
@@ -1068,6 +1248,18 @@ Information Collection Being Reviewed by the Federal Communications Commission
 https://www.federalregister.gov/documents/2026/01/20/2026-00889/information-collection-being-reviewed-by-the-federal-communications-commission
 As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collectio…
 ------------------------------------------------------------
+Executive
+White House
+2026-01-19T22:53:34Z
+Martin Luther King, Jr., Federal Holiday, 2026
+https://www.whitehouse.gov/presidential-actions/2026/01/martin-luther-king-jr-federal-holiday-2026/
+------------------------------------------------------------
+Executive
+White House
+2026-01-16T20:59:19Z
+Religious Freedom Day, 2026
+https://www.whitehouse.gov/presidential-actions/2026/01/religious-freedom-day-2026/
+------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-16T20:08:26Z
@@ -1152,6 +1344,12 @@ CVE-2026-21223 Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerabi
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21223
 Microsoft Edge Elevation Service exposes a privileged COM interface that inadequately validates the privileges of the calling process. A standard (non‑administrator) local user can invoke the IElevatorEdge interface method LaunchUpdateCmdElevatedAndWait, causing the service to execute privileged update commands as LocalSystem. This allows a non‑administrator to enable or disab…
 ------------------------------------------------------------
+OFAC
+OFAC
+2026-01-16T00:00:00Z
+Counter Terrorism Designations and Designation Update
+https://ofac.treasury.gov/recent-actions/20260116
+------------------------------------------------------------
 Banking
 OCC
 2026-01-16T00:00:00Z
@@ -1207,6 +1405,12 @@ FRB
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
 https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-15T00:00:00Z
+Iran-related Designations
+https://ofac.treasury.gov/recent-actions/20260115
 ------------------------------------------------------------
 Mortgage
 Freddie Mac
@@ -1295,6 +1499,24 @@ Federal Register
 2026-01-15T00:00:00Z
 Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 17d-1
 https://www.federalregister.gov/documents/2026/01/15/2026-00641/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17d-1
+------------------------------------------------------------
+Executive
+White House
+2026-01-14T21:38:15Z
+ADJUSTING IMPORTS OF SEMICONDUCTORS, SEMICONDUCTOR MANUFACTURING EQUIPMENT, AND THEIR DERIVATIVE PRODUCTS INTO THE UNITED STATES
+https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/
+------------------------------------------------------------
+Executive
+White House
+2026-01-14T21:21:10Z
+Establishing a Second Emergency Board to Investigate Disputes Between the Long Island Rail Road Company and Certain of its Employees Represented by Certain Labor Organizations
+https://www.whitehouse.gov/presidential-actions/2026/01/establishing-a-second-emergency-board-to-investigate-disputes-between-the-long-island-rail-road-company-and-certain-of-its-employees-represented-by-certain-labor-organizations/
+------------------------------------------------------------
+Executive
+White House
+2026-01-14T21:13:17Z
+Adjusting Imports of Processed Critical Minerals and Their Derivative Products into the United States
+https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/
 ------------------------------------------------------------
 Payments
 NACHA
@@ -1446,6 +1668,12 @@ FRB
 Federal Reserve Board announces approval of application by Fifth Third Bancorp
 https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm
 Federal Reserve Board announces approval of application by Fifth Third Bancorp
+------------------------------------------------------------
+Executive
+White House
+2026-01-13T18:53:42Z
+Nominations Sent to the Senate
+https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-078c/
 ------------------------------------------------------------
 Banking
 FDIC
@@ -2311,6 +2539,12 @@ Federal Register
 Adjustment to Premium Processing Fees
 https://www.federalregister.gov/documents/2026/01/12/2026-00321/adjustment-to-premium-processing-fees
 The Department of Homeland Security (DHS) is increasing premium processing fees charged by U.S. Citizenship and Immigration Services (USCIS) to reflect the amount of inflation from June 2023 through June 2025 according to the Consumer Price Index for All Urban Consumers.
+------------------------------------------------------------
+Executive
+White House
+2026-01-10T04:12:00Z
+Safeguarding Venezuelan Oil Revenue for the Good of the American and Venezuelan People
+https://www.whitehouse.gov/presidential-actions/2026/01/safeguarding-venezuelan-oil-revenue-for-the-good-of-the-american-and-venezuelan-people/
 ------------------------------------------------------------
 Banking
 FRB
@@ -3610,6 +3844,18 @@ Reissuance and Modification of Nationwide Permits
 https://www.federalregister.gov/documents/2026/01/08/2026-00121/reissuance-and-modification-of-nationwide-permits
 Nationwide Permits (NWPs) authorize activities under Section 404 of the Clean Water Act and Section 10 of the Rivers and Harbors Act of 1899 that have no more than minimal individual and cumulative adverse environmental effects. The NWPs help protect the aquatic environment and the public interest by providing incentives to reduce impacts to jurisdictional waters. In this fina…
 ------------------------------------------------------------
+Executive
+White House
+2026-01-07T23:49:03Z
+Withdrawing the United States from International Organizations, Conventions, and Treaties that Are Contrary to the Interests of the United States
+https://www.whitehouse.gov/presidential-actions/2026/01/withdrawing-the-united-states-from-international-organizations-conventions-and-treaties-that-are-contrary-to-the-interests-of-the-united-states/
+------------------------------------------------------------
+Executive
+White House
+2026-01-07T23:38:15Z
+Prioritizing the Warfighter in Defense Contracting
+https://www.whitehouse.gov/presidential-actions/2026/01/prioritizing-the-warfighter-in-defense-contracting/
+------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-07T14:41:20Z
@@ -4078,6 +4324,12 @@ Notice Regarding Investigatory and Enforcement Policies and Procedures of the Of
 https://www.federalregister.gov/documents/2026/01/06/2025-24282/notice-regarding-investigatory-and-enforcement-policies-and-procedures-of-the-office-of-aviation
 The U.S. Department of Transportation is proposing to revise and update the investigatory and enforcement policies and practices of its Office of Aviation Consumer Protection (OACP), including the sanctions brought by OACP for non-compliance with aviation consumer protection requirements.
 ------------------------------------------------------------
+Executive
+White House
+2026-01-05T20:39:36Z
+Nominations Sent to the Senate
+https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-3f7b/
+------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-05T14:36:39Z
@@ -4385,6 +4637,12 @@ Microsoft MSRC
 CVE-2025-69277 libsodium before ad3004e, in atypical use cases involving certain custom cryptography or untrusted data to crypto_core_ed25519_is_valid_point, mishandles checks for whether an elliptic curve point is vali…
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-69277
 Information published.
+------------------------------------------------------------
+Executive
+White House
+2026-01-02T21:37:35Z
+Regarding the Acquisition of Certain Assets of Emcore Corporation by Hiefo Corporation
+https://www.whitehouse.gov/presidential-actions/2026/01/regarding-the-acquisition-of-certain-assets-of-emcore-corporation-by-hiefo-corporation/
 ------------------------------------------------------------
 Banking
 FDIC

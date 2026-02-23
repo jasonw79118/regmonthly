@@ -46,12 +46,14 @@ PUBLIC_BASE = "https://jasonw79118.github.io/regmonthly"
 WINDOW_DAYS = 14
 
 # Bump caps so Visa/Mastercard can resolve dates for more listing links
-MAX_LISTING_LINKS = 260
-GLOBAL_DETAIL_FETCH_CAP = 260
+MAX_LISTING_LINKS = 800  # monthly: allow more listing links
+GLOBAL_DETAIL_FETCH_CAP = 420  # monthly: allow more detail fetches
 REQUEST_DELAY_SEC = 0.12
 
 PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
     "IRS": 70,
+    "Senate Banking": 80,
+    "FinCEN": 120,
     "USDA Rural Development": 55,
     "Mastercard": 120,
     "Visa": 160,
@@ -63,14 +65,14 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
     "Jack Henry": 25,
     "Finastra": 20,
     "TCS": 25,
-    "OFAC": 45,
-    "Treasury": 60,
+    "OFAC": 120,
+    "Treasury": 120,
     "OCC": 25,
     "FDIC": 25,
     "FRB": 30,
     "FRB Payments": 30,
     "NACHA": 25,
-    "White House": 45,
+    "White House": 120,
     "Federal Register": 0,  # API only
     "BleepingComputer": 0,  # feed-only
     "Microsoft MSRC": 0,    # feed-only
@@ -98,6 +100,7 @@ UA = "regmonthly/1.0 (+https://github.com/jasonw79118/regmonthly)"
 CATEGORY_BY_SOURCE: Dict[str, str] = {
     "OFAC": "OFAC",
     "Treasury": "OFAC",
+    "FinCEN": "OFAC",
     "IRS": "IRS",
 
     # Payments tile
@@ -283,6 +286,11 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
     "Treasury": {
         "allow_domains": {"home.treasury.gov"},
         "allow_path_prefixes": {"/news/press-releases"},
+    },
+
+    "FinCEN": {
+        "allow_domains": {"www.fincen.gov", "fincen.gov"},
+        "allow_path_prefixes": {"/news-room"},
     },
 
     "White House": {
@@ -1635,7 +1643,117 @@ def ofac_date_from_url(url: str) -> Optional[datetime]:
         return None
 
 
-def ofac_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+
+PAGINATION_MAX_PAGES = 10  # monthly: crawl more listing pages where available
+
+
+def _find_next_page_url(page_url: str, html: str) -> Optional[str]:
+    """Best-effort 'next/older' page discovery for paginated listings."""
+    try:
+        soup = BeautifulSoup(html, "html.parser")
+    except Exception:
+        return None
+
+    # <link rel="next" href="...">
+    for ln in soup.find_all("link", href=True):
+        rel = ln.get("rel") or []
+        if isinstance(rel, str):
+            rel = [rel]
+        rel = [r.lower() for r in rel]
+        if "next" in rel:
+            href = (ln.get("href") or "").strip()
+            if href:
+                return canonical_url(urljoin(page_url, href))
+
+    # <a rel="next"> or obvious pager links
+    candidates = []
+    for a in soup.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#") or href.lower().startswith("javascript:"):
+            continue
+        rel = a.get("rel") or []
+        if isinstance(rel, str):
+            rel = [rel]
+        rel = [r.lower() for r in rel]
+
+        txt_a = clean_text(a.get_text(" ", strip=True), 80).lower()
+        if "next" in rel or "next" in txt_a or "older" in txt_a or "›" in txt_a or "»" in txt_a:
+            candidates.append(href)
+
+        # common patterns
+        if re.search(r"(\?|&)page=\d+", href) or "/page/" in href:
+            # only if it looks like a pager control
+            if "page" in txt_a or "older" in txt_a or "next" in txt_a:
+                candidates.append(href)
+
+    for href in candidates:
+        try:
+            u = canonical_url(urljoin(page_url, href))
+            if u != canonical_url(page_url):
+                return u
+        except Exception:
+            continue
+
+    return None
+
+
+def _paginate_listing(
+    source: str,
+    first_url: str,
+    first_html: str,
+    window_start: Optional[datetime],
+    single_page_fn,
+) -> List[Tuple[str, str, Optional[datetime]]]:
+    """Fetch multiple listing pages until we likely cover window_start."""
+    out: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    cur_url = first_url
+    cur_html = first_html
+
+    for _i in range(PAGINATION_MAX_PAGES):
+        batch = single_page_fn(cur_url, cur_html) or []
+        for t, u, d in batch:
+            if not u or u in seen:
+                continue
+            seen.add(u)
+            out.append((t, u, d))
+            if len(out) >= MAX_LISTING_LINKS:
+                return out[:MAX_LISTING_LINKS]
+
+        # Stop when the current page clearly reaches (or goes older than) the window start.
+        if window_start:
+            dts = [d for _t, _u, d in batch if d]
+            if dts and min(dts) <= window_start:
+                # We likely have enough depth to include the full month.
+                break
+
+        next_url = _find_next_page_url(cur_url, cur_html)
+        if not next_url or canonical_url(next_url) == canonical_url(cur_url):
+            break
+
+        nxt_html = polite_get(next_url)
+        if not nxt_html:
+            break
+
+        cur_url, cur_html = next_url, nxt_html
+
+    return out
+
+
+def ofac_links(page_url: str, html: str, window_start: Optional[datetime]) -> List[Tuple[str, str, Optional[datetime]]]:
+    return _paginate_listing("OFAC", page_url, html, window_start, ofac_links_single)
+
+
+def treasury_links(page_url: str, html: str, window_start: Optional[datetime]) -> List[Tuple[str, str, Optional[datetime]]]:
+    return _paginate_listing("Treasury", page_url, html, window_start, treasury_links_single)
+
+
+def whitehouse_links(page_url: str, html: str, window_start: Optional[datetime]) -> List[Tuple[str, str, Optional[datetime]]]:
+    return _paginate_listing("White House", page_url, html, window_start, whitehouse_links_single)
+
+
+def ofac_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
     if not container:
@@ -1681,7 +1799,7 @@ def ofac_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
     return links
 
 
-def whitehouse_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+def whitehouse_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
     if not container:
@@ -1896,6 +2014,109 @@ def wolterskluwer_news_links(page_url: str, html: str) -> List[Tuple[str, str, O
     links.sort(key=lambda t: (t[2] is None, t[2] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
     return links[:MAX_LISTING_LINKS]
 
+
+def senate_banking_links(page_url: str, html: str, window_start: Optional[datetime]) -> List[Tuple[str, str, Optional[datetime]]]:
+    return _paginate_listing("Senate Banking", page_url, html, window_start, senate_banking_links_single)
+
+
+def senate_banking_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen = set()
+
+    # Try common newsroom patterns (press releases, statements, hearings)
+    for a in container.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#"):
+            continue
+
+        # Keep only likely article links
+        if "/newsroom/" not in href and "/news/" not in href:
+            continue
+        if any(x in href for x in ["/videos", "/in-the-news"]):
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("Senate Banking", url):
+            continue
+
+        raw_title = (a.get_text(" ", strip=True) or "").strip()
+        title = clean_text(raw_title, 220)
+        if not title or len(title) < 8:
+            continue
+
+        if url in seen:
+            continue
+        seen.add(url)
+
+        dt = find_time_near_anchor(a, "Senate Banking")
+        if dt is None:
+            wrap = a.find_parent(["article", "div", "li", "section", "p"]) or a.parent
+            if wrap:
+                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1200), source="Senate Banking")
+
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    return links
+
+
+def fincen_links(page_url: str, html: str, window_start: Optional[datetime]) -> List[Tuple[str, str, Optional[datetime]]]:
+    return _paginate_listing("FinCEN", page_url, html, window_start, fincen_links_single)
+
+
+def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen = set()
+
+    for a in container.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#"):
+            continue
+
+        # FinCEN uses /news-room/ and sometimes /sites/default/files/ PDFs; keep only HTML newsroom items
+        if "/news-room/" not in href and "/news-room" not in href:
+            continue
+        if href.lower().endswith(".pdf"):
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("FinCEN", url):
+            continue
+
+        raw_title = (a.get_text(" ", strip=True) or "").strip()
+        title = clean_text(raw_title, 220)
+        if not title or len(title) < 8:
+            continue
+
+        if url in seen:
+            continue
+        seen.add(url)
+
+        dt = find_time_near_anchor(a, "FinCEN")
+        if dt is None:
+            wrap = a.find_parent(["article", "div", "li", "section", "p"]) or a.parent
+            if wrap:
+                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1200), source="FinCEN")
+
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    return links
+
+
+
 def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
@@ -2103,7 +2324,7 @@ def treasury_date_from_listing_context(a: Any) -> Optional[datetime]:
     return None
 
 
-def treasury_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+def treasury_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
     if not container:
@@ -2640,13 +2861,18 @@ def finastra_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[da
 # MAIN CONTENT LINK ROUTER
 # ============================
 
-def main_content_links(source: str, page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+def main_content_links(source: str, page_url: str, html: str, window_start: datetime, window_end: datetime) -> List[Tuple[str, str, Optional[datetime]]]:
     if source == "OFAC":
-        return ofac_links(page_url, html)
+        return ofac_links(page_url, html, window_start)
     if source == "Treasury":
-        return treasury_links(page_url, html)
+        return treasury_links(page_url, html, window_start)
     if source == "White House":
-        return whitehouse_links(page_url, html)
+        return whitehouse_links(page_url, html, window_start)
+    if source == "Senate Banking":
+        return senate_banking_links(page_url, html, window_start)
+    if source == "FinCEN":
+        return fincen_links(page_url, html, window_start)
+
     if source == "Mastercard":
         return mastercard_links(page_url, html)
     if source == "Visa":
@@ -2770,6 +2996,10 @@ def get_start_pages() -> List[SourcePage]:
 
         # Treasury Press Releases (OFAC tile)
         SourcePage("Treasury", "https://home.treasury.gov/news/press-releases"),
+
+        # FinCEN (OFAC/AML tile)
+        SourcePage("FinCEN", "https://www.fincen.gov/news-room"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news-room/news-releases"),
 
         # IRS
         SourcePage("IRS", "https://www.irs.gov/newsroom"),
@@ -3127,7 +3357,7 @@ def build() -> None:
                     print(f"[feed] {len(got)} items from {fu}", flush=True)
             print(f"[feed] total: {feed_items_total} | feeds found: {len(feed_urls)}", flush=True)
 
-            listing_links = main_content_links(source, page_url, html)
+            listing_links = main_content_links(source, page_url, html, window_start, window_end)
             print(f"[list] links captured: {len(listing_links)}", flush=True)
 
             src_used = per_source_detail_fetches.get(source, 0)
@@ -3198,7 +3428,7 @@ def build() -> None:
 
         gained = len(all_items) - source_items_before
         if gained == 0:
-            print("[note] no qualifying items in rolling window (or blocked/changed).", flush=True)
+            print("[note] no qualifying items in month window (or blocked/changed).", flush=True)
 
     # ---- DEDUPE (with preference rules) ----
     dedup: Dict[str, Dict[str, Any]] = {}
