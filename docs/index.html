@@ -468,7 +468,7 @@ if (lower === "fintech watch" || lower === "fintech") return "Fintech Watch";
         if (rr) {
           const start = fmtDate(data.window_start);
           const end = fmtDate(data.window_end);
-          rr.textContent = (start && end) ? `${start} → ${end} (UTC)` : "";
+          rr.textContent = (start && end) ? `${start} → ${end} (CT)` : "";
           rr.style.display = rr.textContent ? "inline-flex" : "none";
         }
 

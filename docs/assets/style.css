@@ -331,3 +331,118 @@ footer hr{
   padding-bottom: 10px;
   z-index: 2;
 }
+
+
+/* ============================
+   Header layout (match RegDashboard placement)
+   Keep RegMonthly colors
+   ============================ */
+
+header{
+  background: var(--header-grad);
+  color: rgba(255,255,255,.95);
+  padding: 14px 18px; /* slimmer like RegDashboard */
+  text-align: left;   /* override legacy centered header */
+}
+
+.brand{
+  max-width: 1180px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 14px;
+}
+
+.brand-left{
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;          /* tight gap between logo and title */
+  min-width: 0;
+}
+
+.brand-logo-img{
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  display: block;
+}
+
+.brand-text h1{
+  margin: 0;
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: .2px;
+  line-height: 1.1;
+  color: rgba(255,255,255,.98);
+}
+
+.brand-center{
+  display: flex;
+  justify-content: center;
+  min-width: 0;
+}
+
+.report-range{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: rgba(255,255,255,.16);
+  border: 1px solid rgba(255,255,255,.22);
+  backdrop-filter: blur(6px);
+  font-size: 13px;
+  line-height: 1;
+  color: rgba(255,255,255,.92);
+  white-space: nowrap;
+}
+
+.brand-actions{
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.btn{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 9px 14px;
+  border: 1px solid rgba(255,255,255,.25);
+  border-radius: 999px;
+  color: rgba(255,255,255,.95);
+  background: rgba(255,255,255,.12);
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.btn:hover{
+  background: rgba(255,255,255,.18);
+  text-decoration: none;
+}
+
+/* Keep a slightly stronger primary button like RegDashboard */
+.btn-primary{
+  background: rgba(255,255,255,.18);
+  border-color: rgba(255,255,255,.28);
+}
+
+.btn-primary:hover{
+  background: rgba(255,255,255,.24);
+}
+
+/* Responsive: stack center under left, keep actions accessible */
+@media (max-width: 820px){
+  .brand{
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+    gap: 10px;
+  }
+  .brand-left{ justify-content: center; }
+  .brand-actions{ justify-content: center; }
+  header{ text-align: center; }
+}
