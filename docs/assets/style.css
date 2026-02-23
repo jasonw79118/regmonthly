@@ -446,3 +446,42 @@ header{
   .brand-actions{ justify-content: center; }
   header{ text-align: center; }
 }
+
+
+/* ============================
+   Federal Register filter placement + sizing
+   - Match RegDashboard dropdown sizing
+   - Keep positioned under "Federal Register" title
+   - Stay visible while list scrolls (list scrolls in .tile-body)
+   ============================ */
+
+.tile-head .fr-filters{
+  margin: 10px 0 0 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+}
+
+.fr-label{
+  font-size: 12px;
+  font-weight: 600;
+  color: rgba(2,6,23,.70);
+}
+
+.fr-select{
+  width: 100%;
+  max-width: 100%;
+  height: 36px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: #ffffff;
+  color: rgba(2,6,23,.92);
+  font-size: 13px;
+  outline: none;
+}
+
+.fr-select:focus{
+  box-shadow: 0 0 0 3px rgba(59,130,246,.25);
+  border-color: rgba(59,130,246,.55);
+}

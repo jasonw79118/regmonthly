@@ -362,13 +362,15 @@ if (lower === "fintech watch" || lower === "fintech") return "Fintech Watch";
         const filtersWrap = document.createElement("div");
         const listWrap = document.createElement("div");
 
+        // ✅ Place the filter directly under the title, above the pencil line (tile-head border)
+        head.appendChild(filtersWrap);
+
         const rerender = () => {
           const filtered = groupItemsAll.filter(it => frItemMatches(it, selectedFedRegTag));
           renderFedRegDropdown(filtersWrap, groupItemsAll, rerender);
           renderItemsList(listWrap, filtered);
         };
 
-        body.appendChild(filtersWrap);
         body.appendChild(listWrap);
         rerender(); // initial render
       } else {
