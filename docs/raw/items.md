@@ -1,7 +1,7 @@
-# RegMonthly — Export
+# RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-16T12:21:49-06:00` (CT) — `2026-02-16T18:21:49Z` (UTC)
+Last updated: `2026-02-23T11:19:41-06:00` (CT) — `2026-02-23T17:19:41Z` (UTC)
 
 ## Press Release: First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois
 - Source: FDIC
@@ -34,12 +34,6 @@ PRESS RELEASE | JANUARY 30, 2026 FDIC Publishes Enforcement Orders for December 
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1504
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
-
-## Iran-related Designations; Counter Terrorism Designations; Non-Proliferation Designation Update and Designation Removal
-- Source: OFAC
-- Category: OFAC
-- Published: 2026-01-30T00:00:00Z
-- URL: https://ofac.treasury.gov/recent-actions/20260130
 
 ## IRS announces 2026 Tax Counseling for the Elderly and Volunteer Income Tax Assistance Program Grants
 - Source: IRS
@@ -209,6 +203,14 @@ The Office of the Comptroller of the Currency and the Federal Deposit Insurance 
 
 The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the CRA. The list covers evaluation ratings that the FDIC assign
 
+## Visa Fiscal First Quarter 2026 Financial Results
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-01-29T21:05:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22086.html
+
+SAN FRANCISCO --(BUSINESS WIRE)--Jan. 29, 2026-- Visa (NYSE: V) today announced its fiscal first quarter 2026 financial results through an earnings release that will be furnished with the Securities and Exchange Commission on a Form 8-K and available on its Investor Relations website at
+
 ## Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)
 - Source: FRB
 - Category: Payments
@@ -247,59 +249,37 @@ IR-2026-18, Jan. 29, 2026 — The Internal Revenue Service is accepting applicat
 - Published: 2026-01-29T00:00:00Z
 - URL: https://www.globenewswire.com/news-release/2026/01/29/3228937/0/en/Mortgage-Rates-Remain-Lower-and-Steady.html
 
-## Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026
-- Source: Visa
-- Category: Payment Card Networks
+## FDIC Official Signs, Advertisement of Membership, False Advertising, Misrepresentation of Insured Status, and Misuse of the FDIC's Name or Logo
+- Source: Federal Register
+- Category: Federal Register
 - Published: 2026-01-29T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html
+- URL: https://www.federalregister.gov/documents/2026/01/29/2026-01806/fdic-official-signs-advertisement-of-membership-false-advertising-misrepresentation-of-insured
 
-## Visa to Participate in Upcoming Investor Conferences
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-29T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html
+The Federal Deposit Insurance Corporation (FDIC) is amending its signage requirements for insured depository institutions' (IDIs) digital deposit-taking channels and automated teller machines (ATMs) and like devices. This final rule is intended to address implementation issues and sources of potential confusion raised following the adoption of signage requirements for these ba…
 
-## Visa Introduces Visa & Main, A New Platform to Accelerate Small Business Growth Across the U.S.
-- Source: Visa
-- Category: Payment Card Networks
+## Improving SBA Disaster Loan Ability To Provide Meaningful and Timely Assistance
+- Source: Federal Register
+- Category: Federal Register
 - Published: 2026-01-29T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22121.html
+- URL: https://www.federalregister.gov/documents/2026/01/29/2026-01797/improving-sba-disaster-loan-ability-to-provide-meaningful-and-timely-assistance
 
-## Visa Direct and UnionPay International Will Extend Global Money Movement Network to Billions of Cards in Chinese Mainland
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-29T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22101.html
+The U.S. Small Business Administration (SBA or Agency) is issuing this interim final rule (IFR) to ensure the timely and effective delivery of assistance under the Disaster Loan Program authorized under section 7(b) of the Small Business Act (15 U.S.C. 636(b)) ("Disaster Loan Program") following a Presidentially declared disaster. This rule preempts certain state and local req…
 
-## Visa Fiscal First Quarter 2026 Financial Results
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-29T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22086.html
+## 2026 CDIA Consumer Reporting Roundtable agenda is now available!
+- Source: CDIA
+- Category: CDIA
+- Published: 2026-01-28T22:00:53Z
+- URL: https://www.cdiaonline.org/events/2026/01/28/2026-cdia-consumer-reporting-roundtable-agenda-is-now-available/
 
-## Visa Spending Study Shows How Americans Will Use AI to Plan, Book and Spend on Winter Sports
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-29T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22026.html
+March 25, 2026 | 12–5:30 PM ET | Capital City Club, Atlanta, GA The CDIA Consumer Reporting Roundtable, hosted by PMG, is a must-attend event for... The post 2026 CDIA Consumer Reporting Roundtable agenda is now available! appeared first on CDIA .
 
-## Visa Debuts Milano Cortina 2026 Campaign Starring Record‑Breaking Athletes Mikaela Shiffrin and Oksana Masters
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-29T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22021.html
+## FOMC maintains rates for first meeting of 2026
+- Source: TBA
+- Category: Compliance Watch
+- Published: 2026-01-28T19:30:47Z
+- URL: https://www.texasbankers.com/fomc-maintains-rates-for-first-meeting-of-2026/
 
-## Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-29T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html
-
-## Visa 2026 Global Economic Outlook: AI Adoption and Shifting Trade Patterns Drive Economic Transformation Beneath Steady Growth
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-29T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
+The Federal Open Market Committee’s first meeting of the year decided to keep the target range for the federal funds rate at 3.5% to 3.75%. The FOMC’s statement reads: “Available indicators suggest that economic activity has been expanding at a solid pace. Job gains have remained low, and the unemployment rate has shown some signs […] The post FOMC maintains rates for first me…
 
 ## Federal Reserve issues FOMC statement
 - Source: FRB
@@ -316,6 +296,30 @@ Federal Reserve issues FOMC statement
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128b.htm
 
 Federal Open Market Committee reaffirms its "Statement on Longer-Run Goals and Monetary Policy Strategy"
+
+## Comment Letter on the Consumer Financial Protection Bureau’s Consumer Response Intake Form
+- Source: CDIA
+- Category: CDIA
+- Published: 2026-01-28T17:10:58Z
+- URL: https://www.cdiaonline.org/news/2026/01/28/comment-letter-on-the-consumer-financial-protection-bureaus-consumer-response-intake-form/
+
+This week, CDIA submitted formal comments advocating changes to the Consumer Finance Protection Bureau’s complaint portal. As with our prior comments and... The post Comment Letter on the Consumer Financial Protection Bureau’s Consumer Response Intake Form appeared first on CDIA .
+
+## Visa Spending Study Shows How Americans Will Use AI to Plan, Book and Spend on Winter Sports
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-01-28T13:27:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22026.html
+
+New U.S. findings highlight the rise of Gen AI‑driven trip planning, strong domestic travel preferences, and growing excitement ahead of The Olympic and Paralympic Games Milano Cortina 2026. SAN FRANCISCO --(BUSINESS WIRE)--Jan. 28, 2026-- Visa today released new U.S.
+
+## Level Up Your Metro 2® Reporting Skills—Live in Las Vegas
+- Source: CDIA
+- Category: CDIA
+- Published: 2026-01-28T10:00:44Z
+- URL: https://www.cdiaonline.org/events/2026/01/28/level-up-your-metro-2-reporting-skills-live-in-las-vegas/
+
+Take your Metro 2® expertise to the next level with the industry’s most trusted advanced training developed and delivered by experts... The post Level Up Your Metro 2® Reporting Skills—Live in Las Vegas appeared first on CDIA .
 
 ## CVE-2026-21509 Microsoft Office Security Feature Bypass Vulnerability
 - Source: Microsoft MSRC
@@ -341,14 +345,6 @@ IR-2026-15, Jan. 28, 2026 — National Taxpayer Advocate Erin M. Collins today r
 
 IR-2026-16, Jan. 28, 2026 — The Internal Revenue Service encourages taxpayers to use online tools and take a few simple steps to prepare for claiming new and expanded tax benefits under the One, Big, Beautiful Bill. Families planning to claim the Child Tax Credit, the Adoption Credit, or pay for educational expenses should review these changes before filing.
 
-## News & Events
-- Source: FRB
-- Category: Payments
-- Published: 2026-01-28T00:00:00Z
-- URL: https://www.federalreserve.gov/newsevents.htm
-
-The Federal Reserve Board of Governors in Washington DC.
-
 ## 2026 FOMC
 - Source: FRB
 - Category: Payments
@@ -373,11 +369,43 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 
 ## Public Unit and Nonmember Shares
 - Source: Federal Register
-- Category: Legislative
+- Category: Federal Register
 - Published: 2026-01-28T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/28/2026-01696/public-unit-and-nonmember-shares
 
 The NCUA Board (Board) seeks comment on a proposed rule to amend the NCUA's public unit and nonmember share rule to remove the requirement for a written plan to document the intended use of any borrowings, public unit, or nonmember shares if, collectively, those funds exceed 70 percent of the federally insured credit union's (FICU's) paid-in and unimpaired capital and surplus.…
+
+## Requirements for Insurance
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-28T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/28/2026-01699/requirements-for-insurance
+
+The NCUA Board (Board) is issuing for public comment a proposal to amend the NCUA's regulations that establish the requirements for obtaining and maintaining federal share insurance with the National Credit Union Share Insurance Fund (Share Insurance Fund). The provisions of this part apply to all federally insured credit unions (FICUs). The proposal would reduce regulatory bu…
+
+## Notice of Termination of Excess Insurance Coverage
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-28T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/28/2026-01698/notice-of-termination-of-excess-insurance-coverage
+
+The NCUA Board (Board) is issuing for public comment a proposal to amend the NCUA's regulations that establish the requirements for obtaining and maintaining federal share insurance with the National Credit Union Share Insurance Fund (Share Insurance Fund). The provisions of this part apply to all federally insured credit unions (FICUs). The proposal would reduce regulatory bu…
+
+## Requirements for Insurance; Maximum Borrowing Authority
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-28T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/28/2026-01697/requirements-for-insurance-maximum-borrowing-authority
+
+The NCUA Board (Board) seeks comment on a proposed rule to remove the maximum borrowing authority from the NCUA's regulations that establish the requirements for obtaining and maintaining federal share insurance with the National Credit Union Share Insurance Fund (Share Insurance Fund). This provision applies to all federally insured credit unions (FICUs). Removing this regula…
+
+## Zelle expands across community banks, data reveals
+- Source: TBA
+- Category: Compliance Watch
+- Published: 2026-01-27T19:38:43Z
+- URL: https://www.texasbankers.com/zelle-expands-across-community-banks-data-reveals/
+
+According to Zelle’s 2025 data report, 337 financial institutions either launched Zelle or signed up to use it, with 97% being community banks and credit unions holding less than $10 billion in assets. The report reveals: “Zelle already reaches 80% of U.S. bank and credit union accounts and last year was about widening access – […] The post Zelle expands across community banks…
 
 ## CVE-2026-20805 Desktop Window Manager Information Disclosure Vulnerability
 - Source: Microsoft MSRC
@@ -403,6 +431,14 @@ IR-2026-13, Jan. 27, 2026 — The Internal Revenue Service today issued frequent
 
 IR-2026-14, Jan. 27, 2026 — The Taxpayer Advocate Service today announced the award of more than $22.5 million in matching grants to 145 qualified Low Income Taxpayer Clinics nationwide for the 2026 grant year, which runs from Jan. 1, 2026, to Dec. 31, 2026.
 
+## Visa Debuts Milano Cortina 2026 Campaign Starring Record‑Breaking Athletes Mikaela Shiffrin and Oksana Masters
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-01-26T14:01:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22021.html
+
+New anthem films highlight the real journeys, resilience, and support systems behind two of the most decorated women in sport – showing how Visa helps power progress on the road to the Olympic and Paralympic Winter Games Milano Cortina 2026. SAN FRANCISCO --(BUSINESS WIRE)--Jan.
+
 ## IRS opens 2026 filing season
 - Source: IRS
 - Category: IRS
@@ -425,7 +461,7 @@ IR-2026-12, Jan. 26, 2026 — The Internal Revenue Service today opened the 2026
 
 ## Organization, Loan Policies and Operations, Disclosure to Shareholders, Nondiscrimination in Lending, Capital Adequacy of System Institutions, Disclosure to Investors
 - Source: Federal Register
-- Category: Legislative
+- Category: Federal Register
 - Published: 2026-01-26T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/26/2026-01368/organization-loan-policies-and-operations-disclosure-to-shareholders-nondiscrimination-in-lending
 
@@ -433,11 +469,19 @@ The Farm Credit Administration (FCA, Agency, or we) is issuing a final rule corr
 
 ## Dependent Care and Board Member Expense Reimbursement
 - Source: Federal Register
-- Category: Legislative
+- Category: Federal Register
 - Published: 2026-01-26T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/26/2026-01382/dependent-care-and-board-member-expense-reimbursement
 
 The NCUA Board proposes to amend its regulations concerning the reimbursement of reasonable expenses for federal credit union (FCU) officials. The proposed rule would enable FCU boards to establish policies that allow for the payment of reasonable dependent care costs incurred by volunteer officials while attending board meetings and performing their official duties. This prop…
+
+## Statement of TBA CEO Chris Furlow on card rate and interchange cap proposals
+- Source: TBA
+- Category: Compliance Watch
+- Published: 2026-01-23T21:23:14Z
+- URL: https://www.texasbankers.com/statement-of-tba-ceo-chris-furlow-on-card-rate-and-interchange-cap-proposals/
+
+Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but “Government Price Fixing” “Card rate and interchange caps sound politically appealing but government price fixing always fails to solve affordability issues, and it ultimately leads to unintended economic consequences. Any serious consideration of the data shows card rate caps would hurt small businesse…
 
 ## Chromium: CVE-2026-1220 Race in V8
 - Source: Microsoft MSRC
@@ -446,22 +490,6 @@ The NCUA Board proposes to amend its regulations concerning the reimbursement of
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1220
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
-
-## Treasury, IRS issue FAQs to address the new deduction for qualified overtime compensation under the One, Big, Beautiful Bill
-- Source: IRS
-- Category: IRS
-- Published: 2026-01-23T00:00:00Z
-- URL: https://www.irs.gov/newsroom/treasury-irs-issue-faqs-to-address-the-new-deduction-for-qualified-overtime-compensation-under-the-one-big-beautiful-bill
-
-IR-2026-10, Jan. 23, 2026 — The Department of the Treasury and the Internal Revenue Service today issued frequently asked questions in Fact Sheet 2026-01 related to the new deduction for qualified overtime compensation under the One, Big, Beautiful Bill.
-
-## IRS joins national partners to launch EITC Awareness Day
-- Source: IRS
-- Category: IRS
-- Published: 2026-01-23T00:00:00Z
-- URL: https://www.irs.gov/newsroom/irs-joins-national-partners-to-launch-eitc-awareness-day
-
-IR-2026-11, Jan. 23, 2026 — The Internal Revenue Service and partners nationwide today launched the annual Earned Income Tax Credit Awareness Day outreach campaign to help millions of eligible low-to- moderate-income, working Americans claim the Earned Income Tax Credit.
 
 ## Press Release: FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah
 - Source: FDIC
@@ -551,6 +579,14 @@ Improper neutralization of escape, meta, or control sequences in Copilot allows 
 
 Improper neutralization of input during web page generation ('cross-site scripting') in Microsoft Account allows an unauthorized attacker to perform spoofing over a network.
 
+## FDIC adopts independent supervisory appeals office
+- Source: TBA
+- Category: Compliance Watch
+- Published: 2026-01-22T07:00:00Z
+- URL: https://www.texasbankers.com/fdic-adopts-independent-supervisory-appeals-office/
+
+The FDIC board voted to establish an independent office to hear banks’ appeals of the agency’s supervisory decisions. Comptroller Jonathan Gould also said the Office of the Comptroller of the Currency will review possible changes to its own supervisory appeals framework. The new Office of Supervisory Appeals will replace the Supervision Appeals Review Committee and […] The pos…
+
 ## Mortgage Rates Remain the Lowest in Three Years
 - Source: Freddie Mac
 - Category: Mortgage
@@ -562,6 +598,14 @@ Improper neutralization of input during web page generation ('cross-site scripti
 - Category: Fintech Watch
 - Published: 2026-01-21T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-and-sumitomo-mitsui-introduce-clover-suite-products
+
+## Wagner-Peyser Act Staffing, Delay of Merit Staffing Compliance Date
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-21T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/21/2026-01117/wagner-peyser-act-staffing-delay-of-merit-staffing-compliance-date
+
+The Department of Labor's (Department's) Employment and Training Administration (ETA) is delaying by 1 year the date by which State grantees, as a condition on their grant funds, must comply with the regulatory requirements in the 2023 Wagner-Peyser Act Staffing Final Rule regarding the grant-funded staffing models States must use to deliver services in the Wagner-Peyser Act E…
 
 ## As New Nacha Rules Approach, the Risks of Credit-Push Fraud are Real
 - Source: NACHA
@@ -707,14 +751,6 @@ Federal Reserve Board announces approval of application by Banco Inter, S.A.
 
 Microsoft Edge Elevation Service exposes a privileged COM interface that inadequately validates the privileges of the calling process. A standard (non‑administrator) local user can invoke the IElevatorEdge interface method LaunchUpdateCmdElevatedAndWait, causing the service to execute privileged update commands as LocalSystem. This allows a non‑administrator to enable or disab…
 
-## Comptroller Gould Discusses Resolution Planning
-- Source: OCC
-- Category: Banking
-- Published: 2026-01-16T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-4.html
-
-Comptroller of the Currency Jonathan V. Gould today discussed bank resolution planning in remarks prepared for delivery at the American Bar Association Banking Law Committee Meeting.
-
 ## Featured Publications View All Publications
 - Source: OCC
 - Category: Banking
@@ -723,13 +759,13 @@ Comptroller of the Currency Jonathan V. Gould today discussed bank resolution pl
 
 Publications
 
-## More More
-- Source: OCC
-- Category: Banking
+## Improving Continuity for Religious Organizations and Their Employees
+- Source: Federal Register
+- Category: Federal Register
 - Published: 2026-01-16T00:00:00Z
-- URL: https://www.occ.gov/topics/laws-and-regulations/index-laws-and-regulations.html
+- URL: https://www.federalregister.gov/documents/2026/01/16/2026-00830/improving-continuity-for-religious-organizations-and-their-employees
 
-National banks are among the most highly regulated institutions in the country, with a large number of laws and regulations that govern their activities.
+This interim final rule (IFR) amends U.S. Department of Homeland Security (DHS) regulations to remove the requirement that R-1 religious workers who have reached the maximum period of stay must reside abroad and be physically present outside the United States for one year before being eligible for readmission in R-1 status after departing from the United States upon reaching t…
 
 ## Sunshine Act Notice: FDIC Board of Directors Meeting
 - Source: FDIC
@@ -739,6 +775,14 @@ National banks are among the most highly regulated institutions in the country, 
 
 SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open session: Date and Time: Thursday, January 22, 2026, at 10:00 a.m. ET Place: The Board meeting will be open to public observation by webcast . Members of the media should contact the Office of Communications by Tuesday, January 20, at MediaRequests@FDIC.gov to attend in person from FDIC Headquarters, 5…
 
+## Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-01-15T21:05:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html
+
+SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its fiscal first quarter 2026 financial results on Thursday, January 29, 2026 . After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial
+
 ## Federal Reserve Board issues enforcement action with former employee of PrimeLending
 - Source: FRB
 - Category: Payments
@@ -746,14 +790,6 @@ SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open ses
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm
 
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
-
-## Data and Insights
-- Source: Fannie Mae
-- Category: Mortgage
-- Published: 2026-01-15T00:00:00Z
-- URL: https://www.fanniemae.com/data-and-insights
-
-Fannie Mae’s market intelligence helps you understand changes in the housing and economic environment today and what it might signal for tomorrow.
 
 ## The Average 30-Year Fixed-Rate Mortgage Hits Lowest Level in Over Three Years
 - Source: Freddie Mac
@@ -772,6 +808,30 @@ Fannie Mae’s market intelligence helps you understand changes in the housing a
 - Category: Fintech Watch
 - Published: 2026-01-15T00:00:00Z
 - URL: https://www.temenos.com/press_release/temenos-announces-strong-preliminary-q4-and-fy25-results/
+
+## Survey of International Trade in Services Between U.S. and Foreign Persons and Surveys of Direct Investment
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-15T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/15/2026-00691/survey-of-international-trade-in-services-between-us-and-foreign-persons-and-surveys-of-direct
+
+By this rule, the Department of Commerce is amending its regulations governing the collection of data on international trade in services and direct investment by removing certain provisions that merely restate what is clearly provided by the underlying statute and serve no meaningful purpose. The intended effect is to streamline such regulations, reduce regulatory clutter and…
+
+## Edith Nourse Rogers STEM Scholarship
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-15T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/15/2026-00634/edith-nourse-rogers-stem-scholarship
+
+The Department of Veterans Affairs (VA) proposes to amend the Veteran Readiness and Employment and Education regulations to incorporate the provisions of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Colmery Act) that created the Edith Nourse Rogers STEM Scholarship (STEM Scholarship), which provides up to nine months of additional Post-9/11 GI Bill benefit…
+
+## Removing Redundant, Obsolete, and Inefficient Provisions From the Regulations Governing Restrictions on Lobbying
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-15T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/15/2026-00687/removing-redundant-obsolete-and-inefficient-provisions-from-the-regulations-governing-restrictions
+
+The Department of Commerce ("Commerce") is proposing to amend its regulations governing restrictions on lobbying. Specifically, Commerce is proposing to remove two redundant and unnecessary compliance provisions and remove two reporting requirements that are obsolete and unwarranted. This action is necessary to reduce regulatory complexity and streamline the regulations govern…
 
 ## CVE-2025-64678 Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability
 - Source: Microsoft MSRC
@@ -799,43 +859,43 @@ Updated acknowledgment. This is an informational change only.
 
 ## Marketable Treasury Securities Redemption Operations
 - Source: Federal Register
-- Category: Legislative
+- Category: Federal Register
 - Published: 2026-01-14T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/14/2026-00598/marketable-treasury-securities-redemption-operations
 
 The Department of the Treasury (Treasury) proposes to amend the terms and conditions for marketable Treasury securities redemption (buyback) operations. These proposed amendments reflect expanded direct offer submission eligibility, update the certification statements to participate in buyback operations, enhance clarity, and make conforming changes to several sections of the…
 
-## Nondiscrimination Requirements
-- Source: Federal Register
-- Category: Legislative
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00591/nondiscrimination-requirements
-
-The NCUA Board (Board) is publishing this proposed rule to remove a redundant and outdated regulation regarding nondiscrimination in lending. While the regulation was intended to summarize the Fair Housing Act (FHA) prohibitions on discrimination related to real estate related loans, appraisals, and advertising, the Board's last substantive amendment to the regulation was fina…
-
 ## Chartering and Field of Membership for Federal Credit Unions-Interpretive Rulings and Policy Statements
 - Source: Federal Register
-- Category: Legislative
+- Category: Federal Register
 - Published: 2026-01-14T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/14/2026-00594/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-rulings-and-policy
 
 The NCUA Board (Board) proposes to rescind its Interpretative Ruling and Policy Statement 10-1 (IRPS 10-1), which was issued as an amendment to IRPS 08-2. Rescinding IRPS 10-1 would ease the compliance burden on federal credit unions (FCUs) by limiting the number of sources that FCUs must check to ensure compliance with applicable chartering and field of membership (FOM) requi…
 
-## HUD's Implementation of the Fair Housing Act's Disparate Impact Standard
-- Source: Federal Register
-- Category: Legislative
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00590/huds-implementation-of-the-fair-housing-acts-disparate-impact-standard
-
-The Fair Housing Act prohibits discrimination in the sale, rental, or financing of dwellings and in other housing-related activities. Since 2013, HUD has issued three final rules for determining whether a given practice has an unjustified discriminatory effect under the Fair Housing Act, even where practices were not motivated by discriminatory intent. These rules formalized l…
-
 ## Chartering and Field of Membership for Federal Credit Unions-Interpretive Rulings and Policy Statements
 - Source: Federal Register
-- Category: Legislative
+- Category: Federal Register
 - Published: 2026-01-14T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/14/2026-00592/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-rulings-and-policy
 
 The NCUA Board proposes to rescind its Interpretative Ruling and Policy Statement 08-2 (IRPS 08-2). Rescinding IRPS 08-2 would ease the compliance burden on Federal credit unions (FCUs) by limiting the number of sources that FCUs must check to ensure compliance with applicable chartering and field of membership (FOM) requirements.
+
+## Nondiscrimination Requirements
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-14T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00591/nondiscrimination-requirements
+
+The NCUA Board (Board) is publishing this proposed rule to remove a redundant and outdated regulation regarding nondiscrimination in lending. While the regulation was intended to summarize the Fair Housing Act (FHA) prohibitions on discrimination related to real estate related loans, appraisals, and advertising, the Board's last substantive amendment to the regulation was fina…
+
+## HUD's Implementation of the Fair Housing Act's Disparate Impact Standard
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-14T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00590/huds-implementation-of-the-fair-housing-acts-disparate-impact-standard
+
+The Fair Housing Act prohibits discrimination in the sale, rental, or financing of dwellings and in other housing-related activities. Since 2013, HUD has issued three final rules for determining whether a given practice has an unjustified discriminatory effect under the Fair Housing Act, even where practices were not motivated by discriminatory intent. These rules formalized l…
 
 ## Federal Reserve Board announces approval of application by Fifth Third Bancorp
 - Source: FRB
@@ -852,6 +912,14 @@ Federal Reserve Board announces approval of application by Fifth Third Bancorp
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4042bcf
 
 PRESS RELEASE | JANUARY 13, 2026 Travis Hill Sworn in as the 23 rd Chairman of the FDIC WASHINGTON – Travis Hill was sworn in as the 23rd Chairman of the Federal Deposit Insurance Corporation (FDIC). Chairman Hill has served as Acting Chairman of the FDIC Board since January 20, 2025, and previously as Vice Chairman since January 5, 2023. Chairman Hill was nominated by Preside…
+
+## Visa 2026 Global Economic Outlook: AI Adoption and Shifting Trade Patterns Drive Economic Transformation Beneath Steady Growth
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-01-13T14:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
+
+Visa forecasts structural economic transformation driven by AI adoption, supply chain rewiring and accelerating business investment that supports stable 2.7% global growth Global GDP projected to grow 2.7% in 2026, with surface stability masking fundamental shifts in trade, technology and
 
 ## CVE-2026-20962 Dynamic Root of Trust for Measurement (DRTM) Information Disclosure Vulnerability
 - Source: Microsoft MSRC
@@ -1735,11 +1803,35 @@ Agencies issue 2025 Shared National Credit Program report
 
 ## National Bank Chartering
 - Source: Federal Register
-- Category: Legislative
+- Category: Federal Register
 - Published: 2026-01-12T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/12/2026-00372/national-bank-chartering
 
 The Office of the Comptroller of the Currency (OCC) is proposing to amend its rule related to chartering of national banks to clarify the longstanding authority of national banks limited to the operations of trust companies and activities related thereto to engage in non-fiduciary activities in addition to their fiduciary activities.
+
+## Privacy Act Exemption; Correction
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-12T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/12/2026-00332/privacy-act-exemption-correction
+
+In accordance with the Privacy Act of 1974, the National Credit Union Administration (NCUA) Board is issuing this interim final rule to make a correction to the numbering of one system of records and to exempt one system of records from certain requirements of the Act. NCUA has previously published System of Records Notices (SORN) for these systems. The Board has found good ca…
+
+## "Small Business" and "Small Organization" Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-12T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/12/2026-00316/small-business-and-small-organization-definitions-for-investment-companies-and-investment-advisers
+
+The Securities and Exchange Commission (the "Commission" or the "SEC") is proposing to amend the rules under the Investment Company Act of 1940 (the "Investment Company Act") and under the Investment Advisers Act of 1940 (the "Advisers Act") that define the terms "small business" and "small organization" for purposes of the Regulatory Flexibility Act (the "RFA") to increase th…
+
+## Changes to Agriculture Risk Coverage, Price Loss Coverage, and Dairy Margin Coverage Programs
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-12T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/12/2026-00313/changes-to-agriculture-risk-coverage-price-loss-coverage-and-dairy-margin-coverage-programs
+
+This rule revises the provisions of the Agriculture Risk Coverage (ARC), Price Loss Coverage (PLC), and Dairy Margin Coverage (DMC) programs to conform with provisions of the One Big Beautiful Bill Act (OBBBA). OBBBA authorized modifications to the 2025 crop year ARC and PLC programs and the continuation of the ARC and PLC programs for the 2026 through 2031 crop years. The mod…
 
 ## Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026
 - Source: FRB
@@ -1756,6 +1848,14 @@ Federal Reserve Board announces the designation of the Chairs and Deputy Chairs 
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-0628
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
+
+## Backup Withholding on Third Party Network Transactions
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-09T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/09/2026-00254/backup-withholding-on-third-party-network-transactions
+
+This document contains proposed amendments to the regulations governing backup withholding. The proposed regulations reflect recent changes to the statutory law. These changes will affect third party settlement organizations who make payments in settlement of third party network transactions.
 
 ## Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.
 - Source: FRB
@@ -3131,12 +3231,6 @@ Information published.
 
 The OCC ensures that the corporate structures of national banks and federal savings associations are established and maintained in accordance with the principles of a safe and sound banking system.
 
-## Mortgage Rates Stable, Purchase Demand Rising
-- Source: Freddie Mac
-- Category: Mortgage
-- Published: 2026-01-08T00:00:00Z
-- URL: https://www.globenewswire.com/news-release/2026/01/08/3215681/0/en/Mortgage-Rates-Stable-Purchase-Demand-Rising.html
-
 ## CVE-2025-68343 can: gs_usb: gs_usb_receive_bulk_callback(): check actual_length before accessing header
 - Source: Microsoft MSRC
 - Category: IS
@@ -3539,7 +3633,7 @@ Information published.
 
 ## Home Mortgage Disclosure (Regulation C) Adjustment to Asset-Size Exemption Threshold
 - Source: Federal Register
-- Category: Legislative
+- Category: Federal Register
 - Published: 2026-01-07T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/07/2026-00087/home-mortgage-disclosure-regulation-c-adjustment-to-asset-size-exemption-threshold
 
@@ -3547,7 +3641,7 @@ The Consumer Financial Protection Bureau (Bureau) is amending official commentar
 
 ## Truth in Lending Act (Regulation Z) Adjustment to Asset-Size Exemption Threshold
 - Source: Federal Register
-- Category: Legislative
+- Category: Federal Register
 - Published: 2026-01-07T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/07/2026-00085/truth-in-lending-act-regulation-z-adjustment-to-asset-size-exemption-threshold
 
@@ -4131,8 +4225,24 @@ Breaking Down Nacha’s New Risk Management Rules for ODFIs and RDFIs mkahn@nach
 
 ## Delaying the Effective Date of the Anti-Money Laundering/Countering the Financing of Terrorism Program and Suspicious Activity Report Filing Requirements for Registered Investment Advisers and Exempt Reporting Advisers
 - Source: Federal Register
-- Category: Legislative
+- Category: Federal Register
 - Published: 2026-01-02T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/01/02/2025-24184/delaying-the-effective-date-of-the-anti-money-launderingcountering-the-financing-of-terrorism
 
 FinCEN is amending the Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) Program and Suspicious Activity Report (SAR) Filing Requirements for Registered Investment Advisers and Exempt Reporting Advisers (IA AML Rule) to delay the effective date by two years. As part of this delay, FinCEN is amending the date by which an investment adviser must develop and i…
+
+## Car Loan Interest Deduction
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-02T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/02/2025-24154/car-loan-interest-deduction
+
+This document contains proposed regulations regarding the deduction for certain taxpayers for an amount up to $10,000 of qualified passenger vehicle loan interest. This document also contains proposed regulations regarding new information reporting requirements for certain persons who, in a trade or business, receive from any individual interest aggregating $600 or more for an…
+
+## Small Business Investment Company (SBIC) Regulatory Amendments
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-01-02T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/01/02/2025-24232/small-business-investment-company-sbic-regulatory-amendments
+
+On July 7, 2025, the U.S. Small Business Administration ("SBA" or "Agency") published a notice of proposed rulemaking ("NPRM" or "proposed rule") to revise the regulations for the Small Business Investment Company ("SBIC") program to modify or remove from the Code of Federal Regulations ("CFR") regulations that are obsolete, inefficient, or otherwise unnecessarily impede the l…
