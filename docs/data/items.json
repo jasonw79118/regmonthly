@@ -1,8 +1,8 @@
 {
   "window_start": "2026-01-01T06:00:00Z",
   "window_end": "2026-02-01T05:59:59Z",
-  "generated_at_utc": "2026-02-24T15:26:34Z",
-  "generated_at_ct": "2026-02-24T09:26:34-06:00",
+  "generated_at_utc": "2026-02-24T16:14:20Z",
+  "generated_at_ct": "2026-02-24T10:14:20-06:00",
   "items": [
     {
       "category": "Executive",
@@ -2077,27 +2077,11 @@
     },
     {
       "category": "OFAC",
-      "source": "FinCEN",
-      "title": "READOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting",
-      "published_at": "2026-01-15T12:00:00Z",
-      "url": "https://www.fincen.gov/news/news-releases/readout-financial-intelligence-units-commit-counter-transnational-organized",
-      "summary": "WASHINGTON—On January 12 and 13, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) hosted the first meeting of the Transnational Organized Crime Working Group (TOC-WG). The TOC-WG includes representatives from 16 financial intelligence units across the world that are committed to working together to enhance their collective ability to identify…"
-    },
-    {
-      "category": "OFAC",
       "source": "OFAC",
       "title": "Iran-related Designations",
       "published_at": "2026-01-15T00:00:00Z",
       "url": "https://ofac.treasury.gov/recent-actions/20260115",
       "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "FinCEN",
-      "title": "Readouts",
-      "published_at": "2026-01-15T00:00:00Z",
-      "url": "https://www.fincen.gov/news/readouts",
-      "summary": "TitleDATEREADOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting 01/15/2026READOUT: Second Annual FINTRAC-FinCEN Symposium in Washington, D.C.09/17/2025"
     },
     {
       "category": "IRS",
@@ -3781,14 +3765,6 @@
       "published_at": "2026-01-09T18:00:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260109a.htm",
       "summary": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026"
-    },
-    {
-      "category": "OFAC",
-      "source": "FinCEN",
-      "title": "Secretary Bessent Announces Initiatives to Combat Rampant Fraud in Minnesota",
-      "published_at": "2026-01-09T12:00:00Z",
-      "url": "https://www.fincen.gov/news/news-releases/secretary-bessent-announces-initiatives-combat-rampant-fraud-minnesota",
-      "summary": "In Minnesota, Secretary of the Treasury Scott Bessent announced several initiatives to combat rampant government benefits fraud in Minnesota, which has wasted billions of taxpayer dollars. These initiatives are designed to strengthen and safeguard the financial system and protect Minnesota taxpayers. Secretary Bessent announced several actions taken by the U.S."
     },
     {
       "category": "IS",

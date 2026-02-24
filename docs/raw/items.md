@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-24T09:26:34-06:00` (CT) — `2026-02-24T15:26:34Z` (UTC)
+Last updated: `2026-02-24T10:14:20-06:00` (CT) — `2026-02-24T16:14:20Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
@@ -1521,27 +1521,11 @@ SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its 
 
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
 
-## READOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting
-- Source: FinCEN
-- Category: OFAC
-- Published: 2026-01-15T12:00:00Z
-- URL: https://www.fincen.gov/news/news-releases/readout-financial-intelligence-units-commit-counter-transnational-organized
-
-WASHINGTON—On January 12 and 13, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) hosted the first meeting of the Transnational Organized Crime Working Group (TOC-WG). The TOC-WG includes representatives from 16 financial intelligence units across the world that are committed to working together to enhance their collective ability to identify…
-
 ## Iran-related Designations
 - Source: OFAC
 - Category: OFAC
 - Published: 2026-01-15T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260115
-
-## Readouts
-- Source: FinCEN
-- Category: OFAC
-- Published: 2026-01-15T00:00:00Z
-- URL: https://www.fincen.gov/news/readouts
-
-TitleDATEREADOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting 01/15/2026READOUT: Second Annual FINTRAC-FinCEN Symposium in Washington, D.C.09/17/2025
 
 ## Treasury, IRS provide new safe harbor explanations for retirement plan administrators
 - Source: IRS
@@ -2952,14 +2936,6 @@ The Department of Homeland Security (DHS) is increasing premium processing fees 
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/other20260109a.htm
 
 Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026
-
-## Secretary Bessent Announces Initiatives to Combat Rampant Fraud in Minnesota
-- Source: FinCEN
-- Category: OFAC
-- Published: 2026-01-09T12:00:00Z
-- URL: https://www.fincen.gov/news/news-releases/secretary-bessent-announces-initiatives-combat-rampant-fraud-minnesota
-
-In Minnesota, Secretary of the Treasury Scott Bessent announced several initiatives to combat rampant government benefits fraud in Minnesota, which has wasted billions of taxpayer dollars. These initiatives are designed to strengthen and safeguard the financial system and protect Minnesota taxpayers. Secretary Bessent announced several actions taken by the U.S.
 
 ## Chromium: CVE-2026-0628 Insufficient policy enforcement in WebView tag
 - Source: Microsoft MSRC
