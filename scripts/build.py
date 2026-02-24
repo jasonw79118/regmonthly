@@ -43,7 +43,7 @@ PRINT_HTML_PATH = f"{PRINT_DIR}/items.html"
 PUBLIC_BASE = "https://jasonw79118.github.io/regmonthly"
 
 # ✅ RegDashboard MUST be a rolling window (2 weeks)
-WINDOW_DAYS = 14
+WINDOW_DAYS = 31  # (unused for prev-month window)
 
 # Bump caps so Visa/Mastercard can resolve dates for more listing links
 MAX_LISTING_LINKS = 3500  # monthly: allow many listing links (full month coverage)
@@ -64,6 +64,7 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
     "Fiserv": 25,       # ✅ DO NOT CHANGE (your request)
     "Jack Henry": 25,
     "Finastra": 20,
+    "TCS": 25,
     "OFAC": 220,
     "Treasury": 220,
     "OCC": 25,
@@ -131,6 +132,8 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     "Fiserv": "Fintech Watch",
     "Jack Henry": "Fintech Watch",
     "Finastra": "Fintech Watch",
+    "TCS": "Fintech Watch",
+
     # Payment Card Networks tile
     "Visa": "Payment Card Networks",
     "Mastercard": "Payment Card Networks",
@@ -287,7 +290,7 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
 
     "FinCEN": {
         "allow_domains": {"www.fincen.gov", "fincen.gov"},
-        "allow_path_prefixes": {"/news-room"},
+        "allow_path_prefixes": {"/news"},
     },
 
     "White House": {
@@ -334,6 +337,8 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
     "Finastra": {"allow_domains": {"www.finastra.com"}},
 
     # ✅ TCS: add feedburner domains because many press releases advertise RSS via feeds2.feedburner.com
+    "TCS": {"allow_domains": {"www.tcs.com", "feeds2.feedburner.com", "feedburner.com"}},
+
     "FHLB MPF": {
         "allow_domains": {"www.fhlbmpf.com"},
         "allow_path_prefixes": {"/program-guidelines/mpf-program-updates"},
@@ -1569,7 +1574,7 @@ FHLBMPF_DETAIL_PREFIX = "/program-guidelines/mpf-program-updates/"
 
 def fhlbmpf_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -1860,7 +1865,7 @@ def irs_links(
         (detail fetch will still confirm dates when missing).
     """
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -1942,7 +1947,7 @@ def irs_links(
 
 def ofac_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -1988,7 +1993,7 @@ def ofac_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional
 
 def whitehouse_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -2208,7 +2213,7 @@ def senate_banking_links(page_url: str, html: str, window_start: Optional[dateti
 
 def senate_banking_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -2259,7 +2264,7 @@ def fincen_links(page_url: str, html: str, window_start: Optional[datetime]) -> 
 
 def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -2271,8 +2276,8 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
         if not href or href.startswith("#"):
             continue
 
-        # FinCEN uses /news-room/ and sometimes /sites/default/files/ PDFs; keep only HTML newsroom items
-        if "/news-room/" not in href and "/news-room" not in href:
+        # FinCEN uses /news/ and sometimes /sites/default/files/ PDFs; keep only HTML newsroom items
+        if "/news/" not in href and "/news" not in href:
             continue
         if href.lower().endswith(".pdf"):
             continue
@@ -2306,7 +2311,7 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
 
 def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -2414,7 +2419,7 @@ def visa_date_from_listing_context(a: Any) -> Optional[datetime]:
 
 def visa_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -2513,7 +2518,7 @@ def treasury_date_from_listing_context(a: Any) -> Optional[datetime]:
 
 def treasury_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -2639,7 +2644,7 @@ def _globenewswire_find_date_near(a: Any, source: str) -> Optional[datetime]:
 
 def freddiemac_globenewswire_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -2691,7 +2696,7 @@ def freddiemac_globenewswire_links(page_url: str, html: str) -> List[Tuple[str, 
 
 def cdia_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -2752,7 +2757,7 @@ JH_DETAIL_RE = re.compile(r"^/news-releases/news-release-details/", re.I)
 
 def jackhenry_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -2831,7 +2836,7 @@ TCS_PR_PATH_RE = re.compile(r"^/who-we-are/newsroom/press-release/", re.I)
 
 def tcs_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
     strip_nav_like(container)
@@ -2887,7 +2892,7 @@ MAMBU_PR_RE = re.compile(r"/en/insights/press/[a-z0-9\-]+", re.I)
 def mambu_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     # Try normal DOM first
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         container = soup
 
@@ -2966,7 +2971,7 @@ FINASTRA_DETAIL_RE = re.compile(r"^/press-media/[a-z0-9\-]+", re.I)
 
 def finastra_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    container = soup  # Mastercard pages often hide anchors outside the main container
     if not container:
         return []
 
@@ -3164,6 +3169,7 @@ KNOWN_FEEDS: Dict[str, List[str]] = {
     "Fiserv": ["https://investors.fiserv.com/newsroom/rss"],  # ✅ unchanged
 
     # ✅ NEW: TCS press releases RSS (commonly referenced as Feedburner)
+    "TCS": ["http://feeds2.feedburner.com/tcspress"],
 }
 
 
@@ -3183,13 +3189,24 @@ def get_start_pages() -> List[SourcePage]:
         # OFAC
         SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions"),
         SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions/enforcement-actions"),
-
-        # Treasury Press Releases (OFAC tile)
+        # Treasury Press Releases (OFAC tile) — paginated
         SourcePage("Treasury", "https://home.treasury.gov/news/press-releases"),
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases?page=1"),
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases?page=2"),
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases?page=3"),
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases?page=4"),
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases?page=5"),
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases?page=6"),
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases?page=7"),
+        # FinCEN (OFAC/AML tile) — paginated
+        SourcePage("FinCEN", "https://www.fincen.gov/news/press-releases"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news/press-releases?page=1"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news/press-releases?page=2"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news/press-releases?page=3"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news/press-releases?page=4"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news/press-releases?page=5"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news/press-releases?page=6"),
 
-        # FinCEN (OFAC/AML tile)
-        SourcePage("FinCEN", "https://www.fincen.gov/news-room"),
-        SourcePage("FinCEN", "https://www.fincen.gov/news-room/news-releases"),
 
         # IRS
         SourcePage("IRS", "https://www.irs.gov/newsroom"),
@@ -3561,8 +3578,8 @@ def build() -> None:
 
                 snippet = ""
 
-                # If Visa has a date but outside window, let detail override
-                if source == "Visa" and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
+                # If listing has a date but outside window for sources whose listing dates can be misleading, let detail override
+                if source in ("Visa","Mastercard") and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
                     if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
                         detail_html = polite_get(url)
                         if detail_html:

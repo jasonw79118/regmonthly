@@ -1,13 +1,21 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-24T13:03:01-06:00` (CT) — `2026-02-24T19:03:01Z` (UTC)
+Last updated: `2026-02-24T13:33:59-06:00` (CT) — `2026-02-24T19:33:59Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
 - Category: Executive
 - Published: 2026-01-30T23:43:32Z
 - URL: https://www.whitehouse.gov/articles/2026/01/wide-acclaim-for-president-trumps-nomination-of-kevin-warsh-as-fed-chair/
+
+## Press Release: First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois
+- Source: FDIC
+- Category: Banking
+- Published: 2026-01-30T23:12:07Z
+- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/406eba7
+
+PRESS RELEASE | JANUARY 30, 2026 First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois WASHINGTON — Metropolitan Capital Bank & Trust was closed today by the Illinois Department of Financial and Professional Regulation, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC enter…
 
 ## Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.
 - Source: FRB
@@ -28,6 +36,20 @@ Federal Reserve Board announces approval of application by Cornerstone Capital B
 - Category: Executive
 - Published: 2026-01-30T17:15:53Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-american-greatness-with-the-freedom-250-grand-prix-of-washington-d-c/
+
+## Press Release: FDIC Publishes Enforcement Orders for December 2025
+- Source: FDIC
+- Category: Banking
+- Published: 2026-01-30T15:02:09Z
+- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/406ad43
+
+PRESS RELEASE | JANUARY 30, 2026 FDIC Publishes Enforcement Orders for December 2025 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in December 2025. There are no administrative hearings scheduled for February 2026. Orders Terminating Consent Orders: Luana…
+
+## Treasury Sanctions Iranian Regime Officials for Violent Repression and Corruption
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-30T14:43:58Z
+- URL: https://home.treasury.gov/news/press-releases/sb0375
 
 ## Chromium: CVE-2026-1504 Inappropriate implementation in Background Fetch API
 - Source: Microsoft MSRC
@@ -163,6 +185,12 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - Published: 2026-01-29T22:56:02Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-launches-the-great-american-recovery-initiative-to-address-the-addiction-crisis/
 
+## Treasury Highlights Corporate and Philanthropic Commitments Announced Following the Trump Accounts Summit
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-29T22:24:51Z
+- URL: https://home.treasury.gov/news/press-releases/sb0374
+
 ## Visa Fiscal First Quarter 2026 Financial Results
 - Source: Visa
 - Category: Payment Card Networks
@@ -170,6 +198,12 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22086.html
 
 SAN FRANCISCO --(BUSINESS WIRE)--Jan. 29, 2026-- Visa (NYSE: V) today announced its fiscal first quarter 2026 financial results through an earnings release that will be furnished with the Securities and Exchange Commission on a Form 8-K and available on its Investor Relations website at
+
+## Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-29T21:00:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0373
 
 ## Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)
 - Source: FRB
@@ -275,6 +309,12 @@ IR-2026-18, Jan. 29, 2026 — The Internal Revenue Service is accepting applicat
 - Published: 2026-01-29T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-announces-increase-quarterly-dividend
 
+## ### Noah Kahan and Mastercard to premiere ‘The Great Divide’ music video and offer cardholders Priceless experiences January 29, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-01-29T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/january/noah-kahan-and-mastercard-to-premiere--the-great-divide--music-v.html
+
 ## FDIC Official Signs, Advertisement of Membership, False Advertising, Misrepresentation of Insured Status, and Misuse of the FDIC's Name or Logo
 - Source: Federal Register
 - Category: Federal Register
@@ -326,6 +366,12 @@ March 25, 2026 | 12–5:30 PM ET | Capital City Club, Atlanta, GA The CDIA Consu
 - URL: https://www.texasbankers.com/fomc-maintains-rates-for-first-meeting-of-2026/
 
 The Federal Open Market Committee’s first meeting of the year decided to keep the target range for the federal funds rate at 3.5% to 3.75%. The FOMC’s statement reads: “Available indicators suggest that economic activity has been expanding at a solid pace. Job gains have remained low, and the unemployment rate has shown some signs […] The post FOMC maintains rates for first me…
+
+## Trump Accounts: The Defining Policy of America’s 250th Anniversary
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-28T19:13:40Z
+- URL: https://home.treasury.gov/news/press-releases/sb0372
 
 ## Federal Reserve issues FOMC statement
 - Source: FRB
@@ -563,6 +609,12 @@ IR-2026-13, Jan. 27, 2026 — The Internal Revenue Service today issued frequent
 
 IR-2026-14, Jan. 27, 2026 — The Taxpayer Advocate Service today announced the award of more than $22.5 million in matching grants to 145 qualified Low Income Taxpayer Clinics nationwide for the 2026 grant year, which runs from Jan. 1, 2026, to Dec. 31, 2026.
 
+## ### Mastercard launches Agent Suite to ready enterprises for a new era January 27, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-01-27T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/january/mastercard-launches-agent-suite-to-ready-enterprises-for-a-new-e.html
+
 ## Special Local Regulations; Marine Events Within the USCG East District
 - Source: Federal Register
 - Category: Federal Register
@@ -587,11 +639,23 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 
 This rule amends the standards for Reflectorization of Rail Freight Rolling Stock (Reflectorization Standards or Part 224) to codify waivers and remove the outdated implementation schedule. The changes are expected to enhance safety, promote innovation, clarify existing requirements, and reduce unnecessary paperwork burdens. The amendments are consistent with the mandate of th…
 
+## President Trump Delivers Largest Tax Refund Season in U.S. History
+- Source: White House
+- Category: Executive
+- Published: 2026-01-26T22:21:10Z
+- URL: https://www.whitehouse.gov/articles/2026/01/president-trump-delivers-largest-tax-refund-season-in-u-s-history/
+
 ## Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group
 - Source: White House
 - Category: Executive
 - Published: 2026-01-26T18:12:20Z
 - URL: https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/
+
+## Treasury Cancels Contracts with Booz Allen Hamilton
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-26T15:00:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0371
 
 ## Visa Debuts Milano Cortina 2026 Campaign Starring Record‑Breaking Athletes Mikaela Shiffrin and Oksana Masters
 - Source: Visa
@@ -717,6 +781,12 @@ Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but �
 - Published: 2026-01-23T20:49:06Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-4323-and-h-r-6938-signed-into-law/
 
+## Treasury Escalates Pressure on Iranian Regime for Killing Peaceful Protestors
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-23T15:52:46Z
+- URL: https://home.treasury.gov/news/press-releases/sb0370
+
 ## First Lady Melania Trump to Ring Opening Bell of the New York Stock Exchange
 - Source: White House
 - Category: Executive
@@ -840,6 +910,28 @@ FAA is revising its regulations to implement certain flight restrictions in the 
 - Category: Executive
 - Published: 2026-01-22T19:52:54Z
 - URL: https://www.whitehouse.gov/articles/2026/01/icymi-murder-rate-plunges-to-125-year-low-as-president-trump-restores-law-and-order/
+
+## Treasury Sanctions One of the Caribbean’s Largest Narcotics Traffickers and His Network
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-22T18:30:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0369
+
+## Press Release: FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah
+- Source: FDIC
+- Category: Banking
+- Published: 2026-01-22T18:27:21Z
+- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4059c9d
+
+PRESS RELEASE | JANUARY 22, 2026 FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah WASHINGTON – The Board of Directors of the Federal Deposit Insurance Corporation (FDIC) today approved deposit insurance applications submitted by Ford Motor Company to establish Ford Credit Bank and General M…
+
+## FDIC Board of Directors Meeting
+- Source: FDIC
+- Category: Banking
+- Published: 2026-01-22T16:55:37Z
+- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4053778
+
+BOARD MEETING | JANUARY 22, 2026 FDIC Board of Directors Meeting Today, the Federal Deposit Insurance Corporation's Board of Directors met in open session to consider the following matters. Materials and information relative to the open Board actions are available on the Board Matters webpage . Items Addressed in Open Session: Amendments to the FDIC’s Guidelines for Appeals of…
 
 ## CVE-2026-21520 Copilot Studio Information Disclosure Vulnerability
 - Source: Microsoft MSRC
@@ -1012,6 +1104,12 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - Category: Executive
 - Published: 2026-01-21T16:00:00Z
 - URL: https://www.whitehouse.gov/research/2026/01/artificial-intelligence-and-the-great-divergence/
+
+## Treasury Exposes and Disrupts Hamas’s Covert Support Network
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-21T15:30:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0368
 
 ## Fact Sheet: President Donald J. Trump Stops Wall Street from Competing with Main Street Homebuyers
 - Source: White House
@@ -1267,6 +1365,12 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - Published: 2026-01-17T20:25:07Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-birthday-of-benjamin-franklin/
 
+## Statement on President Trump’s Comprehensive Plan to End the Gaza Conflict
+- Source: White House
+- Category: Executive
+- Published: 2026-01-16T21:51:58Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/
+
 ## Religious Freedom Day, 2026
 - Source: White House
 - Category: Executive
@@ -1379,6 +1483,12 @@ Federal Reserve Board announces approval of application by Banco Inter, S.A.
 - Published: 2026-01-16T15:38:38Z
 - URL: https://www.whitehouse.gov/articles/2026/01/minnesotas-sanctuary-defiance-has-consequences/
 
+## Treasury Increases Pressure on Houthi Smuggling and Illicit Revenue Generation Networks
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-16T15:30:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0367
+
 ## CVE-2026-21223 Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -1441,6 +1551,14 @@ Pursuant to the authority granted to the United States Small Business Administra
 
 The Coast Guard is establishing a temporary security zone for navigable waters within a 500-yard radius of two vessels carrying cargo requiring an elevated level of security in the Corpus Christi and La Quinta Shipping Channels. The security zone is needed to protect the vessels, their cargo, and the surrounding waterway from terrorist acts, sabotage, or other subversive acts,…
 
+## Sunshine Act Notice: FDIC Board of Directors Meeting
+- Source: FDIC
+- Category: Banking
+- Published: 2026-01-15T21:55:31Z
+- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4049193
+
+SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open session: Date and Time: Thursday, January 22, 2026, at 10:00 a.m. ET Place: The Board meeting will be open to public observation by webcast . Members of the media should contact the Office of Communications by Tuesday, January 20, at MediaRequests@FDIC.gov to attend in person from FDIC Headquarters, 5…
+
 ## Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026
 - Source: Visa
 - Category: Payment Card Networks
@@ -1448,6 +1566,12 @@ The Coast Guard is establishing a temporary security zone for navigable waters w
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html
 
 SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its fiscal first quarter 2026 financial results on Thursday, January 29, 2026 . After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial
+
+## Treasury International Capital Data for November
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-15T21:00:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0365
 
 ## President Trump Unveils The Great Healthcare Plan to Lower Costs and Deliver Money Directly to the People
 - Source: White House
@@ -1468,6 +1592,28 @@ SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its 
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm
 
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
+
+## Secretary Bessent Announces Sanctions Against Architects of Iran’s Brutal Crackdown on Peaceful Protests
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-15T15:30:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0364
+
+## READOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-01-15T12:00:00Z
+- URL: https://www.fincen.gov/news/news-releases/readout-financial-intelligence-units-commit-counter-transnational-organized
+
+WASHINGTON—On January 12 and 13, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) hosted the first meeting of the Transnational Organized Crime Working Group (TOC-WG). The TOC-WG includes representatives from 16 financial intelligence units across the world that are committed to working together to enhance their collective ability to identify…
+
+## Readouts
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-01-15T00:00:00Z
+- URL: https://www.fincen.gov/news/readouts
+
+TitleDATEREADOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting 01/15/2026READOUT: Second Annual FINTRAC-FinCEN Symposium in Washington, D.C.09/17/2025
 
 ## Treasury, IRS provide new safe harbor explanations for retirement plan administrators
 - Source: IRS
@@ -1581,6 +1727,12 @@ We, the U.S. Fish and Wildlife Service, made deregulatory actions pertaining to 
 - Published: 2026-01-14T22:40:58Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-ratification-of-the-1783-treaty-of-paris/
 
+## Readout from Secretary of the Treasury Scott Bessent’s Meeting with Finance Minister Satsuki Katayama of Japan
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-14T22:30:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0363
+
 ## ICYMI: “The Trump Administration Is Moving To Fix a Broken Permitting System”
 - Source: White House
 - Category: Executive
@@ -1598,6 +1750,12 @@ We, the U.S. Fish and Wildlife Service, made deregulatory actions pertaining to 
 - Category: Executive
 - Published: 2026-01-14T21:23:31Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/
+
+## Fact Sheet: President Donald J. Trump Directs Negotiations to Adjust Imports of Processed Critical Minerals and Their Derivative Products into the United States
+- Source: White House
+- Category: Executive
+- Published: 2026-01-14T21:23:18Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-directs-negotiations-to-adjust-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/
 
 ## Establishing a Second Emergency Board to Investigate Disputes Between the Long Island Rail Road Company and Certain of its Employees Represented by Certain Labor Organizations
 - Source: White House
@@ -1628,6 +1786,30 @@ We, the U.S. Fish and Wildlife Service, made deregulatory actions pertaining to 
 - Category: Executive
 - Published: 2026-01-14T19:21:36Z
 - URL: https://www.whitehouse.gov/articles/2026/01/as-president-trump-tackles-housing-affordability-progress-emerges-and-more-relief-is-on-the-horizon/
+
+## Readout from Secretary Bessent’s meeting with Minister of Economy, Finance, and Industrial and Digital Sovereignty Roland Lescure of France
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-14T17:15:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0362
+
+## Readout from Secretary Bessent’s meeting with Treasurer Jim Chalmers of Australia
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-14T17:15:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0361
+
+## Readout from Secretary Bessent’s meeting with Deputy Prime Minister and Minister of Economy and Finance Koo Yun Cheol, South Korea
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-14T14:00:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0359
+
+## Readout from Secretary Bessent’s meeting with Chancellor of the Exchequer Rachel Reeves of the United Kingdom
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-14T14:00:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0360
 
 ## Healthcare EFT
 - Source: NACHA
@@ -1837,6 +2019,12 @@ Federal Reserve Board announces approval of application by Fifth Third Bancorp
 - Published: 2026-01-13T22:23:33Z
 - URL: https://www.whitehouse.gov/articles/2026/01/back-in-michigan-president-trump-celebrates-auto-industry-economic-revival/
 
+## U.S. Treasury Secretary Scott Bessent Takes Decisive Action Against Somali Fraud in Minneapolis
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-13T21:15:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0358
+
 ## Nominations Sent to the Senate
 - Source: White House
 - Category: Executive
@@ -1849,11 +2037,25 @@ Federal Reserve Board announces approval of application by Fifth Third Bancorp
 - Published: 2026-01-13T17:48:15Z
 - URL: https://www.whitehouse.gov/articles/2026/01/make-driving-great-again-president-trump-showcases-american-auto-industrys-revival-in-michigan/
 
+## Treasury and State Departments Designate Muslim Brotherhood Branches as Terrorist Organizations
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-13T15:30:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0357
+
 ## American Workers Win Big as Inflation Remains Low, Wages Surge
 - Source: White House
 - Category: Executive
 - Published: 2026-01-13T15:25:05Z
 - URL: https://www.whitehouse.gov/articles/2026/01/american-workers-win-big-as-inflation-remains-low-wages-surge/
+
+## Press Release: Travis Hill Sworn in as the 23rd Chairman of the FDIC
+- Source: FDIC
+- Category: Banking
+- Published: 2026-01-13T15:20:26Z
+- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4042bcf
+
+PRESS RELEASE | JANUARY 13, 2026 Travis Hill Sworn in as the 23 rd Chairman of the FDIC WASHINGTON – Travis Hill was sworn in as the 23rd Chairman of the Federal Deposit Insurance Corporation (FDIC). Chairman Hill has served as Acting Chairman of the FDIC Board since January 20, 2025, and previously as Vice Chairman since January 5, 2023. Chairman Hill was nominated by Preside…
 
 ## Visa 2026 Global Economic Outlook: AI Adoption and Shifting Trade Patterns Drive Economic Transformation Beneath Steady Growth
 - Source: Visa
@@ -2743,6 +2945,20 @@ This rule provides a change in the address for service of process for summonses,
 
 The Coast Guard is establishing a temporary safety zone for navigable waters between mile markers 356 and 362 of the Gulf Intracoastal Waterway. The safety zone is needed to support response vessels and protect the marine environment for debris recovery, incident investigation, and pollution clean-up following a plane crash. Entry of vessels or persons into this zone is prohib…
 
+## Secretary Bessent Convenes Finance Ministerial on Securing Critical Minerals Supply Chains
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-12T22:11:29Z
+- URL: https://home.treasury.gov/news/press-releases/sb0356
+
+## Press Release: Agencies Issue 2025 Shared National Credit Program Report
+- Source: FDIC
+- Category: Banking
+- Published: 2026-01-12T20:02:03Z
+- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/403fc05
+
+PRESS RELEASE | JANUARY 12, 2026 Agencies Issue 2025 Shared National Credit Program Report WASHINGTON – Federal bank regulatory agencies today released the 2025 Shared National Credit (SNC) report that indicates credit risk associated with large, syndicated bank loans remains moderate. Credit risk trends continue to reflect the effects of borrowers’ ability to manage higher in…
+
 ## Agencies issue 2025 Shared National Credit Program report
 - Source: FRB
 - Category: Banking
@@ -2756,6 +2972,12 @@ Agencies issue 2025 Shared National Credit Program report
 - Category: Executive
 - Published: 2026-01-12T17:16:41Z
 - URL: https://www.whitehouse.gov/articles/2026/01/big-wins-for-american-families-as-gas-prices-mortgage-rates-plummet/
+
+## G7 Cyber Expert Group Releases Roadmap for Coordinating the Transition to Post-Quantum Cryptography in the Financial Sector
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-12T14:00:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0355
 
 ## MPF Announcement 2026-01
 - Source: FHLB MPF
@@ -2856,6 +3078,20 @@ The Department of Homeland Security (DHS) is increasing premium processing fees 
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/other20260109a.htm
 
 Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026
+
+## Secretary Bessent Announces Initiatives to Combat Rampant Fraud in Minnesota
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-09T16:04:41Z
+- URL: https://home.treasury.gov/news/press-releases/sb0354
+
+## Secretary Bessent Announces Initiatives to Combat Rampant Fraud in Minnesota
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-01-09T12:00:00Z
+- URL: https://www.fincen.gov/news/news-releases/secretary-bessent-announces-initiatives-combat-rampant-fraud-minnesota
+
+In Minnesota, Secretary of the Treasury Scott Bessent announced several initiatives to combat rampant government benefits fraud in Minnesota, which has wasted billions of taxpayer dollars. These initiatives are designed to strengthen and safeguard the financial system and protect Minnesota taxpayers. Secretary Bessent announced several actions taken by the U.S.
 
 ## Chromium: CVE-2026-0628 Insufficient policy enforcement in WebView tag
 - Source: Microsoft MSRC
@@ -2964,6 +3200,12 @@ Federal Reserve Board announces approval of application by Prosperity Bancshares
 - Category: Executive
 - Published: 2026-01-08T19:06:14Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-establishes-new-department-of-justice-division-for-national-fraud-enforcement/
+
+## Remarks by Secretary of the Treasury Scott Bessent before the Economic Club of Minnesota
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-08T19:05:21Z
+- URL: https://home.treasury.gov/news/press-releases/sb0353
 
 ## WHAT THEY ARE SAYING: Trump Administration Puts Real Food First in Dietary Guidelines
 - Source: White House
@@ -3947,6 +4189,12 @@ Information published.
 
 Information published.
 
+## Treasury Announces the United States’ Immediate Withdrawal from the Green Climate Fund
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-08T14:00:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0352
+
 ## CVE-2025-1744 Out-of-bounds Write in radare2
 - Source: Microsoft MSRC
 - Category: IS
@@ -4402,6 +4650,12 @@ Nationwide Permits (NWPs) authorize activities under Section 404 of the Clean Wa
 - Category: Executive
 - Published: 2026-01-07T23:38:15Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/prioritizing-the-warfighter-in-defense-contracting/
+
+## Fact Sheet: President Donald J. Trump Withdraws the United States from International Organizations that Are Contrary to the Interests of the United States
+- Source: White House
+- Category: Executive
+- Published: 2026-01-07T21:53:04Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/
 
 ## CVE-2025-68343 can: gs_usb: gs_usb_receive_bulk_callback(): check actual_length before accessing header
 - Source: Microsoft MSRC
@@ -4883,6 +5137,12 @@ The Coast Guard is proposing to establish a safety zone for certain navigable wa
 
 Minutes of the Board's discount rate meeting on December 10, 2025
 
+## Secretary Scott Bessent Announces Working Families Tax Cuts: Ushering in a New Golden Age
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-06T18:40:12Z
+- URL: https://home.treasury.gov/news/press-releases/sb0351
+
 ## Presidential Message on National Slavery and Human Trafficking Prevention Month
 - Source: White House
 - Category: Executive
@@ -4947,6 +5207,12 @@ IR-2026-01, Jan. 6, 2026 — With the 2026 filing season quickly approaching, th
 - Published: 2026-01-06T00:00:00Z
 - URL: https://www.nacha.org/news/stablecoin-earns-its-own-track-smarter-faster-payments-2026
 
+## ### Mastercard spotlights Indigenous small businesses at Toronto Maple Leafs Indigenous Celebration Game January 6, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-01-06T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/january/Mastercard-spotlights-Indigenous-small-businesses-at-Toronto-Maple-Leafs-Indigenous-Celebration-Game.html
+
 ## National Primary Drinking Water Regulation for Perchlorate
 - Source: Federal Register
 - Category: Federal Register
@@ -4990,6 +5256,12 @@ The U.S. Department of Transportation is proposing to revise and update the inve
 - Category: Executive
 - Published: 2026-01-05T20:39:36Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-3f7b/
+
+## Treasury Secures Agreement to Exempt U.S.-Headquartered Companies from Biden Global Tax Plan
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-05T17:30:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0350
 
 ## CVE-2025-61594 URI Credential Leakage Bypass over CVE-2025-27221
 - Source: Microsoft MSRC
@@ -5361,6 +5633,12 @@ Information published.
 
 Information published.
 
+## Statement on the President’s Decision Ordering the Divestment of Interests in Certain Assets of EMCORE Corporation by HieFo Corporation
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-02T23:20:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0349
+
 ## Regarding the Acquisition of Certain Assets of Emcore Corporation by Hiefo Corporation
 - Source: White House
 - Category: Executive
@@ -5372,6 +5650,14 @@ Information published.
 - Category: Executive
 - Published: 2026-01-02T20:56:49Z
 - URL: https://www.whitehouse.gov/articles/2026/01/trump-administrations-historic-rural-health-care-investments-hailed-nationwide/
+
+## Press Release: FDIC Issues List of Banks Examined for CRA Compliance
+- Source: FDIC
+- Category: Banking
+- Published: 2026-01-02T15:09:39Z
+- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4027564
+
+PRESS RELEASE | JANUARY 2, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in October 2025. The CRA is a 197…
 
 ## CVE-2025-13281 Portworx Half-Blind SSRF in kube-controller-manager
 - Source: Microsoft MSRC
