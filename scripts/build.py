@@ -2268,7 +2268,8 @@ def fincen_links(page_url: str, html: str, window_start: Optional[datetime]) -> 
 
 def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
-    container = pick_container(soup) or soup
+    # FinCEN pages are often partially JS-driven; use full document rather than a guessed container
+    container = soup
     if not container:
         return []
 
@@ -3599,8 +3600,8 @@ def build() -> None:
                             if snippet2:
                                 snippet = snippet2
 
-# If Visa has a date but outside window, let detail override
-                if source == "Visa" and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
+                # If a source has a (possibly wrong) listing date outside the window, let detail override
+                if source in ("Visa", "Treasury", "FinCEN") and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
                     if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
                         detail_html = polite_get(url)
                         if detail_html:
