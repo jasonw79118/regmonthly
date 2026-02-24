@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-23T18:33:00-06:00` (CT) — `2026-02-24T00:33:00Z` (UTC)
+Last updated: `2026-02-23T20:14:55-06:00` (CT) — `2026-02-24T02:14:55Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
@@ -339,14 +339,6 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - Published: 2026-01-29T22:56:02Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-launches-the-great-american-recovery-initiative-to-address-the-addiction-crisis/
 
-## Visa Fiscal First Quarter 2026 Financial Results
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-29T21:05:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22086.html
-
-SAN FRANCISCO --(BUSINESS WIRE)--Jan. 29, 2026-- Visa (NYSE: V) today announced its fiscal first quarter 2026 financial results through an earnings release that will be furnished with the Securities and Exchange Commission on a Form 8-K and available on its Investor Relations website at
-
 ## Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)
 - Source: FRB
 - Category: Banking
@@ -538,14 +530,6 @@ This week, CDIA submitted formal comments advocating changes to the Consumer Fin
 - Category: Executive
 - Published: 2026-01-28T16:05:49Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-space-shuttle-challenger-disaster/
-
-## Visa Spending Study Shows How Americans Will Use AI to Plan, Book and Spend on Winter Sports
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-28T13:27:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22026.html
-
-New U.S. findings highlight the rise of Gen AI‑driven trip planning, strong domestic travel preferences, and growing excitement ahead of The Olympic and Paralympic Games Milano Cortina 2026. SAN FRANCISCO --(BUSINESS WIRE)--Jan. 28, 2026-- Visa today released new U.S.
 
 ## Level Up Your Metro 2® Reporting Skills—Live in Las Vegas
 - Source: CDIA
@@ -775,14 +759,6 @@ This rule amends the standards for Reflectorization of Rail Freight Rolling Stoc
 - Published: 2026-01-26T18:12:20Z
 - URL: https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/
 
-## Visa Debuts Milano Cortina 2026 Campaign Starring Record‑Breaking Athletes Mikaela Shiffrin and Oksana Masters
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-26T14:01:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22021.html
-
-New anthem films highlight the real journeys, resilience, and support systems behind two of the most decorated women in sport – showing how Visa helps power progress on the road to the Olympic and Paralympic Winter Games Milano Cortina 2026. SAN FRANCISCO --(BUSINESS WIRE)--Jan.
-
 ## IRS opens 2026 filing season
 - Source: IRS
 - Category: IRS
@@ -924,6 +900,30 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Category: OFAC
 - Published: 2026-01-23T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260123
+
+## News releases for frequently asked questions
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-23T00:00:00Z
+- URL: https://www.irs.gov/newsroom/news-releases-for-frequently-asked-questions
+
+Find current and past news releases about Chief Counsel's frequently asked questions regarding new legislation and emerging issues.
+
+## IRS joins national partners to launch EITC Awareness Day
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-23T00:00:00Z
+- URL: https://www.irs.gov/newsroom/irs-joins-national-partners-to-launch-eitc-awareness-day
+
+IR-2026-11, Jan. 23, 2026 — The Internal Revenue Service and partners nationwide today launched the annual Earned Income Tax Credit Awareness Day outreach campaign to help millions of eligible low-to- moderate-income, working Americans claim the Earned Income Tax Credit.
+
+## Treasury, IRS issue FAQs to address the new deduction for qualified overtime compensation under the One, Big, Beautiful Bill
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-23T00:00:00Z
+- URL: https://www.irs.gov/newsroom/treasury-irs-issue-faqs-to-address-the-new-deduction-for-qualified-overtime-compensation-under-the-one-big-beautiful-bill
+
+IR-2026-10, Jan. 23, 2026 — The Department of the Treasury and the Internal Revenue Service today issued frequently asked questions in Fact Sheet 2026-01 related to the new deduction for qualified overtime compensation under the One, Big, Beautiful Bill.
 
 ## MPF Announcement 2026-02
 - Source: FHLB MPF
@@ -1573,6 +1573,14 @@ Microsoft Edge Elevation Service exposes a privileged COM interface that inadequ
 - Published: 2026-01-16T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260116
 
+## Treasury, IRS: Supplemental basic allowance for housing payments to members of the military are not taxable
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-16T00:00:00Z
+- URL: https://www.irs.gov/newsroom/treasury-irs-supplemental-basic-allowance-for-housing-payments-to-members-of-the-military-are-not-taxable
+
+IR-2026-09, Jan. 16, 2026 — The Department of the Treasury and the Internal Revenue Service today confirmed that supplemental basic allowance for housing payments made to members of the uniformed services in Dec. 2025 are not to be included in income by those who received the payments; they are not taxable.
+
 ## Featured Publications View All Publications
 - Source: OCC
 - Category: Banking
@@ -1621,14 +1629,6 @@ The Coast Guard is establishing a temporary security zone for navigable waters w
 
 SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open session: Date and Time: Thursday, January 22, 2026, at 10:00 a.m. ET Place: The Board meeting will be open to public observation by webcast . Members of the media should contact the Office of Communications by Tuesday, January 20, at MediaRequests@FDIC.gov to attend in person from FDIC Headquarters, 5…
 
-## Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-15T21:05:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html
-
-SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its fiscal first quarter 2026 financial results on Thursday, January 29, 2026 . After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial
-
 ## President Trump Unveils The Great Healthcare Plan to Lower Costs and Deliver Money Directly to the People
 - Source: White House
 - Category: Executive
@@ -1654,6 +1654,14 @@ Federal Reserve Board issues enforcement action with former employee of PrimeLen
 - Category: OFAC
 - Published: 2026-01-15T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260115
+
+## Treasury, IRS provide new safe harbor explanations for retirement plan administrators
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-15T00:00:00Z
+- URL: https://www.irs.gov/newsroom/treasury-irs-provide-new-safe-harbor-explanations-for-retirement-plan-administrators
+
+IR-2026-08, Jan. 15, 2026 — The Department of the Treasury and the Internal Revenue Service today issued guidance for certain retirement plan administrators, updating safe harbor explanations to reflect tax law changes made after Aug. 6, 2020.
 
 ## The Average 30-Year Fixed-Rate Mortgage Hits Lowest Level in Over Three Years
 - Source: Freddie Mac
@@ -1843,6 +1851,22 @@ Updated the build numbers. This is an informational update only.
 
 Updated acknowledgment. This is an informational change only.
 
+## IRS Advisory Council issues Annual Report
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-14T00:00:00Z
+- URL: https://www.irs.gov/newsroom/irs-advisory-council-issues-annual-report
+
+IR-2026-07, Jan. 14, 2026 — The Internal Revenue Service Advisory Council today issued its annual public report, offering recommendations to the IRS on a range of new and continuing issues in tax administration.
+
+## Treasury, IRS issue guidance on the additional first year depreciation deduction amended as part of the One, Big, Beautiful Bill
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-14T00:00:00Z
+- URL: https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-the-additional-first-year-depreciation-deduction-amended-as-part-of-the-one-big-beautiful-bill
+
+IR-2026-06, Jan. 14, 2026 — The Department of the Treasury and the Internal Revenue Service today issued Notice 2026-11 that provides taxpayers with guidance on the permanent 100% additional first year depreciation deduction for eligible depreciable property acquired after Jan. 19, 2025, provided by the One, Big, Beautiful Bill.
+
 ## EFT Healthcare Claim Payments Continue to Rise in 2025
 - Source: NACHA
 - Category: Payments
@@ -2030,14 +2054,6 @@ Federal Reserve Board announces approval of application by Fifth Third Bancorp
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4042bcf
 
 PRESS RELEASE | JANUARY 13, 2026 Travis Hill Sworn in as the 23 rd Chairman of the FDIC WASHINGTON – Travis Hill was sworn in as the 23rd Chairman of the Federal Deposit Insurance Corporation (FDIC). Chairman Hill has served as Acting Chairman of the FDIC Board since January 20, 2025, and previously as Vice Chairman since January 5, 2023. Chairman Hill was nominated by Preside…
-
-## Visa 2026 Global Economic Outlook: AI Adoption and Shifting Trade Patterns Drive Economic Transformation Beneath Steady Growth
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-01-13T14:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
-
-Visa forecasts structural economic transformation driven by AI adoption, supply chain rewiring and accelerating business investment that supports stable 2.7% global growth Global GDP projected to grow 2.7% in 2026, with surface stability masking fundamental shifts in trade, technology and
 
 ## CVE-2026-20962 Dynamic Root of Trust for Measurement (DRTM) Information Disclosure Vulnerability
 - Source: Microsoft MSRC
@@ -3060,6 +3076,22 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Category: Executive
 - Published: 2026-01-09T01:43:52Z
 - URL: https://www.whitehouse.gov/articles/2026/01/walz-is-wrong-president-trumps-immigration-policies-are-saving-lives/
+
+## Use IRS Free File to conveniently file your return at no cost
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-09T00:00:00Z
+- URL: https://www.irs.gov/newsroom/use-irs-free-file-to-conveniently-file-your-return-at-no-cost
+
+IR-2026-05, Jan. 9, 2026 — IRS Free File will begin accepting individual tax returns today, giving eligible taxpayers an early opportunity to prepare and file their federal income tax returns ahead of the official start of the 2026 filing season later this month.
+
+## IRS.gov resources can help answer questions about the One, Big, Beautiful Bill
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-09T00:00:00Z
+- URL: https://www.irs.gov/newsroom/irsgov-resources-can-help-answer-questions-about-the-one-big-beautiful-bill
+
+IR-2026-04, Jan. 9, 2026 — Taxpayers may be able to take advantage of new deductions that could reduce taxable income and increase refunds due to the One, Big, Beautiful Bill, passed by Congress in July 2025.
 
 ## Affirmative is Now a Nacha Preferred Partner for Compliance/Fraud Monitoring/Risk and Fraud Prevention
 - Source: NACHA
@@ -4491,6 +4523,22 @@ Information published.
 
 Information published.
 
+## Treasury, IRS issue proposed regulations reflecting changes from the One, Big, Beautiful Bill to the threshold for backup withholding on certain payments made through third parties
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-08T00:00:00Z
+- URL: https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-reflecting-changes-from-the-one-big-beautiful-bill-to-the-threshold-for-backup-withholding-on-certain-payments-made-through-third-parties
+
+IR-2026-03, Jan. 8, 2026 — The Department of the Treasury and the Internal Revenue Service today issued proposed regulations that would revise the threshold for when certain third-party settlement organizations are required to perform backup withholding to comply with changes made in the One, Big, Beautiful Bill.
+
+## IRS announces first day of 2026 filing season; online tools and resources help with tax filing
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-08T00:00:00Z
+- URL: https://www.irs.gov/newsroom/irs-announces-first-day-of-2026-filing-season-online-tools-and-resources-help-with-tax-filing
+
+IR-2026-02, Jan. 8, 2026 — The Internal Revenue Service announced Monday, January 26, 2026, as the opening of the nation’s 2026 filing season. This year, several new tax law provisions of the One, Big, Beautiful Bill become effective, which could impact federal taxes, credits and deductions.
+
 ## National Bank Chartering: Notice of Proposed Rulemaking
 - Source: OCC
 - Category: Banking
@@ -5098,6 +5146,14 @@ Information published.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-11961
 
 Information published.
+
+## Prepare to file in 2026: Get Ready for tax season with key updates, essential tips
+- Source: IRS
+- Category: IRS
+- Published: 2026-01-06T00:00:00Z
+- URL: https://www.irs.gov/newsroom/prepare-to-file-in-2026-get-ready-for-tax-season-with-key-updates-essential-tips
+
+IR-2026-01, Jan. 6, 2026 — With the 2026 filing season quickly approaching, the Internal Revenue Service is urging taxpayers to take a few simple steps now to prepare for filing their 2025 federal income tax returns.
 
 ## Stablecoin Earns Its Own Track at Smarter Faster Payments 2026
 - Source: NACHA

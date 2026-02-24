@@ -1845,12 +1845,24 @@ def whitehouse_links(page_url: str, html: str, window_start: Optional[datetime])
 
 
 
-def irs_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+def irs_links(
+    page_url: str,
+    html: str,
+    window_start: datetime,
+    window_end: datetime,
+) -> List[Tuple[str, str, Optional[datetime]]]:
     """IRS newsroom + monthly archive extractor.
 
     IRS rolls news releases into per-month archive pages like:
       /newsroom/news-releases-for-january-2026
-    Those archive pages often contain many links that generic extraction can miss.
+
+    The IRS HTML structure varies across newsroom hubs, and many links live inside
+    plain <div> blocks (not <li>/<article>). For RegMonthly we want *the full prior
+    month*, so we:
+      - capture all /newsroom/ links on the page (including div-based listings)
+      - try to infer a nearby date
+      - if we find a date and it's outside the target month window, drop it early
+        (detail fetch will still confirm dates when missing).
     """
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
@@ -1900,19 +1912,31 @@ def irs_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetim
         if dt is None:
             wrap = a.find_parent(["li", "article", "div", "section", "p"]) or a.parent
             if wrap:
-                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1200), source="IRS")
+                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1600), source="IRS")
+
+        # If we have a date and it's outside the month window, discard now.
+        if dt is not None and not in_window(dt, window_start, window_end):
+            return
 
         links.append((title, url, dt))
 
-    # Prefer structured listings (these cover both newsroom landing + monthly archive pages)
-    for a in container.select("article a[href], li a[href], h2 a[href], h3 a[href], p a[href]"):
+    # Prefer structured listings but also include div-based listings (IRS often uses those).
+    selectors = [
+        "article a[href]",
+        "li a[href]",
+        "h2 a[href]",
+        "h3 a[href]",
+        "p a[href]",
+        "div a[href]",
+    ]
+    for a in container.select(",".join(selectors)):
         consider_anchor(a)
         if len(links) >= MAX_LISTING_LINKS:
             break
 
-    # Fallback: any /newsroom/ anchors
+    # Fallback: any /newsroom/ anchors anywhere
     if not links:
-        for a in container.find_all("a", href=True):
+        for a in soup.find_all("a", href=True):
             if "/newsroom/" in (a.get("href") or "").lower():
                 consider_anchor(a)
                 if len(links) >= MAX_LISTING_LINKS:
@@ -3043,7 +3067,7 @@ def main_content_links(source: str, page_url: str, html: str, window_start: date
 
 
     if source == "IRS":
-        return irs_links(page_url, html)
+        return irs_links(page_url, html, window_start, window_end)
 
     if source == "Mastercard":
         return mastercard_links(page_url, html)
