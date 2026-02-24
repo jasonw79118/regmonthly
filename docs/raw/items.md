@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-23T20:14:55-06:00` (CT) — `2026-02-24T02:14:55Z` (UTC)
+Last updated: `2026-02-24T08:42:09-06:00` (CT) — `2026-02-24T14:42:09Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
@@ -339,6 +339,14 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - Published: 2026-01-29T22:56:02Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-launches-the-great-american-recovery-initiative-to-address-the-addiction-crisis/
 
+## Visa Fiscal First Quarter 2026 Financial Results
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-01-29T21:05:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22086.html
+
+SAN FRANCISCO --(BUSINESS WIRE)--Jan. 29, 2026-- Visa (NYSE: V) today announced its fiscal first quarter 2026 financial results through an earnings release that will be furnished with the Securities and Exchange Commission on a Form 8-K and available on its Investor Relations website at
+
 ## Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)
 - Source: FRB
 - Category: Banking
@@ -530,6 +538,14 @@ This week, CDIA submitted formal comments advocating changes to the Consumer Fin
 - Category: Executive
 - Published: 2026-01-28T16:05:49Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-space-shuttle-challenger-disaster/
+
+## Visa Spending Study Shows How Americans Will Use AI to Plan, Book and Spend on Winter Sports
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-01-28T13:27:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22026.html
+
+New U.S. findings highlight the rise of Gen AI‑driven trip planning, strong domestic travel preferences, and growing excitement ahead of The Olympic and Paralympic Games Milano Cortina 2026. SAN FRANCISCO --(BUSINESS WIRE)--Jan. 28, 2026-- Visa today released new U.S.
 
 ## Level Up Your Metro 2® Reporting Skills—Live in Las Vegas
 - Source: CDIA
@@ -758,6 +774,14 @@ This rule amends the standards for Reflectorization of Rail Freight Rolling Stoc
 - Category: Executive
 - Published: 2026-01-26T18:12:20Z
 - URL: https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/
+
+## Visa Debuts Milano Cortina 2026 Campaign Starring Record‑Breaking Athletes Mikaela Shiffrin and Oksana Masters
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-01-26T14:01:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22021.html
+
+New anthem films highlight the real journeys, resilience, and support systems behind two of the most decorated women in sport – showing how Visa helps power progress on the road to the Olympic and Paralympic Winter Games Milano Cortina 2026. SAN FRANCISCO --(BUSINESS WIRE)--Jan.
 
 ## IRS opens 2026 filing season
 - Source: IRS
@@ -1629,6 +1653,14 @@ The Coast Guard is establishing a temporary security zone for navigable waters w
 
 SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open session: Date and Time: Thursday, January 22, 2026, at 10:00 a.m. ET Place: The Board meeting will be open to public observation by webcast . Members of the media should contact the Office of Communications by Tuesday, January 20, at MediaRequests@FDIC.gov to attend in person from FDIC Headquarters, 5…
 
+## Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-01-15T21:05:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html
+
+SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its fiscal first quarter 2026 financial results on Thursday, January 29, 2026 . After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial
+
 ## President Trump Unveils The Great Healthcare Plan to Lower Costs and Deliver Money Directly to the People
 - Source: White House
 - Category: Executive
@@ -1649,11 +1681,27 @@ SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open ses
 
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
 
+## READOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-01-15T12:00:00Z
+- URL: https://www.fincen.gov/news/news-releases/readout-financial-intelligence-units-commit-counter-transnational-organized
+
+WASHINGTON—On January 12 and 13, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) hosted the first meeting of the Transnational Organized Crime Working Group (TOC-WG). The TOC-WG includes representatives from 16 financial intelligence units across the world that are committed to working together to enhance their collective ability to identify…
+
 ## Iran-related Designations
 - Source: OFAC
 - Category: OFAC
 - Published: 2026-01-15T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260115
+
+## Readouts
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-01-15T00:00:00Z
+- URL: https://www.fincen.gov/news/readouts
+
+TitleDATEREADOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting 01/15/2026READOUT: Second Annual FINTRAC-FinCEN Symposium in Washington, D.C.09/17/2025
 
 ## Treasury, IRS provide new safe harbor explanations for retirement plan administrators
 - Source: IRS
@@ -2054,6 +2102,14 @@ Federal Reserve Board announces approval of application by Fifth Third Bancorp
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4042bcf
 
 PRESS RELEASE | JANUARY 13, 2026 Travis Hill Sworn in as the 23 rd Chairman of the FDIC WASHINGTON – Travis Hill was sworn in as the 23rd Chairman of the Federal Deposit Insurance Corporation (FDIC). Chairman Hill has served as Acting Chairman of the FDIC Board since January 20, 2025, and previously as Vice Chairman since January 5, 2023. Chairman Hill was nominated by Preside…
+
+## Visa 2026 Global Economic Outlook: AI Adoption and Shifting Trade Patterns Drive Economic Transformation Beneath Steady Growth
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-01-13T14:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
+
+Visa forecasts structural economic transformation driven by AI adoption, supply chain rewiring and accelerating business investment that supports stable 2.7% global growth Global GDP projected to grow 2.7% in 2026, with surface stability masking fundamental shifts in trade, technology and
 
 ## CVE-2026-20962 Dynamic Root of Trust for Measurement (DRTM) Information Disclosure Vulnerability
 - Source: Microsoft MSRC
@@ -3056,6 +3112,14 @@ The Department of Homeland Security (DHS) is increasing premium processing fees 
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/other20260109a.htm
 
 Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026
+
+## Secretary Bessent Announces Initiatives to Combat Rampant Fraud in Minnesota
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-01-09T12:00:00Z
+- URL: https://www.fincen.gov/news/news-releases/secretary-bessent-announces-initiatives-combat-rampant-fraud-minnesota
+
+In Minnesota, Secretary of the Treasury Scott Bessent announced several initiatives to combat rampant government benefits fraud in Minnesota, which has wasted billions of taxpayer dollars. These initiatives are designed to strengthen and safeguard the financial system and protect Minnesota taxpayers. Secretary Bessent announced several actions taken by the U.S.
 
 ## Chromium: CVE-2026-0628 Insufficient policy enforcement in WebView tag
 - Source: Microsoft MSRC
