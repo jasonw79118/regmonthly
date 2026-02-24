@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-23T16:37:42-06:00` (CT) — `2026-02-23T22:37:42Z` (UTC)
+Last updated: `2026-02-23T18:33:00-06:00` (CT) — `2026-02-24T00:33:00Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
@@ -886,6 +886,12 @@ The Coast Guard is changing the operating schedule that governs the Dorset Avenu
 - URL: https://www.texasbankers.com/statement-of-tba-ceo-chris-furlow-on-card-rate-and-interchange-cap-proposals/
 
 Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but “Government Price Fixing” “Card rate and interchange caps sound politically appealing but government price fixing always fails to solve affordability issues, and it ultimately leads to unintended economic consequences. Any serious consideration of the data shows card rate caps would hurt small businesse…
+
+## President Trump is the Most Pro-Life President in History
+- Source: White House
+- Category: Executive
+- Published: 2026-01-23T21:03:45Z
+- URL: https://www.whitehouse.gov/articles/2026/01/president-trump-is-the-most-pro-life-president-in-history/
 
 ## Congressional Bill H.R. 4323 and H.R. 6938 Signed into Law
 - Source: White House

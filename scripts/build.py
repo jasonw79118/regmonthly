@@ -1717,6 +1717,31 @@ def _bump_query_page(url: str, param: str = "page") -> Optional[str]:
         return None
 
 
+def _bump_query_page_from_zero(url: str, param: str = "page") -> Optional[str]:
+    """Increment a querystring page param where the *implicit* first page is page=0.
+
+    If the param is absent, return page=1 (not page=2). If present, increment normally.
+    This matches a bunch of Drupal/Gov pagers where ?page=0 is the first page and the bare URL omits it.
+    """
+    try:
+        from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+        p = urlparse(url)
+        qs = parse_qs(p.query)
+        if param in qs and qs[param]:
+            try:
+                cur = int(qs[param][0])
+            except Exception:
+                cur = 0
+            nxt = cur + 1
+        else:
+            nxt = 1
+        qs[param] = [str(nxt)]
+        new_query = urlencode(qs, doseq=True)
+        return urlunparse((p.scheme, p.netloc, p.path, p.params, new_query, p.fragment))
+    except Exception:
+        return None
+
+
 def _append_path_page(url: str, n: int) -> Optional[str]:
     """Turn .../news/ into .../news/page/N/ if not already."""
     try:
@@ -1740,11 +1765,11 @@ def _next_page_url_source_fallback(source: str, cur_url: str, cur_html: str, pag
 
     # OFAC recent actions commonly uses ?page=N (pager sometimes icon-only)
     if source == "OFAC" and "ofac.treasury.gov/recent-actions" in u:
-        return _bump_query_page(u, "page")
+        return _bump_query_page_from_zero(u, "page")
 
     # Treasury press releases supports ?page=N
     if source in ("Treasury", "Treasury Press Releases") and "home.treasury.gov/news/press-releases" in u:
-        return _bump_query_page(u, "page")
+        return _bump_query_page_from_zero(u, "page")
 
     # White House uses /news/page/N/ and /presidential-actions/page/N/
     if source == "White House" and ("whitehouse.gov/news" in u or "whitehouse.gov/presidential-actions" in u):
@@ -1754,7 +1779,7 @@ def _next_page_url_source_fallback(source: str, cur_url: str, cur_html: str, pag
     # Senate Banking: try simple query page increment if present/typical
     if source == "Senate Banking" and "banking.senate.gov/newsroom" in u:
         # some senate sites use ?PageNum= or ?page= (best effort)
-        nxt = _bump_query_page(u, "PageNum") or _bump_query_page(u, "page")
+        nxt = _bump_query_page_from_zero(u, "PageNum") or _bump_query_page_from_zero(u, "page")
         return nxt
 
     return None
@@ -1816,6 +1841,84 @@ def treasury_links(page_url: str, html: str, window_start: Optional[datetime]) -
 
 def whitehouse_links(page_url: str, html: str, window_start: Optional[datetime]) -> List[Tuple[str, str, Optional[datetime]]]:
     return _paginate_listing("White House", page_url, html, window_start, whitehouse_links_single)
+
+
+
+
+def irs_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    """IRS newsroom + monthly archive extractor.
+
+    IRS rolls news releases into per-month archive pages like:
+      /newsroom/news-releases-for-january-2026
+    Those archive pages often contain many links that generic extraction can miss.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    strip_nav_like(container)
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    def consider_anchor(a) -> None:
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#") or href.lower().startswith("javascript:"):
+            return
+
+        url = canonical_url(urljoin(page_url, href))
+        if not url or not allowed_for_source("IRS", url):
+            return
+
+        pth = (urlparse(url).path or "").lower()
+
+        # Keep real newsroom items; skip the main newsroom landing and obvious non-articles.
+        if "/newsroom/" not in pth:
+            return
+        if pth.rstrip("/").endswith("/newsroom"):
+            return
+        if "/downloads/rss" in pth:
+            return
+
+        raw_title = (a.get_text(" ", strip=True) or "").strip()
+        title = clean_text(raw_title, 220)
+        if not title or len(title) < 8:
+            return
+
+        tl = title.lower()
+        if tl in GENERIC_TITLES or tl in {"news releases", "tax tips", "newsroom"}:
+            return
+        if is_probably_nav_link("IRS", title, url) or is_generic_listing_or_home("IRS", title, url):
+            return
+
+        if url in seen:
+            return
+        seen.add(url)
+
+        dt = find_time_near_anchor(a, "IRS")
+        if dt is None:
+            wrap = a.find_parent(["li", "article", "div", "section", "p"]) or a.parent
+            if wrap:
+                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1200), source="IRS")
+
+        links.append((title, url, dt))
+
+    # Prefer structured listings (these cover both newsroom landing + monthly archive pages)
+    for a in container.select("article a[href], li a[href], h2 a[href], h3 a[href], p a[href]"):
+        consider_anchor(a)
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    # Fallback: any /newsroom/ anchors
+    if not links:
+        for a in container.find_all("a", href=True):
+            if "/newsroom/" in (a.get("href") or "").lower():
+                consider_anchor(a)
+                if len(links) >= MAX_LISTING_LINKS:
+                    break
+
+    return links
 
 
 def ofac_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
@@ -2937,6 +3040,10 @@ def main_content_links(source: str, page_url: str, html: str, window_start: date
         return senate_banking_links(page_url, html, window_start)
     if source == "FinCEN":
         return fincen_links(page_url, html, window_start)
+
+
+    if source == "IRS":
+        return irs_links(page_url, html)
 
     if source == "Mastercard":
         return mastercard_links(page_url, html)

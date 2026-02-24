@@ -1,8 +1,8 @@
 {
   "window_start": "2026-01-01T06:00:00Z",
   "window_end": "2026-02-01T05:59:59Z",
-  "generated_at_utc": "2026-02-23T22:37:42Z",
-  "generated_at_ct": "2026-02-23T16:37:42-06:00",
+  "generated_at_utc": "2026-02-24T00:33:00Z",
+  "generated_at_ct": "2026-02-23T18:33:00-06:00",
   "items": [
     {
       "category": "Executive",
@@ -1173,6 +1173,14 @@
       "published_at": "2026-01-23T21:23:14Z",
       "url": "https://www.texasbankers.com/statement-of-tba-ceo-chris-furlow-on-card-rate-and-interchange-cap-proposals/",
       "summary": "Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but “Government Price Fixing” “Card rate and interchange caps sound politically appealing but government price fixing always fails to solve affordability issues, and it ultimately leads to unintended economic consequences. Any serious consideration of the data shows card rate caps would hurt small businesse…"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "President Trump is the Most Pro-Life President in History",
+      "published_at": "2026-01-23T21:03:45Z",
+      "url": "https://www.whitehouse.gov/articles/2026/01/president-trump-is-the-most-pro-life-president-in-history/",
+      "summary": ""
     },
     {
       "category": "Executive",
