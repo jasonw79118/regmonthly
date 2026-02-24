@@ -5,13 +5,6 @@ Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 https://www.whitehouse.gov/articles/2026/01/wide-acclaim-for-president-trumps-nomination-of-kevin-warsh-as-fed-chair/
 ------------------------------------------------------------
 Banking
-FDIC
-2026-01-30T23:12:07Z
-Press Release: First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois
-https://content.govdelivery.com/accounts/USFDIC/bulletins/406eba7
-PRESS RELEASE | JANUARY 30, 2026 First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois WASHINGTON — Metropolitan Capital Bank & Trust was closed today by the Illinois Department of Financial and Professional Regulation, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC enter…
-------------------------------------------------------------
-Banking
 FRB
 2026-01-30T21:00:00Z
 Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.
@@ -29,13 +22,6 @@ White House
 2026-01-30T17:15:53Z
 Fact Sheet: President Donald J. Trump Celebrates American Greatness with the Freedom 250 Grand Prix of Washington, D.C.
 https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-american-greatness-with-the-freedom-250-grand-prix-of-washington-d-c/
-------------------------------------------------------------
-Banking
-FDIC
-2026-01-30T15:02:09Z
-Press Release: FDIC Publishes Enforcement Orders for December 2025
-https://content.govdelivery.com/accounts/USFDIC/bulletins/406ad43
-PRESS RELEASE | JANUARY 30, 2026 FDIC Publishes Enforcement Orders for December 2025 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in December 2025. There are no administrative hearings scheduled for February 2026. Orders Terminating Consent Orders: Luana…
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -552,12 +538,6 @@ This rule amends the standards for Reflectorization of Rail Freight Rolling Stoc
 ------------------------------------------------------------
 Executive
 White House
-2026-01-26T22:21:10Z
-President Trump Delivers Largest Tax Refund Season in U.S. History
-https://www.whitehouse.gov/articles/2026/01/president-trump-delivers-largest-tax-refund-season-in-u-s-history/
-------------------------------------------------------------
-Executive
-White House
 2026-01-26T18:12:20Z
 Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group
 https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/
@@ -787,20 +767,6 @@ White House
 2026-01-22T19:52:54Z
 ICYMI: Murder Rate Plunges to 125-Year Low as President Trump Restores Law and Order
 https://www.whitehouse.gov/articles/2026/01/icymi-murder-rate-plunges-to-125-year-low-as-president-trump-restores-law-and-order/
-------------------------------------------------------------
-Banking
-FDIC
-2026-01-22T18:27:21Z
-Press Release: FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah
-https://content.govdelivery.com/accounts/USFDIC/bulletins/4059c9d
-PRESS RELEASE | JANUARY 22, 2026 FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah WASHINGTON – The Board of Directors of the Federal Deposit Insurance Corporation (FDIC) today approved deposit insurance applications submitted by Ford Motor Company to establish Ford Credit Bank and General M…
-------------------------------------------------------------
-Banking
-FDIC
-2026-01-22T16:55:37Z
-FDIC Board of Directors Meeting
-https://content.govdelivery.com/accounts/USFDIC/bulletins/4053778
-BOARD MEETING | JANUARY 22, 2026 FDIC Board of Directors Meeting Today, the Federal Deposit Insurance Corporation's Board of Directors met in open session to consider the following matters. Materials and information relative to the open Board actions are available on the Board Matters webpage . Items Addressed in Open Session: Amendments to the FDIC’s Guidelines for Appeals of…
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -1191,12 +1157,6 @@ https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential
 ------------------------------------------------------------
 Executive
 White House
-2026-01-16T21:51:58Z
-Statement on President Trump’s Comprehensive Plan to End the Gaza Conflict
-https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/
-------------------------------------------------------------
-Executive
-White House
 2026-01-16T20:59:19Z
 Religious Freedom Day, 2026
 https://www.whitehouse.gov/presidential-actions/2026/01/religious-freedom-day-2026/
@@ -1351,13 +1311,6 @@ Security Zone; Corpus Christi and La Quinta Ship Channel, Corpus Christi, TX
 https://www.federalregister.gov/documents/2026/01/16/2026-00834/security-zone-corpus-christi-and-la-quinta-ship-channel-corpus-christi-tx
 The Coast Guard is establishing a temporary security zone for navigable waters within a 500-yard radius of two vessels carrying cargo requiring an elevated level of security in the Corpus Christi and La Quinta Shipping Channels. The security zone is needed to protect the vessels, their cargo, and the surrounding waterway from terrorist acts, sabotage, or other subversive acts,…
 ------------------------------------------------------------
-Banking
-FDIC
-2026-01-15T21:55:31Z
-Sunshine Act Notice: FDIC Board of Directors Meeting
-https://content.govdelivery.com/accounts/USFDIC/bulletins/4049193
-SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open session: Date and Time: Thursday, January 22, 2026, at 10:00 a.m. ET Place: The Board meeting will be open to public observation by webcast . Members of the media should contact the Office of Communications by Tuesday, January 20, at MediaRequests@FDIC.gov to attend in person from FDIC Headquarters, 5…
-------------------------------------------------------------
 Payment Card Networks
 Visa
 2026-01-15T21:05:00Z
@@ -1383,12 +1336,6 @@ FRB
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
 https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
-------------------------------------------------------------
-OFAC
-OFAC
-2026-01-15T00:00:00Z
-Iran-related Designations
-https://ofac.treasury.gov/recent-actions/20260115
 ------------------------------------------------------------
 IRS
 IRS
@@ -1508,12 +1455,6 @@ White House
 2026-01-14T21:23:31Z
 Fact Sheet: President Donald J. Trump Takes Action on Certain Advanced Computing Chips to Protect America’s Economic and National Security
 https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/
-------------------------------------------------------------
-Executive
-White House
-2026-01-14T21:23:18Z
-Fact Sheet: President Donald J. Trump Directs Negotiations to Adjust Imports of Processed Critical Minerals and Their Derivative Products into the United States
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-directs-negotiations-to-adjust-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/
 ------------------------------------------------------------
 Executive
 White House
@@ -1747,13 +1688,6 @@ White House
 2026-01-13T15:25:05Z
 American Workers Win Big as Inflation Remains Low, Wages Surge
 https://www.whitehouse.gov/articles/2026/01/american-workers-win-big-as-inflation-remains-low-wages-surge/
-------------------------------------------------------------
-Banking
-FDIC
-2026-01-13T15:20:26Z
-Press Release: Travis Hill Sworn in as the 23rd Chairman of the FDIC
-https://content.govdelivery.com/accounts/USFDIC/bulletins/4042bcf
-PRESS RELEASE | JANUARY 13, 2026 Travis Hill Sworn in as the 23 rd Chairman of the FDIC WASHINGTON – Travis Hill was sworn in as the 23rd Chairman of the Federal Deposit Insurance Corporation (FDIC). Chairman Hill has served as Acting Chairman of the FDIC Board since January 20, 2025, and previously as Vice Chairman since January 5, 2023. Chairman Hill was nominated by Preside…
 ------------------------------------------------------------
 Payment Card Networks
 Visa
@@ -2531,13 +2465,6 @@ Federal Register
 Safety Zone; Plane Crash Response Between Mile Markers 356 and 362, Gulf Intracoastal Waterway, Galveston, TX
 https://www.federalregister.gov/documents/2026/01/13/2026-00453/safety-zone-plane-crash-response-between-mile-markers-356-and-362-gulf-intracoastal-waterway
 The Coast Guard is establishing a temporary safety zone for navigable waters between mile markers 356 and 362 of the Gulf Intracoastal Waterway. The safety zone is needed to support response vessels and protect the marine environment for debris recovery, incident investigation, and pollution clean-up following a plane crash. Entry of vessels or persons into this zone is prohib…
-------------------------------------------------------------
-Banking
-FDIC
-2026-01-12T20:02:03Z
-Press Release: Agencies Issue 2025 Shared National Credit Program Report
-https://content.govdelivery.com/accounts/USFDIC/bulletins/403fc05
-PRESS RELEASE | JANUARY 12, 2026 Agencies Issue 2025 Shared National Credit Program Report WASHINGTON – Federal bank regulatory agencies today released the 2025 Shared National Credit (SNC) report that indicates credit risk associated with large, syndicated bank loans remains moderate. Credit risk trends continue to reflect the effects of borrowers’ ability to manage higher in…
 ------------------------------------------------------------
 Banking
 FRB
@@ -4005,12 +3932,6 @@ White House
 Prioritizing the Warfighter in Defense Contracting
 https://www.whitehouse.gov/presidential-actions/2026/01/prioritizing-the-warfighter-in-defense-contracting/
 ------------------------------------------------------------
-Executive
-White House
-2026-01-07T21:53:04Z
-Fact Sheet: President Donald J. Trump Withdraws the United States from International Organizations that Are Contrary to the Interests of the United States
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/
-------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-07T14:41:20Z
@@ -4452,13 +4373,6 @@ NACHA
 Podcast
 https://www.nacha.org/taxonomy/term/385
 ------------------------------------------------------------
-Banking
-FRB
-2026-01-06T16:00:00Z
-Federal Reserve Board issues enforcement action with former employee of Regions Bank
-https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260106a.htm
-Federal Reserve Board issues enforcement action with former employee of Regions Bank
-------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-06T14:36:10Z
@@ -4877,13 +4791,6 @@ White House
 2026-01-02T20:56:49Z
 Trump Administration’s Historic Rural Health Care Investments Hailed Nationwide
 https://www.whitehouse.gov/articles/2026/01/trump-administrations-historic-rural-health-care-investments-hailed-nationwide/
-------------------------------------------------------------
-Banking
-FDIC
-2026-01-02T15:09:39Z
-Press Release: FDIC Issues List of Banks Examined for CRA Compliance
-https://content.govdelivery.com/accounts/USFDIC/bulletins/4027564
-PRESS RELEASE | JANUARY 2, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in October 2025. The CRA is a 197…
 ------------------------------------------------------------
 IS
 Microsoft MSRC

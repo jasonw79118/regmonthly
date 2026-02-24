@@ -1,21 +1,13 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-24T10:14:20-06:00` (CT) — `2026-02-24T16:14:20Z` (UTC)
+Last updated: `2026-02-24T13:03:01-06:00` (CT) — `2026-02-24T19:03:01Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
 - Category: Executive
 - Published: 2026-01-30T23:43:32Z
 - URL: https://www.whitehouse.gov/articles/2026/01/wide-acclaim-for-president-trumps-nomination-of-kevin-warsh-as-fed-chair/
-
-## Press Release: First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois
-- Source: FDIC
-- Category: Banking
-- Published: 2026-01-30T23:12:07Z
-- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/406eba7
-
-PRESS RELEASE | JANUARY 30, 2026 First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois WASHINGTON — Metropolitan Capital Bank & Trust was closed today by the Illinois Department of Financial and Professional Regulation, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC enter…
 
 ## Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.
 - Source: FRB
@@ -36,14 +28,6 @@ Federal Reserve Board announces approval of application by Cornerstone Capital B
 - Category: Executive
 - Published: 2026-01-30T17:15:53Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-american-greatness-with-the-freedom-250-grand-prix-of-washington-d-c/
-
-## Press Release: FDIC Publishes Enforcement Orders for December 2025
-- Source: FDIC
-- Category: Banking
-- Published: 2026-01-30T15:02:09Z
-- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/406ad43
-
-PRESS RELEASE | JANUARY 30, 2026 FDIC Publishes Enforcement Orders for December 2025 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in December 2025. There are no administrative hearings scheduled for February 2026. Orders Terminating Consent Orders: Luana…
 
 ## Chromium: CVE-2026-1504 Inappropriate implementation in Background Fetch API
 - Source: Microsoft MSRC
@@ -603,12 +587,6 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 
 This rule amends the standards for Reflectorization of Rail Freight Rolling Stock (Reflectorization Standards or Part 224) to codify waivers and remove the outdated implementation schedule. The changes are expected to enhance safety, promote innovation, clarify existing requirements, and reduce unnecessary paperwork burdens. The amendments are consistent with the mandate of th…
 
-## President Trump Delivers Largest Tax Refund Season in U.S. History
-- Source: White House
-- Category: Executive
-- Published: 2026-01-26T22:21:10Z
-- URL: https://www.whitehouse.gov/articles/2026/01/president-trump-delivers-largest-tax-refund-season-in-u-s-history/
-
 ## Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group
 - Source: White House
 - Category: Executive
@@ -862,22 +840,6 @@ FAA is revising its regulations to implement certain flight restrictions in the 
 - Category: Executive
 - Published: 2026-01-22T19:52:54Z
 - URL: https://www.whitehouse.gov/articles/2026/01/icymi-murder-rate-plunges-to-125-year-low-as-president-trump-restores-law-and-order/
-
-## Press Release: FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah
-- Source: FDIC
-- Category: Banking
-- Published: 2026-01-22T18:27:21Z
-- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4059c9d
-
-PRESS RELEASE | JANUARY 22, 2026 FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah WASHINGTON – The Board of Directors of the Federal Deposit Insurance Corporation (FDIC) today approved deposit insurance applications submitted by Ford Motor Company to establish Ford Credit Bank and General M…
-
-## FDIC Board of Directors Meeting
-- Source: FDIC
-- Category: Banking
-- Published: 2026-01-22T16:55:37Z
-- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4053778
-
-BOARD MEETING | JANUARY 22, 2026 FDIC Board of Directors Meeting Today, the Federal Deposit Insurance Corporation's Board of Directors met in open session to consider the following matters. Materials and information relative to the open Board actions are available on the Board Matters webpage . Items Addressed in Open Session: Amendments to the FDIC’s Guidelines for Appeals of…
 
 ## CVE-2026-21520 Copilot Studio Information Disclosure Vulnerability
 - Source: Microsoft MSRC
@@ -1305,12 +1267,6 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - Published: 2026-01-17T20:25:07Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-birthday-of-benjamin-franklin/
 
-## Statement on President Trump’s Comprehensive Plan to End the Gaza Conflict
-- Source: White House
-- Category: Executive
-- Published: 2026-01-16T21:51:58Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/
-
 ## Religious Freedom Day, 2026
 - Source: White House
 - Category: Executive
@@ -1485,14 +1441,6 @@ Pursuant to the authority granted to the United States Small Business Administra
 
 The Coast Guard is establishing a temporary security zone for navigable waters within a 500-yard radius of two vessels carrying cargo requiring an elevated level of security in the Corpus Christi and La Quinta Shipping Channels. The security zone is needed to protect the vessels, their cargo, and the surrounding waterway from terrorist acts, sabotage, or other subversive acts,…
 
-## Sunshine Act Notice: FDIC Board of Directors Meeting
-- Source: FDIC
-- Category: Banking
-- Published: 2026-01-15T21:55:31Z
-- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4049193
-
-SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open session: Date and Time: Thursday, January 22, 2026, at 10:00 a.m. ET Place: The Board meeting will be open to public observation by webcast . Members of the media should contact the Office of Communications by Tuesday, January 20, at MediaRequests@FDIC.gov to attend in person from FDIC Headquarters, 5…
-
 ## Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026
 - Source: Visa
 - Category: Payment Card Networks
@@ -1520,12 +1468,6 @@ SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its 
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm
 
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
-
-## Iran-related Designations
-- Source: OFAC
-- Category: OFAC
-- Published: 2026-01-15T00:00:00Z
-- URL: https://ofac.treasury.gov/recent-actions/20260115
 
 ## Treasury, IRS provide new safe harbor explanations for retirement plan administrators
 - Source: IRS
@@ -1656,12 +1598,6 @@ We, the U.S. Fish and Wildlife Service, made deregulatory actions pertaining to 
 - Category: Executive
 - Published: 2026-01-14T21:23:31Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/
-
-## Fact Sheet: President Donald J. Trump Directs Negotiations to Adjust Imports of Processed Critical Minerals and Their Derivative Products into the United States
-- Source: White House
-- Category: Executive
-- Published: 2026-01-14T21:23:18Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-directs-negotiations-to-adjust-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/
 
 ## Establishing a Second Emergency Board to Investigate Disputes Between the Long Island Rail Road Company and Certain of its Employees Represented by Certain Labor Organizations
 - Source: White House
@@ -1918,14 +1854,6 @@ Federal Reserve Board announces approval of application by Fifth Third Bancorp
 - Category: Executive
 - Published: 2026-01-13T15:25:05Z
 - URL: https://www.whitehouse.gov/articles/2026/01/american-workers-win-big-as-inflation-remains-low-wages-surge/
-
-## Press Release: Travis Hill Sworn in as the 23rd Chairman of the FDIC
-- Source: FDIC
-- Category: Banking
-- Published: 2026-01-13T15:20:26Z
-- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4042bcf
-
-PRESS RELEASE | JANUARY 13, 2026 Travis Hill Sworn in as the 23 rd Chairman of the FDIC WASHINGTON – Travis Hill was sworn in as the 23rd Chairman of the Federal Deposit Insurance Corporation (FDIC). Chairman Hill has served as Acting Chairman of the FDIC Board since January 20, 2025, and previously as Vice Chairman since January 5, 2023. Chairman Hill was nominated by Preside…
 
 ## Visa 2026 Global Economic Outlook: AI Adoption and Shifting Trade Patterns Drive Economic Transformation Beneath Steady Growth
 - Source: Visa
@@ -2814,14 +2742,6 @@ This rule provides a change in the address for service of process for summonses,
 - URL: https://www.federalregister.gov/documents/2026/01/13/2026-00453/safety-zone-plane-crash-response-between-mile-markers-356-and-362-gulf-intracoastal-waterway
 
 The Coast Guard is establishing a temporary safety zone for navigable waters between mile markers 356 and 362 of the Gulf Intracoastal Waterway. The safety zone is needed to support response vessels and protect the marine environment for debris recovery, incident investigation, and pollution clean-up following a plane crash. Entry of vessels or persons into this zone is prohib…
-
-## Press Release: Agencies Issue 2025 Shared National Credit Program Report
-- Source: FDIC
-- Category: Banking
-- Published: 2026-01-12T20:02:03Z
-- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/403fc05
-
-PRESS RELEASE | JANUARY 12, 2026 Agencies Issue 2025 Shared National Credit Program Report WASHINGTON – Federal bank regulatory agencies today released the 2025 Shared National Credit (SNC) report that indicates credit risk associated with large, syndicated bank loans remains moderate. Credit risk trends continue to reflect the effects of borrowers’ ability to manage higher in…
 
 ## Agencies issue 2025 Shared National Credit Program report
 - Source: FRB
@@ -4483,12 +4403,6 @@ Nationwide Permits (NWPs) authorize activities under Section 404 of the Clean Wa
 - Published: 2026-01-07T23:38:15Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/01/prioritizing-the-warfighter-in-defense-contracting/
 
-## Fact Sheet: President Donald J. Trump Withdraws the United States from International Organizations that Are Contrary to the Interests of the United States
-- Source: White House
-- Category: Executive
-- Published: 2026-01-07T21:53:04Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/
-
 ## CVE-2025-68343 can: gs_usb: gs_usb_receive_bulk_callback(): check actual_length before accessing header
 - Source: Microsoft MSRC
 - Category: IS
@@ -4987,14 +4901,6 @@ Minutes of the Board's discount rate meeting on December 10, 2025
 - Published: 2026-01-06T16:41:53Z
 - URL: https://www.nacha.org/taxonomy/term/385
 
-## Federal Reserve Board issues enforcement action with former employee of Regions Bank
-- Source: FRB
-- Category: Banking
-- Published: 2026-01-06T16:00:00Z
-- URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260106a.htm
-
-Federal Reserve Board issues enforcement action with former employee of Regions Bank
-
 ## CVE-2025-68973 In GnuPG through 2.4.8, armor_filter in g10/armor.c has two increments of an index variable where one is intended, leading to an out-of-bounds write for crafted input. (For ExtendedLTS, 2.2.51 and later a…
 - Source: Microsoft MSRC
 - Category: IS
@@ -5466,14 +5372,6 @@ Information published.
 - Category: Executive
 - Published: 2026-01-02T20:56:49Z
 - URL: https://www.whitehouse.gov/articles/2026/01/trump-administrations-historic-rural-health-care-investments-hailed-nationwide/
-
-## Press Release: FDIC Issues List of Banks Examined for CRA Compliance
-- Source: FDIC
-- Category: Banking
-- Published: 2026-01-02T15:09:39Z
-- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4027564
-
-PRESS RELEASE | JANUARY 2, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in October 2025. The CRA is a 197…
 
 ## CVE-2025-13281 Portworx Half-Blind SSRF in kube-controller-manager
 - Source: Microsoft MSRC

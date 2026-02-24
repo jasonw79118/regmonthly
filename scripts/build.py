@@ -64,7 +64,6 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
     "Fiserv": 25,       # ✅ DO NOT CHANGE (your request)
     "Jack Henry": 25,
     "Finastra": 20,
-    "TCS": 25,
     "OFAC": 220,
     "Treasury": 220,
     "OCC": 25,
@@ -132,8 +131,6 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     "Fiserv": "Fintech Watch",
     "Jack Henry": "Fintech Watch",
     "Finastra": "Fintech Watch",
-    "TCS": "Fintech Watch",
-
     # Payment Card Networks tile
     "Visa": "Payment Card Networks",
     "Mastercard": "Payment Card Networks",
@@ -337,8 +334,6 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
     "Finastra": {"allow_domains": {"www.finastra.com"}},
 
     # ✅ TCS: add feedburner domains because many press releases advertise RSS via feeds2.feedburner.com
-    "TCS": {"allow_domains": {"www.tcs.com", "feeds2.feedburner.com", "feedburner.com"}},
-
     "FHLB MPF": {
         "allow_domains": {"www.fhlbmpf.com"},
         "allow_path_prefixes": {"/program-guidelines/mpf-program-updates"},
@@ -3056,7 +3051,7 @@ def finastra_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[da
 def main_content_links(source: str, page_url: str, html: str, window_start: datetime, window_end: datetime) -> List[Tuple[str, str, Optional[datetime]]]:
     if source == "OFAC":
         return ofac_links(page_url, html, window_start)
-    if source in ("Treasury", "Treasury Press Releases"):
+    if source == "Treasury":
         return treasury_links(page_url, html, window_start)
     if source == "White House":
         return whitehouse_links(page_url, html, window_start)
@@ -3169,7 +3164,6 @@ KNOWN_FEEDS: Dict[str, List[str]] = {
     "Fiserv": ["https://investors.fiserv.com/newsroom/rss"],  # ✅ unchanged
 
     # ✅ NEW: TCS press releases RSS (commonly referenced as Feedburner)
-    "TCS": ["http://feeds2.feedburner.com/tcspress"],
 }
 
 
@@ -3191,7 +3185,7 @@ def get_start_pages() -> List[SourcePage]:
         SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions/enforcement-actions"),
 
         # Treasury Press Releases (OFAC tile)
-        SourcePage("Treasury Press Releases", "https://home.treasury.gov/news/press-releases"),
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases"),
 
         # FinCEN (OFAC/AML tile)
         SourcePage("FinCEN", "https://www.fincen.gov/news-room"),
