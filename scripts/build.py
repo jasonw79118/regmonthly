@@ -290,7 +290,7 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
 
     "FinCEN": {
         "allow_domains": {"www.fincen.gov", "fincen.gov"},
-        "allow_path_prefixes": {"/news-room"},
+        "allow_path_prefixes": {"/news-room", "/news_room", "/newsroom"},
     },
 
     "White House": {
@@ -2340,8 +2340,9 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
         if not href or href.startswith("#"):
             continue
 
-        # FinCEN uses /news-room/ and sometimes /sites/default/files/ PDFs; keep only HTML newsroom items
-        if "/news-room/" not in href and "/news-room" not in href:
+        # FinCEN uses /news-room/ (and legacy /news_room/ or /newsroom/). Keep only HTML newsroom items
+        hlow = href.lower()
+        if ("/news-room" not in hlow) and ("/news_room" not in hlow) and ("/newsroom" not in hlow):
             continue
         if href.lower().endswith(".pdf"):
             continue
@@ -2540,7 +2541,7 @@ def visa_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
 # Treasury press releases
 # ============================
 
-TREASURY_PR_PATH_RE = re.compile(r"^/news/press-releases/[a-z0-9\-]+$", re.I)
+TREASURY_PR_PATH_RE = re.compile(r"^/news/press-releases/[a-z0-9\-]+/?$", re.I)
 
 
 def treasury_date_from_listing_context(a: Any) -> Optional[datetime]:
@@ -2589,14 +2590,19 @@ def treasury_links_single(page_url: str, html: str) -> List[Tuple[str, str, Opti
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen = set()
 
-    for a in container.select('a[href^="/news/press-releases/"]'):
+    for a in container.select("a[href]"):
         href = (a.get("href") or "").strip()
-        if not href or href.startswith("#"):
-            continue
-        if not TREASURY_PR_PATH_RE.match(href):
+        if not href or href.startswith("#") or href.lower().startswith("javascript:"):
             continue
 
-        url = canonical_url(urljoin(page_url, href))
+        joined = urljoin(page_url, href)
+        up = urlparse(joined)
+        if up.netloc and up.netloc.lower() != "home.treasury.gov":
+            continue
+        if not TREASURY_PR_PATH_RE.match(up.path or ""):
+            continue
+
+        url = canonical_url(up.geturl())
         if not allowed_for_source("Treasury", url):
             continue
 
@@ -2630,12 +2636,17 @@ def treasury_links_single(page_url: str, html: str) -> List[Tuple[str, str, Opti
     if not links:
         for a in container.select("h2 a[href], h3 a[href]"):
             href = (a.get("href") or "").strip()
-            if not href or not href.startswith("/news/press-releases/"):
-                continue
-            if not TREASURY_PR_PATH_RE.match(href):
+            if not href or href.startswith("#") or href.lower().startswith("javascript:"):
                 continue
 
-            url = canonical_url(urljoin(page_url, href))
+            joined = urljoin(page_url, href)
+            up = urlparse(joined)
+            if up.netloc and up.netloc.lower() != "home.treasury.gov":
+                continue
+            if not TREASURY_PR_PATH_RE.match(up.path or ""):
+                continue
+
+            url = canonical_url(up.geturl())
             if not allowed_for_source("Treasury", url):
                 continue
 

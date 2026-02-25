@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-25T07:11:34-06:00` (CT) — `2026-02-25T13:11:34Z` (UTC)
+Last updated: `2026-02-25T09:18:16-06:00` (CT) — `2026-02-25T15:18:16Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
@@ -1430,12 +1430,6 @@ Federal Reserve Board announces approval of application by Banco Inter, S.A.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21223
 
 Microsoft Edge Elevation Service exposes a privileged COM interface that inadequately validates the privileges of the calling process. A standard (non‑administrator) local user can invoke the IElevatorEdge interface method LaunchUpdateCmdElevatedAndWait, causing the service to execute privileged update commands as LocalSystem. This allows a non‑administrator to enable or disab…
-
-## Counter Terrorism Designations and Designation Update
-- Source: OFAC
-- Category: OFAC
-- Published: 2026-01-16T00:00:00Z
-- URL: https://ofac.treasury.gov/recent-actions/20260116
 
 ## Treasury, IRS: Supplemental basic allowance for housing payments to members of the military are not taxable
 - Source: IRS

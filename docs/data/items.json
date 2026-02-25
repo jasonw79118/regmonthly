@@ -1,8 +1,8 @@
 {
   "window_start": "2026-01-01T06:00:00Z",
   "window_end": "2026-02-01T05:59:59Z",
-  "generated_at_utc": "2026-02-25T13:11:34Z",
-  "generated_at_ct": "2026-02-25T07:11:34-06:00",
+  "generated_at_utc": "2026-02-25T15:18:16Z",
+  "generated_at_ct": "2026-02-25T09:18:16-06:00",
   "items": [
     {
       "category": "Executive",
@@ -1955,14 +1955,6 @@
       "published_at": "2026-01-16T08:00:00Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21223",
       "summary": "Microsoft Edge Elevation Service exposes a privileged COM interface that inadequately validates the privileges of the calling process. A standard (non‑administrator) local user can invoke the IElevatorEdge interface method LaunchUpdateCmdElevatedAndWait, causing the service to execute privileged update commands as LocalSystem. This allows a non‑administrator to enable or disab…"
-    },
-    {
-      "category": "OFAC",
-      "source": "OFAC",
-      "title": "Counter Terrorism Designations and Designation Update",
-      "published_at": "2026-01-16T00:00:00Z",
-      "url": "https://ofac.treasury.gov/recent-actions/20260116",
-      "summary": ""
     },
     {
       "category": "IRS",

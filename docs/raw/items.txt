@@ -1303,12 +1303,6 @@ CVE-2026-21223 Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerabi
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21223
 Microsoft Edge Elevation Service exposes a privileged COM interface that inadequately validates the privileges of the calling process. A standard (non‑administrator) local user can invoke the IElevatorEdge interface method LaunchUpdateCmdElevatedAndWait, causing the service to execute privileged update commands as LocalSystem. This allows a non‑administrator to enable or disab…
 ------------------------------------------------------------
-OFAC
-OFAC
-2026-01-16T00:00:00Z
-Counter Terrorism Designations and Designation Update
-https://ofac.treasury.gov/recent-actions/20260116
-------------------------------------------------------------
 IRS
 IRS
 2026-01-16T00:00:00Z
