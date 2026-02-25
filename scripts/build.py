@@ -48,6 +48,7 @@ WINDOW_DAYS = 14
 # Bump caps so Visa/Mastercard can resolve dates for more listing links
 MAX_LISTING_LINKS = 3500  # monthly: allow many listing links (full month coverage)
 GLOBAL_DETAIL_FETCH_CAP = 2200  # monthly: allow many detail fetches (full month coverage)
+DETAIL_OVERRIDE_OUT_OF_WINDOW = {"Visa", "Treasury", "FinCEN"}  # allow detail to correct bad listing dates
 REQUEST_DELAY_SEC = 0.12
 
 PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
@@ -290,11 +291,7 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
 
     "FinCEN": {
         "allow_domains": {"www.fincen.gov", "fincen.gov"},
-        "allow_path_prefixes": {
-            "/news/press-releases",
-            "/news/news-releases",
-            "/news-room",
-        },
+        "allow_path_prefixes": {"/news", "/news/", "/news-room", "/news_room", "/newsroom"},
     },
 
     "White House": {
@@ -1775,6 +1772,10 @@ def _next_page_url_source_fallback(source: str, cur_url: str, cur_html: str, pag
     if source in ("Treasury", "Treasury Press Releases") and "home.treasury.gov/news/press-releases" in u:
         return _bump_query_page_from_zero(u, "page")
 
+    # FinCEN press releases supports ?page=N
+    if source == "FinCEN" and "fincen.gov/news/press-releases" in u:
+        return _bump_query_page_from_zero(u, "page")
+
     # White House uses /news/page/N/ and /presidential-actions/page/N/
     if source == "White House" and ("whitehouse.gov/news" in u or "whitehouse.gov/presidential-actions" in u):
         # page_i is zero-based loop counter; next page number starts at 2
@@ -2273,9 +2274,6 @@ def fincen_links(page_url: str, html: str, window_start: Optional[datetime]) -> 
 #   https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-YYYY-XX.html
 OCC_DETAIL_RE = re.compile(r"/news-issuances/news-releases/\d{4}/[^\s#?]+", re.I)
 
-# FinCEN detail pages commonly live under /news/press-releases/ or /news/news-releases/
-FINCEN_DETAIL_RE = re.compile(r"^/news/(press-releases|news-releases)/[^/]+/?$", re.I)
-
 def occ_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
     if not soup:
@@ -2347,28 +2345,46 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
         if not href or href.startswith("#"):
             continue
 
-        # FinCEN uses /news-room/ and sometimes /sites/default/files/ PDFs; keep only HTML newsroom items
-        if "/news-room/" not in href and "/news-room" not in href:
+        # FinCEN content may appear under:
+        #   /news/press-releases/...
+        #   /news/news-releases/...
+        #   /news-room/... (legacy / mixed)
+        # Keep only HTML newsroom/press-release items (skip PDFs and nav links).
+        hl = href.lower()
+        if hl.endswith(".pdf"):
             continue
-        if href.lower().endswith(".pdf"):
+
+        if (
+            "/news/press-releases" not in hl
+            and "/news/news-releases" not in hl
+            and "/news-room" not in hl
+            and "/newsroom" not in hl
+            and "/news_room" not in hl
+        ):
             continue
 
         url = canonical_url(urljoin(page_url, href))
         if not allowed_for_source("FinCEN", url):
             continue
 
-        # Only keep actual press-release detail pages (avoid hub/category/search pages)
-        try:
-            up = urlparse(url)
-            if up.netloc.lower().endswith("fincen.gov"):
-                if not FINCEN_DETAIL_RE.match(up.path or ""):
-                    continue
-        except Exception:
-            pass
+        pth = (urlparse(url).path or "").lower()
+
+        # Filter out obvious non-article hubs
+        if pth.rstrip("/") in {"/news", "/news-room", "/newsroom", "/news_room"}:
+            continue
+        if pth.rstrip("/").endswith("/press-releases") or pth.rstrip("/").endswith("/news-releases"):
+            continue
 
         raw_title = (a.get_text(" ", strip=True) or "").strip()
         title = clean_text(raw_title, 220)
         if not title or len(title) < 8:
+            continue
+
+        if title.lower() in {"read more", "learn more", "more", "details"}:
+            continue
+        if is_probably_nav_link("FinCEN", title, url):
+            continue
+        if is_generic_listing_or_home("FinCEN", title, url):
             continue
 
         if url in seen:
@@ -2386,9 +2402,6 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
             break
 
     return links
-
-
-
 def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
@@ -2556,7 +2569,9 @@ def visa_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
 # Treasury press releases
 # ============================
 
-TREASURY_PR_PATH_RE = re.compile(r"^/news/press-releases/[a-z0-9\-]+$", re.I)
+TREASURY_PR_PATH_RE = re.compile(r"^/news/press-releases/[a-z0-9\-]+/?$", re.I)
+
+TREASURY_IGNORE_SLUG_RE = re.compile(r"^/news/press-releases/(on-|we-will-be-doing-some-content-migration|content-migration|please-ignore)", re.I)
 
 
 def treasury_date_from_listing_context(a: Any) -> Optional[datetime]:
@@ -2605,14 +2620,21 @@ def treasury_links_single(page_url: str, html: str) -> List[Tuple[str, str, Opti
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen = set()
 
-    for a in container.select('a[href^="/news/press-releases/"]'):
+    for a in container.select("a[href]"):
         href = (a.get("href") or "").strip()
-        if not href or href.startswith("#"):
-            continue
-        if not TREASURY_PR_PATH_RE.match(href):
+        if not href or href.startswith("#") or href.lower().startswith("javascript:"):
             continue
 
-        url = canonical_url(urljoin(page_url, href))
+        joined = urljoin(page_url, href)
+        up = urlparse(joined)
+        if up.netloc and up.netloc.lower() != "home.treasury.gov":
+            continue
+        if not TREASURY_PR_PATH_RE.match(up.path or ""):
+            continue
+        if TREASURY_IGNORE_SLUG_RE.search(up.path or ""):
+            continue
+
+        url = canonical_url(up.geturl())
         if not allowed_for_source("Treasury", url):
             continue
 
@@ -2646,12 +2668,17 @@ def treasury_links_single(page_url: str, html: str) -> List[Tuple[str, str, Opti
     if not links:
         for a in container.select("h2 a[href], h3 a[href]"):
             href = (a.get("href") or "").strip()
-            if not href or not href.startswith("/news/press-releases/"):
-                continue
-            if not TREASURY_PR_PATH_RE.match(href):
+            if not href or href.startswith("#") or href.lower().startswith("javascript:"):
                 continue
 
-            url = canonical_url(urljoin(page_url, href))
+            joined = urljoin(page_url, href)
+            up = urlparse(joined)
+            if up.netloc and up.netloc.lower() != "home.treasury.gov":
+                continue
+            if not TREASURY_PR_PATH_RE.match(up.path or ""):
+                continue
+
+            url = canonical_url(up.geturl())
             if not allowed_for_source("Treasury", url):
                 continue
 
@@ -3271,10 +3298,11 @@ def get_start_pages() -> List[SourcePage]:
         SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions/enforcement-actions"),
 
         # Treasury Press Releases (OFAC tile)
-        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases?page=0"),
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases"),
 
         # FinCEN (OFAC/AML tile)
-SourcePage("FinCEN", "https://www.fincen.gov/news-room/news-releases"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news/press-releases"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news-room"),
 
         # IRS
         SourcePage("IRS", "https://www.irs.gov/newsroom"),
@@ -3646,8 +3674,8 @@ def build() -> None:
 
                 snippet = ""
 
-                # If Visa has a date but outside window, let detail override
-                if source == "Visa" and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
+                # If some sources have unreliable listing dates, let detail override even when outside window
+                if source in DETAIL_OVERRIDE_OUT_OF_WINDOW and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
                     if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
                         detail_html = polite_get(url)
                         if detail_html:
