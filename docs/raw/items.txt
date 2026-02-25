@@ -1,9 +1,3 @@
-Executive
-White House
-2026-01-30T23:43:32Z
-Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
-https://www.whitehouse.gov/articles/2026/01/wide-acclaim-for-president-trumps-nomination-of-kevin-warsh-as-fed-chair/
-------------------------------------------------------------
 Banking
 FDIC
 2026-01-30T23:12:07Z
@@ -23,12 +17,6 @@ White House
 2026-01-30T17:35:30Z
 Celebrating American Greatness with American Motor Racing
 https://www.whitehouse.gov/presidential-actions/2026/01/celebrating-american-greatness-with-american-motor-racing/
-------------------------------------------------------------
-Executive
-White House
-2026-01-30T17:15:53Z
-Fact Sheet: President Donald J. Trump Celebrates American Greatness with the Freedom 250 Grand Prix of Washington, D.C.
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-american-greatness-with-the-freedom-250-grand-prix-of-washington-d-c/
 ------------------------------------------------------------
 Banking
 FDIC
@@ -145,21 +133,9 @@ https://www.whitehouse.gov/presidential-actions/2026/01/addressing-addiction-thr
 ------------------------------------------------------------
 Executive
 White House
-2026-01-29T23:02:04Z
-Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Cuba
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-cuba/
-------------------------------------------------------------
-Executive
-White House
 2026-01-29T22:58:35Z
 Year of Celebration and Rededication, 2026
 https://www.whitehouse.gov/presidential-actions/2026/01/year-of-celebration-and-rededication-2026/
-------------------------------------------------------------
-Executive
-White House
-2026-01-29T22:56:02Z
-Fact Sheet: President Donald J. Trump Launches the Great American Recovery Initiative to Address the Addiction Crisis
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-launches-the-great-american-recovery-initiative-to-address-the-addiction-crisis/
 ------------------------------------------------------------
 Payment Card Networks
 Visa
@@ -174,24 +150,6 @@ FRB
 Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)
 https://www.federalreserve.gov/newsevents/pressreleases/other20260129a.htm
 Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)
-------------------------------------------------------------
-Executive
-White House
-2026-01-29T16:40:17Z
-Border Czar Affirms Commitment to Public Safety, Removing Violent Criminals in Minnesota
-https://www.whitehouse.gov/articles/2026/01/border-czar-affirms-commitment-to-public-safety-removing-violent-criminals-in-minnesota/
-------------------------------------------------------------
-Executive
-White House
-2026-01-29T15:18:17Z
-CEQ Demos Tech to Speed Up Federal Environmental Reviews – CE Works
-https://www.whitehouse.gov/articles/2026/01/ceq-demos-tech-to-speed-up-federal-environmental-reviews-ce-works/
-------------------------------------------------------------
-Executive
-White House
-2026-01-29T15:03:42Z
-America 250: Presidential Message on the Birthday of President William McKinley
-https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-birthday-of-president-william-mckinley/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -329,24 +287,12 @@ Federal Open Market Committee reaffirms its "Statement on Longer-Run Goals and M
 https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128b.htm
 Federal Open Market Committee reaffirms its "Statement on Longer-Run Goals and Monetary Policy Strategy"
 ------------------------------------------------------------
-Executive
-White House
-2026-01-28T18:12:57Z
-The Economic Impact of State Income Tax Elimination
-https://www.whitehouse.gov/research/2026/01/the-economic-impact-of-state-income-tax-elimination/
-------------------------------------------------------------
 Compliance Watch
 CDIA
 2026-01-28T17:10:58Z
 Comment Letter on the Consumer Financial Protection Bureau’s Consumer Response Intake Form
 https://www.cdiaonline.org/news/2026/01/28/comment-letter-on-the-consumer-financial-protection-bureaus-consumer-response-intake-form/
 This week, CDIA submitted formal comments advocating changes to the Consumer Finance Protection Bureau’s complaint portal. As with our prior comments and... The post Comment Letter on the Consumer Financial Protection Bureau’s Consumer Response Intake Form appeared first on CDIA .
-------------------------------------------------------------
-Executive
-White House
-2026-01-28T16:05:49Z
-America 250: Presidential Message on the Anniversary of the Space Shuttle Challenger Disaster
-https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-space-shuttle-challenger-disaster/
 ------------------------------------------------------------
 Payment Card Networks
 Visa
@@ -486,27 +432,9 @@ According to Zelle’s 2025 data report, 337 financial institutions either launc
 ------------------------------------------------------------
 Executive
 White House
-2026-01-27T18:54:07Z
-Iowa Families Are Winning Again Under President Trump’s Leadership
-https://www.whitehouse.gov/articles/2026/01/iowa-families-are-winning-again-under-president-trumps-leadership/
-------------------------------------------------------------
-Executive
-White House
-2026-01-27T15:14:22Z
-Fact Sheet: President Donald J. Trump Addresses State and Local Failures to Rebuild Los Angeles After Wildfire Disasters
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-addresses-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/
-------------------------------------------------------------
-Executive
-White House
 2026-01-27T14:57:37Z
 Addressing State and Local Failures to Rebuild Los Angeles After Wildfire Disasters
 https://www.whitehouse.gov/presidential-actions/2026/01/addressing-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/
-------------------------------------------------------------
-Executive
-White House
-2026-01-27T13:42:41Z
-Presidential Message on International Holocaust Remembrance Day
-https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-international-holocaust-remembrance-day/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -549,18 +477,6 @@ Federal Register
 Reflectorization of Rail Freight Rolling Stock; Codifying Existing Waivers
 https://www.federalregister.gov/documents/2026/01/27/2026-01549/reflectorization-of-rail-freight-rolling-stock-codifying-existing-waivers
 This rule amends the standards for Reflectorization of Rail Freight Rolling Stock (Reflectorization Standards or Part 224) to codify waivers and remove the outdated implementation schedule. The changes are expected to enhance safety, promote innovation, clarify existing requirements, and reduce unnecessary paperwork burdens. The amendments are consistent with the mandate of th…
-------------------------------------------------------------
-Executive
-White House
-2026-01-26T22:21:10Z
-President Trump Delivers Largest Tax Refund Season in U.S. History
-https://www.whitehouse.gov/articles/2026/01/president-trump-delivers-largest-tax-refund-season-in-u-s-history/
-------------------------------------------------------------
-Executive
-White House
-2026-01-26T18:12:20Z
-Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group
-https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/
 ------------------------------------------------------------
 Payment Card Networks
 Visa
@@ -663,36 +579,12 @@ Statement of TBA CEO Chris Furlow on card rate and interchange cap proposals
 https://www.texasbankers.com/statement-of-tba-ceo-chris-furlow-on-card-rate-and-interchange-cap-proposals/
 Durbin-Marshall & Lofgren-Gooden Proposals are “Politically Appealing” but “Government Price Fixing” “Card rate and interchange caps sound politically appealing but government price fixing always fails to solve affordability issues, and it ultimately leads to unintended economic consequences. Any serious consideration of the data shows card rate caps would hurt small businesse…
 ------------------------------------------------------------
-Executive
-White House
-2026-01-23T21:03:45Z
-President Trump is the Most Pro-Life President in History
-https://www.whitehouse.gov/articles/2026/01/president-trump-is-the-most-pro-life-president-in-history/
-------------------------------------------------------------
-Executive
-White House
-2026-01-23T20:49:06Z
-Congressional Bill H.R. 4323 and H.R. 6938 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-4323-and-h-r-6938-signed-into-law/
-------------------------------------------------------------
-Executive
-White House
-2026-01-23T15:02:07Z
-First Lady Melania Trump to Ring Opening Bell of the New York Stock Exchange
-https://www.whitehouse.gov/briefings-statements/2026/01/first-lady-melania-trump-to-ring-opening-bell-of-the-new-york-stock-exchange/
-------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-23T08:00:22Z
 Chromium: CVE-2026-1220 Race in V8
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1220
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
-------------------------------------------------------------
-Executive
-White House
-2026-01-23T01:29:14Z
-Presidential Message on National Sanctity of Human Life Day, 2026
-https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-national-sanctity-of-human-life-day-2026/
 ------------------------------------------------------------
 OFAC
 OFAC
@@ -775,18 +667,6 @@ Federal Register
 Flight Restrictions in the Vicinity of Ronald Reagan Washington National Airport (DCA)
 https://www.federalregister.gov/documents/2026/01/23/2026-01226/flight-restrictions-in-the-vicinity-of-ronald-reagan-washington-national-airport-dca
 FAA is revising its regulations to implement certain flight restrictions in the airspace over the Potomac River near Ronald Reagan Washington National Airport (DCA) permanently. These revisions are necessary to mitigate the potential for midair collisions resulting from insufficient separation between fixed-wing aircraft operating to or from DCA and helicopters or powered-lift…
-------------------------------------------------------------
-Executive
-White House
-2026-01-22T22:18:50Z
-President Trump Ratifies Board of Peace in Historic Ceremony, Opening Path to Hope and Dignity for Gazans
-https://www.whitehouse.gov/articles/2026/01/president-trump-ratifies-board-of-peace-in-historic-ceremony-opening-path-to-hope-and-dignity-for-gazans/
-------------------------------------------------------------
-Executive
-White House
-2026-01-22T19:52:54Z
-ICYMI: Murder Rate Plunges to 125-Year Low as President Trump Restores Law and Order
-https://www.whitehouse.gov/articles/2026/01/icymi-murder-rate-plunges-to-125-year-low-as-president-trump-restores-law-and-order/
 ------------------------------------------------------------
 Banking
 FDIC
@@ -941,51 +821,15 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 ------------------------------------------------------------
 Executive
 White House
-2026-01-21T20:54:15Z
-In Davos, President Trump Outlines Bold Vision for American Prosperity, Transatlantic Strength
-https://www.whitehouse.gov/articles/2026/01/in-davos-president-trump-outlines-bold-vision-for-american-prosperity-transatlantic-strength/
-------------------------------------------------------------
-Executive
-White House
-2026-01-21T17:27:03Z
-CEQ Issues Guidance on Emergencies and the National Environmental Policy Act
-https://www.whitehouse.gov/articles/2026/01/ceq-issues-guidance-on-emergencies-and-the-national-environmental-policy-act/
-------------------------------------------------------------
-Executive
-White House
-2026-01-21T16:00:00Z
-Artificial Intelligence and the Great Divergence
-https://www.whitehouse.gov/research/2026/01/artificial-intelligence-and-the-great-divergence/
-------------------------------------------------------------
-Executive
-White House
-2026-01-21T00:18:34Z
-Fact Sheet: President Donald J. Trump Stops Wall Street from Competing with Main Street Homebuyers
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-stops-wall-street-from-competing-with-main-street-homebuyers/
-------------------------------------------------------------
-Executive
-White House
 2026-01-21T00:14:03Z
 Stopping Wall Street from Competing with Main Street Homebuyers
 https://www.whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers/
 ------------------------------------------------------------
 Executive
 White House
-2026-01-21T00:13:41Z
-Congressional Bill H.R. 224, H.R. 1823, H.R. 4446 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-224-h-r-1823-h-r-4446-signed-into-law/
-------------------------------------------------------------
-Executive
-White House
 2026-01-21T00:12:22Z
 National Day of Patriotic Devotion, 2026
 https://www.whitehouse.gov/presidential-actions/2026/01/national-day-of-patriotic-devotion-2026/
-------------------------------------------------------------
-OFAC
-OFAC
-2026-01-21T00:00:00Z
-Counter Terrorism Designations and Designations Removals
-https://ofac.treasury.gov/recent-actions/20260121
 ------------------------------------------------------------
 Fintech Watch
 Fiserv
@@ -1067,12 +911,6 @@ Federal Register
 Deep Seabed Mining: Revisions to Regulations for Exploration License and Commercial Recovery Permit Applications
 https://www.federalregister.gov/documents/2026/01/21/2026-01044/deep-seabed-mining-revisions-to-regulations-for-exploration-license-and-commercial-recovery-permit
 The Deep Seabed Hard Mineral Resources Act (DSHMRA or the Act) charges NOAA with the responsibility for issuing licenses for exploration and permits for commercial recovery of hard mineral resources, as defined in the Act, from the deep seabed in areas beyond national jurisdiction and promulgating regulations necessary to carry out the provisions of the Act. Some provisions of…
-------------------------------------------------------------
-Executive
-White House
-2026-01-20T17:57:27Z
-365 WINS IN 365 DAYS: President Trump’s Return Marks New Era of Success, Prosperity
-https://www.whitehouse.gov/articles/2026/01/365-wins-in-365-days-president-trumps-return-marks-new-era-of-success-prosperity/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -1179,24 +1017,6 @@ https://www.whitehouse.gov/presidential-actions/2026/01/martin-luther-king-jr-fe
 ------------------------------------------------------------
 Executive
 White House
-2026-01-19T16:10:18Z
-Presidential Message on the College Football Playoff National Championship
-https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-the-college-football-playoff-national-championship/
-------------------------------------------------------------
-Executive
-White House
-2026-01-17T20:25:07Z
-America 250: Presidential Message on the Birthday of Benjamin Franklin
-https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-birthday-of-benjamin-franklin/
-------------------------------------------------------------
-Executive
-White House
-2026-01-16T21:51:58Z
-Statement on President Trump’s Comprehensive Plan to End the Gaza Conflict
-https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/
-------------------------------------------------------------
-Executive
-White House
 2026-01-16T20:59:19Z
 Religious Freedom Day, 2026
 https://www.whitehouse.gov/presidential-actions/2026/01/religious-freedom-day-2026/
@@ -1278,24 +1098,6 @@ Federal Reserve Board announces approval of application by Banco Inter, S.A.
 https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm
 Federal Reserve Board announces approval of application by Banco Inter, S.A.
 ------------------------------------------------------------
-Executive
-White House
-2026-01-16T17:37:08Z
-First Lady Melania Trump Inspires America’s Children to be Curious, Use AI to Achieve their Career Ambitions
-https://www.whitehouse.gov/briefings-statements/2026/01/first-lady-melania-trump-inspires-americas-children-to-be-curious-use-ai-to-achieve-their-career-ambitions/
-------------------------------------------------------------
-Executive
-White House
-2026-01-16T17:08:26Z
-Fact Sheet: President Donald J. Trump Celebrates the Great, Historic Investment in Rural Health
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-the-great-historic-investment-in-rural-health/
-------------------------------------------------------------
-Executive
-White House
-2026-01-16T15:38:38Z
-Minnesota’s “Sanctuary” Defiance Has Consequences
-https://www.whitehouse.gov/articles/2026/01/minnesotas-sanctuary-defiance-has-consequences/
-------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-16T08:00:00Z
@@ -1358,18 +1160,6 @@ Visa
 Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026
 https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html
 SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its fiscal first quarter 2026 financial results on Thursday, January 29, 2026 . After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial
-------------------------------------------------------------
-Executive
-White House
-2026-01-15T16:23:48Z
-President Trump Unveils The Great Healthcare Plan to Lower Costs and Deliver Money Directly to the People
-https://www.whitehouse.gov/articles/2026/01/president-trump-unveils-the-great-healthcare-plan-to-lower-costs-and-deliver-money-directly-to-the-people/
-------------------------------------------------------------
-Executive
-White House
-2026-01-15T16:02:12Z
-Fact Sheet: President Donald J. Trump Calls on Congress to Enact The Great Healthcare Plan
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-calls-on-congress-to-enact-the-great-healthcare-plan/
 ------------------------------------------------------------
 Banking
 FRB
@@ -1475,33 +1265,9 @@ https://www.federalregister.gov/documents/2026/01/15/2026-00641/agency-informati
 ------------------------------------------------------------
 Executive
 White House
-2026-01-14T22:40:58Z
-America 250: Presidential Message on the Anniversary of the Ratification of the 1783 Treaty of Paris
-https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-ratification-of-the-1783-treaty-of-paris/
-------------------------------------------------------------
-Executive
-White House
-2026-01-14T21:53:20Z
-ICYMI: “The Trump Administration Is Moving To Fix a Broken Permitting System”
-https://www.whitehouse.gov/articles/2026/01/icymi-the-trump-administration-is-moving-to-fix-a-broken-permitting-system/
-------------------------------------------------------------
-Executive
-White House
 2026-01-14T21:38:15Z
 ADJUSTING IMPORTS OF SEMICONDUCTORS, SEMICONDUCTOR MANUFACTURING EQUIPMENT, AND THEIR DERIVATIVE PRODUCTS INTO THE UNITED STATES
 https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/
-------------------------------------------------------------
-Executive
-White House
-2026-01-14T21:23:31Z
-Fact Sheet: President Donald J. Trump Takes Action on Certain Advanced Computing Chips to Protect America’s Economic and National Security
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/
-------------------------------------------------------------
-Executive
-White House
-2026-01-14T21:23:18Z
-Fact Sheet: President Donald J. Trump Directs Negotiations to Adjust Imports of Processed Critical Minerals and Their Derivative Products into the United States
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-directs-negotiations-to-adjust-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/
 ------------------------------------------------------------
 Executive
 White House
@@ -1514,24 +1280,6 @@ White House
 2026-01-14T21:13:17Z
 Adjusting Imports of Processed Critical Minerals and Their Derivative Products into the United States
 https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/
-------------------------------------------------------------
-Executive
-White House
-2026-01-14T21:10:20Z
-Mass Deportations Are Improving Americans’ Quality of Life
-https://www.whitehouse.gov/articles/2026/01/mass-deportations-are-improving-americans-quality-of-life/
-------------------------------------------------------------
-Executive
-White House
-2026-01-14T21:05:20Z
-Congressional Bill S. 222 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-s-222-signed-into-law/
-------------------------------------------------------------
-Executive
-White House
-2026-01-14T19:21:36Z
-As President Trump Tackles Housing Affordability, Progress Emerges — and More Relief Is on the Horizon
-https://www.whitehouse.gov/articles/2026/01/as-president-trump-tackles-housing-affordability-progress-emerges-and-more-relief-is-on-the-horizon/
 ------------------------------------------------------------
 Payments
 NACHA
@@ -1714,27 +1462,9 @@ Federal Reserve Board announces approval of application by Fifth Third Bancorp
 ------------------------------------------------------------
 Executive
 White House
-2026-01-13T22:23:33Z
-Back in Michigan, President Trump Celebrates Auto Industry, Economic Revival
-https://www.whitehouse.gov/articles/2026/01/back-in-michigan-president-trump-celebrates-auto-industry-economic-revival/
-------------------------------------------------------------
-Executive
-White House
 2026-01-13T18:53:42Z
 Nominations Sent to the Senate
 https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-078c/
-------------------------------------------------------------
-Executive
-White House
-2026-01-13T17:48:15Z
-Make Driving Great Again: President Trump Showcases American Auto Industry’s Revival in Michigan
-https://www.whitehouse.gov/articles/2026/01/make-driving-great-again-president-trump-showcases-american-auto-industrys-revival-in-michigan/
-------------------------------------------------------------
-Executive
-White House
-2026-01-13T15:25:05Z
-American Workers Win Big as Inflation Remains Low, Wages Surge
-https://www.whitehouse.gov/articles/2026/01/american-workers-win-big-as-inflation-remains-low-wages-surge/
 ------------------------------------------------------------
 Banking
 FDIC
@@ -2534,12 +2264,6 @@ Agencies issue 2025 Shared National Credit Program report
 https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm
 Agencies issue 2025 Shared National Credit Program report
 ------------------------------------------------------------
-Executive
-White House
-2026-01-12T17:16:41Z
-Big Wins for American Families as Gas Prices, Mortgage Rates Plummet
-https://www.whitehouse.gov/articles/2026/01/big-wins-for-american-families-as-gas-prices-mortgage-rates-plummet/
-------------------------------------------------------------
 Mortgage
 FHLB MPF
 2026-01-12T00:00:00Z
@@ -2613,18 +2337,6 @@ White House
 Safeguarding Venezuelan Oil Revenue for the Good of the American and Venezuelan People
 https://www.whitehouse.gov/presidential-actions/2026/01/safeguarding-venezuelan-oil-revenue-for-the-good-of-the-american-and-venezuelan-people/
 ------------------------------------------------------------
-Executive
-White House
-2026-01-10T01:57:00Z
-Fact Sheet: President Donald J. Trump Safeguards Venezuelan Oil Revenue for the Good of the American and Venezuelan People
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-safeguards-venezuelan-oil-revenue-for-the-good-of-the-american-and-venezuelan-people/
-------------------------------------------------------------
-Executive
-White House
-2026-01-09T20:20:29Z
-57 Times Sick, Unhinged Democrats Declared War on Law Enforcement
-https://www.whitehouse.gov/articles/2026/01/57-times-sick-unhinged-democrats-declared-war-on-law-enforcement/
-------------------------------------------------------------
 Banking
 FRB
 2026-01-09T18:00:00Z
@@ -2644,12 +2356,6 @@ NACHA
 2026-01-09T06:01:01Z
 Preferred Partner Program
 https://www.nacha.org/taxonomy/term/352
-------------------------------------------------------------
-Executive
-White House
-2026-01-09T01:43:52Z
-Walz Is Wrong: President Trump’s Immigration Policies Are Saving Lives
-https://www.whitehouse.gov/articles/2026/01/walz-is-wrong-president-trumps-immigration-policies-are-saving-lives/
 ------------------------------------------------------------
 IRS
 IRS
@@ -2712,30 +2418,12 @@ Eliminating Regulatory Barriers to Competition: Review of Part 1144
 https://www.federalregister.gov/documents/2026/01/09/2026-00241/eliminating-regulatory-barriers-to-competition-review-of-part-1144
 The Surface Transportation Board proposes to repeal its regulations on "Intramodal Rail Competition," which implement the agency's statutory authority to prescribe reciprocal switching agreements, through routes, and through rates. The approach set out in the regulations, which narrows the Board's statutory discretion, may no longer be appropriate on an industrywide basis, and…
 ------------------------------------------------------------
-Executive
-White House
-2026-01-08T21:47:16Z
-America 250: Presidential Message on the Anniversary of the Battle of New Orleans
-https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-battle-of-new-orleans/
-------------------------------------------------------------
 Banking
 FRB
 2026-01-08T21:00:00Z
 Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.
 https://www.federalreserve.gov/newsevents/pressreleases/orders20260108a.htm
 Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.
-------------------------------------------------------------
-Executive
-White House
-2026-01-08T19:06:14Z
-Fact Sheet: President Donald J. Trump Establishes New Department of Justice Division for National Fraud Enforcement
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-establishes-new-department-of-justice-division-for-national-fraud-enforcement/
-------------------------------------------------------------
-Executive
-White House
-2026-01-08T17:55:34Z
-WHAT THEY ARE SAYING: Trump Administration Puts Real Food First in Dietary Guidelines
-https://www.whitehouse.gov/articles/2026/01/what-they-are-saying-trump-administration-puts-real-food-first-in-dietary-guidelines/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -3983,21 +3671,9 @@ https://www.whitehouse.gov/presidential-actions/2026/01/withdrawing-the-united-s
 ------------------------------------------------------------
 Executive
 White House
-2026-01-07T23:46:35Z
-Fact Sheet: President Donald J. Trump Prioritizes the Warfighter in Defense Contracting
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-prioritizes-the-warfighter-in-defense-contracting/
-------------------------------------------------------------
-Executive
-White House
 2026-01-07T23:38:15Z
 Prioritizing the Warfighter in Defense Contracting
 https://www.whitehouse.gov/presidential-actions/2026/01/prioritizing-the-warfighter-in-defense-contracting/
-------------------------------------------------------------
-Executive
-White House
-2026-01-07T21:53:04Z
-Fact Sheet: President Donald J. Trump Withdraws the United States from International Organizations that Are Contrary to the Interests of the United States
-https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-withdraws-the-united-states-from-international-organizations-that-are-contrary-to-the-interests-of-the-united-states/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -4335,12 +4011,6 @@ CVE-2025-22105 bonding: check xdp prog when set bond mode
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-22105
 Information published.
 ------------------------------------------------------------
-Executive
-White House
-2026-01-07T14:18:04Z
-CEQ Fixes Decades-Long Permitting Failure Through Deregulation
-https://www.whitehouse.gov/articles/2026/01/ceq-fixes-decades-long-permitting-failure-through-deregulation/
-------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-07T08:00:00Z
@@ -4403,36 +4073,12 @@ Safety Zone; West of Cyril E. King Airport, St. Thomas, VI
 https://www.federalregister.gov/documents/2026/01/07/2026-00048/safety-zone-west-of-cyril-e-king-airport-st-thomas-vi
 The Coast Guard is proposing to establish a safety zone for certain navigable waters west of Cyril E. King Airport in St. Thomas, USVI. The safety zone is needed protect personnel, vessels, and the marine environment from potential hazards created by the proximity of the low flying aircrafts to vessels in the vicinity of the waters off the Cyril E. King Airport in St. Thomas,…
 ------------------------------------------------------------
-Executive
-White House
-2026-01-06T21:39:25Z
-Trump Policies Power U.S. Auto Sales to Best Year Since 2019 — Proving “Experts” Wrong (Again)
-https://www.whitehouse.gov/articles/2026/01/trump-policies-power-u-s-auto-sales-to-best-year-since-2019-proving-experts-wrong-again/
-------------------------------------------------------------
-Executive
-White House
-2026-01-06T21:13:05Z
-Sara Carter Confirmed As Drug Czar
-https://www.whitehouse.gov/articles/2026/01/sara-carter-confirmed-as-drug-czar/
-------------------------------------------------------------
 Banking
 FRB
 2026-01-06T19:00:00Z
 Minutes of the Board's discount rate meeting on December 10, 2025
 https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm
 Minutes of the Board's discount rate meeting on December 10, 2025
-------------------------------------------------------------
-Executive
-White House
-2026-01-06T18:32:49Z
-Presidential Message on National Slavery and Human Trafficking Prevention Month
-https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-national-slavery-and-human-trafficking-prevention-month/
-------------------------------------------------------------
-Executive
-White House
-2026-01-06T18:31:42Z
-Presidential Message on Epiphany
-https://www.whitehouse.gov/briefings-statements/2026/01/presidential-message-on-epiphany/
 ------------------------------------------------------------
 Payments
 NACHA
@@ -4511,12 +4157,6 @@ The U.S. Department of Transportation is proposing to revise and update the inve
 ------------------------------------------------------------
 Executive
 White House
-2026-01-05T21:57:08Z
-Democrats Once Demanded Maduro’s Ouster. Now They Mourn His Capture — Because Trump Did It.
-https://www.whitehouse.gov/articles/2026/01/democrats-once-demanded-maduros-ouster-now-they-mourn-his-capture-because-trump-did-it/
-------------------------------------------------------------
-Executive
-White House
 2026-01-05T20:39:36Z
 Nominations Sent to the Senate
 https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-3f7b/
@@ -4549,30 +4189,12 @@ Atlantic Highly Migratory Species; Revisions to Commercial Atlantic Blacknose an
 https://www.federalregister.gov/documents/2026/01/05/2025-24264/atlantic-highly-migratory-species-revisions-to-commercial-atlantic-blacknose-and-recreational
 NMFS is proposing several changes for commercial and recreational Atlantic shark fisheries. Specifically, NMFS is considering options to remove the blacknose shark management boundary in the Atlantic region, modify the commercial retention limit for blacknose sharks in the Atlantic region, revise the recreational minimum size limits for Atlantic shark species, and revise the r…
 ------------------------------------------------------------
-Executive
-White House
-2026-01-04T20:17:47Z
-RUBIO: This Is Our Hemisphere — and President Trump Will Not Allow Our Security to be Threatened
-https://www.whitehouse.gov/articles/2026/01/rubio-this-is-our-hemisphere-and-president-trump-will-not-allow-our-security-to-be-threatened/
-------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-04T14:35:13Z
 CVE-2000-0006 strace allows local users to read arbitrary files via memory mapped file names.
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2000-0006
 Information published.
-------------------------------------------------------------
-Executive
-White House
-2026-01-03T16:04:39Z
-America 250: Presidential Message on the Anniversary of the Battle of Princeton
-https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-battle-of-princeton/
-------------------------------------------------------------
-Executive
-White House
-2026-01-03T02:52:27Z
-Here’s What the Trump Administration Is Doing to Crush Minnesota’s Fraud Epidemic
-https://www.whitehouse.gov/articles/2026/01/heres-what-the-trump-administration-is-doing-to-crush-minnesotas-fraud-epidemic/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -4853,12 +4475,6 @@ White House
 Regarding the Acquisition of Certain Assets of Emcore Corporation by Hiefo Corporation
 https://www.whitehouse.gov/presidential-actions/2026/01/regarding-the-acquisition-of-certain-assets-of-emcore-corporation-by-hiefo-corporation/
 ------------------------------------------------------------
-Executive
-White House
-2026-01-02T20:56:49Z
-Trump Administration’s Historic Rural Health Care Investments Hailed Nationwide
-https://www.whitehouse.gov/articles/2026/01/trump-administrations-historic-rural-health-care-investments-hailed-nationwide/
-------------------------------------------------------------
 Banking
 FDIC
 2026-01-02T15:09:39Z
@@ -5012,12 +4628,6 @@ Microsoft MSRC
 CVE-2025-60710 Host Process for Windows Tasks Elevation of Privilege Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60710
 Added an acknowledgement. This is an informational change only.
-------------------------------------------------------------
-Executive
-White House
-2026-01-02T02:02:07Z
-America 250: Presidential Message on the Anniversary of the Emancipation Proclamation
-https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-emancipation-proclamation/
 ------------------------------------------------------------
 Federal Register
 Federal Register

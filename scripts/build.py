@@ -290,7 +290,11 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
 
     "FinCEN": {
         "allow_domains": {"www.fincen.gov", "fincen.gov"},
-        "allow_path_prefixes": {"/news-room", "/news_room", "/newsroom"},
+        "allow_path_prefixes": {
+            "/news/press-releases",
+            "/news/news-releases",
+            "/news-room",
+        },
     },
 
     "White House": {
@@ -2269,6 +2273,9 @@ def fincen_links(page_url: str, html: str, window_start: Optional[datetime]) -> 
 #   https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-YYYY-XX.html
 OCC_DETAIL_RE = re.compile(r"/news-issuances/news-releases/\d{4}/[^\s#?]+", re.I)
 
+# FinCEN detail pages commonly live under /news/press-releases/ or /news/news-releases/
+FINCEN_DETAIL_RE = re.compile(r"^/news/(press-releases|news-releases)/[^/]+/?$", re.I)
+
 def occ_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
     if not soup:
@@ -2340,9 +2347,8 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
         if not href or href.startswith("#"):
             continue
 
-        # FinCEN uses /news-room/ (and legacy /news_room/ or /newsroom/). Keep only HTML newsroom items
-        hlow = href.lower()
-        if ("/news-room" not in hlow) and ("/news_room" not in hlow) and ("/newsroom" not in hlow):
+        # FinCEN uses /news-room/ and sometimes /sites/default/files/ PDFs; keep only HTML newsroom items
+        if "/news-room/" not in href and "/news-room" not in href:
             continue
         if href.lower().endswith(".pdf"):
             continue
@@ -2350,6 +2356,15 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
         url = canonical_url(urljoin(page_url, href))
         if not allowed_for_source("FinCEN", url):
             continue
+
+        # Only keep actual press-release detail pages (avoid hub/category/search pages)
+        try:
+            up = urlparse(url)
+            if up.netloc.lower().endswith("fincen.gov"):
+                if not FINCEN_DETAIL_RE.match(up.path or ""):
+                    continue
+        except Exception:
+            pass
 
         raw_title = (a.get_text(" ", strip=True) or "").strip()
         title = clean_text(raw_title, 220)
@@ -2541,7 +2556,7 @@ def visa_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
 # Treasury press releases
 # ============================
 
-TREASURY_PR_PATH_RE = re.compile(r"^/news/press-releases/[a-z0-9\-]+/?$", re.I)
+TREASURY_PR_PATH_RE = re.compile(r"^/news/press-releases/[a-z0-9\-]+$", re.I)
 
 
 def treasury_date_from_listing_context(a: Any) -> Optional[datetime]:
@@ -2590,19 +2605,14 @@ def treasury_links_single(page_url: str, html: str) -> List[Tuple[str, str, Opti
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen = set()
 
-    for a in container.select("a[href]"):
+    for a in container.select('a[href^="/news/press-releases/"]'):
         href = (a.get("href") or "").strip()
-        if not href or href.startswith("#") or href.lower().startswith("javascript:"):
+        if not href or href.startswith("#"):
+            continue
+        if not TREASURY_PR_PATH_RE.match(href):
             continue
 
-        joined = urljoin(page_url, href)
-        up = urlparse(joined)
-        if up.netloc and up.netloc.lower() != "home.treasury.gov":
-            continue
-        if not TREASURY_PR_PATH_RE.match(up.path or ""):
-            continue
-
-        url = canonical_url(up.geturl())
+        url = canonical_url(urljoin(page_url, href))
         if not allowed_for_source("Treasury", url):
             continue
 
@@ -2636,17 +2646,12 @@ def treasury_links_single(page_url: str, html: str) -> List[Tuple[str, str, Opti
     if not links:
         for a in container.select("h2 a[href], h3 a[href]"):
             href = (a.get("href") or "").strip()
-            if not href or href.startswith("#") or href.lower().startswith("javascript:"):
+            if not href or not href.startswith("/news/press-releases/"):
+                continue
+            if not TREASURY_PR_PATH_RE.match(href):
                 continue
 
-            joined = urljoin(page_url, href)
-            up = urlparse(joined)
-            if up.netloc and up.netloc.lower() != "home.treasury.gov":
-                continue
-            if not TREASURY_PR_PATH_RE.match(up.path or ""):
-                continue
-
-            url = canonical_url(up.geturl())
+            url = canonical_url(urljoin(page_url, href))
             if not allowed_for_source("Treasury", url):
                 continue
 
@@ -3266,11 +3271,10 @@ def get_start_pages() -> List[SourcePage]:
         SourcePage("OFAC", "https://ofac.treasury.gov/recent-actions/enforcement-actions"),
 
         # Treasury Press Releases (OFAC tile)
-        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases"),
+        SourcePage("Treasury", "https://home.treasury.gov/news/press-releases?page=0"),
 
         # FinCEN (OFAC/AML tile)
-        SourcePage("FinCEN", "https://www.fincen.gov/news-room"),
-        SourcePage("FinCEN", "https://www.fincen.gov/news-room/news-releases"),
+SourcePage("FinCEN", "https://www.fincen.gov/news-room/news-releases"),
 
         # IRS
         SourcePage("IRS", "https://www.irs.gov/newsroom"),
