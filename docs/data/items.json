@@ -1,8 +1,8 @@
 {
   "window_start": "2026-01-01T06:00:00Z",
   "window_end": "2026-02-01T05:59:59Z",
-  "generated_at_utc": "2026-02-24T19:33:59Z",
-  "generated_at_ct": "2026-02-24T13:33:59-06:00",
+  "generated_at_utc": "2026-02-25T13:11:34Z",
+  "generated_at_ct": "2026-02-25T07:11:34-06:00",
   "items": [
     {
       "category": "Executive",
@@ -51,14 +51,6 @@
       "published_at": "2026-01-30T15:02:09Z",
       "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/406ad43",
       "summary": "PRESS RELEASE | JANUARY 30, 2026 FDIC Publishes Enforcement Orders for December 2025 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in December 2025. There are no administrative hearings scheduled for February 2026. Orders Terminating Consent Orders: Luana…"
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury Sanctions Iranian Regime Officials for Violent Repression and Corruption",
-      "published_at": "2026-01-30T14:43:58Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0375",
-      "summary": ""
     },
     {
       "category": "IS",
@@ -267,28 +259,12 @@
       "summary": ""
     },
     {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury Highlights Corporate and Philanthropic Commitments Announced Following the Trump Accounts Summit",
-      "published_at": "2026-01-29T22:24:51Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0374",
-      "summary": ""
-    },
-    {
       "category": "Payment Card Networks",
       "source": "Visa",
       "title": "Visa Fiscal First Quarter 2026 Financial Results",
       "published_at": "2026-01-29T21:05:00Z",
       "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22086.html",
       "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Jan. 29, 2026-- Visa (NYSE: V) today announced its fiscal first quarter 2026 financial results through an earnings release that will be furnished with the Securities and Exchange Commission on a Form 8-K and available on its Investor Relations website at"
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States",
-      "published_at": "2026-01-29T21:00:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0373",
-      "summary": ""
     },
     {
       "category": "Banking",
@@ -419,14 +395,6 @@
       "summary": ""
     },
     {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "### Noah Kahan and Mastercard to premiere ‘The Great Divide’ music video and offer cardholders Priceless experiences January 29, 2026",
-      "published_at": "2026-01-29T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/january/noah-kahan-and-mastercard-to-premiere--the-great-divide--music-v.html",
-      "summary": ""
-    },
-    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "FDIC Official Signs, Advertisement of Membership, False Advertising, Misrepresentation of Insured Status, and Misuse of the FDIC's Name or Logo",
@@ -504,14 +472,6 @@
       "published_at": "2026-01-28T19:30:47Z",
       "url": "https://www.texasbankers.com/fomc-maintains-rates-for-first-meeting-of-2026/",
       "summary": "The Federal Open Market Committee’s first meeting of the year decided to keep the target range for the federal funds rate at 3.5% to 3.75%. The FOMC’s statement reads: “Available indicators suggest that economic activity has been expanding at a solid pace. Job gains have remained low, and the unemployment rate has shown some signs […] The post FOMC maintains rates for first me…"
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Trump Accounts: The Defining Policy of America’s 250th Anniversary",
-      "published_at": "2026-01-28T19:13:40Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0372",
-      "summary": ""
     },
     {
       "category": "Banking",
@@ -824,14 +784,6 @@
       "summary": "IR-2026-14, Jan. 27, 2026 — The Taxpayer Advocate Service today announced the award of more than $22.5 million in matching grants to 145 qualified Low Income Taxpayer Clinics nationwide for the 2026 grant year, which runs from Jan. 1, 2026, to Dec. 31, 2026."
     },
     {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "### Mastercard launches Agent Suite to ready enterprises for a new era January 27, 2026",
-      "published_at": "2026-01-27T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/january/mastercard-launches-agent-suite-to-ready-enterprises-for-a-new-e.html",
-      "summary": ""
-    },
-    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Special Local Regulations; Marine Events Within the USCG East District",
@@ -886,14 +838,6 @@
       "title": "Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group",
       "published_at": "2026-01-26T18:12:20Z",
       "url": "https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury Cancels Contracts with Booz Allen Hamilton",
-      "published_at": "2026-01-26T15:00:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0371",
       "summary": ""
     },
     {
@@ -1087,14 +1031,6 @@
       "summary": ""
     },
     {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury Escalates Pressure on Iranian Regime for Killing Peaceful Protestors",
-      "published_at": "2026-01-23T15:52:46Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0370",
-      "summary": ""
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "First Lady Melania Trump to Ring Opening Bell of the New York Stock Exchange",
@@ -1267,14 +1203,6 @@
       "title": "ICYMI: Murder Rate Plunges to 125-Year Low as President Trump Restores Law and Order",
       "published_at": "2026-01-22T19:52:54Z",
       "url": "https://www.whitehouse.gov/articles/2026/01/icymi-murder-rate-plunges-to-125-year-low-as-president-trump-restores-law-and-order/",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury Sanctions One of the Caribbean’s Largest Narcotics Traffickers and His Network",
-      "published_at": "2026-01-22T18:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0369",
       "summary": ""
     },
     {
@@ -1508,14 +1436,6 @@
       "title": "Artificial Intelligence and the Great Divergence",
       "published_at": "2026-01-21T16:00:00Z",
       "url": "https://www.whitehouse.gov/research/2026/01/artificial-intelligence-and-the-great-divergence/",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury Exposes and Disrupts Hamas’s Covert Support Network",
-      "published_at": "2026-01-21T15:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0368",
       "summary": ""
     },
     {
@@ -2029,14 +1949,6 @@
       "summary": ""
     },
     {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury Increases Pressure on Houthi Smuggling and Illicit Revenue Generation Networks",
-      "published_at": "2026-01-16T15:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0367",
-      "summary": ""
-    },
-    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2026-21223 Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability",
@@ -2140,14 +2052,6 @@
       "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its fiscal first quarter 2026 financial results on Thursday, January 29, 2026 . After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial"
     },
     {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury International Capital Data for November",
-      "published_at": "2026-01-15T21:00:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0365",
-      "summary": ""
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "President Trump Unveils The Great Healthcare Plan to Lower Costs and Deliver Money Directly to the People",
@@ -2170,30 +2074,6 @@
       "published_at": "2026-01-15T16:00:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
       "summary": "Federal Reserve Board issues enforcement action with former employee of PrimeLending"
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Secretary Bessent Announces Sanctions Against Architects of Iran’s Brutal Crackdown on Peaceful Protests",
-      "published_at": "2026-01-15T15:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0364",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "FinCEN",
-      "title": "READOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting",
-      "published_at": "2026-01-15T12:00:00Z",
-      "url": "https://www.fincen.gov/news/news-releases/readout-financial-intelligence-units-commit-counter-transnational-organized",
-      "summary": "WASHINGTON—On January 12 and 13, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) hosted the first meeting of the Transnational Organized Crime Working Group (TOC-WG). The TOC-WG includes representatives from 16 financial intelligence units across the world that are committed to working together to enhance their collective ability to identify…"
-    },
-    {
-      "category": "OFAC",
-      "source": "FinCEN",
-      "title": "Readouts",
-      "published_at": "2026-01-15T00:00:00Z",
-      "url": "https://www.fincen.gov/news/readouts",
-      "summary": "TitleDATEREADOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting 01/15/2026READOUT: Second Annual FINTRAC-FinCEN Symposium in Washington, D.C.09/17/2025"
     },
     {
       "category": "IRS",
@@ -2379,14 +2259,6 @@
       "summary": ""
     },
     {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with Finance Minister Satsuki Katayama of Japan",
-      "published_at": "2026-01-14T22:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0363",
-      "summary": ""
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "ICYMI: “The Trump Administration Is Moving To Fix a Broken Permitting System”",
@@ -2456,38 +2328,6 @@
       "title": "As President Trump Tackles Housing Affordability, Progress Emerges — and More Relief Is on the Horizon",
       "published_at": "2026-01-14T19:21:36Z",
       "url": "https://www.whitehouse.gov/articles/2026/01/as-president-trump-tackles-housing-affordability-progress-emerges-and-more-relief-is-on-the-horizon/",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Readout from Secretary Bessent’s meeting with Minister of Economy, Finance, and Industrial and Digital Sovereignty Roland Lescure of France",
-      "published_at": "2026-01-14T17:15:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0362",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Readout from Secretary Bessent’s meeting with Treasurer Jim Chalmers of Australia",
-      "published_at": "2026-01-14T17:15:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0361",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Readout from Secretary Bessent’s meeting with Deputy Prime Minister and Minister of Economy and Finance Koo Yun Cheol, South Korea",
-      "published_at": "2026-01-14T14:00:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0359",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Readout from Secretary Bessent’s meeting with Chancellor of the Exchequer Rachel Reeves of the United Kingdom",
-      "published_at": "2026-01-14T14:00:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0360",
       "summary": ""
     },
     {
@@ -2808,14 +2648,6 @@
       "summary": ""
     },
     {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "U.S. Treasury Secretary Scott Bessent Takes Decisive Action Against Somali Fraud in Minneapolis",
-      "published_at": "2026-01-13T21:15:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0358",
-      "summary": ""
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "Nominations Sent to the Senate",
@@ -2829,14 +2661,6 @@
       "title": "Make Driving Great Again: President Trump Showcases American Auto Industry’s Revival in Michigan",
       "published_at": "2026-01-13T17:48:15Z",
       "url": "https://www.whitehouse.gov/articles/2026/01/make-driving-great-again-president-trump-showcases-american-auto-industrys-revival-in-michigan/",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury and State Departments Designate Muslim Brotherhood Branches as Terrorist Organizations",
-      "published_at": "2026-01-13T15:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0357",
       "summary": ""
     },
     {
@@ -3755,14 +3579,6 @@
       "fedreg_document_number": "2026-00453"
     },
     {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Secretary Bessent Convenes Finance Ministerial on Securing Critical Minerals Supply Chains",
-      "published_at": "2026-01-12T22:11:29Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0356",
-      "summary": ""
-    },
-    {
       "category": "Banking",
       "source": "FDIC",
       "title": "Press Release: Agencies Issue 2025 Shared National Credit Program Report",
@@ -3784,14 +3600,6 @@
       "title": "Big Wins for American Families as Gas Prices, Mortgage Rates Plummet",
       "published_at": "2026-01-12T17:16:41Z",
       "url": "https://www.whitehouse.gov/articles/2026/01/big-wins-for-american-families-as-gas-prices-mortgage-rates-plummet/",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "G7 Cyber Expert Group Releases Roadmap for Coordinating the Transition to Post-Quantum Cryptography in the Financial Sector",
-      "published_at": "2026-01-12T14:00:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0355",
       "summary": ""
     },
     {
@@ -3951,22 +3759,6 @@
       "summary": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026"
     },
     {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Secretary Bessent Announces Initiatives to Combat Rampant Fraud in Minnesota",
-      "published_at": "2026-01-09T16:04:41Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0354",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "FinCEN",
-      "title": "Secretary Bessent Announces Initiatives to Combat Rampant Fraud in Minnesota",
-      "published_at": "2026-01-09T12:00:00Z",
-      "url": "https://www.fincen.gov/news/news-releases/secretary-bessent-announces-initiatives-combat-rampant-fraud-minnesota",
-      "summary": "In Minnesota, Secretary of the Treasury Scott Bessent announced several initiatives to combat rampant government benefits fraud in Minnesota, which has wasted billions of taxpayer dollars. These initiatives are designed to strengthen and safeguard the financial system and protect Minnesota taxpayers. Secretary Bessent announced several actions taken by the U.S."
-    },
-    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "Chromium: CVE-2026-0628 Insufficient policy enforcement in WebView tag",
@@ -4119,14 +3911,6 @@
       "title": "Fact Sheet: President Donald J. Trump Establishes New Department of Justice Division for National Fraud Enforcement",
       "published_at": "2026-01-08T19:06:14Z",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-establishes-new-department-of-justice-division-for-national-fraud-enforcement/",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Remarks by Secretary of the Treasury Scott Bessent before the Economic Club of Minnesota",
-      "published_at": "2026-01-08T19:05:21Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0353",
       "summary": ""
     },
     {
@@ -5112,14 +4896,6 @@
       "published_at": "2026-01-08T14:35:15Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-23848",
       "summary": "Information published."
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury Announces the United States’ Immediate Withdrawal from the Green Climate Fund",
-      "published_at": "2026-01-08T14:00:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0352",
-      "summary": ""
     },
     {
       "category": "IS",
@@ -6153,14 +5929,6 @@
       "summary": "Minutes of the Board's discount rate meeting on December 10, 2025"
     },
     {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Secretary Scott Bessent Announces Working Families Tax Cuts: Ushering in a New Golden Age",
-      "published_at": "2026-01-06T18:40:12Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0351",
-      "summary": ""
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "Presidential Message on National Slavery and Human Trafficking Prevention Month",
@@ -6233,14 +6001,6 @@
       "summary": ""
     },
     {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "### Mastercard spotlights Indigenous small businesses at Toronto Maple Leafs Indigenous Celebration Game January 6, 2026",
-      "published_at": "2026-01-06T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/january/Mastercard-spotlights-Indigenous-small-businesses-at-Toronto-Maple-Leafs-Indigenous-Celebration-Game.html",
-      "summary": ""
-    },
-    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "National Primary Drinking Water Regulation for Perchlorate",
@@ -6306,14 +6066,6 @@
       "title": "Nominations Sent to the Senate",
       "published_at": "2026-01-05T20:39:36Z",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-3f7b/",
-      "summary": ""
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Treasury Secures Agreement to Exempt U.S.-Headquartered Companies from Biden Global Tax Plan",
-      "published_at": "2026-01-05T17:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0350",
       "summary": ""
     },
     {
@@ -6697,14 +6449,6 @@
       "published_at": "2026-01-03T01:01:58Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-69277",
       "summary": "Information published."
-    },
-    {
-      "category": "OFAC",
-      "source": "Treasury",
-      "title": "Statement on the President’s Decision Ordering the Divestment of Interests in Certain Assets of EMCORE Corporation by HieFo Corporation",
-      "published_at": "2026-01-02T23:20:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0349",
-      "summary": ""
     },
     {
       "category": "Executive",
