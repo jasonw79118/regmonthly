@@ -37,6 +37,12 @@ Press Release: FDIC Publishes Enforcement Orders for December 2025
 https://content.govdelivery.com/accounts/USFDIC/bulletins/406ad43
 PRESS RELEASE | JANUARY 30, 2026 FDIC Publishes Enforcement Orders for December 2025 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in December 2025. There are no administrative hearings scheduled for February 2026. Orders Terminating Consent Orders: Luana…
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-30T14:43:58Z
+Treasury Sanctions Iranian Regime Officials for Violent Repression and Corruption
+https://home.treasury.gov/news/press-releases/sb0375
+------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-30T03:20:43Z
@@ -161,12 +167,24 @@ White House
 Fact Sheet: President Donald J. Trump Launches the Great American Recovery Initiative to Address the Addiction Crisis
 https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-launches-the-great-american-recovery-initiative-to-address-the-addiction-crisis/
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-29T22:24:51Z
+Treasury Highlights Corporate and Philanthropic Commitments Announced Following the Trump Accounts Summit
+https://home.treasury.gov/news/press-releases/sb0374
+------------------------------------------------------------
 Payment Card Networks
 Visa
 2026-01-29T21:05:00Z
 Visa Fiscal First Quarter 2026 Financial Results
 https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22086.html
 SAN FRANCISCO --(BUSINESS WIRE)--Jan. 29, 2026-- Visa (NYSE: V) today announced its fiscal first quarter 2026 financial results through an earnings release that will be furnished with the Securities and Exchange Commission on a Form 8-K and available on its Investor Relations website at
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-29T21:00:00Z
+Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States
+https://home.treasury.gov/news/press-releases/sb0373
 ------------------------------------------------------------
 Banking
 FRB
@@ -314,6 +332,12 @@ TBA
 FOMC maintains rates for first meeting of 2026
 https://www.texasbankers.com/fomc-maintains-rates-for-first-meeting-of-2026/
 The Federal Open Market Committee’s first meeting of the year decided to keep the target range for the federal funds rate at 3.5% to 3.75%. The FOMC’s statement reads: “Available indicators suggest that economic activity has been expanding at a solid pace. Job gains have remained low, and the unemployment rate has shown some signs […] The post FOMC maintains rates for first me…
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-28T19:13:40Z
+Trump Accounts: The Defining Policy of America’s 250th Anniversary
+https://home.treasury.gov/news/press-releases/sb0372
 ------------------------------------------------------------
 Banking
 FRB
@@ -562,6 +586,12 @@ White House
 Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group
 https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-26T15:00:00Z
+Treasury Cancels Contracts with Booz Allen Hamilton
+https://home.treasury.gov/news/press-releases/sb0371
+------------------------------------------------------------
 Payment Card Networks
 Visa
 2026-01-26T14:01:00Z
@@ -675,6 +705,12 @@ White House
 Congressional Bill H.R. 4323 and H.R. 6938 Signed into Law
 https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-h-r-4323-and-h-r-6938-signed-into-law/
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-23T15:52:46Z
+Treasury Escalates Pressure on Iranian Regime for Killing Peaceful Protestors
+https://home.treasury.gov/news/press-releases/sb0370
+------------------------------------------------------------
 Executive
 White House
 2026-01-23T15:02:07Z
@@ -787,6 +823,12 @@ White House
 2026-01-22T19:52:54Z
 ICYMI: Murder Rate Plunges to 125-Year Low as President Trump Restores Law and Order
 https://www.whitehouse.gov/articles/2026/01/icymi-murder-rate-plunges-to-125-year-low-as-president-trump-restores-law-and-order/
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-22T18:30:00Z
+Treasury Sanctions One of the Caribbean’s Largest Narcotics Traffickers and His Network
+https://home.treasury.gov/news/press-releases/sb0369
 ------------------------------------------------------------
 Banking
 FDIC
@@ -957,6 +999,18 @@ White House
 Artificial Intelligence and the Great Divergence
 https://www.whitehouse.gov/research/2026/01/artificial-intelligence-and-the-great-divergence/
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-21T15:30:00Z
+Treasury Exposes and Disrupts Hamas’s Covert Support Network
+https://home.treasury.gov/news/press-releases/sb0368
+------------------------------------------------------------
+Executive
+White House
+2026-01-21T00:18:34Z
+Fact Sheet: President Donald J. Trump Stops Wall Street from Competing with Main Street Homebuyers
+https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-stops-wall-street-from-competing-with-main-street-homebuyers/
+------------------------------------------------------------
 Executive
 White House
 2026-01-21T00:14:03Z
@@ -974,6 +1028,12 @@ White House
 2026-01-21T00:12:22Z
 National Day of Patriotic Devotion, 2026
 https://www.whitehouse.gov/presidential-actions/2026/01/national-day-of-patriotic-devotion-2026/
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-21T00:00:00Z
+Counter Terrorism Designations and Designations Removals
+https://ofac.treasury.gov/recent-actions/20260121
 ------------------------------------------------------------
 Fintech Watch
 Fiserv
@@ -1284,12 +1344,24 @@ White House
 Minnesota’s “Sanctuary” Defiance Has Consequences
 https://www.whitehouse.gov/articles/2026/01/minnesotas-sanctuary-defiance-has-consequences/
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-16T15:30:00Z
+Treasury Increases Pressure on Houthi Smuggling and Illicit Revenue Generation Networks
+https://home.treasury.gov/news/press-releases/sb0367
+------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-16T08:00:00Z
 CVE-2026-21223 Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21223
 Microsoft Edge Elevation Service exposes a privileged COM interface that inadequately validates the privileges of the calling process. A standard (non‑administrator) local user can invoke the IElevatorEdge interface method LaunchUpdateCmdElevatedAndWait, causing the service to execute privileged update commands as LocalSystem. This allows a non‑administrator to enable or disab…
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-16T00:00:00Z
+Counter Terrorism Designations and Designation Update
+https://ofac.treasury.gov/recent-actions/20260116
 ------------------------------------------------------------
 IRS
 IRS
@@ -1347,6 +1419,12 @@ Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026
 https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html
 SAN FRANCISCO --(BUSINESS WIRE)--Jan. 15, 2026-- Visa (NYSE: V) will report its fiscal first quarter 2026 financial results on Thursday, January 29, 2026 . After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-15T21:00:00Z
+Treasury International Capital Data for November
+https://home.treasury.gov/news/press-releases/sb0365
+------------------------------------------------------------
 Executive
 White House
 2026-01-15T16:23:48Z
@@ -1367,11 +1445,16 @@ https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm
 Federal Reserve Board issues enforcement action with former employee of PrimeLending
 ------------------------------------------------------------
 OFAC
-FinCEN
-2026-01-15T12:00:00Z
-READOUT: Financial Intelligence Units Commit to Counter Transnational Organized Crime During First Working Group Meeting
-https://www.fincen.gov/news/news-releases/readout-financial-intelligence-units-commit-counter-transnational-organized
-WASHINGTON—On January 12 and 13, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) hosted the first meeting of the Transnational Organized Crime Working Group (TOC-WG). The TOC-WG includes representatives from 16 financial intelligence units across the world that are committed to working together to enhance their collective ability to identify…
+Treasury
+2026-01-15T15:30:00Z
+Secretary Bessent Announces Sanctions Against Architects of Iran’s Brutal Crackdown on Peaceful Protests
+https://home.treasury.gov/news/press-releases/sb0364
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-15T00:00:00Z
+Iran-related Designations
+https://ofac.treasury.gov/recent-actions/20260115
 ------------------------------------------------------------
 IRS
 IRS
@@ -1385,12 +1468,6 @@ Freddie Mac
 2026-01-15T00:00:00Z
 The Average 30-Year Fixed-Rate Mortgage Hits Lowest Level in Over Three Years
 https://www.globenewswire.com/news-release/2026/01/15/3219857/0/en/The-Average-30-Year-Fixed-Rate-Mortgage-Hits-Lowest-Level-in-Over-Three-Years.html
-------------------------------------------------------------
-Mortgage
-Freddie Mac
-2026-01-15T00:00:00Z
-2025 Freddie Mac Multifamily Production Volume Tops $77 Billion, Up 17% Year Over Year
-https://www.globenewswire.com/news-release/2026/01/15/3219763/0/en/2025-Freddie-Mac-Multifamily-Production-Volume-Tops-77-Billion-Up-17-Year-Over-Year.html
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -1474,6 +1551,12 @@ White House
 America 250: Presidential Message on the Anniversary of the Ratification of the 1783 Treaty of Paris
 https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-ratification-of-the-1783-treaty-of-paris/
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-14T22:30:00Z
+Readout from Secretary of the Treasury Scott Bessent’s Meeting with Finance Minister Satsuki Katayama of Japan
+https://home.treasury.gov/news/press-releases/sb0363
+------------------------------------------------------------
 Executive
 White House
 2026-01-14T21:53:20Z
@@ -1528,6 +1611,30 @@ White House
 As President Trump Tackles Housing Affordability, Progress Emerges — and More Relief Is on the Horizon
 https://www.whitehouse.gov/articles/2026/01/as-president-trump-tackles-housing-affordability-progress-emerges-and-more-relief-is-on-the-horizon/
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-14T17:15:00Z
+Readout from Secretary Bessent’s meeting with Minister of Economy, Finance, and Industrial and Digital Sovereignty Roland Lescure of France
+https://home.treasury.gov/news/press-releases/sb0362
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-14T17:15:00Z
+Readout from Secretary Bessent’s meeting with Treasurer Jim Chalmers of Australia
+https://home.treasury.gov/news/press-releases/sb0361
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-14T14:00:00Z
+Readout from Secretary Bessent’s meeting with Deputy Prime Minister and Minister of Economy and Finance Koo Yun Cheol, South Korea
+https://home.treasury.gov/news/press-releases/sb0359
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-14T14:00:00Z
+Readout from Secretary Bessent’s meeting with Chancellor of the Exchequer Rachel Reeves of the United Kingdom
+https://home.treasury.gov/news/press-releases/sb0360
+------------------------------------------------------------
 Payments
 NACHA
 2026-01-14T09:40:11Z
@@ -1554,6 +1661,12 @@ Microsoft MSRC
 CVE-2026-20958 Microsoft SharePoint Information Disclosure Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20958
 Updated acknowledgment. This is an informational change only.
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-14T00:00:00Z
+Issuance of Amended Russia-related General License; Publication of Amended Russia-related Frequently Asked Questions
+https://ofac.treasury.gov/recent-actions/20260114
 ------------------------------------------------------------
 IRS
 IRS
@@ -1713,6 +1826,12 @@ White House
 Back in Michigan, President Trump Celebrates Auto Industry, Economic Revival
 https://www.whitehouse.gov/articles/2026/01/back-in-michigan-president-trump-celebrates-auto-industry-economic-revival/
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-13T21:15:00Z
+U.S. Treasury Secretary Scott Bessent Takes Decisive Action Against Somali Fraud in Minneapolis
+https://home.treasury.gov/news/press-releases/sb0358
+------------------------------------------------------------
 Executive
 White House
 2026-01-13T18:53:42Z
@@ -1724,6 +1843,12 @@ White House
 2026-01-13T17:48:15Z
 Make Driving Great Again: President Trump Showcases American Auto Industry’s Revival in Michigan
 https://www.whitehouse.gov/articles/2026/01/make-driving-great-again-president-trump-showcases-american-auto-industrys-revival-in-michigan/
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-13T15:30:00Z
+Treasury and State Departments Designate Muslim Brotherhood Branches as Terrorist Organizations
+https://home.treasury.gov/news/press-releases/sb0357
 ------------------------------------------------------------
 Executive
 White House
@@ -2501,6 +2626,12 @@ CVE-2026-20823 Windows File Explorer Information Disclosure Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20823
 Exposure of sensitive information to an unauthorized actor in Windows File Explorer allows an authorized attacker to disclose information locally.
 ------------------------------------------------------------
+OFAC
+OFAC
+2026-01-13T00:00:00Z
+Counter Terrorism Designations
+https://ofac.treasury.gov/recent-actions/20260113
+------------------------------------------------------------
 Federal Register
 Federal Register
 2026-01-13T00:00:00Z
@@ -2514,6 +2645,12 @@ Federal Register
 Safety Zone; Plane Crash Response Between Mile Markers 356 and 362, Gulf Intracoastal Waterway, Galveston, TX
 https://www.federalregister.gov/documents/2026/01/13/2026-00453/safety-zone-plane-crash-response-between-mile-markers-356-and-362-gulf-intracoastal-waterway
 The Coast Guard is establishing a temporary safety zone for navigable waters between mile markers 356 and 362 of the Gulf Intracoastal Waterway. The safety zone is needed to support response vessels and protect the marine environment for debris recovery, incident investigation, and pollution clean-up following a plane crash. Entry of vessels or persons into this zone is prohib…
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-12T22:11:29Z
+Secretary Bessent Convenes Finance Ministerial on Securing Critical Minerals Supply Chains
+https://home.treasury.gov/news/press-releases/sb0356
 ------------------------------------------------------------
 Banking
 FDIC
@@ -2534,6 +2671,12 @@ White House
 2026-01-12T17:16:41Z
 Big Wins for American Families as Gas Prices, Mortgage Rates Plummet
 https://www.whitehouse.gov/articles/2026/01/big-wins-for-american-families-as-gas-prices-mortgage-rates-plummet/
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-12T14:00:00Z
+G7 Cyber Expert Group Releases Roadmap for Coordinating the Transition to Post-Quantum Cryptography in the Financial Sector
+https://home.treasury.gov/news/press-releases/sb0355
 ------------------------------------------------------------
 Mortgage
 FHLB MPF
@@ -2628,11 +2771,10 @@ https://www.federalreserve.gov/newsevents/pressreleases/other20260109a.htm
 Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026
 ------------------------------------------------------------
 OFAC
-FinCEN
-2026-01-09T12:00:00Z
+Treasury
+2026-01-09T16:04:41Z
 Secretary Bessent Announces Initiatives to Combat Rampant Fraud in Minnesota
-https://www.fincen.gov/news/news-releases/secretary-bessent-announces-initiatives-combat-rampant-fraud-minnesota
-In Minnesota, Secretary of the Treasury Scott Bessent announced several initiatives to combat rampant government benefits fraud in Minnesota, which has wasted billions of taxpayer dollars. These initiatives are designed to strengthen and safeguard the financial system and protect Minnesota taxpayers. Secretary Bessent announced several actions taken by the U.S.
+https://home.treasury.gov/news/press-releases/sb0354
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -2732,6 +2874,12 @@ White House
 2026-01-08T19:06:14Z
 Fact Sheet: President Donald J. Trump Establishes New Department of Justice Division for National Fraud Enforcement
 https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-establishes-new-department-of-justice-division-for-national-fraud-enforcement/
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-08T19:05:21Z
+Remarks by Secretary of the Treasury Scott Bessent before the Economic Club of Minnesota
+https://home.treasury.gov/news/press-releases/sb0353
 ------------------------------------------------------------
 Executive
 White House
@@ -3593,6 +3741,12 @@ CVE-2024-23848 In the Linux kernel through 6.7.1, there is a use-after-free in c
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-23848
 Information published.
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-08T14:00:00Z
+Treasury Announces the United States’ Immediate Withdrawal from the Green Climate Fund
+https://home.treasury.gov/news/press-releases/sb0352
+------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-01-08T01:40:54Z
@@ -3921,6 +4075,12 @@ Microsoft MSRC
 CVE-2025-38480 comedi: Fix use of uninitialized data in insn_rw_emulate_bits()
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-38480
 Information published.
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-08T00:00:00Z
+Russia-related Designation Update and Designation Removal
+https://ofac.treasury.gov/recent-actions/20260108
 ------------------------------------------------------------
 IRS
 IRS
@@ -4357,12 +4517,6 @@ CVE-2025-4432 Ring: some aes functions may panic when overflow checking is enabl
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-4432
 Information published.
 ------------------------------------------------------------
-Payments
-NACHA
-2026-01-07T00:00:00Z
-Nacha Wants Your Help in Compiling the 2025 ACH Volume Survey
-https://www.nacha.org/news/nacha-wants-your-help-compiling-2025-ach-volume-survey
-------------------------------------------------------------
 Federal Register
 Federal Register
 2026-01-07T00:00:00Z
@@ -4424,6 +4578,12 @@ Minutes of the Board's discount rate meeting on December 10, 2025
 https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm
 Minutes of the Board's discount rate meeting on December 10, 2025
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-06T18:40:12Z
+Secretary Scott Bessent Announces Working Families Tax Cuts: Ushering in a New Golden Age
+https://home.treasury.gov/news/press-releases/sb0351
+------------------------------------------------------------
 Executive
 White House
 2026-01-06T18:32:49Z
@@ -4469,6 +4629,12 @@ Microsoft MSRC
 CVE-2025-11961 OOBR and OOBW in pcap_ether_aton() in libpcap
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-11961
 Information published.
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-06T00:00:00Z
+Issuance of Amended Russia-related General License; Publication of Amended Russia-related Frequently Asked Questions
+https://ofac.treasury.gov/recent-actions/20260106
 ------------------------------------------------------------
 IRS
 IRS
@@ -4522,6 +4688,12 @@ White House
 2026-01-05T20:39:36Z
 Nominations Sent to the Senate
 https://www.whitehouse.gov/presidential-actions/2026/01/nominations-sent-to-the-senate-3f7b/
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-05T17:30:00Z
+Treasury Secures Agreement to Exempt U.S.-Headquartered Companies from Biden Global Tax Plan
+https://home.treasury.gov/news/press-releases/sb0350
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -4849,6 +5021,18 @@ CVE-2025-69277 libsodium before ad3004e, in atypical use cases involving certain
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-69277
 Information published.
 ------------------------------------------------------------
+OFAC
+Treasury
+2026-01-02T23:20:00Z
+Statements & Remarks
+https://home.treasury.gov/news/press-releases/statements-remarks
+------------------------------------------------------------
+OFAC
+Treasury
+2026-01-02T23:20:00Z
+Statement on the President’s Decision Ordering the Divestment of Interests in Certain Assets of EMCORE Corporation by HieFo Corporation
+https://home.treasury.gov/news/press-releases/sb0349
+------------------------------------------------------------
 Executive
 White House
 2026-01-02T21:37:35Z
@@ -5020,6 +5204,12 @@ White House
 2026-01-02T02:02:07Z
 America 250: Presidential Message on the Anniversary of the Emancipation Proclamation
 https://www.whitehouse.gov/briefings-statements/2026/01/america-250-presidential-message-on-the-anniversary-of-the-emancipation-proclamation/
+------------------------------------------------------------
+OFAC
+OFAC
+2026-01-02T00:00:00Z
+Counter Narcotics Designation Update
+https://ofac.treasury.gov/recent-actions/20260102
 ------------------------------------------------------------
 Federal Register
 Federal Register

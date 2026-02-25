@@ -48,7 +48,6 @@ WINDOW_DAYS = 14
 # Bump caps so Visa/Mastercard can resolve dates for more listing links
 MAX_LISTING_LINKS = 3500  # monthly: allow many listing links (full month coverage)
 GLOBAL_DETAIL_FETCH_CAP = 2200  # monthly: allow many detail fetches (full month coverage)
-DETAIL_OVERRIDE_OUT_OF_WINDOW = {"Visa", "Treasury", "FinCEN"}  # allow detail to correct bad listing dates
 REQUEST_DELAY_SEC = 0.12
 
 PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
@@ -291,7 +290,7 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
 
     "FinCEN": {
         "allow_domains": {"www.fincen.gov", "fincen.gov"},
-        "allow_path_prefixes": {"/news", "/news/", "/news-room", "/news_room", "/newsroom"},
+        "allow_path_prefixes": {"/news-room"},
     },
 
     "White House": {
@@ -1649,13 +1648,29 @@ PAGINATION_MAX_PAGES = 40  # monthly: deeper pagination for OFAC/Treasury/White 
 
 
 def _find_next_page_url(page_url: str, html: str) -> Optional[str]:
-    """Best-effort 'next/older' page discovery for paginated listings."""
+    """Best-effort 'next/older' page discovery for paginated listings.
+
+    Important: Many gov/Drupal pagers include "Page 1 / Page 2 / ..." links *before*
+    the "Next page" control. We must prefer true "next" controls (rel=next / text/aria-label
+    contains 'next'/'older') and, when using page=N links, choose the smallest page number
+    greater than the current page.
+    """
     try:
         soup = BeautifulSoup(html, "html.parser")
     except Exception:
         return None
 
-    # <link rel="next" href="...">
+    # Determine current page number from querystring (default 0 if missing)
+    cur_page = 0
+    try:
+        p = urlparse(page_url)
+        qs = parse_qs(p.query or "")
+        if "page" in qs and qs["page"]:
+            cur_page = int(qs["page"][0])
+    except Exception:
+        cur_page = 0
+
+    # 1) <link rel="next" href="...">
     for ln in soup.find_all("link", href=True):
         rel = ln.get("rel") or []
         if isinstance(rel, str):
@@ -1664,39 +1679,70 @@ def _find_next_page_url(page_url: str, html: str) -> Optional[str]:
         if "next" in rel:
             href = (ln.get("href") or "").strip()
             if href:
-                return canonical_url(urljoin(page_url, href))
+                try:
+                    u = canonical_url(urljoin(page_url, href))
+                    if u != canonical_url(page_url):
+                        return u
+                except Exception:
+                    pass
 
-    # <a rel="next"> or obvious pager links
-    candidates = []
+    # 2) Gather <a> candidates with light scoring
+    scored: list[tuple[int, int, str]] = []  # (priority, page_num_or_big, url)
     for a in soup.find_all("a", href=True):
         href = (a.get("href") or "").strip()
         if not href or href.startswith("#") or href.lower().startswith("javascript:"):
             continue
+
+        # pager sites often hide text inside <span class="visually-hidden">Next page</span>
+        txt_a = clean_text(a.get_text(" ", strip=True), 120).lower()
+        aria = ((a.get("aria-label") or "") + " " + (a.get("title") or "")).lower()
+
         rel = a.get("rel") or []
         if isinstance(rel, str):
             rel = [rel]
         rel = [r.lower() for r in rel]
 
-        txt_a = clean_text(a.get_text(" ", strip=True), 80).lower()
-        if "next" in rel or "next" in txt_a or "older" in txt_a or "›" in txt_a or "»" in txt_a:
-            candidates.append(href)
-
-        # common patterns
-        if re.search(r"(\?|&)page=\d+", href) or "/page/" in href:
-            # only if it looks like a pager control
-            if "page" in txt_a or "older" in txt_a or "next" in txt_a:
-                candidates.append(href)
-
-    for href in candidates:
+        # resolve URL
         try:
             u = canonical_url(urljoin(page_url, href))
-            if u != canonical_url(page_url):
-                return u
         except Exception:
             continue
+        if u == canonical_url(page_url):
+            continue
 
-    return None
+        # extract page number if present
+        page_num = None
+        try:
+            up = urlparse(u)
+            q = parse_qs(up.query or "")
+            if "page" in q and q["page"]:
+                page_num = int(q["page"][0])
+        except Exception:
+            page_num = None
 
+        is_nextish = ("next" in rel) or ("next" in txt_a) or ("next" in aria) or ("older" in txt_a) or ("older" in aria) or ("›" in txt_a) or ("»" in txt_a)
+
+        # Priority:
+        #   0 = explicit next/older control
+        #   1 = page=N links where N > cur_page (choose smallest N > cur_page)
+        #   2 = anything else that looks pager-y
+        if is_nextish:
+            scored.append((0, page_num if page_num is not None else 10**9, u))
+            continue
+
+        if page_num is not None and page_num > cur_page:
+            scored.append((1, page_num, u))
+            continue
+
+        # fallback pager-like links
+        if (page_num is not None) or ("/page/" in u):
+            scored.append((2, page_num if page_num is not None else 10**9, u))
+
+    if not scored:
+        return None
+
+    scored.sort(key=lambda t: (t[0], t[1]))
+    return scored[0][2]
 
 
 def _bump_query_page(url: str, param: str = "page") -> Optional[str]:
@@ -1770,10 +1816,6 @@ def _next_page_url_source_fallback(source: str, cur_url: str, cur_html: str, pag
 
     # Treasury press releases supports ?page=N
     if source in ("Treasury", "Treasury Press Releases") and "home.treasury.gov/news/press-releases" in u:
-        return _bump_query_page_from_zero(u, "page")
-
-    # FinCEN press releases supports ?page=N
-    if source == "FinCEN" and "fincen.gov/news/press-releases" in u:
         return _bump_query_page_from_zero(u, "page")
 
     # White House uses /news/page/N/ and /presidential-actions/page/N/
@@ -2345,46 +2387,19 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
         if not href or href.startswith("#"):
             continue
 
-        # FinCEN content may appear under:
-        #   /news/press-releases/...
-        #   /news/news-releases/...
-        #   /news-room/... (legacy / mixed)
-        # Keep only HTML newsroom/press-release items (skip PDFs and nav links).
-        hl = href.lower()
-        if hl.endswith(".pdf"):
+        # FinCEN uses /news-room/ and sometimes /sites/default/files/ PDFs; keep only HTML newsroom items
+        if "/news-room/" not in href and "/news-room" not in href:
             continue
-
-        if (
-            "/news/press-releases" not in hl
-            and "/news/news-releases" not in hl
-            and "/news-room" not in hl
-            and "/newsroom" not in hl
-            and "/news_room" not in hl
-        ):
+        if href.lower().endswith(".pdf"):
             continue
 
         url = canonical_url(urljoin(page_url, href))
         if not allowed_for_source("FinCEN", url):
             continue
 
-        pth = (urlparse(url).path or "").lower()
-
-        # Filter out obvious non-article hubs
-        if pth.rstrip("/") in {"/news", "/news-room", "/newsroom", "/news_room"}:
-            continue
-        if pth.rstrip("/").endswith("/press-releases") or pth.rstrip("/").endswith("/news-releases"):
-            continue
-
         raw_title = (a.get_text(" ", strip=True) or "").strip()
         title = clean_text(raw_title, 220)
         if not title or len(title) < 8:
-            continue
-
-        if title.lower() in {"read more", "learn more", "more", "details"}:
-            continue
-        if is_probably_nav_link("FinCEN", title, url):
-            continue
-        if is_generic_listing_or_home("FinCEN", title, url):
             continue
 
         if url in seen:
@@ -2402,6 +2417,9 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
             break
 
     return links
+
+
+
 def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
@@ -2569,9 +2587,7 @@ def visa_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
 # Treasury press releases
 # ============================
 
-TREASURY_PR_PATH_RE = re.compile(r"^/news/press-releases/[a-z0-9\-]+/?$", re.I)
-
-TREASURY_IGNORE_SLUG_RE = re.compile(r"^/news/press-releases/(on-|we-will-be-doing-some-content-migration|content-migration|please-ignore)", re.I)
+TREASURY_PR_PATH_RE = re.compile(r"^/news/press-releases/[a-z0-9\-]+$", re.I)
 
 
 def treasury_date_from_listing_context(a: Any) -> Optional[datetime]:
@@ -2620,21 +2636,14 @@ def treasury_links_single(page_url: str, html: str) -> List[Tuple[str, str, Opti
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen = set()
 
-    for a in container.select("a[href]"):
+    for a in container.select('a[href^="/news/press-releases/"]'):
         href = (a.get("href") or "").strip()
-        if not href or href.startswith("#") or href.lower().startswith("javascript:"):
+        if not href or href.startswith("#"):
+            continue
+        if not TREASURY_PR_PATH_RE.match(href):
             continue
 
-        joined = urljoin(page_url, href)
-        up = urlparse(joined)
-        if up.netloc and up.netloc.lower() != "home.treasury.gov":
-            continue
-        if not TREASURY_PR_PATH_RE.match(up.path or ""):
-            continue
-        if TREASURY_IGNORE_SLUG_RE.search(up.path or ""):
-            continue
-
-        url = canonical_url(up.geturl())
+        url = canonical_url(urljoin(page_url, href))
         if not allowed_for_source("Treasury", url):
             continue
 
@@ -2668,17 +2677,12 @@ def treasury_links_single(page_url: str, html: str) -> List[Tuple[str, str, Opti
     if not links:
         for a in container.select("h2 a[href], h3 a[href]"):
             href = (a.get("href") or "").strip()
-            if not href or href.startswith("#") or href.lower().startswith("javascript:"):
+            if not href or not href.startswith("/news/press-releases/"):
+                continue
+            if not TREASURY_PR_PATH_RE.match(href):
                 continue
 
-            joined = urljoin(page_url, href)
-            up = urlparse(joined)
-            if up.netloc and up.netloc.lower() != "home.treasury.gov":
-                continue
-            if not TREASURY_PR_PATH_RE.match(up.path or ""):
-                continue
-
-            url = canonical_url(up.geturl())
+            url = canonical_url(urljoin(page_url, href))
             if not allowed_for_source("Treasury", url):
                 continue
 
@@ -3301,8 +3305,8 @@ def get_start_pages() -> List[SourcePage]:
         SourcePage("Treasury", "https://home.treasury.gov/news/press-releases"),
 
         # FinCEN (OFAC/AML tile)
-        SourcePage("FinCEN", "https://www.fincen.gov/news/press-releases"),
         SourcePage("FinCEN", "https://www.fincen.gov/news-room"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news-room/news-releases"),
 
         # IRS
         SourcePage("IRS", "https://www.irs.gov/newsroom"),
@@ -3674,8 +3678,8 @@ def build() -> None:
 
                 snippet = ""
 
-                # If some sources have unreliable listing dates, let detail override even when outside window
-                if source in DETAIL_OVERRIDE_OUT_OF_WINDOW and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
+                # If Visa has a date but outside window, let detail override
+                if source == "Visa" and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
                     if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
                         detail_html = polite_get(url)
                         if detail_html:
