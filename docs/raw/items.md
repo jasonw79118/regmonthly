@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-25T15:37:59-06:00` (CT) — `2026-02-25T21:37:59Z` (UTC)
+Last updated: `2026-02-26T07:06:26-06:00` (CT) — `2026-02-26T13:06:26Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
@@ -410,14 +410,6 @@ This week, CDIA submitted formal comments advocating changes to the Consumer Fin
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22026.html
 
 New U.S. findings highlight the rise of Gen AI‑driven trip planning, strong domestic travel preferences, and growing excitement ahead of The Olympic and Paralympic Games Milano Cortina 2026. SAN FRANCISCO --(BUSINESS WIRE)--Jan. 28, 2026-- Visa today released new U.S.
-
-## Level Up Your Metro 2® Reporting Skills—Live in Las Vegas
-- Source: CDIA
-- Category: Compliance Watch
-- Published: 2026-01-28T10:00:44Z
-- URL: https://www.cdiaonline.org/events/2026/01/28/level-up-your-metro-2-reporting-skills-live-in-las-vegas/
-
-Take your Metro 2® expertise to the next level with the industry’s most trusted advanced training developed and delivered by experts... The post Level Up Your Metro 2® Reporting Skills—Live in Las Vegas appeared first on CDIA .
 
 ## CVE-2026-21509 Microsoft Office Security Feature Bypass Vulnerability
 - Source: Microsoft MSRC

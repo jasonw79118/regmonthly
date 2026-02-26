@@ -125,7 +125,7 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     "Federal Register": "Federal Register",
 
     # USDA tile
-    "USDA Rural Development": "USDA",
+    "USDA Rural Development": "Mortgage",
 
     # Fintech Watch tile
     "FIS": "Fintech Watch",
