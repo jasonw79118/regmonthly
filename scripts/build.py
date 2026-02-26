@@ -87,7 +87,7 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
 }
 
 # Sources where we keep listing links but DO NOT fetch detail pages (to avoid blocks/timeouts)
-SKIP_DETAIL_SOURCES = {"Visa", "Fannie Mae"}
+SKIP_DETAIL_SOURCES = {"Fannie Mae"}
 DEFAULT_SOURCE_DETAIL_CAP = 15
 
 UA = "regmonthly/1.0 (+https://github.com/jasonw79118/regmonthly)"
@@ -2099,31 +2099,79 @@ MC_MARKDOWN_LINK_RE = re.compile(
 
 
 def _mastercard_links_from_text(page_url: str, text: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    """
+    Mastercard frequently blocks direct HTML fetches. When we retry via the r.jina.ai proxy, we often
+    receive markdown-ish plaintext. The older implementation incorrectly pulled *one* date from the
+    entire page and applied it to every link (which can zero-out the month window).
+
+    This version extracts each link with the *date nearest to that link* (same line preferred),
+    falling back to nearby lines.
+    """
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen: set[str] = set()
 
-    for m in MC_MARKDOWN_LINK_RE.finditer(text or ""):
-        title = clean_text(m.group(1), 220)
-        url = canonical_url(m.group(2))
-        if not url:
-            continue
-        if not allowed_for_source("Mastercard", url):
-            continue
-        if not MASTERCARD_PR_PATH_RE.match(urlparse(url).path):
-            continue
-        if is_probably_nav_link("Mastercard", title, url):
-            continue
-        if is_generic_listing_or_home("Mastercard", title, url):
-            continue
-        if url in seen:
-            continue
-        seen.add(url)
+    lines = (text or "").splitlines()
+    if not lines:
+        return links
 
-        dt = extract_any_date(text, source="Mastercard")
+    def consider(title: str, url: str, dt: Optional[datetime]) -> None:
+        nonlocal links, seen
+        title = clean_text(title or "", 220)
+        url = canonical_url(url or "")
+        if not title or len(title) < 8 or not url:
+            return
+        if not allowed_for_source("Mastercard", url):
+            return
+        if not MASTERCARD_PR_PATH_RE.match(urlparse(url).path):
+            return
+        if is_probably_nav_link("Mastercard", title, url):
+            return
+        if is_generic_listing_or_home("Mastercard", title, url):
+            return
+        if url in seen:
+            return
+        seen.add(url)
         links.append((title, url, dt))
+
+    # Pass 1: markdown links with title
+    for i, line in enumerate(lines):
         if len(links) >= MAX_LISTING_LINKS:
             return links
 
+        for m in MC_MARKDOWN_LINK_RE.finditer(line):
+            title = m.group(1)
+            url = m.group(2)
+
+            dt = extract_any_date(line, source="Mastercard")
+
+            # Fallback: a date might be on the previous/next line
+            if dt is None and i > 0:
+                dt = extract_any_date(lines[i - 1], source="Mastercard")
+            if dt is None and i + 1 < len(lines):
+                dt = extract_any_date(lines[i + 1], source="Mastercard")
+
+            consider(title, url, dt)
+
+    if links:
+        return links
+
+    # Pass 2: raw URLs (no markdown title)
+    raw_url_re = re.compile(r"(https?://www\.mastercard\.com/[^\s\"')<>]+)", re.I)
+    for i, line in enumerate(lines):
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+        dt = extract_any_date(line, source="Mastercard")
+        if dt is None and i > 0:
+            dt = extract_any_date(lines[i - 1], source="Mastercard")
+        if dt is None and i + 1 < len(lines):
+            dt = extract_any_date(lines[i + 1], source="Mastercard")
+
+        for m in raw_url_re.finditer(line):
+            url = canonical_url(m.group(1))
+            consider("Mastercard press release", url, dt)
+
+    return links
     raw_url_re = re.compile(r"(https?://www\.mastercard\.com/[^\s\"')<>]+)", re.I)
     for m in raw_url_re.finditer(text or ""):
         url = canonical_url(m.group(1))

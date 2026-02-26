@@ -1,8 +1,8 @@
 {
   "window_start": "2026-01-01T06:00:00Z",
   "window_end": "2026-02-01T05:59:59Z",
-  "generated_at_utc": "2026-02-26T14:09:57Z",
-  "generated_at_ct": "2026-02-26T08:09:57-06:00",
+  "generated_at_utc": "2026-02-26T17:21:09Z",
+  "generated_at_ct": "2026-02-26T11:21:09-06:00",
   "items": [
     {
       "category": "Executive",
@@ -298,6 +298,14 @@
       "summary": ""
     },
     {
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Noah Kahan and Mastercard to premiere ‘The Great Divide’ music video and offer cardholders Priceless experiences January 29, 2026",
+      "published_at": "2026-01-29T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/january/noah-kahan-and-mastercard-to-premiere--the-great-divide--music-v.html",
+      "summary": ""
+    },
+    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "FDIC Official Signs, Advertisement of Membership, False Advertising, Misrepresentation of Insured Status, and Misuse of the FDIC's Name or Logo",
@@ -590,6 +598,14 @@
       "published_at": "2026-01-27T00:00:00Z",
       "url": "https://www.irs.gov/newsroom/taxpayer-advocate-service-announces-2026-funding-for-low-income-taxpayer-clinic-grant-recipients",
       "summary": "IR-2026-14, Jan. 27, 2026 — The Taxpayer Advocate Service today announced the award of more than $22.5 million in matching grants to 145 qualified Low Income Taxpayer Clinics nationwide for the 2026 grant year, which runs from Jan. 1, 2026, to Dec. 31, 2026."
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Mastercard launches Agent Suite to ready enterprises for a new era January 27, 2026",
+      "published_at": "2026-01-27T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/january/mastercard-launches-agent-suite-to-ready-enterprises-for-a-new-e.html",
+      "summary": ""
     },
     {
       "category": "Executive",
@@ -1415,14 +1431,6 @@
       "summary": "IR-2026-08, Jan. 15, 2026 — The Department of the Treasury and the Internal Revenue Service today issued guidance for certain retirement plan administrators, updating safe harbor explanations to reflect tax law changes made after Aug. 6, 2020."
     },
     {
-      "category": "Mortgage",
-      "source": "Freddie Mac",
-      "title": "The Average 30-Year Fixed-Rate Mortgage Hits Lowest Level in Over Three Years",
-      "published_at": "2026-01-15T00:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2026/01/15/3219857/0/en/The-Average-30-Year-Fixed-Rate-Mortgage-Hits-Lowest-Level-in-Over-Three-Years.html",
-      "summary": ""
-    },
-    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Privacy Act of 1974; System of Records",
@@ -1624,17 +1632,17 @@
     {
       "category": "OFAC",
       "source": "Treasury",
-      "title": "Readout from Secretary Bessent’s meeting with Deputy Prime Minister and Minister of Economy and Finance Koo Yun Cheol, South Korea",
+      "title": "Readout from Secretary Bessent’s meeting with Chancellor of the Exchequer Rachel Reeves of the United Kingdom",
       "published_at": "2026-01-14T14:00:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0359",
+      "url": "https://home.treasury.gov/news/press-releases/sb0360",
       "summary": ""
     },
     {
       "category": "OFAC",
       "source": "Treasury",
-      "title": "Readout from Secretary Bessent’s meeting with Chancellor of the Exchequer Rachel Reeves of the United Kingdom",
+      "title": "Readout from Secretary Bessent’s meeting with Deputy Prime Minister and Minister of Economy and Finance Koo Yun Cheol, South Korea",
       "published_at": "2026-01-14T14:00:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0360",
+      "url": "https://home.treasury.gov/news/press-releases/sb0359",
       "summary": ""
     },
     {
@@ -5036,6 +5044,14 @@
       "title": "Stablecoin Earns Its Own Track at Smarter Faster Payments 2026",
       "published_at": "2026-01-06T00:00:00Z",
       "url": "https://www.nacha.org/news/stablecoin-earns-its-own-track-smarter-faster-payments-2026",
+      "summary": ""
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Mastercard spotlights Indigenous small businesses at Toronto Maple Leafs Indigenous Celebration Game January 6, 2026",
+      "published_at": "2026-01-06T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/january/Mastercard-spotlights-Indigenous-small-businesses-at-Toronto-Maple-Leafs-Indigenous-Celebration-Game.html",
       "summary": ""
     },
     {

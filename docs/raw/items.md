@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-26T08:09:57-06:00` (CT) — `2026-02-26T14:09:57Z` (UTC)
+Last updated: `2026-02-26T11:21:09-06:00` (CT) — `2026-02-26T17:21:09Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
@@ -241,6 +241,12 @@ IR-2026-18, Jan. 29, 2026 — The Internal Revenue Service is accepting applicat
 - Published: 2026-01-29T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-announces-increase-quarterly-dividend
 
+## ### Noah Kahan and Mastercard to premiere ‘The Great Divide’ music video and offer cardholders Priceless experiences January 29, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-01-29T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/january/noah-kahan-and-mastercard-to-premiere--the-great-divide--music-v.html
+
 ## FDIC Official Signs, Advertisement of Membership, False Advertising, Misrepresentation of Insured Status, and Misuse of the FDIC's Name or Logo
 - Source: Federal Register
 - Category: Federal Register
@@ -476,6 +482,12 @@ IR-2026-13, Jan. 27, 2026 — The Internal Revenue Service today issued frequent
 - URL: https://www.irs.gov/newsroom/taxpayer-advocate-service-announces-2026-funding-for-low-income-taxpayer-clinic-grant-recipients
 
 IR-2026-14, Jan. 27, 2026 — The Taxpayer Advocate Service today announced the award of more than $22.5 million in matching grants to 145 qualified Low Income Taxpayer Clinics nationwide for the 2026 grant year, which runs from Jan. 1, 2026, to Dec. 31, 2026.
+
+## ### Mastercard launches Agent Suite to ready enterprises for a new era January 27, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-01-27T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/january/mastercard-launches-agent-suite-to-ready-enterprises-for-a-new-e.html
 
 ## President Trump Delivers Largest Tax Refund Season in U.S. History
 - Source: White House
@@ -1157,12 +1169,6 @@ Federal Reserve Board issues enforcement action with former employee of PrimeLen
 
 IR-2026-08, Jan. 15, 2026 — The Department of the Treasury and the Internal Revenue Service today issued guidance for certain retirement plan administrators, updating safe harbor explanations to reflect tax law changes made after Aug. 6, 2020.
 
-## The Average 30-Year Fixed-Rate Mortgage Hits Lowest Level in Over Three Years
-- Source: Freddie Mac
-- Category: Mortgage
-- Published: 2026-01-15T00:00:00Z
-- URL: https://www.globenewswire.com/news-release/2026/01/15/3219857/0/en/The-Average-30-Year-Fixed-Rate-Mortgage-Hits-Lowest-Level-in-Over-Three-Years.html
-
 ## Privacy Act of 1974; System of Records
 - Source: Federal Register
 - Category: Federal Register
@@ -1297,17 +1303,17 @@ In accordance with the Privacy Act of 1974, the Department of Veterans Affairs (
 - Published: 2026-01-14T17:15:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0361
 
-## Readout from Secretary Bessent’s meeting with Deputy Prime Minister and Minister of Economy and Finance Koo Yun Cheol, South Korea
-- Source: Treasury
-- Category: OFAC
-- Published: 2026-01-14T14:00:00Z
-- URL: https://home.treasury.gov/news/press-releases/sb0359
-
 ## Readout from Secretary Bessent’s meeting with Chancellor of the Exchequer Rachel Reeves of the United Kingdom
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-01-14T14:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0360
+
+## Readout from Secretary Bessent’s meeting with Deputy Prime Minister and Minister of Economy and Finance Koo Yun Cheol, South Korea
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-01-14T14:00:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0359
 
 ## Healthcare EFT
 - Source: NACHA
@@ -4510,6 +4516,12 @@ IR-2026-01, Jan. 6, 2026 — With the 2026 filing season quickly approaching, th
 - Category: Payments
 - Published: 2026-01-06T00:00:00Z
 - URL: https://www.nacha.org/news/stablecoin-earns-its-own-track-smarter-faster-payments-2026
+
+## ### Mastercard spotlights Indigenous small businesses at Toronto Maple Leafs Indigenous Celebration Game January 6, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-01-06T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/january/Mastercard-spotlights-Indigenous-small-businesses-at-Toronto-Maple-Leafs-Indigenous-Celebration-Game.html
 
 ## Democrats Once Demanded Maduro’s Ouster. Now They Mourn His Capture — Because Trump Did It.
 - Source: White House

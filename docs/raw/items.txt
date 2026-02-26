@@ -225,6 +225,12 @@ FIS
 FIS Announces Increase to Quarterly Dividend
 https://www.investor.fisglobal.com/news-releases/news-release-details/fis-announces-increase-quarterly-dividend
 ------------------------------------------------------------
+Payment Card Networks
+Mastercard
+2026-01-29T00:00:00Z
+### Noah Kahan and Mastercard to premiere ‘The Great Divide’ music video and offer cardholders Priceless experiences January 29, 2026
+https://www.mastercard.com/us/en/news-and-trends/press/2026/january/noah-kahan-and-mastercard-to-premiere--the-great-divide--music-v.html
+------------------------------------------------------------
 Federal Register
 Federal Register
 2026-01-29T00:00:00Z
@@ -438,6 +444,12 @@ IRS
 Taxpayer Advocate Service announces 2026 funding for Low Income Taxpayer Clinic grant recipients
 https://www.irs.gov/newsroom/taxpayer-advocate-service-announces-2026-funding-for-low-income-taxpayer-clinic-grant-recipients
 IR-2026-14, Jan. 27, 2026 — The Taxpayer Advocate Service today announced the award of more than $22.5 million in matching grants to 145 qualified Low Income Taxpayer Clinics nationwide for the 2026 grant year, which runs from Jan. 1, 2026, to Dec. 31, 2026.
+------------------------------------------------------------
+Payment Card Networks
+Mastercard
+2026-01-27T00:00:00Z
+### Mastercard launches Agent Suite to ready enterprises for a new era January 27, 2026
+https://www.mastercard.com/us/en/news-and-trends/press/2026/january/mastercard-launches-agent-suite-to-ready-enterprises-for-a-new-e.html
 ------------------------------------------------------------
 Executive
 White House
@@ -1070,12 +1082,6 @@ Treasury, IRS provide new safe harbor explanations for retirement plan administr
 https://www.irs.gov/newsroom/treasury-irs-provide-new-safe-harbor-explanations-for-retirement-plan-administrators
 IR-2026-08, Jan. 15, 2026 — The Department of the Treasury and the Internal Revenue Service today issued guidance for certain retirement plan administrators, updating safe harbor explanations to reflect tax law changes made after Aug. 6, 2020.
 ------------------------------------------------------------
-Mortgage
-Freddie Mac
-2026-01-15T00:00:00Z
-The Average 30-Year Fixed-Rate Mortgage Hits Lowest Level in Over Three Years
-https://www.globenewswire.com/news-release/2026/01/15/3219857/0/en/The-Average-30-Year-Fixed-Rate-Mortgage-Hits-Lowest-Level-in-Over-Three-Years.html
-------------------------------------------------------------
 Federal Register
 Federal Register
 2026-01-15T00:00:00Z
@@ -1206,14 +1212,14 @@ https://home.treasury.gov/news/press-releases/sb0361
 OFAC
 Treasury
 2026-01-14T14:00:00Z
-Readout from Secretary Bessent’s meeting with Deputy Prime Minister and Minister of Economy and Finance Koo Yun Cheol, South Korea
-https://home.treasury.gov/news/press-releases/sb0359
+Readout from Secretary Bessent’s meeting with Chancellor of the Exchequer Rachel Reeves of the United Kingdom
+https://home.treasury.gov/news/press-releases/sb0360
 ------------------------------------------------------------
 OFAC
 Treasury
 2026-01-14T14:00:00Z
-Readout from Secretary Bessent’s meeting with Chancellor of the Exchequer Rachel Reeves of the United Kingdom
-https://home.treasury.gov/news/press-releases/sb0360
+Readout from Secretary Bessent’s meeting with Deputy Prime Minister and Minister of Economy and Finance Koo Yun Cheol, South Korea
+https://home.treasury.gov/news/press-releases/sb0359
 ------------------------------------------------------------
 Payments
 NACHA
@@ -4048,6 +4054,12 @@ NACHA
 2026-01-06T00:00:00Z
 Stablecoin Earns Its Own Track at Smarter Faster Payments 2026
 https://www.nacha.org/news/stablecoin-earns-its-own-track-smarter-faster-payments-2026
+------------------------------------------------------------
+Payment Card Networks
+Mastercard
+2026-01-06T00:00:00Z
+### Mastercard spotlights Indigenous small businesses at Toronto Maple Leafs Indigenous Celebration Game January 6, 2026
+https://www.mastercard.com/us/en/news-and-trends/press/2026/january/Mastercard-spotlights-Indigenous-small-businesses-at-Toronto-Maple-Leafs-Indigenous-Celebration-Game.html
 ------------------------------------------------------------
 Executive
 White House
