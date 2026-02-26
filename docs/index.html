@@ -83,11 +83,15 @@
         sources: [
           ["FHLB MPF News", "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates"],
           ["Fannie Mae Newsroom", "https://www.fanniemae.com/newsroom/fannie-mae-news"],
-          ["Freddie Mac (GlobeNewswire)", "https://www.globenewswire.com/search/organization/Freddie%20Mac"],
+          ["Freddie Mac (GlobeNewswire)", "https://www.globenewswire.com/search/organization/Freddie%20Mac"]
+        ]
+      },
+      { id: "usda",     title: "USDA (Rural Development)", keys: ["USDA", "USDA Rural Development"], accent: "#2563eb",
+        sources: [
           ["USDA RD News Releases", "https://www.rd.usda.gov/newsroom/news-releases"]
         ]
       },
-      
+
       // Federal Register-only tile
       { id: "fedreg",   title: "Federal Register", keys: ["Federal Register"], accent: "#2563eb",
         sources: [
@@ -157,8 +161,8 @@
 
 if (lower === "fintech watch" || lower === "fintech") return "Fintech Watch";
 
-      if (lower === "usda rural development") return "Mortgage";
-      if (lower === "usda") return "Mortgage";
+      if (lower === "usda rural development") return "USDA";
+      if (lower === "usda") return "USDA";
 
       if (lower === "payment card networks" || lower === "payment card network" || lower === "card networks" || lower === "card network") return "Payment Card Networks";
       if (lower === "visa" || lower === "mastercard") return "Payment Card Networks";
@@ -233,14 +237,6 @@ if (lower === "fintech watch" || lower === "fintech") return "Fintech Watch";
 
       const counts = frCollectTagCounts(allItems);
       const tags = Array.from(counts.keys());
-
-      // ✅ Always include Small Business filter option (match RegDashboard),
-      // even if this month has 0 matching items.
-      const mustHave = ["topic:small-business"];
-      mustHave.forEach(t => {
-        if (!tags.includes(t)) tags.push(t);
-        if (!counts.has(t)) counts.set(t, 0);
-      });
       if (!tags.length) return; // no tags -> no filter UI
 
       filtersWrap.className = "fr-filters";
