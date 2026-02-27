@@ -87,7 +87,7 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
 }
 
 # Sources where we keep listing links but DO NOT fetch detail pages (to avoid blocks/timeouts)
-SKIP_DETAIL_SOURCES = {"Fannie Mae"}
+SKIP_DETAIL_SOURCES = {"Visa", "Fannie Mae"}
 DEFAULT_SOURCE_DETAIL_CAP = 15
 
 UA = "regmonthly/1.0 (+https://github.com/jasonw79118/regmonthly)"
@@ -119,13 +119,14 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
 
     # Legislative / Executive tiles
     "Senate Banking": "Legislative",
+    "House Financial Services": "Legislative",
     "White House": "Executive",
 
     # Federal Register
     "Federal Register": "Federal Register",
 
     # USDA tile
-    "USDA Rural Development": "Mortgage",
+    "USDA Rural Development": "USDA",
 
     # Fintech Watch tile
     "FIS": "Fintech Watch",
@@ -199,6 +200,7 @@ RAW_FEDREG_FILTERS: List[Dict[str, str]] = [
     {"kind": "topics", "value": "mortgage-insurance"},
     {"kind": "topics", "value": "personally-identifiable-information"},
     {"kind": "topics", "value": "savings-associations"},
+    {"kind": "topics", "value": "small-business"},
     {"kind": "topics", "value": "trust-and-trustees"},
 ]
 
@@ -290,6 +292,10 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
     "FinCEN": {
         "allow_domains": {"www.fincen.gov", "fincen.gov"},
         "allow_path_prefixes": {"/news-room"},
+    },
+    "House Financial Services": {
+        "allow_domains": {"financialservices.house.gov"},
+        "allow_path_prefixes": {"/news/"},
     },
 
     "White House": {
@@ -1825,7 +1831,7 @@ def _next_page_url_source_fallback(source: str, cur_url: str, cur_html: str, pag
     # Senate Banking: try simple query page increment if present/typical
     if source == "Senate Banking" and "banking.senate.gov/newsroom" in u:
         # some senate sites use ?PageNum= or ?page= (best effort)
-        nxt = _bump_query_page_from_zero(u, "PageNum") or _bump_query_page_from_zero(u, "page")
+        nxt = _bump_query_page_from_zero(u, "PageNum_rs") or _bump_query_page_from_zero(u, "PageNum") or _bump_query_page_from_zero(u, "page")
         return nxt
 
     return None
@@ -2099,79 +2105,31 @@ MC_MARKDOWN_LINK_RE = re.compile(
 
 
 def _mastercard_links_from_text(page_url: str, text: str) -> List[Tuple[str, str, Optional[datetime]]]:
-    """
-    Mastercard frequently blocks direct HTML fetches. When we retry via the r.jina.ai proxy, we often
-    receive markdown-ish plaintext. The older implementation incorrectly pulled *one* date from the
-    entire page and applied it to every link (which can zero-out the month window).
-
-    This version extracts each link with the *date nearest to that link* (same line preferred),
-    falling back to nearby lines.
-    """
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen: set[str] = set()
 
-    lines = (text or "").splitlines()
-    if not lines:
-        return links
-
-    def consider(title: str, url: str, dt: Optional[datetime]) -> None:
-        nonlocal links, seen
-        title = clean_text(title or "", 220)
-        url = canonical_url(url or "")
-        if not title or len(title) < 8 or not url:
-            return
+    for m in MC_MARKDOWN_LINK_RE.finditer(text or ""):
+        title = clean_text(m.group(1), 220)
+        url = canonical_url(m.group(2))
+        if not url:
+            continue
         if not allowed_for_source("Mastercard", url):
-            return
+            continue
         if not MASTERCARD_PR_PATH_RE.match(urlparse(url).path):
-            return
+            continue
         if is_probably_nav_link("Mastercard", title, url):
-            return
+            continue
         if is_generic_listing_or_home("Mastercard", title, url):
-            return
+            continue
         if url in seen:
-            return
+            continue
         seen.add(url)
-        links.append((title, url, dt))
 
-    # Pass 1: markdown links with title
-    for i, line in enumerate(lines):
+        dt = extract_any_date(text, source="Mastercard")
+        links.append((title, url, dt))
         if len(links) >= MAX_LISTING_LINKS:
             return links
 
-        for m in MC_MARKDOWN_LINK_RE.finditer(line):
-            title = m.group(1)
-            url = m.group(2)
-
-            dt = extract_any_date(line, source="Mastercard")
-
-            # Fallback: a date might be on the previous/next line
-            if dt is None and i > 0:
-                dt = extract_any_date(lines[i - 1], source="Mastercard")
-            if dt is None and i + 1 < len(lines):
-                dt = extract_any_date(lines[i + 1], source="Mastercard")
-
-            consider(title, url, dt)
-
-    if links:
-        return links
-
-    # Pass 2: raw URLs (no markdown title)
-    raw_url_re = re.compile(r"(https?://www\.mastercard\.com/[^\s\"')<>]+)", re.I)
-    for i, line in enumerate(lines):
-        if len(links) >= MAX_LISTING_LINKS:
-            break
-
-        dt = extract_any_date(line, source="Mastercard")
-        if dt is None and i > 0:
-            dt = extract_any_date(lines[i - 1], source="Mastercard")
-        if dt is None and i + 1 < len(lines):
-            dt = extract_any_date(lines[i + 1], source="Mastercard")
-
-        for m in raw_url_re.finditer(line):
-            url = canonical_url(m.group(1))
-            consider("Mastercard press release", url, dt)
-
-    return links
     raw_url_re = re.compile(r"(https?://www\.mastercard\.com/[^\s\"')<>]+)", re.I)
     for m in raw_url_re.finditer(text or ""):
         url = canonical_url(m.group(1))
@@ -3377,6 +3335,7 @@ def get_start_pages() -> List[SourcePage]:
 
         # Legislative / exec
         SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom"),
+        SourcePage("House Financial Services", "https://financialservices.house.gov/news/"),
         SourcePage("White House", "https://www.whitehouse.gov/news/"),
         SourcePage("White House", "https://www.whitehouse.gov/presidential-actions/"),
 
