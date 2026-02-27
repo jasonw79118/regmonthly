@@ -126,7 +126,7 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     "Federal Register": "Federal Register",
 
     # USDA tile
-    "USDA Rural Development": "USDA",
+    "USDA Rural Development": "Mortgage",
 
     # Fintech Watch tile
     "FIS": "Fintech Watch",
@@ -200,7 +200,6 @@ RAW_FEDREG_FILTERS: List[Dict[str, str]] = [
     {"kind": "topics", "value": "mortgage-insurance"},
     {"kind": "topics", "value": "personally-identifiable-information"},
     {"kind": "topics", "value": "savings-associations"},
-    {"kind": "topics", "value": "small-business"},
     {"kind": "topics", "value": "trust-and-trustees"},
 ]
 
@@ -1828,12 +1827,31 @@ def _next_page_url_source_fallback(source: str, cur_url: str, cur_html: str, pag
         # page_i is zero-based loop counter; next page number starts at 2
         return _append_path_page(u, page_i + 2)
 
-    # Senate Banking: try simple query page increment if present/typical
+    # Senate Banking: pagination is often query-based and 1-based.
     if source == "Senate Banking" and "banking.senate.gov/newsroom" in u:
-        # some senate sites use ?PageNum= or ?page= (best effort)
-        nxt = _bump_query_page_from_zero(u, "PageNum_rs") or _bump_query_page_from_zero(u, "PageNum") or _bump_query_page_from_zero(u, "page")
-        return nxt
+        try:
+            from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+            p = urlparse(u)
+            qs = parse_qs(p.query or "")
+            # Prefer PageNum_rs when present; otherwise fall back.
+            keys = ["PageNum_rs", "PageNum", "page"]
+            cur_key = next((k for k in keys if k in qs and qs[k]), None)
 
+            if cur_key:
+                try:
+                    cur = int(qs[cur_key][0])
+                except Exception:
+                    cur = 1
+                nxt = cur + 1
+                qs[cur_key] = [str(nxt)]
+            else:
+                # No explicit page param on the first page -> assume 1-based and start at 2.
+                qs["PageNum_rs"] = [str(page_i + 2)]
+            new_query = urlencode(qs, doseq=True)
+            return urlunparse((p.scheme, p.netloc, p.path, p.params, new_query, p.fragment))
+        except Exception:
+            # fallback: best-effort increment if a param exists
+            return _bump_query_page_from_zero(u, "PageNum_rs") or _bump_query_page_from_zero(u, "PageNum") or _bump_query_page_from_zero(u, "page")
     return None
 
 

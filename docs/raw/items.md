@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-01-01T06:00:00Z` → `2026-02-01T05:59:59Z` (UTC)
-Last updated: `2026-02-27T15:31:52-06:00` (CT) — `2026-02-27T21:31:52Z` (UTC)
+Last updated: `2026-02-27T16:11:43-06:00` (CT) — `2026-02-27T22:11:43Z` (UTC)
 
 ## Wide Acclaim for President Trump’s Nomination of Kevin Warsh as Fed Chair
 - Source: White House
@@ -86,74 +86,6 @@ IR-2026-19, Jan. 30, 2026 — The Internal Revenue Service announced today the a
 - URL: https://www.federalregister.gov/documents/2026/01/30/2026-01895/agency-information-collection-activities-comment-request
 
 In accordance with the Paperwork Reduction Act of 1995 (PRA), the Consumer Financial Protection Bureau (CFPB or Bureau) requests the Office of Management and Budget's (OMB's) extension of an information collection titled "Consumer Response Intake Form."
-
-## Reimagining and Improving Student Education
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-30T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education
-
-The Secretary proposes to amend the regulations for the Federal student loan programs authorized under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs) to implement the statutory changes to the title IV, HEA programs included in the One Big Beautiful Bill Act (OBBB) signed into law by President Trump on July 4, 2025. These changes inc…
-
-## Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-30T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure
-
-The Department is proposing a regulation that would require providers of pharmacy benefit management services and affiliated providers of brokerage and consulting services to disclose information about their compensation to fiduciaries of self-insured group health plans subject to the Employee Retirement Income Security Act (ERISA). These disclosures are needed so that fiducia…
-
-## Safety Zone; Inner Harbor, Baltimore, MD
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-30T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/30/2026-01882/safety-zone-inner-harbor-baltimore-md
-
-The Coast Guard is proposing to establish a temporary safety zone for certain navigable waters of the Inner Harbor in Baltimore, MD. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created during an Air Show. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically a…
-
-## Establishing the Gordie Howe International Bridge as a Port of Entry in Detroit, MI
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-30T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/30/2026-01868/establishing-the-gordie-howe-international-bridge-as-a-port-of-entry-in-detroit-mi
-
-This rule establishes the Gordie Howe International Bridge border crossing as a Class A port of entry for immigration purposes and as part of the port of Detroit for customs purposes. Establishing the Gordie Howe International Bridge border crossing is part of U.S. Customs and Border Protection's (CBP) continuing program to use its personnel, facilities, and resources more eff…
-
-## Wells Fargo Strategic Capital SBIC, L.P.; Surrender of License of Small Business Investment Company
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-30T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/30/2026-01864/wells-fargo-strategic-capital-sbic-lp-surrender-of-license-of-small-business-investment-company
-
-## Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Conditions for Coverage
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-30T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/30/2026-01833/medicare-and-medicaid-programs-organ-procurement-organizations-conditions-for-coverage-revisions-to
-
-This proposed rule would revise the Conditions for Coverage for Organ Procurement Organizations (OPOs) to clarify outstanding procedural questions and enable OPOs to make better informed decisions to achieve high performance resulting in the successful procurement, distribution, and transplantation of more life-saving organs. This rule would revise definitions, add new Quality…
-
-## Agency Information Collection Activities; Approval of a New Information Collection Request: Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-30T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/30/2026-01832/agency-information-collection-activities-approval-of-a-new-information-collection-request-restoring
-
-In accordance with the Paperwork Reduction Act of 1995, FMCSA announces its plan to submit the Information Collection Request (ICR) described below to the Office of Management and Budget (OMB) for review and approval. On September 29, 2025, FMCSA issued an interim final rule to restore the integrity of the commercial driver's license (CDL) issuance processes by significantly l…
-
-## Information Collection Being Reviewed by the Federal Communications Commission
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-30T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/30/2026-01830/information-collection-being-reviewed-by-the-federal-communications-commission
-
-As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collec…
-
-## Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 5110 (Corporate Financing Rule-Underwriting Terms and Arrangements) and 5123…
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-30T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/30/2026-01825/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a
 
 ## Addressing Threats to the United States by the Government of Cuba
 - Source: White House
@@ -325,20 +257,6 @@ The Federal Deposit Insurance Corporation (FDIC) is amending its signage require
 
 The U.S. Small Business Administration (SBA or Agency) is issuing this interim final rule (IFR) to ensure the timely and effective delivery of assistance under the Disaster Loan Program authorized under section 7(b) of the Small Business Act (15 U.S.C. 636(b)) ("Disaster Loan Program") following a Presidentially declared disaster. This rule preempts certain state and local req…
 
-## Addressing State and Local Failures To Rebuild Los Angeles After Wildfire Disasters
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-29T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/29/2026-01871/addressing-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters
-
-## Reporting and Recordkeeping Requirements Under Office of Management and Budget Review
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-29T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/29/2026-01779/reporting-and-recordkeeping-requirements-under-office-of-management-and-budget-review
-
-The Small Business Administration (SBA) will submit the information collection described below to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, as amended, on or after the date of publication of this notice. SBA is publishing this notice to allow all interested members of the public an additional 30 d…
-
 ## National School Choice Week, 2026
 - Source: White House
 - Category: Executive
@@ -503,42 +421,6 @@ The NCUA Board (Board) is issuing for public comment a proposal to amend the NCU
 
 The NCUA Board (Board) seeks comment on a proposed rule to remove the maximum borrowing authority from the NCUA's regulations that establish the requirements for obtaining and maintaining federal share insurance with the National Credit Union Share Insurance Fund (Share Insurance Fund). This provision applies to all federally insured credit unions (FICUs). Removing this regula…
 
-## Information Collection Being Submitted for Review and Approval to Office of Management and Budget
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-28T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/28/2026-01694/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget
-
-As part of its continuing effort to reduce paperwork burdens, as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal Agencies to take this opportunity to comment on the following information collection. Pursuant to the Small Business Paperwork Relief Act of 2002, the F…
-
-## Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Form N-17D-1
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-28T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/28/2026-01660/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-form
-
-## Oil and Gas Resources
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-28T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/28/2026-01655/oil-and-gas-resources
-
-The U.S. Department of Agriculture (USDA or Department) is finalizing revisions to its regulations governing Federal oil and gas resources within the National Forest System (NFS). The Department is making these revisions to update and modernize its existing regulations. In addition, conforming technical amendments to other parts of the Code of Federal Regulations (CFR) affecte…
-
-## Horse Protection Amendments; Further Postponement of Regulations
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-28T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/28/2026-01648/horse-protection-amendments-further-postponement-of-regulations
-
-On May 8, 2024, we published a final rule amending the horse protection regulations. The provisions of the final rule, initially scheduled to go into effect on February 1, 2025, were delayed until April 2, 2025. On March 21, 2025, we published a further delay of the effective date to February 1, 2026, and a request for comment on whether the length of the postponement should b…
-
-## Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Form ADV-H
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-28T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/28/2026-01625/agency-information-collection-activities-proposed-collection-comment-request-extension-form-adv-h
-
 ## Zelle expands across community banks, data reveals
 - Source: TBA
 - Category: Compliance Watch
@@ -594,30 +476,6 @@ IR-2026-14, Jan. 27, 2026 — The Taxpayer Advocate Service today announced the 
 - URL: https://www.irs.gov/newsroom/irs-issues-frequently-asked-questions-about-executive-order-14247-modernizing-payments-to-and-from-americas-bank-account
 
 IR-2026-13, Jan. 27, 2026 — The Internal Revenue Service today issued frequently asked questions to help taxpayers, businesses, and other stakeholders understand the changes under Executive Order 14247: Modernizing Payment To and From America’s Bank Account.
-
-## Special Local Regulations; Marine Events Within the USCG East District
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-27T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/27/2026-01560/special-local-regulations-marine-events-within-the-uscg-east-district
-
-The Coast Guard is proposing to amend a special local regulation for certain waters of the Patapsco River, in Baltimore, MD by adding a new period during which this regulation would be subject to enforcement. This action is necessary to provide for the safety of life on these navigable waters during the 3rd and 4th weeks of June, during Fleet Week events. This rule would prohi…
-
-## Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-27T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/27/2026-01557/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated
-
-As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collectio…
-
-## Reflectorization of Rail Freight Rolling Stock; Codifying Existing Waivers
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-27T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/27/2026-01549/reflectorization-of-rail-freight-rolling-stock-codifying-existing-waivers
-
-This rule amends the standards for Reflectorization of Rail Freight Rolling Stock (Reflectorization Standards or Part 224) to codify waivers and remove the outdated implementation schedule. The changes are expected to enhance safety, promote innovation, clarify existing requirements, and reduce unnecessary paperwork burdens. The amendments are consistent with the mandate of th…
 
 ## President Trump Delivers Largest Tax Refund Season in U.S. History
 - Source: White House
@@ -695,46 +553,6 @@ The NCUA Board proposes to amend its regulations concerning the reimbursement of
 
 The Federal Deposit Insurance Corporation (FDIC) is adopting revised Guidelines for Appeals of Material Supervisory Determinations to replace the existing Supervision Appeals Review Committee with an independent, standalone office to consider and decide supervisory appeals.
 
-## Delete, Delete, Delete
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-26T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/26/2026-01442/delete-delete-delete
-
-In this document, the Federal Communications Commission (Commission or FCC) continues its efforts to modernize regulatory framework by rescinding facially obsolete provisions of its rules. The Commission has undertaken a sweeping review aimed at eliminating outdated rules, reducing unnecessary regulatory burdens, accelerating infrastructure deployment, promoting network modern…
-
-## Air Plan Approval; Arkansas; Codification of the State Implementation Plan
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-26T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/26/2026-01410/air-plan-approval-arkansas-codification-of-the-state-implementation-plan
-
-Pursuant to the Federal Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is approving revisions to the Arkansas State Implementation Plan (SIP) submitted by the Arkansas Department of Energy and Environment (ADEE) to the EPA on February 4, 2025. The revisions address the codification of the Arkansas Pollution Control and Ecology Commission (APC & EC) R…
-
-## Anchorage Grounds; Columbia River, Longview, Oregon and Washington
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-26T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/26/2026-01401/anchorage-grounds-columbia-river-longview-oregon-and-washington
-
-The Coast Guard is proposing to modify the Longview anchorage by reducing its size to allow completion of the Longview Channel realignment project. This action is necessary to provide commercial vessels with the space needed to safely transit the navigational channel by maximizing the available height clearance of the Lewis and Clark bridge in Longview, WA. We invite your comm…
-
-## Drawbridge Operation Regulation; Technical Amendment; Removal of Obsolete Drawbridge Operating Regulations
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-26T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/26/2026-01400/drawbridge-operation-regulation-technical-amendment-removal-of-obsolete-drawbridge-operating
-
-The Coast Guard is removing 81 special drawbridge operating regulations that previously operated over various waterways throughout the United States. In some cases, these 81 drawbridge regulations have either been replaced with a fixed bridge, removed from the waterway, or altered in such a manner that the drawspan is no longer moveable. Alternatively, the rail lines or roadwa…
-
-## Drawbridge Operation Regulation; Inside Thorofare, Ventnor City, New Jersey
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-26T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/26/2026-01398/drawbridge-operation-regulation-inside-thorofare-ventnor-city-new-jersey
-
-The Coast Guard is changing the operating schedule that governs the Dorset Avenue Bridge across Inside Thorofare, mile 72.1, at Ventnor City, NJ. The final rule will allow the drawbridge to only open between the hours of 11 p.m. to 7 a.m., if at least four hours' notice is given.
-
 ## Continuance of the Federal Emergency Management Agency Review Council
 - Source: White House
 - Category: Executive
@@ -806,62 +624,6 @@ IR-2026-10, Jan. 23, 2026 — The Department of the Treasury and the Internal Re
 - Category: Mortgage
 - Published: 2026-01-23T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-02
-
-## Safety Zone; St. Clair River, St. Clair, MI
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-23T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/23/2026-01316/safety-zone-st-clair-river-st-clair-mi
-
-The Coast Guard is establishing a temporary safety zone for navigable waters within a 50-yard radius of a portion of the St. Clair River, St. Clair, MI. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards during a fireworks event on January 24, 2026. Entry of vessels or persons into this zone is prohibited unless specifica…
-
-## Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-23T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/23/2026-01312/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated
-
-As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collec…
-
-## Information Collection Being Reviewed by the Federal Communications Commission
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-23T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/23/2026-01309/information-collection-being-reviewed-by-the-federal-communications-commission
-
-As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collec…
-
-## Agency Information Collection Activities; Comment Request; Work Opportunity Tax Credit
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-23T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/23/2026-01287/agency-information-collection-activities-comment-request-work-opportunity-tax-credit
-
-The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, "Work Opportunity Tax Credit (WOTC)." This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Pap…
-
-## Advancement of the Low Power Television, TV Translator and Class A Television Service
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-23T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/23/2026-01279/advancement-of-the-low-power-television-tv-translator-and-class-a-television-service
-
-In this document, the Federal Communications Commission (FCC or Commission) adopts certain changes to its rules concerning Class A television, low power television and TV translator stations (LPTV Service). These include operational and technical rule updates aimed at providing clarity and regulatory certainty to licensees so they can make informed business decisions about the…
-
-## Security Zone; Corpus Christi and La Quinta Ship Channel, Corpus Christi, TX
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-23T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/23/2026-01248/security-zone-corpus-christi-and-la-quinta-ship-channel-corpus-christi-tx
-
-The Coast Guard is establishing a temporary security zone for navigable waters within a 500-yard radius of vessel carrying cargo requiring an elevated level of security in the Corpus Christi and La Quinta Shipping Channels. The security zone is needed to protect the vessels, their cargo, and the surrounding waterway from terrorist acts, sabotage, or other subversive acts, acci…
-
-## Flight Restrictions in the Vicinity of Ronald Reagan Washington National Airport (DCA)
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-23T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/23/2026-01226/flight-restrictions-in-the-vicinity-of-ronald-reagan-washington-national-airport-dca
-
-FAA is revising its regulations to implement certain flight restrictions in the airspace over the Potomac River near Ronald Reagan Washington National Airport (DCA) permanently. These revisions are necessary to mitigate the potential for midair collisions resulting from insufficient separation between fixed-wing aircraft operating to or from DCA and helicopters or powered-lift…
 
 ## President Trump Ratifies Board of Peace in Historic Ceremony, Opening Path to Hope and Dignity for Gazans
 - Source: White House
@@ -995,54 +757,6 @@ Improper neutralization of input during web page generation ('cross-site scripti
 
 This webpage provides resources to help bankers better understand elder financial exploitation (EFE).
 
-## Clarification of VA's Processing of Survivors Benefits Claims
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-22T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/22/2026-01188/clarification-of-vas-processing-of-survivors-benefits-claims
-
-The Department of Veterans Affairs (VA) amends its adjudication regulations concerning survivors benefits claims to ensure that VA provides the most beneficial outcome for surviving spouses and children. This final rule clarifies that a surviving spouse or child claimant for either Survivors Pension or dependency and indemnity compensation (DIC) is entitled to the greater bene…
-
-## Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-22T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/22/2026-01168/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx
-
-The Coast Guard is establishing a temporary safety zone for navigable waters of the Rio Grande River. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by cryogenics and structural tests of SpaceX rockets at their Massey's test site. This proposed rulemaking would prohibit persons and vessels from being in the sa…
-
-## Motor Carrier Safety Advisory Committee; Membership
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-22T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/22/2026-01156/motor-carrier-safety-advisory-committee-membership
-
-The Department solicits nominations for membership to serve on the Motor Carrier Safety Advisory Committee (MCSAC). MCSAC provides advice and recommendations to the Secretary of Transportation (the Secretary) through the Administrator of FMCSA about needs, objectives, plans, approaches, content, and accomplishments of the motor carrier safety programs carried out by the Admini…
-
-## Revising Definition of “Unlawful User of or Addicted to Controlled Substance”
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-22T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/22/2026-01141/revising-definition-of-unlawful-user-of-or-addicted-to-controlled-substance
-
-The Bureau of Alcohol, Tobacco, Firearms, and Explosives ("ATF") is amending Department of Justice ("Department") regulations to update the definition of "unlawful user of or addicted to any controlled substance," a category of persons who may not possess firearms under federal law. This definition was established in 1996 to facilitate operation of the National Instant Crimina…
-
-## Information Collection Being Reviewed by the Federal Communications Commission
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-22T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/22/2026-01105/information-collection-being-reviewed-by-the-federal-communications-commission
-
-As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collec…
-
-## Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-22T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/22/2026-01104/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated
-
-As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collec…
-
 ## In Davos, President Trump Outlines Bold Vision for American Prosperity, Transatlantic Strength
 - Source: White House
 - Category: Executive
@@ -1125,68 +839,6 @@ In accordance with the Paperwork Reduction Act of 1995 (PRA), the Consumer Finan
 
 The Department of Labor's (Department's) Employment and Training Administration (ETA) is delaying by 1 year the date by which State grantees, as a condition on their grant funds, must comply with the regulatory requirements in the 2023 Wagner-Peyser Act Staffing Final Rule regarding the grant-funded staffing models States must use to deliver services in the Wagner-Peyser Act E…
 
-## Implementation of the National Environmental Policy Act
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-21T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/21/2026-01092/implementation-of-the-national-environmental-policy-act
-
-This interim final rule revises the Tennessee Valley Authority (TVA) procedures implementing the National Environmental Policy Act (NEPA). TVA is taking this action in response to the amendments to NEPA enacted through the Fiscal Responsibility Act of 2023 and the One Big Beautiful Bill Act of 2025, to reflect the Supreme Court's recent decision in Seven County Infrastructure…
-
-## Fixed and Moving Safety Zone; Vicinity of the M/V ZHEN HUA 24; Houston Ship Channel and Morgan's Point, TX
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-21T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/21/2026-01070/fixed-and-moving-safety-zone-vicinity-of-the-mv-zhen-hua-24-houston-ship-channel-and-morgans-point
-
-The Coast Guard is establishing a temporary moving safety zone and a fixed safety zone around the M/V ZHEN HUA 24 in the navigable waters of the Houston Ship Channel and its vicinity. The safety zones are needed to protect personnel, vessels, and the marine environment from potential hazards associated with the transfer of gantry cranes. Entry of vessels or persons into these…
-
-## Worker Safety and Health Requirements To Support Reform of Nuclear Reactor Testing
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-21T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/21/2026-01066/worker-safety-and-health-requirements-to-support-reform-of-nuclear-reactor-testing
-
-The Department of Energy (DOE or the Department) proposes to amend its regulations for worker safety and health to expedite the review, approval, and deployment of advanced reactors under DOE's jurisdiction including qualified test reactors in DOE's reactor pilot program, consistent with a recent Executive order. The revisions would ensure that DOE's worker safety and health p…
-
-## Safety Zone; Philippine Sea, Pacific Ocean, Guam
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-21T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/21/2026-01064/safety-zone-philippine-sea-pacific-ocean-guam
-
-The Coast Guard is establishing a temporary safety zone for certain navigable waters of the Philippine Sea in the Pacific Ocean north of Andersen Air Force Base, Guam. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by a Department of War small Unmanned Aircraft System (sUAS) testing event. Entry of vessels or…
-
-## Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-21T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/21/2026-01063/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated
-
-As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collectio…
-
-## Addressing the Homework Gap Through the E-Rate Program; Partial Withdrawal
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-21T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/21/2026-01053/addressing-the-homework-gap-through-the-e-rate-program-partial-withdrawal
-
-In this document, the Federal Communications Commission (Commission or FCC) reconsiders the E-Rate Wi-Fi hotspot and services rules adopted in July 2024. Specifically, the Commission grants the petition for reconsideration filed by Maurine and Matthew Molak and finds that the best reading of section 254 of the Communications Act of 1934, as amended, (the Communications Act) is…
-
-## Surrender of License of Small Business Investment Company; Pelion Ventures V Financial Institutions Fund, L.P.
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-21T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/21/2026-01050/surrender-of-license-of-small-business-investment-company-pelion-ventures-v-financial-institutions
-
-## Deep Seabed Mining: Revisions to Regulations for Exploration License and Commercial Recovery Permit Applications
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-21T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/21/2026-01044/deep-seabed-mining-revisions-to-regulations-for-exploration-license-and-commercial-recovery-permit
-
-The Deep Seabed Hard Mineral Resources Act (DSHMRA or the Act) charges NOAA with the responsibility for issuing licenses for exploration and permits for commercial recovery of hard mineral resources, as defined in the Act, from the deep seabed in areas beyond national jurisdiction and promulgating regulations necessary to carry out the provisions of the Act. Some provisions of…
-
 ## 365 WINS IN 365 DAYS: President Trump’s Return Marks New Era of Success, Prosperity
 - Source: White House
 - Category: Executive
@@ -1238,70 +890,6 @@ Updated the build numbers. This is an informational update only.
 - Category: Payments
 - Published: 2026-01-20T00:00:00Z
 - URL: https://www.nacha.org/news/should-rdfis-have-role-identifying-first-party-fraud
-
-## Annual Update of Filing Fees
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-20T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/20/2026-01002/annual-update-of-filing-fees
-
-In accordance with the Commission's regulations, this Final rule provides the yearly update using data in the Commission's Financial System to calculate new filing fees. The purpose of this Final Rule is to adjust the fees on the basis of the Commission's costs for Fiscal Year 2025.
-
-## Advisory Committee Charter Renewals
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-20T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/20/2026-00973/advisory-committee-charter-renewals
-
-Pursuant to sections 14(b)(1) and 9(c) of the Federal Advisory Act (Pub. L. 92-463) and consultation with the General Services Administration, the Small Business Administration has determined that the following Federal advisory committees are vital to the mission of the SBA and will be renewed for a two-year period through January 26, 2028.
-
-## Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Fort Lauderdale, FL
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-20T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/20/2026-00932/drawbridge-operation-regulation-atlantic-intracoastal-waterway-fort-lauderdale-fl
-
-The Coast Guard is changing the operating schedule that governs the SE 17th Street (Brooks Memorial) Bridge, across the Atlantic Intracoastal Waterway (AICW), mile 1065.9, at Fort Lauderdale, FL. This action will assist with vehicle congestion during weekday rush hour periods by limiting drawbridge openings.
-
-## Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, North Myrtle Beach, SC
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-20T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/20/2026-00931/drawbridge-operation-regulation-atlantic-intracoastal-waterway-north-myrtle-beach-sc
-
-The Coast Guard is changing the operating schedule that governs the Little River Bridge, across the Atlantic Intracoastal Waterway (AICW) (Upper Little River), mile 347.3, at North Myrtle Beach, SC. This action will assist with vehicle congestion during weekday rush hour periods by placing the swing bridge on scheduled openings.
-
-## Federal Management Regulation; Conduct on Federal Property
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-20T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/20/2026-00927/federal-management-regulation-conduct-on-federal-property
-
-The General Services Administration (GSA), in consultation with the Department of Homeland Security (DHS), is removing and reserving a subpart of the Federal Management Regulation (FMR) pertaining to conduct on Federal property. DHS recently published a final rule, effective November 5, 2025, establishing regulations for the protection of Federal property. GSA's final rule wil…
-
-## Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-20T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/20/2026-00891/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated
-
-As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collec…
-
-## Information Collections Being Reviewed by the Federal Communications Commission Under Delegated Authority
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-20T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/20/2026-00890/information-collections-being-reviewed-by-the-federal-communications-commission-under-delegated
-
-As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collec…
-
-## Information Collection Being Reviewed by the Federal Communications Commission
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-20T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/20/2026-00889/information-collection-being-reviewed-by-the-federal-communications-commission
-
-As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collectio…
 
 ## Martin Luther King, Jr., Federal Holiday, 2026
 - Source: White House
@@ -1483,30 +1071,6 @@ Publications
 
 This interim final rule (IFR) amends U.S. Department of Homeland Security (DHS) regulations to remove the requirement that R-1 religious workers who have reached the maximum period of stay must reside abroad and be physically present outside the United States for one year before being eligible for readmission in R-1 status after departing from the United States upon reaching t…
 
-## Hazardous Materials: Notice of Actions on Special Permits
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-16T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/16/2026-00872/hazardous-materials-notice-of-actions-on-special-permits
-
-In accordance with the procedures governing the application for, and the processing of, special permits from the Department of Transportation's Hazardous Material Regulations, notice is hereby given that the Office of Hazardous Materials Safety has granted or denied the application described herein.
-
-## SBIC License Issuance
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-16T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/16/2026-00843/sbic-license-issuance
-
-Pursuant to the authority granted to the United States Small Business Administration under section 301(c) of the Small Business Investment Act of 1958, as amended, to grant Small Business Investment Company licenses under the Small Business Investment Company Program, this notice satisfies the requirement effective August 17, 2023 under 13 CFR 107.501(a) to publish in the Fede…
-
-## Security Zone; Corpus Christi and La Quinta Ship Channel, Corpus Christi, TX
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-16T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/16/2026-00834/security-zone-corpus-christi-and-la-quinta-ship-channel-corpus-christi-tx
-
-The Coast Guard is establishing a temporary security zone for navigable waters within a 500-yard radius of two vessels carrying cargo requiring an elevated level of security in the Corpus Christi and La Quinta Shipping Channels. The security zone is needed to protect the vessels, their cargo, and the surrounding waterway from terrorist acts, sabotage, or other subversive acts,…
-
 ## Sunshine Act Notice: FDIC Board of Directors Meeting
 - Source: FDIC
 - Category: Banking
@@ -1624,36 +1188,6 @@ The Department of Commerce ("Commerce") is proposing to amend its regulations go
 - URL: https://www.federalregister.gov/documents/2026/01/15/2026-00682/privacy-act-of-1974-system-of-records
 
 In accordance with the Privacy Act of 1974, the Department of Veterans Affairs (VA) is modifying the systems of records listed in this notice to incorporate one routine use related to the disclosure of records to the U.S. Department of the Treasury pursuant to the Office of Management and Budget's Memorandum 25-32. The new routine use permits disclosures of records to the U.S.…
-
-## Federal Motor Vehicle Safety Standards: Anti-Ejection Glazing for Bus Portals; Mandatory Applicability Beginning October 30, 2027
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-15T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/15/2026-00728/federal-motor-vehicle-safety-standards-anti-ejection-glazing-for-bus-portals-mandatory-applicability
-
-This document partially grants a petition for reconsideration of the October 30, 2024 final rule that established Federal Motor Vehicle Safety Standard (FMVSS) No. 217a, "Anti-ejection glazing for bus portals; Mandatory applicability beginning October 30, 2027." The standard intends to drive installation of advanced glazing in over-the- road buses (motorcoaches) and other larg…
-
-## Pennsylvania Regulatory Program
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-15T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/15/2026-00701/pennsylvania-regulatory-program
-
-We, the Office of Surface Mining Reclamation and Enforcement (OSMRE), approve an amendment to the Pennsylvania regulatory program under the Surface Mining Control and Reclamation Act of 1977 (SMCRA or the Act). The amendment revises the Pennsylvania program by adding language consistent with section 5 of the Bituminous Mine Subsidence and Land Conversation Act, which specifies…
-
-## Administrative Requirements; Pittman-Robertson Wildlife Restoration and Dingell-Johnson Sport Fish Restoration Acts
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-15T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/15/2026-00676/administrative-requirements-pittman-robertson-wildlife-restoration-and-dingell-johnson-sport-fish
-
-We, the U.S. Fish and Wildlife Service, made deregulatory actions pertaining to Federal financial assistance programs and subprograms authorized under the Pittman-Robertson Wildlife Restoration Act and the Dingell-Johnson Sport Fish Restoration Act to better serve the American public, streamline government operations, and increase efficiencies for recipients of our financial a…
-
-## Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 17d-1
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-15T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/15/2026-00641/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17d-1
 
 ## America 250: Presidential Message on the Anniversary of the Ratification of the 1783 Treaty of Paris
 - Source: White House
@@ -1858,92 +1392,6 @@ The NCUA Board (Board) is publishing this proposed rule to remove a redundant an
 - URL: https://www.federalregister.gov/documents/2026/01/14/2026-00590/huds-implementation-of-the-fair-housing-acts-disparate-impact-standard
 
 The Fair Housing Act prohibits discrimination in the sale, rental, or financing of dwellings and in other housing-related activities. Since 2013, HUD has issued three final rules for determining whether a given practice has an unjustified discriminatory effect under the Fair Housing Act, even where practices were not motivated by discriminatory intent. These rules formalized l…
-
-## Delete, Delete, Delete
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00612/delete-delete-delete
-
-The Direct Final Rule would repeal approximately 21 rule provisions and rule parts, totaling 2,927 words and covering approximately 7 pages in the Code of Federal Regulations, that plainly no longer serve the public interest because they have sunset by operation of law; govern an expired event; regulate an obsolete technology; are no longer used in practice by the FCC or licen…
-
-## Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Rights in Technical Data and Computer Software
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00589/information-collection-requirement-defense-federal-acquisition-regulation-supplement-rights-in
-
-In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practi…
-
-## Implementation of the Final Acts of the World Radiocommunication Conference (Sharm el-Sheikh, 2019) (WRC-19), Revision to Table Mountain Radio Quiet Zone Field Strength Limits
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00588/implementation-of-the-final-acts-of-the-world-radiocommunication-conference-sharm-el-sheikh-2019
-
-In this document, the Federal Communications Commission (Commission or FCC) proposes to modify the Commission's rules to implement certain spectrum allocation decisions from the International Telecommunication Union's World Radiocommunication Conference's 2019 Final Acts concerning portions of the radio spectrum between 495 kHz and 50.9 GHz, make other allocation changes, and…
-
-## Implementation of the Final Acts of the World Radiocommunication Conference (Geneva, 2015) (WRC-15), Other Allocation Issues, and Related Rule Updates
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00587/implementation-of-the-final-acts-of-the-world-radiocommunication-conference-geneva-2015-wrc-15-other
-
-In this document, the Federal Communications Commission (Commission or FCC) modifies the United States Table of Frequency Allocations (U.S. Table) in the Commission's rules to implement certain spectrum allocation decisions from the International Telecommunication Union's World Radiocommunication Conference's 2015 Final Acts, including those for amateur radio, satellite servic…
-
-## Extension of Import Restrictions on Archaeological Material of Costa Rica
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00585/extension-of-import-restrictions-on-archaeological-material-of-costa-rica
-
-This document amends the U.S. Customs and Border Protection (CBP) regulations to reflect an extension of import restrictions on certain archaeological material from the Republic of Costa Rica, which were originally imposed by CBP Decision 21-06. The CBP regulations are being amended to reflect this extension through January 15, 2031.
-
-## Extension of Import Restrictions on Categories of Archaeological and Ethnological Material From Morocco
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00582/extension-of-import-restrictions-on-categories-of-archaeological-and-ethnological-material-from
-
-This document amends the U.S. Customs and Border Protection (CBP) regulations to reflect an extension of import restrictions on certain categories of archaeological and ethnological material from the Kingdom of Morocco (Morocco), which were originally imposed by CBP Decision 21-02. The CBP regulations are being amended to reflect this extension through January 14, 2031.
-
-## Hazardous Materials: Eliminating Unnecessary Regulatory Burdens on Fuel Transportation
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00578/hazardous-materials-eliminating-unnecessary-regulatory-burdens-on-fuel-transportation
-
-PHMSA is adopting several amendments to the Hazardous Materials Regulations to reduce unnecessary regulatory burdens associated with the safe transportation of hazardous materials, including energy products. These amendments will reduce costs for hazardous materials transporters and eliminate unnecessary regulatory burdens on fuel transportation while maintaining or increasing…
-
-## Pipeline Safety: Class Location Change Requirements
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00566/pipeline-safety-class-location-change-requirements
-
-PHMSA is updating its regulations to allow operators to apply modern risk management principles in addressing the safety of gas pipelines affected by class location changes. Relying on an approach originally developed in the 1950s, PHMSA's regulations use class locations to provide an additional margin of safety in the design, construction, testing, operation, and maintenance…
-
-## Center for Scientific Review; Notice of Closed Meetings
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00547/center-for-scientific-review-notice-of-closed-meetings
-
-## Extension of Import Restrictions Imposed on Categories of Archaeological Material of Italy
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00538/extension-of-import-restrictions-imposed-on-categories-of-archaeological-material-of-italy
-
-This document amends U.S. Customs and Border Protection (CBP) regulations to reflect an extension of import restrictions on certain categories of archaeological material of the Italian Republic (Italy), which were originally imposed in Treasury Decision 01-06. The CBP regulations are being amended to reflect this extension through January 12, 2031.
-
-## Civil Monetary Penalties-2026 Adjustment
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-14T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/14/2026-00535/civil-monetary-penalties-2026-adjustment
-
-The Surface Transportation Board (Board) is issuing a final rule to implement the annual inflationary adjustment to its civil monetary penalties, pursuant to the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015.
 
 ## Federal Reserve Board announces approval of application by Fifth Third Bancorp
 - Source: FRB
@@ -2875,22 +2323,6 @@ Exposure of sensitive information to an unauthorized actor in Windows File Explo
 - Published: 2026-01-13T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260113
 
-## Service of Process; Address Change
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-13T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/13/2026-00482/service-of-process-address-change
-
-This rule provides a change in the address for service of process for summonses, complaints, or other legal documents directed to the Department of State or to any Department employee or former employee in connection with federal or state litigation.
-
-## Safety Zone; Plane Crash Response Between Mile Markers 356 and 362, Gulf Intracoastal Waterway, Galveston, TX
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-13T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/13/2026-00453/safety-zone-plane-crash-response-between-mile-markers-356-and-362-gulf-intracoastal-waterway
-
-The Coast Guard is establishing a temporary safety zone for navigable waters between mile markers 356 and 362 of the Gulf Intracoastal Waterway. The safety zone is needed to support response vessels and protect the marine environment for debris recovery, incident investigation, and pollution clean-up following a plane crash. Entry of vessels or persons into this zone is prohib…
-
 ## Secretary Bessent Convenes Finance Ministerial on Securing Critical Minerals Supply Chains
 - Source: Treasury
 - Category: OFAC
@@ -2983,22 +2415,6 @@ The Securities and Exchange Commission (the "Commission" or the "SEC") is propos
 
 This rule revises the provisions of the Agriculture Risk Coverage (ARC), Price Loss Coverage (PLC), and Dairy Margin Coverage (DMC) programs to conform with provisions of the One Big Beautiful Bill Act (OBBBA). OBBBA authorized modifications to the 2025 crop year ARC and PLC programs and the continuation of the ARC and PLC programs for the 2026 through 2031 crop years. The mod…
 
-## Safety Zone; Hillsborough Bay, Tampa, FL
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-12T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/12/2026-00326/safety-zone-hillsborough-bay-tampa-fl
-
-The Coast Guard is establishing a temporary safety zone for navigable waters of Hillsborough Bay, in the vicinity of the Gasparilla Children's Air Show. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by the flying demonstrations over the water. Entry of vessels or persons into this zone is prohibited unless sp…
-
-## Adjustment to Premium Processing Fees
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-12T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/12/2026-00321/adjustment-to-premium-processing-fees
-
-The Department of Homeland Security (DHS) is increasing premium processing fees charged by U.S. Citizenship and Immigration Services (USCIS) to reflect the amount of inflation from June 2023 through June 2025 according to the Consumer Price Index for All Urban Consumers.
-
 ## Safeguarding Venezuelan Oil Revenue for the Good of the American and Venezuelan People
 - Source: White House
 - Category: Executive
@@ -3080,44 +2496,6 @@ IR-2026-04, Jan. 9, 2026 — Taxpayers may be able to take advantage of new dedu
 - URL: https://www.federalregister.gov/documents/2026/01/09/2026-00254/backup-withholding-on-third-party-network-transactions
 
 This document contains proposed amendments to the regulations governing backup withholding. The proposed regulations reflect recent changes to the statutory law. These changes will affect third party settlement organizations who make payments in settlement of third party network transactions.
-
-## Sunshine Act Meetings
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-09T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/09/2026-00290/sunshine-act-meetings
-
-## Transportation of Fuel for Agricultural Aircraft Operations
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-09T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/09/2026-00269/transportation-of-fuel-for-agricultural-aircraft-operations
-
-FMCSA amends the Federal Motor Carrier Safety Regulations to allow States to waive the hazardous materials (HM) endorsement requirement for holders of Class A commercial driver's licenses (CDL) who transport no more than 1,000 gallons of aviation grade jet fuel in support of seasonal agricultural aircraft operations.
-
-## Clarification to the Applicability of Emergency Exemptions; Response to Petitions for Reconsideration
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-09T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/09/2026-00268/clarification-to-the-applicability-of-emergency-exemptions-response-to-petitions-for-reconsideration
-
-In response to several petitions for reconsideration, FMCSA proposes to revise from 14 days to 30 days the length of the emergency relief automatically triggered subsequent to a regional declaration of emergency by a Governor of a State, their authorized representative, or FMCSA. This proposal would reverse one change made by a final rule published in October of 2023.
-
-## Air Plan Approval; New Hampshire; Updates to Materials Incorporated by Reference
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-09T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/09/2026-00249/air-plan-approval-new-hampshire-updates-to-materials-incorporated-by-reference
-
-The Environmental Protection Agency (EPA) is updating the materials that are incorporated by reference (IBR) into the New Hampshire State Implementation Plan (SIP). The regulations affected by this update have been previously submitted by the State of New Hampshire and approved by the EPA. In this final rule, the EPA is also notifying the public of corrections and clarifying c…
-
-## Eliminating Regulatory Barriers to Competition: Review of Part 1144
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-09T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/09/2026-00241/eliminating-regulatory-barriers-to-competition-review-of-part-1144
-
-The Surface Transportation Board proposes to repeal its regulations on "Intramodal Rail Competition," which implement the agency's statutory authority to prescribe reciprocal switching agreements, through routes, and through rates. The approach set out in the regulations, which narrows the Board's statutory discretion, may no longer be appropriate on an industrywide basis, and…
 
 ## America 250: Presidential Message on the Anniversary of the Battle of New Orleans
 - Source: White House
@@ -4539,38 +3917,6 @@ IR-2026-02, Jan. 8, 2026 — The Internal Revenue Service announced Monday, Janu
 
 The Federal Deposit Insurance Corporation (FDIC), as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on a proposed information collection, a Survey of the Costs of Anti-Money Laundering (AML) and Countering the Financing of Terrorism (CFT) Compliance. The instrume…
 
-## Removal of National Environmental Policy Act Implementing Regulations
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-08T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/08/2026-00178/removal-of-national-environmental-policy-act-implementing-regulations
-
-The Council on Environmental Quality (CEQ) is adopting the interim final rule published on February 25, 2025, as final. In the interim final rule, CEQ provided a 30-day comment period for the public to review and make comments. This final rule addresses public comments and adopts as final the interim final rule, without changes, removing all iterations of CEQ's regulations imp…
-
-## Fixed and Moving Safety Zone; Vicinity of the M/V SUOMIGRACHT; Houston Ship Channel and Seabrook, TX
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-08T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/08/2026-00176/fixed-and-moving-safety-zone-vicinity-of-the-mv-suomigracht-houston-ship-channel-and-seabrook-tx
-
-The Coast Guard is establishing a moving safety zone and a fixed safety zone around the M/V SUOMIGRACHT in the navigable waters of the Houston Ship Channel and its vicinity. The safety zones are needed to protect personnel, vessels, and the marine environment from potential hazards associated with the transfer of rubber tire gantry cranes. Entry of vessels or persons into thes…
-
-## Small Business Investment Company (SBIC) Regulatory Amendments
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-08T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/08/2026-00173/small-business-investment-company-sbic-regulatory-amendments
-
-The U.S. Small Business Administration ("SBA" or "Agency") is correcting a final rule that appeared in the Federal Register on January 2, 2026. The document revised regulations for the Small Business Investment Company ("SBIC") program to modify or remove from the Code of Federal Regulations ("CFR") regulations that are obsolete, inefficient, or otherwise unnecessarily impede…
-
-## Reissuance and Modification of Nationwide Permits
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-08T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/08/2026-00121/reissuance-and-modification-of-nationwide-permits
-
-Nationwide Permits (NWPs) authorize activities under Section 404 of the Clean Water Act and Section 10 of the Rivers and Harbors Act of 1899 that have no more than minimal individual and cumulative adverse environmental effects. The NWPs help protect the aquatic environment and the public interest by providing incentives to reduce impacts to jurisdictional waters. In this fina…
-
 ## Withdrawing the United States from International Organizations, Conventions, and Treaties that Are Contrary to the Interests of the United States
 - Source: White House
 - Category: Executive
@@ -5033,22 +4379,6 @@ The Consumer Financial Protection Bureau is issuing its seventh biennial Consume
 
 Under their Community Reinvestment Act (CRA) regulations, the Board and the FDIC (collectively, the Agencies) annually adjust the asset-size thresholds used to define "small bank" and "intermediate small bank." As required by the CRA regulations, the adjustment to the threshold amounts is based on the annual percentage change in the Consumer Price Index for Urban Wage Earners…
 
-## Requirements for Interference-Tolerant Radio Altimeter Systems
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-07T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/07/2026-00051/requirements-for-interference-tolerant-radio-altimeter-systems
-
-In July 2025, President Trump signed the One Big Beautiful Bill Act. Section 40002 of that law re-institutes the Federal Communications Commission's general auction authority and specifically directs the Commission to complete a system of competitive bidding for not less than 100 megahertz in the 3.98-4.2 gigahertz band (Upper C- band). To ensure safe, efficient, and reliable…
-
-## Safety Zone; West of Cyril E. King Airport, St. Thomas, VI
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-07T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/07/2026-00048/safety-zone-west-of-cyril-e-king-airport-st-thomas-vi
-
-The Coast Guard is proposing to establish a safety zone for certain navigable waters west of Cyril E. King Airport in St. Thomas, USVI. The safety zone is needed protect personnel, vessels, and the marine environment from potential hazards created by the proximity of the low flying aircrafts to vessels in the vicinity of the waters off the Cyril E. King Airport in St. Thomas,…
-
 ## Trump Policies Power U.S. Auto Sales to Best Year Since 2019 — Proving “Experts” Wrong (Again)
 - Source: White House
 - Category: Executive
@@ -5145,38 +4475,6 @@ IR-2026-01, Jan. 6, 2026 — With the 2026 filing season quickly approaching, th
 - Published: 2026-01-06T00:00:00Z
 - URL: https://www.nacha.org/news/stablecoin-earns-its-own-track-smarter-faster-payments-2026
 
-## National Primary Drinking Water Regulation for Perchlorate
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-06T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/06/2026-00021/national-primary-drinking-water-regulation-for-perchlorate
-
-The U.S. Environmental Protection Agency ("EPA" or the "Agency") is proposing a National Primary Drinking Water Regulation (NPDWR) for perchlorate and a health-based Maximum Contaminant Level Goal (MCLG) under the Safe Drinking Water Act (SDWA). In this action, the EPA is proposing to set the perchlorate MCLG at 0.02 mg/L (20 [micro]g/L). The EPA is also proposing and taking c…
-
-## Improving the Effectiveness of the Robocall Mitigation Database; CORES Registration System
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-06T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/06/2026-00010/improving-the-effectiveness-of-the-robocall-mitigation-database-cores-registration-system
-
-In this document, the Federal Communications Commission (FCC or Commission) adopts rules requiring Robocall Mitigation Database (RMD or Database) filers to take additional steps to ensure the accuracy, completeness, and currentness of submitted information. The rules also establish a base forfeiture of $10,000 for each violation for filers that submit false or inaccurate infor…
-
-## Utah; Northern Wasatch Front; 2015 8-Hour Ozone Nonattainment Area Boundary Expansion and Applicability of Certain Clean Air Act Requirements
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-06T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/06/2026-00007/utah-northern-wasatch-front-2015-8-hour-ozone-nonattainment-area-boundary-expansion-and
-
-U.S. Environmental Protection Agency (EPA or Agency) is approving a request to expand the boundary for the Northern Wasatch Front (NWF) 2015 8-hour ozone national ambient air quality standard (NAAQS) (2015 ozone NAAQS) nonattainment area (NAA). The request was submitted by the State of Utah on February 27, 2023. The newly expanded portion of the NWF NAA will have the same clas…
-
-## Notice Regarding Investigatory and Enforcement Policies and Procedures of the Office of Aviation Consumer Protection
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-06T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/06/2025-24282/notice-regarding-investigatory-and-enforcement-policies-and-procedures-of-the-office-of-aviation
-
-The U.S. Department of Transportation is proposing to revise and update the investigatory and enforcement policies and practices of its Office of Aviation Consumer Protection (OACP), including the sanctions brought by OACP for non-compliance with aviation consumer protection requirements.
-
 ## Democrats Once Demanded Maduro’s Ouster. Now They Mourn His Capture — Because Trump Did It.
 - Source: White House
 - Category: Executive
@@ -5218,14 +4516,6 @@ Information published.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-3001
 
 Information published.
-
-## Atlantic Highly Migratory Species; Revisions to Commercial Atlantic Blacknose and Recreational Atlantic Shark Fisheries Management Measures
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-05T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/05/2025-24264/atlantic-highly-migratory-species-revisions-to-commercial-atlantic-blacknose-and-recreational
-
-NMFS is proposing several changes for commercial and recreational Atlantic shark fisheries. Specifically, NMFS is considering options to remove the blacknose shark management boundary in the Atlantic region, modify the commercial retention limit for blacknose sharks in the Atlantic region, revise the recreational minimum size limits for Atlantic shark species, and revise the r…
 
 ## RUBIO: This Is Our Hemisphere — and President Trump Will Not Allow Our Security to be Threatened
 - Source: White House
@@ -5800,27 +5090,3 @@ This document contains proposed regulations regarding the deduction for certain 
 - URL: https://www.federalregister.gov/documents/2026/01/02/2025-24232/small-business-investment-company-sbic-regulatory-amendments
 
 On July 7, 2025, the U.S. Small Business Administration ("SBA" or "Agency") published a notice of proposed rulemaking ("NPRM" or "proposed rule") to revise the regulations for the Small Business Investment Company ("SBIC") program to modify or remove from the Code of Federal Regulations ("CFR") regulations that are obsolete, inefficient, or otherwise unnecessarily impede the l…
-
-## Analog Telecommunications Relay Service Modernization
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-02T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/02/2025-24210/analog-telecommunications-relay-service-modernization
-
-In this document, the Federal Communications Commission (Commission) proposes to modernize its telecommunications relay services (TRS) rules and seeks comment on phasing out the mandatory status of traditional TTY-based relay services (TTY Relay) under state TRS programs; recognizing additional forms of internet-based TRS, such as internet Protocol Speech-to-Speech (IP STS) an…
-
-## Electronic Refunds
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-02T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/02/2025-24171/electronic-refunds
-
-This document amends the U.S. Customs and Border Protection (CBP) regulations to reflect that, subject to limited exceptions, CBP will issue all refunds electronically. This document explains the process required to receive electronic refunds and the process to receive paper checks in those rare instances where the recipient meets the criteria for a waiver.
-
-## Statutory Updates to Branded Prescription Drug Fee Regulations
-- Source: Federal Register
-- Category: Federal Register
-- Published: 2026-01-02T00:00:00Z
-- URL: https://www.federalregister.gov/documents/2026/01/02/2025-24153/statutory-updates-to-branded-prescription-drug-fee-regulations
-
-This document proposes amendments to regulations regarding the annual fee imposed on covered entities engaged in the business of manufacturing or importing certain branded prescription drugs. In response to the replacement of the Coverage Gap Discount Program with the new Manufacturer Discount Program by the Inflation Reduction Act of 2022, the proposed regulations would make…
