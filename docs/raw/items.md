@@ -1,7 +1,13 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-02T08:29:56-06:00` (CT) — `2026-03-02T14:29:56Z` (UTC)
+Last updated: `2026-03-02T11:18:41-06:00` (CT) — `2026-03-02T17:18:41Z` (UTC)
+
+## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-03-01T00:00:00Z
+- URL: https://www.fincen.gov/news/news-releases/fincen-announces-postponement-residential-real-estate-reporting-until-march-1
 
 ## ClawJacked attack let malicious websites hijack OpenClaw to steal data
 - Source: BleepingComputer
@@ -467,14 +473,6 @@ Enhance your knowledge and understanding of consumer loans and issues that effec
 
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
 
-## Retail Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/retail-banking
-
-As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
-
 ## Marketing & Communications
 - Source: ABA
 - Category: Compliance Watch
@@ -482,22 +480,6 @@ As retail branches evolve, banks are looking to increase customer engagement and
 - URL: https://www.aba.com/banking-topics/communications
 
 Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
-
-## Workforce Excellence
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/workforce-excellence
-
-America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts.
-
-## Economic Trends
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/economic-trends
-
-The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
 
 ## Preliminary Report on Foreign Holdings of U.S. Securities at End-June 2025
 - Source: Treasury
@@ -843,27 +825,11 @@ The Department is proposing to rescind the analysis for determining employee or 
 
 Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]
 
-## Trend Micro warns of critical Apex One code execution flaws
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-26T17:58:28Z
-- URL: https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/
-
-Trend Micro has patched two critical Apex One vulnerabilities that allow attackers to gain remote code execution (RCE) on vulnerable Windows systems. [...]
-
 ## Payments Innovation Alliance
 - Source: NACHA
 - Category: Payments
 - Published: 2026-02-26T17:39:46Z
 - URL: https://www.nacha.org/taxonomy/term/349
-
-## European DYI chain ManoMano data breach impacts 38 million customers
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-26T17:35:21Z
-- URL: https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/
-
-DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider. [...]
 
 ## Wolters Kluwer Survey finds integrated assurance is still elusive for most organizations
 - Source: Wolters Kluwer
@@ -872,14 +838,6 @@ DIY store chain ManoMano is notifying customers of a data breach personal data, 
 - URL: https://www.wolterskluwer.com/en/news/wolters-kluwer-survey-finds-integrated-assurance-elusive-most-organizations
 
 A new survey of nearly 2,000 risk, audit, and compliance professionals shows that while organizations increasingly recognize the value of integrated assurance, 91% remain in the early stages of turning that vision into reality.
-
-## Critical Juniper Networks PTX flaw allows full router takeover
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-26T16:42:12Z
-- URL: https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/
-
-A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]
 
 ## Treasury Sanctions Nicaraguan Officials Enabling the Murillo-Ortega Dictatorship’s Repression
 - Source: Treasury
@@ -892,6 +850,14 @@ A critical vulnerability in the Junos OS Evolved network operating system runnin
 - Category: OFAC
 - Published: 2026-02-26T14:30:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0408
+
+## Treasury Proposes Rule to Sever Swiss Bank MBaer’s Access to U.S. Financial System
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-02-26T12:00:00Z
+- URL: https://www.fincen.gov/news/news-releases/treasury-proposes-rule-sever-swiss-bank-mbaers-access-us-financial-system
+
+Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) proposed a rule that, if finalized, would sever MBaer Merchant Bank AG (MBaer’s) access to the U.S. financial system as a result of its financial support to illicit actors linked to Russia and Iran. If finalized, the proposed rule would prohibit covered U.S. financial institutions from o…
 
 ## Master the Fundamentals of the Metro 2® Format
 - Source: CDIA
@@ -1075,11 +1041,11 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-02-26T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-announces-proposed-offerings-senior-notes-0
 
-## Olympique Marseille confirms 'attempted' cyberattack after data leak
+## Trend Micro warns of critical Apex One code execution flaws
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-02-26T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/
+- URL: https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/
 
 ## Credit Cards
 - Source: ABA
@@ -17402,6 +17368,30 @@ Download links fixed
 - Category: OFAC
 - Published: 2026-02-13T12:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0394
+
+## FinCEN Launches Webpage for Whistleblower Tips on Fraud, Money Laundering, Sanctions Violations
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-02-13T12:00:00Z
+- URL: https://www.fincen.gov/news/news-releases/fincen-launches-webpage-whistleblower-tips-fraud-money-laundering-sanctions
+
+The U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) today launched a new dedicated webpage to confidentially accept whistleblower tips on fraud, money laundering, and sanctions violations.
+
+## FinCEN Issues Exceptive Relief to Streamline Customer Due Diligence Requirements
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-02-13T12:00:00Z
+- URL: https://www.fincen.gov/news/news-releases/fincen-issues-exceptive-relief-streamline-customer-due-diligence-requirements
+
+Relief Reduces Burdensome and Duplicative Regulatory Requirement
+
+## FinCEN Reminds Financial Institutions of Its Resources on Identifying Potential Relationship Investment Scams
+- Source: FinCEN
+- Category: OFAC
+- Published: 2026-02-13T12:00:00Z
+- URL: https://www.fincen.gov/news/news-releases/dating-or-defrauding-2026
+
+In support of the annual, multiagency #DatingorDefrauding campaign, led by the Commodity Futures Trading Commission’s Office of Customer Education and Outreach, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) is once again reminding financial institutions to remain vigilant to potential relationship investment scams.
 
 ## Issuance of Venezuela-related General Licenses
 - Source: OFAC

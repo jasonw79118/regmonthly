@@ -1,9 +1,17 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-02T14:29:56Z",
-  "generated_at_ct": "2026-03-02T08:29:56-06:00",
+  "generated_at_utc": "2026-03-02T17:18:41Z",
+  "generated_at_ct": "2026-03-02T11:18:41-06:00",
   "items": [
+    {
+      "category": "OFAC",
+      "source": "FinCEN",
+      "title": "FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026",
+      "published_at": "2026-03-01T00:00:00Z",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-announces-postponement-residential-real-estate-reporting-until-march-1",
+      "summary": ""
+    },
     {
       "category": "IS",
       "source": "BleepingComputer",
@@ -479,34 +487,10 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
-      "title": "Retail Banking",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/consumer-banking/retail-banking",
-      "summary": "As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
       "title": "Marketing & Communications",
       "published_at": "2026-02-28T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/communications",
       "summary": "Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Workforce Excellence",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations/workforce-excellence",
-      "summary": "America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Economic Trends",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations/economic-trends",
-      "summary": "The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector."
     },
     {
       "category": "OFAC",
@@ -916,14 +900,6 @@
       "summary": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]"
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Trend Micro warns of critical Apex One code execution flaws",
-      "published_at": "2026-02-26T17:58:28Z",
-      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
-      "summary": "Trend Micro has patched two critical Apex One vulnerabilities that allow attackers to gain remote code execution (RCE) on vulnerable Windows systems. [...]"
-    },
-    {
       "category": "Payments",
       "source": "NACHA",
       "title": "Payments Innovation Alliance",
@@ -932,28 +908,12 @@
       "summary": ""
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "European DYI chain ManoMano data breach impacts 38 million customers",
-      "published_at": "2026-02-26T17:35:21Z",
-      "url": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
-      "summary": "DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider. [...]"
-    },
-    {
       "category": "Compliance Watch",
       "source": "Wolters Kluwer",
       "title": "Wolters Kluwer Survey finds integrated assurance is still elusive for most organizations",
       "published_at": "2026-02-26T16:45:00Z",
       "url": "https://www.wolterskluwer.com/en/news/wolters-kluwer-survey-finds-integrated-assurance-elusive-most-organizations",
       "summary": "A new survey of nearly 2,000 risk, audit, and compliance professionals shows that while organizations increasingly recognize the value of integrated assurance, 91% remain in the early stages of turning that vision into reality."
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Critical Juniper Networks PTX flaw allows full router takeover",
-      "published_at": "2026-02-26T16:42:12Z",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
-      "summary": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]"
     },
     {
       "category": "OFAC",
@@ -970,6 +930,14 @@
       "published_at": "2026-02-26T14:30:00Z",
       "url": "https://home.treasury.gov/news/press-releases/sb0408",
       "summary": ""
+    },
+    {
+      "category": "OFAC",
+      "source": "FinCEN",
+      "title": "Treasury Proposes Rule to Sever Swiss Bank MBaer’s Access to U.S. Financial System",
+      "published_at": "2026-02-26T12:00:00Z",
+      "url": "https://www.fincen.gov/news/news-releases/treasury-proposes-rule-sever-swiss-bank-mbaers-access-us-financial-system",
+      "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) proposed a rule that, if finalized, would sever MBaer Merchant Bank AG (MBaer’s) access to the U.S. financial system as a result of its financial support to illicit actors linked to Russia and Iran. If finalized, the proposed rule would prohibit covered U.S. financial institutions from o…"
     },
     {
       "category": "Compliance Watch",
@@ -1166,9 +1134,9 @@
     {
       "category": "IS",
       "source": "BleepingComputer",
-      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+      "title": "Trend Micro warns of critical Apex One code execution flaws",
       "published_at": "2026-02-26T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
+      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
       "summary": ""
     },
     {
@@ -17799,6 +17767,30 @@
       "published_at": "2026-02-13T12:00:00Z",
       "url": "https://home.treasury.gov/news/press-releases/sb0394",
       "summary": ""
+    },
+    {
+      "category": "OFAC",
+      "source": "FinCEN",
+      "title": "FinCEN Launches Webpage for Whistleblower Tips on Fraud, Money Laundering, Sanctions Violations",
+      "published_at": "2026-02-13T12:00:00Z",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-launches-webpage-whistleblower-tips-fraud-money-laundering-sanctions",
+      "summary": "The U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) today launched a new dedicated webpage to confidentially accept whistleblower tips on fraud, money laundering, and sanctions violations."
+    },
+    {
+      "category": "OFAC",
+      "source": "FinCEN",
+      "title": "FinCEN Issues Exceptive Relief to Streamline Customer Due Diligence Requirements",
+      "published_at": "2026-02-13T12:00:00Z",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-issues-exceptive-relief-streamline-customer-due-diligence-requirements",
+      "summary": "Relief Reduces Burdensome and Duplicative Regulatory Requirement"
+    },
+    {
+      "category": "OFAC",
+      "source": "FinCEN",
+      "title": "FinCEN Reminds Financial Institutions of Its Resources on Identifying Potential Relationship Investment Scams",
+      "published_at": "2026-02-13T12:00:00Z",
+      "url": "https://www.fincen.gov/news/news-releases/dating-or-defrauding-2026",
+      "summary": "In support of the annual, multiagency #DatingorDefrauding campaign, led by the Commodity Futures Trading Commission’s Office of Customer Education and Outreach, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) is once again reminding financial institutions to remain vigilant to potential relationship investment scams."
     },
     {
       "category": "OFAC",

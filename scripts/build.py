@@ -290,7 +290,7 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
 
     "FinCEN": {
         "allow_domains": {"www.fincen.gov", "fincen.gov"},
-        "allow_path_prefixes": {"/news-room"},
+        "allow_path_prefixes": {"/news-room", "/newsroom", "/news", "/files", "/sites"},
     },
     "House Financial Services": {
         "allow_domains": {"financialservices.house.gov"},
@@ -2403,17 +2403,22 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
         return []
 
     links: List[Tuple[str, str, Optional[datetime]]] = []
-    seen = set()
+    seen: set[str] = set()
 
     for a in container.find_all("a", href=True):
         href = (a.get("href") or "").strip()
         if not href or href.startswith("#"):
             continue
 
-        # FinCEN uses /news-room/ and sometimes /sites/default/files/ PDFs; keep only HTML newsroom items
-        if "/news-room/" not in href and "/news-room" not in href:
+        # FinCEN has used multiple sections over time:
+        #   /news/press-releases
+        #   /news/enforcement-actions
+        #   /news/news-releases (and individual /news/* detail pages)
+        # Keep only HTML pages (skip PDFs) and require a "news" path.
+        href_l = href.lower()
+        if href_l.endswith(".pdf"):
             continue
-        if href.lower().endswith(".pdf"):
+        if ("/news/" not in href_l) and ("/news-room" not in href_l) and ("/newsroom" not in href_l):
             continue
 
         url = canonical_url(urljoin(page_url, href))
