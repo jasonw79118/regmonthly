@@ -87,7 +87,7 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
 }
 
 # Sources where we keep listing links but DO NOT fetch detail pages (to avoid blocks/timeouts)
-SKIP_DETAIL_SOURCES = {"Visa", "Fannie Mae"}
+SKIP_DETAIL_SOURCES = {"Fannie Mae"}
 DEFAULT_SOURCE_DETAIL_CAP = 15
 
 UA = "regmonthly/1.0 (+https://github.com/jasonw79118/regmonthly)"
@@ -895,7 +895,7 @@ def irs_news_releases_for_month_url(window_start_ct: datetime) -> str:
 # DATE PATTERNS
 # ============================
 
-MONTH_DATE_RE = re.compile(r"(?P<md>([A-Z][a-z]{2,9})\.?\s+\d{1,2},\s+\d{4})")
+MONTH_DATE_RE = re.compile(r"(?P<md>([A-Z][a-z]{2,9})\.?\s+\d{1,2},\s+\d{4})", re.I)
 SLASH_DATE_RE = re.compile(r"(?P<sd>\b\d{1,2}/\d{1,2}/\d{2,4}\b)")
 ISO_DATE_RE = re.compile(r"(?P<id>\b\d{4}-\d{2}-\d{2}\b)")
 
