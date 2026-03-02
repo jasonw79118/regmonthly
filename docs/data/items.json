@@ -1,9 +1,25 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-01T13:48:22Z",
-  "generated_at_ct": "2026-03-01T07:48:22-06:00",
+  "generated_at_utc": "2026-03-02T14:29:56Z",
+  "generated_at_ct": "2026-03-02T08:29:56-06:00",
   "items": [
+    {
+      "category": "IS",
+      "source": "BleepingComputer",
+      "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
+      "published_at": "2026-03-01T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
+      "summary": ""
+    },
+    {
+      "category": "IS",
+      "source": "BleepingComputer",
+      "title": "Samsung TVs to stop collecting Texans’ data without express consent",
+      "published_at": "2026-03-01T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/",
+      "summary": ""
+    },
     {
       "category": "IS",
       "source": "BleepingComputer",
@@ -11,14 +27,6 @@
       "published_at": "2026-03-01T00:00:00Z",
       "url": "https://www.bleepingcomputer.com/offer/deals/1tb-lifetime-of-koffr-cloud-storage-is-just-160-for-a-limited-time/",
       "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Jump to Content",
-      "published_at": "2026-03-01T00:00:00Z",
-      "url": "https://www.aba.com/news-research",
-      "summary": "Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins."
     },
     {
       "category": "IS",
@@ -445,52 +453,12 @@
       "summary": "Information published."
     },
     {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "FinCEN issues limited relief from Minnesota geographic targeting order",
-      "published_at": "2026-02-28T06:00:00Z",
-      "url": "https://bankingjournal.aba.com/2026/02/fincen-issues-limited-relief-from-minnesota-geographic-targeting-order/",
-      "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "ABA, associations urge lawmakers to rein in debt settlement industry",
-      "published_at": "2026-02-28T06:00:00Z",
-      "url": "https://bankingjournal.aba.com/2026/02/aba-associations-urge-lawmakers-to-rein-in-debt-settlement-industry/",
-      "summary": ""
-    },
-    {
       "category": "IS",
       "source": "BleepingComputer",
       "title": "Just $80 gets you a refurbished travel-ready Lenovo Chromebook",
       "published_at": "2026-02-28T00:00:00Z",
       "url": "https://www.bleepingcomputer.com/offer/deals/just-80-gets-you-a-refurbished-travel-ready-lenovo-chromebook/",
       "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Risk Management",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/risk-management",
-      "summary": "Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Anti-Money Laundering",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/risk-management/money-laundering",
-      "summary": "ABA helps banks better identify and report money laundering and other illicit financial activity with information on new technologies and best practices."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Consumer Banking",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/consumer-banking",
-      "summary": "Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends."
     },
     {
       "category": "Compliance Watch",
@@ -511,14 +479,6 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
-      "title": "Mortgage & Home Finance",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance",
-      "summary": "There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
       "title": "Retail Banking",
       "published_at": "2026-02-28T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/retail-banking",
@@ -531,14 +491,6 @@
       "published_at": "2026-02-28T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/communications",
       "summary": "Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Leadership & Operations",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations",
-      "summary": "Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions."
     },
     {
       "category": "Compliance Watch",
@@ -895,22 +847,6 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
-      "title": "Payments Overview",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/payments",
-      "summary": "Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Commercial Banking",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/commercial-banking",
-      "summary": "Find resources on commercial banking topics like Commercial and Industrial (C&I) loans, small business, Commercial Real Estate (CRE), agricultural banking and more."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
       "title": "Commercial & Industrial Loans",
       "published_at": "2026-02-27T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans",
@@ -923,30 +859,6 @@
       "published_at": "2026-02-27T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/commercial-banking/small-business",
       "summary": "Banks and small businesses need each other to stay healthy. The banking industry has a long history of providing the capital that small businesses need to survive and thrive."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Technology",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/technology",
-      "summary": "Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Wealth Management",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/wealth-management",
-      "summary": "Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Trust & Investments",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/wealth-management/trust-investments",
-      "summary": "Learn trust basics, including requirements to create a trust and common types of personal trusts; account acceptance and termination considerations."
     },
     {
       "category": "Compliance Watch",
@@ -1044,14 +956,6 @@
       "summary": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]"
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
-      "published_at": "2026-02-26T16:11:30Z",
-      "url": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
-      "summary": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]"
-    },
-    {
       "category": "OFAC",
       "source": "Treasury",
       "title": "Treasury Sanctions Nicaraguan Officials Enabling the Murillo-Ortega Dictatorship’s Repression",
@@ -1066,22 +970,6 @@
       "published_at": "2026-02-26T14:30:00Z",
       "url": "https://home.treasury.gov/news/press-releases/sb0408",
       "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Ransomware payment rate drops to record low as attacks surge",
-      "published_at": "2026-02-26T14:00:59Z",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
-      "summary": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Microsoft expands Windows restore to more enterprise devices",
-      "published_at": "2026-02-26T13:04:02Z",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
-      "summary": "Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]"
     },
     {
       "category": "Compliance Watch",
@@ -1278,17 +1166,9 @@
     {
       "category": "IS",
       "source": "BleepingComputer",
-      "title": "Pay just $140 once to get ad-free documentaries forever",
+      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
       "published_at": "2026-02-26T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/offer/deals/pay-just-140-once-to-get-ad-free-documentaries-forever/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "New York sues Valve for promoting illegal gambling via game loot boxes",
-      "published_at": "2026-02-26T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/",
+      "url": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
       "summary": ""
     },
     {
@@ -1574,22 +1454,6 @@
       "published_at": "2026-02-25T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/risk-management/physical-security",
       "summary": "Know how to identify physical threats and the various resources available to you in order to help you protect your customers and your employees."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Cybersecurity",
-      "published_at": "2026-02-25T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/technology/cybersecurity",
-      "summary": "ABA offers resources to help banks protect their customers' accounts and personal information."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Accounting",
-      "published_at": "2026-02-25T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations/accounting",
-      "summary": "ABA represents the banking industry on policy issues related to accounting and auditing."
     },
     {
       "category": "Federal Register",
@@ -17849,14 +17713,6 @@
       "fedreg_document_number": "2026-03082"
     },
     {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Agricultural Banking",
-      "published_at": "2026-02-16T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/commercial-banking/agricultural-banking",
-      "summary": "Find the most relevant ag banking information, resources and research from our team of experts."
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "Presidential Message on Susan B. Anthony Day",
@@ -19520,14 +19376,6 @@
       "published_at": "2026-02-03T00:00:00Z",
       "url": "https://investors.fiserv.com/news-releases/news-release-details/january-deep-freeze-impacts-small-business-foot-traffic-new",
       "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Commercial Real Estate",
-      "published_at": "2026-02-03T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/commercial-banking/commercial-real-estate",
-      "summary": "Funding commercial real estate projects is among the many ways that banks help their customers and communities grow and thrive."
     },
     {
       "category": "Federal Register",

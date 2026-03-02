@@ -1,21 +1,25 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-01T07:48:22-06:00` (CT) — `2026-03-01T13:48:22Z` (UTC)
+Last updated: `2026-03-02T08:29:56-06:00` (CT) — `2026-03-02T14:29:56Z` (UTC)
+
+## ClawJacked attack let malicious websites hijack OpenClaw to steal data
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-03-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/
+
+## Samsung TVs to stop collecting Texans’ data without express consent
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-03-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/
 
 ## 1TB lifetime of Koffr cloud storage is just $160 for a limited time
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-03-01T00:00:00Z
 - URL: https://www.bleepingcomputer.com/offer/deals/1tb-lifetime-of-koffr-cloud-storage-is-just-160-for-a-limited-time/
-
-## Jump to Content
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-03-01T00:00:00Z
-- URL: https://www.aba.com/news-research
-
-Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins.
 
 ## QuickLens Chrome extension steals crypto, shows ClickFix attack
 - Source: BleepingComputer
@@ -441,47 +445,11 @@ Information published.
 
 Information published.
 
-## FinCEN issues limited relief from Minnesota geographic targeting order
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T06:00:00Z
-- URL: https://bankingjournal.aba.com/2026/02/fincen-issues-limited-relief-from-minnesota-geographic-targeting-order/
-
-## ABA, associations urge lawmakers to rein in debt settlement industry
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T06:00:00Z
-- URL: https://bankingjournal.aba.com/2026/02/aba-associations-urge-lawmakers-to-rein-in-debt-settlement-industry/
-
 ## Just $80 gets you a refurbished travel-ready Lenovo Chromebook
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-02-28T00:00:00Z
 - URL: https://www.bleepingcomputer.com/offer/deals/just-80-gets-you-a-refurbished-travel-ready-lenovo-chromebook/
-
-## Risk Management
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management
-
-Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA.
-
-## Anti-Money Laundering
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management/money-laundering
-
-ABA helps banks better identify and report money laundering and other illicit financial activity with information on new technologies and best practices.
-
-## Consumer Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking
-
-Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
 
 ## Consumer Lending
 - Source: ABA
@@ -499,14 +467,6 @@ Enhance your knowledge and understanding of consumer loans and issues that effec
 
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
 
-## Mortgage & Home Finance
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
-
-There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
-
 ## Retail Banking
 - Source: ABA
 - Category: Compliance Watch
@@ -522,14 +482,6 @@ As retail branches evolve, banks are looking to increase customer engagement and
 - URL: https://www.aba.com/banking-topics/communications
 
 Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
-
-## Leadership & Operations
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations
-
-Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
 
 ## Workforce Excellence
 - Source: ABA
@@ -835,22 +787,6 @@ IR-2026-27, Feb. 27, 2026 — The Department of the Treasury and the Internal Re
 - Published: 2026-02-27T00:00:00Z
 - URL: https://www.bleepingcomputer.com/offer/deals/this-refurbished-hp-omnibook-x-14-touch-is-on-sale-for-650/
 
-## Payments Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments
-
-Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
-
-## Commercial Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.aba.com/banking-topics/commercial-banking
-
-Find resources on commercial banking topics like Commercial and Industrial (C&I) loans, small business, Commercial Real Estate (CRE), agricultural banking and more.
-
 ## Commercial & Industrial Loans
 - Source: ABA
 - Category: Compliance Watch
@@ -866,30 +802,6 @@ ABA's Center for Commercial Lending & Business Banking provides information, edu
 - URL: https://www.aba.com/banking-topics/commercial-banking/small-business
 
 Banks and small businesses need each other to stay healthy. The banking industry has a long history of providing the capital that small businesses need to survive and thrive.
-
-## Technology
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology
-
-Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution.
-
-## Wealth Management
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.aba.com/banking-topics/wealth-management
-
-Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices.
-
-## Trust & Investments
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.aba.com/banking-topics/wealth-management/trust-investments
-
-Learn trust basics, including requirements to create a trust and common types of personal trusts; account acceptance and termination considerations.
 
 ## Leadership
 - Source: ABA
@@ -969,14 +881,6 @@ A new survey of nearly 2,000 risk, audit, and compliance professionals shows tha
 
 A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]
 
-## Olympique Marseille confirms 'attempted' cyberattack after data leak
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-26T16:11:30Z
-- URL: https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/
-
-French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]
-
 ## Treasury Sanctions Nicaraguan Officials Enabling the Murillo-Ortega Dictatorship’s Repression
 - Source: Treasury
 - Category: OFAC
@@ -988,22 +892,6 @@ French professional football club Olympique de Marseille has confirmed a cyberat
 - Category: OFAC
 - Published: 2026-02-26T14:30:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0408
-
-## Ransomware payment rate drops to record low as attacks surge
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-26T14:00:59Z
-- URL: https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/
-
-The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]
-
-## Microsoft expands Windows restore to more enterprise devices
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-26T13:04:02Z
-- URL: https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/
-
-Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]
 
 ## Master the Fundamentals of the Metro 2® Format
 - Source: CDIA
@@ -1187,17 +1075,11 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-02-26T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-announces-proposed-offerings-senior-notes-0
 
-## Pay just $140 once to get ad-free documentaries forever
+## Olympique Marseille confirms 'attempted' cyberattack after data leak
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-02-26T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/pay-just-140-once-to-get-ad-free-documentaries-forever/
-
-## New York sues Valve for promoting illegal gambling via game loot boxes
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-26T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/
+- URL: https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/
 
 ## Credit Cards
 - Source: ABA
@@ -1438,22 +1320,6 @@ The Office of the Comptroller of the Currency (OCC) today issued a proposed rule
 - URL: https://www.aba.com/banking-topics/risk-management/physical-security
 
 Know how to identify physical threats and the various resources available to you in order to help you protect your customers and your employees.
-
-## Cybersecurity
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-25T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology/cybersecurity
-
-ABA offers resources to help banks protect their customers' accounts and personal information.
-
-## Accounting
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-25T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/accounting
-
-ABA represents the banking industry on policy issues related to accounting and auditing.
 
 ## Equal Credit Opportunity Act (Regulation B)
 - Source: Federal Register
@@ -17467,14 +17333,6 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 
 The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0046; -0118; -0174; 0188 and -0202). The notices of proposed renewal for these information collections were pr…
 
-## Agricultural Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-16T00:00:00Z
-- URL: https://www.aba.com/banking-topics/commercial-banking/agricultural-banking
-
-Find the most relevant ag banking information, resources and research from our team of experts.
-
 ## Presidential Message on Susan B. Anthony Day
 - Source: White House
 - Category: Executive
@@ -18860,14 +18718,6 @@ IR-2026-21, Feb. 3, 2026 — The IRS encourages all taxpayers to create an IRS I
 - Category: Fintech Watch
 - Published: 2026-02-03T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/january-deep-freeze-impacts-small-business-foot-traffic-new
-
-## Commercial Real Estate
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-03T00:00:00Z
-- URL: https://www.aba.com/banking-topics/commercial-banking/commercial-real-estate
-
-Funding commercial real estate projects is among the many ways that banks help their customers and communities grow and thrive.
 
 ## Exercise of Time-Limited Authority To Increase the Fiscal Year 2026 Numerical Limitation for the H-2B Temporary Nonagricultural Worker Program
 - Source: Federal Register
