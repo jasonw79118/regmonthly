@@ -290,7 +290,8 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
 
     "FinCEN": {
         "allow_domains": {"www.fincen.gov", "fincen.gov"},
-        "allow_path_prefixes": {"/news-room", "/newsroom", "/news", "/files", "/sites"},
+        # FinCEN migrated from /news-room/... to /news/... (and /newsroom on some pages)
+        "allow_path_prefixes": {"/news", "/news-room", "/newsroom", "/files/news"},
     },
     "House Financial Services": {
         "allow_domains": {"financialservices.house.gov"},
@@ -2403,22 +2404,30 @@ def fincen_links_single(page_url: str, html: str) -> List[Tuple[str, str, Option
         return []
 
     links: List[Tuple[str, str, Optional[datetime]]] = []
-    seen: set[str] = set()
+    seen = set()
 
     for a in container.find_all("a", href=True):
         href = (a.get("href") or "").strip()
         if not href or href.startswith("#"):
             continue
 
-        # FinCEN has used multiple sections over time:
-        #   /news/press-releases
-        #   /news/enforcement-actions
-        #   /news/news-releases (and individual /news/* detail pages)
-        # Keep only HTML pages (skip PDFs) and require a "news" path.
+        # FinCEN has multiple URL families:
+        # - /news-room/... (current)
+        # - /newsroom/... (alternate)
+        # - /files/news/news-releases/... (often used for news releases)
+        # Keep only HTML pages (skip PDFs).
         href_l = href.lower()
         if href_l.endswith(".pdf"):
             continue
-        if ("/news/" not in href_l) and ("/news-room" not in href_l) and ("/newsroom" not in href_l):
+        if not (
+            "/news-room/" in href_l
+            or href_l.rstrip("/").endswith("/news-room")
+            or "/newsroom/" in href_l
+            or href_l.rstrip("/").endswith("/newsroom")
+            or "/news/" in href_l
+            or href_l.rstrip("/").endswith("/news")
+            or "/files/news/news-releases" in href_l
+        ):
             continue
 
         url = canonical_url(urljoin(page_url, href))
@@ -3333,8 +3342,10 @@ def get_start_pages() -> List[SourcePage]:
         SourcePage("Treasury", "https://home.treasury.gov/news/press-releases"),
 
         # FinCEN (OFAC/AML tile)
-        SourcePage("FinCEN", "https://www.fincen.gov/news-room"),
-        SourcePage("FinCEN", "https://www.fincen.gov/news-room/news-releases"),
+        # FinCEN migrated to /news/... (older /news-room redirects)
+        SourcePage("FinCEN", "https://www.fincen.gov/news/press-releases"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news/enforcement-actions"),
+        SourcePage("FinCEN", "https://www.fincen.gov/news"),
 
         # IRS
         SourcePage("IRS", "https://www.irs.gov/newsroom"),

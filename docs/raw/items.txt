@@ -503,13 +503,6 @@ https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-busi
 Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface. Action1 explains how third-party software drift increases exploit risk and why consistent patching reduces exposure across endpoints. [...]
 ------------------------------------------------------------
 IS
-BleepingComputer
-2026-02-27T12:30:07Z
-Ukrainian man pleads guilty to running AI-powered fake ID site
-https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/
-A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide. [...]
-------------------------------------------------------------
-IS
 Microsoft MSRC
 2026-02-27T09:36:54Z
 CVE-2026-21620 TFTP Path Traversal
@@ -687,6 +680,12 @@ https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
 IS
 BleepingComputer
 2026-02-27T00:00:00Z
+Ukrainian man pleads guilty to running AI-powered fake ID site
+https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/
+------------------------------------------------------------
+IS
+BleepingComputer
+2026-02-27T00:00:00Z
 This refurbished HP OmniBook X 14″ Touch is on sale for $650
 https://www.bleepingcomputer.com/offer/deals/this-refurbished-hp-omnibook-x-14-touch-is-on-sale-for-650/
 ------------------------------------------------------------
@@ -703,13 +702,6 @@ ABA
 Small Business
 https://www.aba.com/banking-topics/commercial-banking/small-business
 Banks and small businesses need each other to stay healthy. The banking industry has a long history of providing the capital that small businesses need to survive and thrive.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-02-27T00:00:00Z
-Leadership
-https://www.aba.com/banking-topics/operations/leadership
-Resources and training for bank CEOs and Executives
 ------------------------------------------------------------
 Compliance Watch
 Wolters Kluwer
@@ -731,13 +723,6 @@ Federal Register
 Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act
 https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical
 The Department is proposing to rescind the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA) currently set forth in 29 CFR part 795 and replace it with the analysis that it published and adopted in a prior final rule dated January 7, 2021, with a few modifications. In addition, the Department proposes to apply this ana…
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-02-26T20:55:29Z
-Previously harmless Google API keys now expose Gemini AI data
-https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/
-Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]
 ------------------------------------------------------------
 Payments
 NACHA
@@ -883,6 +868,12 @@ CVE-2021-20225 A flaw was found in grub2 in versions prior to 2.06. The option p
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-20225
 Information published.
 ------------------------------------------------------------
+Executive
+White House
+2026-02-26T01:30:00Z
+President Trump Delivers his 2026 State of the Union Address
+https://www.whitehouse.gov/articles/2026/02/president-trump-delivers-his-2026-state-of-the-union-address/
+------------------------------------------------------------
 OFAC
 OFAC
 2026-02-26T00:00:00Z
@@ -933,12 +924,6 @@ FIS
 2026-02-26T00:00:00Z
 FIS Announces Proposed Offerings of Senior Notes
 https://www.investor.fisglobal.com/news-releases/news-release-details/fis-announces-proposed-offerings-senior-notes-0
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-02-26T00:00:00Z
-Trend Micro warns of critical Apex One code execution flaws
-https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -1088,42 +1073,6 @@ White House
 Democrats Showed Whose Side They’re On — And it’s Not the American People
 https://www.whitehouse.gov/articles/2026/02/democrats-showed-whose-side-theyre-on-and-its-not-the-american-people-249d/
 ------------------------------------------------------------
-Executive
-White House
-2026-02-25T03:12:05Z
-President Trump’s Peace Through Strength: Renewed American Leadership and Global Security
-https://www.whitehouse.gov/articles/2026/02/president-trumps-peace-through-strength-renewed-american-leadership-and-global-security/
-------------------------------------------------------------
-Executive
-White House
-2026-02-25T03:12:04Z
-President Trump Returned Our Nation to Law and Order
-https://www.whitehouse.gov/articles/2026/02/president-trump-returned-our-nation-to-law-and-order/
-------------------------------------------------------------
-Executive
-White House
-2026-02-25T03:12:02Z
-American Energy Dominance Is Back Under President Trump
-https://www.whitehouse.gov/articles/2026/02/american-energy-dominance-is-back-under-president-trump/
-------------------------------------------------------------
-Executive
-White House
-2026-02-25T02:37:10Z
-President Trump Is Delivering Real Relief — Reversing Biden’s Economic Disaster and Unleashing Greater Prosperity Ahead
-https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-real-relief-reversing-bidens-economic-disaster-and-unleashing-greater-prosperity-ahead/
-------------------------------------------------------------
-Executive
-White House
-2026-02-25T02:20:04Z
-President Trump Is Restoring the American Dream
-https://www.whitehouse.gov/articles/2026/02/president-trump-is-restoring-the-american-dream/
-------------------------------------------------------------
-Executive
-White House
-2026-02-25T02:16:50Z
-President Trump Is Securing Our Homeland: Ending the Invasion, Deporting Criminals, and Protecting Our Communities
-https://www.whitehouse.gov/articles/2026/02/president-trump-is-securing-our-homeland-ending-the-invasion-deporting-criminals-and-protecting-our-communities/
-------------------------------------------------------------
 OFAC
 OFAC
 2026-02-25T00:00:00Z
@@ -1229,24 +1178,6 @@ FRB
 Minutes of the Board's discount rate meetings on January 20 and 28, 2026
 https://www.federalreserve.gov/newsevents/pressreleases/monetary20260224a.htm
 Minutes of the Board's discount rate meetings on January 20 and 28, 2026
-------------------------------------------------------------
-Executive
-White House
-2026-02-24T17:58:15Z
-Radical Left’s Rebuttal Will Contrast Democrat Extremism with President Trump’s Road to Prosperity
-https://www.whitehouse.gov/articles/2026/02/radical-lefts-rebuttal-will-contrast-democrat-extremism-with-president-trumps-road-to-prosperity/
-------------------------------------------------------------
-Executive
-White House
-2026-02-24T17:11:34Z
-ONDCP Launches New Public Awareness Effort Focused on Saving Lives Through Drug Prevention
-https://www.whitehouse.gov/articles/2026/02/ondcp-launches-new-public-awareness-effort-focused-on-saving-lives-through-drug-prevention/
-------------------------------------------------------------
-Executive
-White House
-2026-02-24T17:02:35Z
-First Lady Melania Trump’s State of the Union Guests Reflect Her Impact on Education, Tech, and the Foster Community
-https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trumps-state-of-the-union-guests-reflect-her-impact-on-education-tech-and-the-foster-community/
 ------------------------------------------------------------
 Banking
 FRB
@@ -1473,30 +1404,12 @@ Agency Information Collection Activities: Comment Request
 https://www.federalregister.gov/documents/2026/02/24/2026-03620/agency-information-collection-activities-comment-request
 In accordance with the Paperwork Reduction Act of 1995 (PRA), the Consumer Financial Protection Bureau (CFPB or Bureau) requests the Office of Management and Budget's (OMB's) extension of an information collection titled "Truth in Savings (Regulation DD)" approved under OMB Control Number 3170-0004.
 ------------------------------------------------------------
-Executive
-White House
-2026-02-23T22:13:24Z
-America 250: Presidential Message on the Anniversary of the Battle of the Alamo
-https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-anniversary-of-the-battle-of-the-alamo/
-------------------------------------------------------------
 Banking
 FRB
 2026-02-23T22:00:00Z
 Following earlier actions to remove reputation risk from its supervision of banks, Federal Reserve Board requests comment on proposal to codify that removal
 https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260223a.htm
 Following earlier actions to remove reputation risk from its supervision of banks, Federal Reserve Board requests comment on proposal to codify that removal
-------------------------------------------------------------
-Executive
-White House
-2026-02-23T20:43:19Z
-President Trump Honors Angel Families, Remembers American Lives Lost to Illegal Immigration
-https://www.whitehouse.gov/articles/2026/02/president-trump-honors-angel-families-remembers-american-lives-lost-to-illegal-immigration/
-------------------------------------------------------------
-Executive
-White House
-2026-02-23T16:19:54Z
-National Angel Family Day, 2026
-https://www.whitehouse.gov/presidential-actions/2026/02/national-angel-family-day-2026/
 ------------------------------------------------------------
 Compliance Watch
 TBA
@@ -3624,47 +3537,11 @@ Chromium: CVE-2026-2648 Heap buffer overflow in PDFium
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-2648
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
 ------------------------------------------------------------
-Executive
-White House
-2026-02-21T00:40:07Z
-Imposing a Temporary Import Surcharge to Address Fundamental International Payments Problems
-https://www.whitehouse.gov/presidential-actions/2026/02/imposing-a-temporary-import-surcharge-to-address-fundamental-international-payments-problems/
-------------------------------------------------------------
-Executive
-White House
-2026-02-21T00:14:47Z
-Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries
-https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries/
-------------------------------------------------------------
-Executive
-White House
-2026-02-21T00:12:16Z
-Ending Certain Tariff Actions
-https://www.whitehouse.gov/presidential-actions/2026/02/ending-certain-tariff-actions/
-------------------------------------------------------------
-Executive
-White House
-2026-02-21T00:05:41Z
-Fact Sheet: President Donald J. Trump Imposes a Temporary Import Duty to Address Fundamental International Payment Problems
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/
-------------------------------------------------------------
-Executive
-White House
-2026-02-20T21:39:33Z
-President Trump Was Right About Everything — Including the Democrat Shutdown Costing Us Growth
-https://www.whitehouse.gov/articles/2026/02/president-trump-was-right-about-everything-including-the-democrat-shutdown-costing-us-growth/
-------------------------------------------------------------
 OFAC
 Treasury
 2026-02-20T19:12:25Z
 Secretary of the Treasury Scott Bessent’s Remarks Before the Economic Club of Dallas - Economic Security First
 https://home.treasury.gov/news/press-releases/sb0403
-------------------------------------------------------------
-Executive
-White House
-2026-02-20T18:01:09Z
-First Lady Melania Trump Champions U.S. Fashion Leadership
-https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-champions-u-s-fashion-leadership/
 ------------------------------------------------------------
 Compliance Watch
 CDIA
@@ -3700,30 +3577,6 @@ CVE-2025-65046 Microsoft Edge (Chromium-based) Spoofing Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-65046
 Updated CWE value. This is an informational change only.
 ------------------------------------------------------------
-Executive
-White House
-2026-02-20T15:21:44Z
-Drug Czar Hosts Roundtable Discussion at the White House About Combatting Illicit Drug Trafficking on Social Media Platforms
-https://www.whitehouse.gov/articles/2026/02/36480/
-------------------------------------------------------------
-Executive
-White House
-2026-02-20T06:09:24Z
-U.S. Promotes AI Adoption, Sovereignty, and Exports at India AI Impact Summit
-https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/
-------------------------------------------------------------
-Executive
-White House
-2026-02-20T06:05:38Z
-Remarks by Director Michael Kratsios at the India AI Impact Summit
-https://www.whitehouse.gov/articles/2026/02/remarks-by-director-michael-kratsios-at-the-india-ai-impact-summit/
-------------------------------------------------------------
-Executive
-White House
-2026-02-20T00:55:39Z
-Fact Sheet: Trump Administration Finalizes Trade Deal with Indonesia
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-trump-administration-finalizes-trade-deal-with-indonesia/
-------------------------------------------------------------
 IRS
 IRS
 2026-02-20T00:00:00Z
@@ -3751,24 +3604,12 @@ Housing and Community Development Act of 1980: Verification of Eligible Status
 https://www.federalregister.gov/documents/2026/02/20/2026-03405/housing-and-community-development-act-of-1980-verification-of-eligible-status
 Section 214 of the Housing and Community Development Act of 1980, as amended ("Section 214"), prohibits the Secretary of HUD from making financial assistance available to persons other than United States citizens or certain categories of eligible noncitizens in HUD's public and specified assisted housing programs. This proposed rule would revise HUD's Section 214 implementing…
 ------------------------------------------------------------
-Executive
-White House
-2026-02-19T22:43:42Z
-President Trump Is Bringing Back the American Dream of Homeownership
-https://www.whitehouse.gov/articles/2026/02/president-trump-is-bringing-back-the-american-dream-of-homeownership/
-------------------------------------------------------------
 Banking
 FRB
 2026-02-19T21:30:00Z
 Federal Reserve Board announces approval of application by Fulton Financial Corporation
 https://www.federalreserve.gov/newsevents/pressreleases/orders20260219a.htm
 Federal Reserve Board announces approval of application by Fulton Financial Corporation
-------------------------------------------------------------
-Executive
-White House
-2026-02-19T20:15:03Z
-America 250: Anniversary of the Battle of Iwo Jima
-https://www.whitehouse.gov/briefings-statements/2026/02/america-250-anniversary-of-the-battle-of-iwo-jima/
 ------------------------------------------------------------
 Banking
 FRB
@@ -3782,18 +3623,6 @@ Treasury
 2026-02-19T19:30:00Z
 Treasury Releases Two New Resources to Guide AI Use in the Financial Sector
 https://home.treasury.gov/news/press-releases/sb0401
-------------------------------------------------------------
-Executive
-White House
-2026-02-19T18:23:32Z
-President Trump Returns to Georgia: Delivering Real Relief for Families, With Much More on the Way
-https://www.whitehouse.gov/articles/2026/02/president-trump-returns-to-georgia-delivering-real-relief-for-families-with-much-more-on-the-way/
-------------------------------------------------------------
-Executive
-White House
-2026-02-19T17:31:10Z
-Implementation of the Agreement Toward a NEW GOLDEN AGE for the U.S.-Indonesian Alliance
-https://www.whitehouse.gov/briefings-statements/2026/02/implementation-of-the-agreement-toward-a-new-golden-age-for-the-u-s-indonesian-alliance/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -3826,13 +3655,6 @@ Treasury
 2026-02-19T14:00:00Z
 Secretary Bessent Announces 2026 G20 Finance Track Agenda and Finance Ministers and Central Bank Governors Meeting in Asheville, North Carolina
 https://home.treasury.gov/news/press-releases/sb0398
-------------------------------------------------------------
-Compliance Watch
-Wolters Kluwer
-2026-02-19T10:00:00Z
-Wolters Kluwer introduces Legisway Advisor powered by Expert AI to accelerate contract review and drafting
-https://www.wolterskluwer.com/en/news/wolters-kluwer-introduces-legisway-advisor
-Wolters Kluwer Legal & Regulatory today announced the launch of Legisway Advisor, a new contract redrafting capability powered by Expert AI.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -3901,12 +3723,6 @@ Hiring Authority for Post-Secondary Students
 https://www.federalregister.gov/documents/2026/02/19/2026-03242/hiring-authority-for-post-secondary-students
 The Office of Personnel Management (OPM) is issuing a final rule to amend its career and career-conditional employment regulations. The revision is necessary to implement section 1108 of the John S. McCain National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2019, which requires OPM to issue regulations implementing hiring authorities that allow agencies to hire cert…
 ------------------------------------------------------------
-Executive
-White House
-2026-02-18T23:12:45Z
-Fact Sheet: President Donald J. Trump Ensures an Adequate Supply of Elemental Phosphorus and Glyphosate-Based Herbicides for National Security
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-ensures-an-adequate-supply-of-elemental-phosphorus-and-glyphosate-based-herbicides-for-national-security/
-------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-02-18T23:02:44Z
@@ -3948,12 +3764,6 @@ Microsoft MSRC
 CVE-2017-15042 An unintended cleartext issue exists in Go before 1.8.4 and 1.9.x before 1.9.1. RFC 4954 requires that, during SMTP, the PLAIN auth scheme must only be used on network connections secured with TLS. The or…
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2017-15042
 Information published.
-------------------------------------------------------------
-Executive
-White House
-2026-02-18T22:47:24Z
-Promoting the National Defense by Ensuring an Adequate Supply of Elemental Phosphorus and Glyphosate-Based Herbicides
-https://www.whitehouse.gov/presidential-actions/2026/02/promoting-the-national-defense-by-ensuring-an-adequate-supply-of-elemental-phosphorus-and-glyphosate-based-herbicides/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -4577,12 +4387,6 @@ Treasury
 Treasury Issues Interim CAMT Guidance to Reduce Burdens, Support U.S. Investment, and Maximize Growth
 https://home.treasury.gov/news/press-releases/sb0397
 ------------------------------------------------------------
-Executive
-White House
-2026-02-18T21:29:42Z
-Congressional Bills H.J.Res. 142 and S. 3705 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bills-h-j-res-142-and-s-3705-signed-into-law/
-------------------------------------------------------------
 OFAC
 Treasury
 2026-02-18T21:00:00Z
@@ -4601,18 +4405,6 @@ Treasury
 2026-02-18T18:00:00Z
 Treasury Announces Public-Private Initiative to Strengthen Cybersecurity and Risk Management for AI
 https://home.treasury.gov/news/press-releases/sb0395
-------------------------------------------------------------
-Executive
-White House
-2026-02-18T17:25:08Z
-President Trump Celebrates Black History Month: Advancing Opportunity and Prosperity for Every American
-https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-black-history-month-advancing-opportunity-and-prosperity-for-every-american/
-------------------------------------------------------------
-Executive
-White House
-2026-02-18T14:37:50Z
-Presidential Message on Ash Wednesday
-https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-ash-wednesday/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -15131,30 +14923,12 @@ FinCEN issues exceptive relief on due diligence
 https://www.texasbankers.com/fincen-issues-exceptive-relief-on-due-diligence/
 The U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an order granting exceptive relief to covered financial institutions from certain requirements under FinCEN’s Customer Due Diligence Requirements for Financial Institutions rule (the “2016 CDD Rule”). The order exempts covered financial institutions from the requirement to identify and v…
 ------------------------------------------------------------
-Executive
-White House
-2026-02-17T20:00:00Z
-Estimating the Cost of the Consumer Financial Protection Bureau to Consumers
-https://www.whitehouse.gov/research/2026/02/estimating-the-cost-of-the-consumer-financial-protection-bureau-to-consumers/
-------------------------------------------------------------
-Executive
-White House
-2026-02-17T18:32:57Z
-Presidential Message on Ramadan
-https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-ramadan-ecc0/
-------------------------------------------------------------
 Compliance Watch
 CDIA
 2026-02-17T16:58:06Z
 Just Announced: New Speakers Added to CDIA Connect 2026!
 https://www.cdiaonline.org/events/2026/02/17/just-announced-new-speakers-added-to-cdia-connect-2026/
 The highly anticipated CDIA Connect returns May 6–8, 2026, in Washington, DC — bringing together legal experts, thought leaders, regulators, and industry officials for timely... The post Just Announced: New Speakers Added to CDIA Connect 2026! appeared first on CDIA .
-------------------------------------------------------------
-Executive
-White House
-2026-02-17T16:11:33Z
-Presidential Message on Lunar New Year
-https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-lunar-new-year/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -15169,18 +14943,6 @@ Microsoft MSRC
 CVE-2026-26119 Windows Admin Center Elevation of Privilege Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-26119
 Improper authentication in Windows Admin Center allows an authorized attacker to elevate privileges over a network.
-------------------------------------------------------------
-Executive
-White House
-2026-02-17T01:09:15Z
-President George Washington’s Birthday, 2026
-https://www.whitehouse.gov/presidential-actions/2026/02/president-george-washingtons-birthday-2026/
-------------------------------------------------------------
-Executive
-White House
-2026-02-17T00:14:26Z
-President Trump Celebrates America’s New Golden Age on Presidents’ Day
-https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-americas-new-golden-era-on-presidents-day/
 ------------------------------------------------------------
 Banking
 OCC
@@ -15216,48 +14978,6 @@ Agency Information Collection Activities: Proposed Collection Renewal; Comment R
 https://www.federalregister.gov/documents/2026/02/17/2026-03082/agency-information-collection-activities-proposed-collection-renewal-comment-request
 The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0046; -0118; -0174; 0188 and -0202). The notices of proposed renewal for these information collections were pr…
 ------------------------------------------------------------
-Executive
-White House
-2026-02-15T22:00:59Z
-Presidential Message on Susan B. Anthony Day
-https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-susan-b-anthony-day/
-------------------------------------------------------------
-Executive
-White House
-2026-02-15T15:39:15Z
-Presidential Message on the Daytona 500
-https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-the-daytona-500/
-------------------------------------------------------------
-Executive
-White House
-2026-02-15T02:55:57Z
-In Munich, Secretary Rubio Calls on Allies to Embrace Shared Heritage, Meet Challenges of New Era
-https://www.whitehouse.gov/articles/2026/02/in-munich-secretary-rubio-calls-on-allies-to-embrace-shared-heritage-meet-challenges-of-new-era/
-------------------------------------------------------------
-Executive
-White House
-2026-02-13T20:49:46Z
-First Lady Melania Trump Embraces Love of Country & Family to United States Armed Forces
-https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-embraces-love-of-country-family-to-united-states-armed-forces/
-------------------------------------------------------------
-Executive
-White House
-2026-02-13T18:13:07Z
-President Trump Delivers Biggest Regulatory Relief in History
-https://www.whitehouse.gov/articles/2026/02/president-trump-delivers-biggest-regulatory-relief-in-history/
-------------------------------------------------------------
-Executive
-White House
-2026-02-13T17:26:30Z
-Presidential Message on Career and Technical Education Month
-https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-career-and-technical-education-month/
-------------------------------------------------------------
-Executive
-White House
-2026-02-13T16:33:45Z
-Presidential Message on American Heart Month
-https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-american-heart-month/
-------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-02-13T16:00:00Z
@@ -15272,17 +14992,18 @@ CVE-2026-21517 Windows App for Mac Installer Elevation of Privilege Vulnerabilit
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21517
 Download links fixed
 ------------------------------------------------------------
-Executive
-White House
-2026-02-13T14:54:20Z
-President Trump Delivers Another Inflation Win: Real Wages Surge, Price Relief Reaches Americans
-https://www.whitehouse.gov/articles/2026/02/president-trump-delivers-another-inflation-win-real-wages-surge-price-relief-reaches-americans/
-------------------------------------------------------------
 OFAC
 Treasury
 2026-02-13T12:00:00Z
 Treasury Accepting Whistleblower Tips on Fraud, Money Laundering, Sanctions Violations
 https://home.treasury.gov/news/press-releases/sb0394
+------------------------------------------------------------
+OFAC
+FinCEN
+2026-02-13T12:00:00Z
+FinCEN Reminds Financial Institutions of Its Resources on Identifying Potential Relationship Investment Scams
+https://www.fincen.gov/news/news-releases/dating-or-defrauding-2026
+In support of the annual, multiagency #DatingorDefrauding campaign, led by the Commodity Futures Trading Commission’s Office of Customer Education and Outreach, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) is once again reminding financial institutions to remain vigilant to potential relationship investment scams.
 ------------------------------------------------------------
 OFAC
 FinCEN
@@ -15297,13 +15018,6 @@ FinCEN
 FinCEN Issues Exceptive Relief to Streamline Customer Due Diligence Requirements
 https://www.fincen.gov/news/news-releases/fincen-issues-exceptive-relief-streamline-customer-due-diligence-requirements
 Relief Reduces Burdensome and Duplicative Regulatory Requirement
-------------------------------------------------------------
-OFAC
-FinCEN
-2026-02-13T12:00:00Z
-FinCEN Reminds Financial Institutions of Its Resources on Identifying Potential Relationship Investment Scams
-https://www.fincen.gov/news/news-releases/dating-or-defrauding-2026
-In support of the annual, multiagency #DatingorDefrauding campaign, led by the Commodity Futures Trading Commission’s Office of Customer Education and Outreach, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) is once again reminding financial institutions to remain vigilant to potential relationship investment scams.
 ------------------------------------------------------------
 OFAC
 OFAC
@@ -15339,18 +15053,6 @@ Federal Reserve Board announces approval of application by Cooperativa de Ahorro
 https://www.federalreserve.gov/newsevents/pressreleases/orders20260212a.htm
 Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.
 ------------------------------------------------------------
-Executive
-White House
-2026-02-12T19:37:57Z
-Joint Statement on a Framework for United States-North Macedonia Agreement on Reciprocal, Fair, and Balanced Trade
-https://www.whitehouse.gov/briefings-statements/2026/02/joint-statement-on-a-framework-for-united-states-north-macedonia-agreement-on-reciprocal-fair-and-balanced-trade/
-------------------------------------------------------------
-Executive
-White House
-2026-02-12T17:48:45Z
-“Champion of Beautiful, Clean Coal”: President Trump Celebrates Industry Revival
-https://www.whitehouse.gov/articles/2026/02/champion-of-beautiful-clean-coal-president-trump-celebrates-industry-revival/
-------------------------------------------------------------
 Banking
 FDIC
 2026-02-12T16:02:11Z
@@ -15364,18 +15066,6 @@ FRB
 Federal Reserve Board issues enforcement action with former employee of Regions Bank
 https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm
 Federal Reserve Board issues enforcement action with former employee of Regions Bank
-------------------------------------------------------------
-Executive
-White House
-2026-02-12T15:48:42Z
-Birthday of President Abraham Lincoln, 2026
-https://www.whitehouse.gov/briefings-statements/2026/02/birthday-of-president-abraham-lincoln-2026/
-------------------------------------------------------------
-Executive
-White House
-2026-02-12T15:03:04Z
-First Lady Melania Trump Secures Another Russian – Ukrainian Child Reunification
-https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-secures-another-russian-ukrainian-child-reunification/
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -15440,53 +15130,11 @@ Investments in and Licensing of Permitted Payment Stablecoins Issuers
 https://www.federalregister.gov/documents/2026/02/12/2026-02868/investments-in-and-licensing-of-permitted-payment-stablecoins-issuers
 The NCUA Board (Board) is seeking comment on proposed regulations to implement portions of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act). The GENIUS Act charges the NCUA with licensing, regulating, and supervising payment stablecoin issuers that are subsidiaries of federally insured credit unions (FICU subsidiaries). The GENIUS Act also…
 ------------------------------------------------------------
-Executive
-White House
-2026-02-11T22:17:58Z
-Nominations Sent to the Senate
-https://www.whitehouse.gov/presidential-actions/2026/02/nominations-sent-to-the-senate-b65f/
-------------------------------------------------------------
-Executive
-White House
-2026-02-11T22:03:51Z
-Strengthening United States National Defense with America’s Beautiful Clean Coal Power Generation Fleet
-https://www.whitehouse.gov/presidential-actions/2026/02/strengthening-united-states-national-defense-with-americas-beautiful-clean-coal-power-generation-fleet/
-------------------------------------------------------------
-Executive
-White House
-2026-02-11T21:57:59Z
-Fact Sheet: President Donald J. Trump Strengthens United States National Defense with America’s Beautiful Clean Coal Power Generation Fleet
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-strengthens-united-states-national-defense-with-americas-beautiful-clean-coal-power-generation-fleet/
-------------------------------------------------------------
-Executive
-White House
-2026-02-11T20:04:28Z
-First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day
-https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/
-------------------------------------------------------------
-Executive
-White House
-2026-02-11T17:37:15Z
-ICYMI: “Violent crime plummets across major U.S. cities”
-https://www.whitehouse.gov/articles/2026/02/icymi-violent-crime-plummets-across-major-u-s-cities/
-------------------------------------------------------------
-Executive
-White House
-2026-02-11T17:36:13Z
-America 250: Presidential Message on the Birthday of Thomas Edison
-https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-birthday-of-thomas-edison/
-------------------------------------------------------------
 Payments
 NACHA
 2026-02-11T17:23:18Z
 Payments Consulting
 https://www.nacha.org/taxonomy/term/362
-------------------------------------------------------------
-Executive
-White House
-2026-02-11T15:35:02Z
-This Is the Trump Economy: Job Growth Crushes Expectations as More Americans Work for Higher Wages
-https://www.whitehouse.gov/articles/2026/02/this-is-the-trump-economy-job-growth-crushes-expectations-as-more-americans-work-for-higher-wages/
 ------------------------------------------------------------
 Compliance Watch
 CDIA
@@ -15587,18 +15235,6 @@ Federal Register
 Voluntary Consensus Standards Update; Formaldehyde Emission Standards for Composite Wood Products
 https://www.federalregister.gov/documents/2026/02/11/2026-02715/voluntary-consensus-standards-update-formaldehyde-emission-standards-for-composite-wood-products
 The Environmental Protection Agency (EPA) is proposing to update the incorporation by reference of several voluntary consensus standards in the Agency's formaldehyde standards for composite wood products regulations under the Toxic Substances Control Act (TSCA) due to the standards having been updated or superseded by the issuing organizations. These new standards primarily up…
-------------------------------------------------------------
-Executive
-White House
-2026-02-10T22:59:09Z
-Congressional Bill S. 269 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bill-s-269-signed-into-law/
-------------------------------------------------------------
-Executive
-White House
-2026-02-10T17:53:59Z
-The SAVE America Act: Voter ID is Popular with Everyone
-https://www.whitehouse.gov/articles/2026/02/voter-id-is-overwhelmingly-popular-with-literally-everyone-except-democrat-politicians/
 ------------------------------------------------------------
 OFAC
 Treasury
@@ -16084,24 +15720,6 @@ Fiserv
 Fiserv Reports Fourth Quarter and Full Year 2025 Results
 https://investors.fiserv.com/news-releases/news-release-details/fiserv-reports-fourth-quarter-and-full-year-2025-results
 ------------------------------------------------------------
-Executive
-White House
-2026-02-09T21:51:00Z
-Fact Sheet: The United States and India Announce Historic Trade Deal
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-the-united-states-and-india-announce-historic-trade-deal/
-------------------------------------------------------------
-Executive
-White House
-2026-02-09T20:44:15Z
-Don’t Be a Panican. We’re Winning — and We’re Not Slowing Down.
-https://www.whitehouse.gov/articles/2026/02/dont-be-a-panican-were-winning-and-were-not-slowing-down/
-------------------------------------------------------------
-Executive
-White House
-2026-02-09T18:27:11Z
-Joint Statement on United States – Bangladesh Agreement on Reciprocal Trade
-https://www.whitehouse.gov/briefings-statements/2026/02/joint-statement-on-framework-for-united-states-bangladesh-agreement-on-reciprocal-trade/
-------------------------------------------------------------
 Compliance Watch
 CDIA
 2026-02-09T15:05:47Z
@@ -16135,96 +15753,12 @@ NACHA
 Nacha Announces Board of Directors for 2026
 https://www.nacha.org/news/nacha-announces-board-directors-2026
 ------------------------------------------------------------
-Executive
-White House
-2026-02-08T16:00:56Z
-Presidential Message on Super Bowl LX
-https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-super-bowl-lx/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T23:30:12Z
-Modifying Duties to Address Threats to the United States by the Government of the Russian Federation
-https://www.whitehouse.gov/presidential-actions/2026/02/modifying-duties-to-address-threats-to-the-united-states-by-the-government-of-the-russian-federation-04b2/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T22:19:51Z
-United States-India Joint Statement
-https://www.whitehouse.gov/briefings-statements/2026/02/united-states-india-joint-statement/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T22:08:25Z
-Establishing an America First Arms Transfer Strategy
-https://www.whitehouse.gov/presidential-actions/2026/02/establishing-an-america-first-arms-transfer-strategy/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T22:07:47Z
-Fact Sheet: President Donald J. Trump Establishes the America First Arms Transfer Strategy
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-establishes-the-america-first-arms-transfer-strategy/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T22:07:20Z
-Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Iran
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-iran/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T22:06:56Z
-Fact Sheet: President Donald J. Trump Ensures Affordable Beef for the American Consumer
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-ensures-affordable-beef-for-the-american-consumer/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T22:06:38Z
-Fact Sheet: President Donald J. Trump Unleashes Commercial Fishing in the Atlantic
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-unleashes-commercial-fishing-in-the-atlantic/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T21:51:16Z
-Protecting the National Security and Welfare of the United States and its Citizens from Criminal Actors and Other Public Safety Threats
-https://www.whitehouse.gov/presidential-actions/2026/02/protecting-the-national-security-and-welfare-of-the-united-states-and-its-citizens-from-criminal-actors-and-other-public-safety-threats/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T21:49:12Z
-Congressional Bill S. 3424 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bill-s-3424-signed-into-law/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T21:47:01Z
-Addressing Threats to the United States by the Government of Iran
-https://www.whitehouse.gov/presidential-actions/2026/02/addressing-threats-to-the-united-states-by-the-government-of-iran/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T21:33:14Z
-Unleashing American Commercial Fishing in the Atlantic
-https://www.whitehouse.gov/presidential-actions/2026/02/unleashing-american-commercial-fishing-in-the-atlantic/
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T21:18:13Z
-Ensuring Affordable Beef for the American Consumer
-https://www.whitehouse.gov/presidential-actions/2026/02/ensuring-affordable-beef-for-the-american-consumer/
-------------------------------------------------------------
 Banking
 FDIC
 2026-02-06T20:25:00Z
 FDIC Extends Comment Period on Proposal to Establish GENIUS Act Application Procedures for FDIC-Supervised Institutions Seeking to Issue Payment Stablecoins
 https://content.govdelivery.com/accounts/USFDIC/bulletins/4082a4d
 PRESS RELEASE | FEBRUARY 6, 2026 FDIC Extends Comment Period on Proposal to Establish GENIUS Act Application Procedures for FDIC-Supervised Institutions Seeking to Issue Payment Stablecoins WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) today announced a 90-day extension to the comment period on the agency’s notice of proposed rulemaking (NPR) that would impleme…
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T17:45:29Z
-President Trump Launches TrumpRx.gov, Delivering Massive, Immediate Savings to Millions of Americans
-https://www.whitehouse.gov/articles/2026/02/president-trump-launches-trumprx-gov-delivering-massive-immediate-savings-to-millions-of-americans/
 ------------------------------------------------------------
 OFAC
 Treasury
@@ -16250,24 +15784,12 @@ Treasury
 Treasury Issues Request for Information on CFIUS Known Investor Program and Streamlining the Foreign Investment Review Process
 https://home.treasury.gov/news/press-releases/sb0389
 ------------------------------------------------------------
-Executive
-White House
-2026-02-06T13:17:23Z
-First Lady Melania Trump Announces 2026 White House Easter Egg Roll
-https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-announces-2026-white-house-easter-egg-roll/
-------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-02-06T08:00:30Z
 Chromium: CVE-2026-1862 Type Confusion in V8
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1862
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
-------------------------------------------------------------
-Executive
-White House
-2026-02-06T00:31:50Z
-Fact Sheet: President Donald J. Trump Launches TrumpRx.gov to Bring Lower Drug Prices to American Patients
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-launches-trumprx-gov-to-bring-lower-drug-prices-to-american-patients/
 ------------------------------------------------------------
 OFAC
 OFAC
@@ -16320,12 +15842,6 @@ Microsoft MSRC
 Chromium: CVE-2026-1861 Heap buffer overflow in libvpx
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1861
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
-------------------------------------------------------------
-Executive
-White House
-2026-02-05T16:42:39Z
-President Trump Showcases Historic Successes, Future Vision in Exclusive NBC Interview
-https://www.whitehouse.gov/articles/2026/02/president-trump-showcases-historic-successes-future-vision-exclusive-nbc-interview/
 ------------------------------------------------------------
 Compliance Watch
 TBA
@@ -16394,30 +15910,6 @@ Federal Reserve Board finalizes hypothetical scenarios for its annual stress tes
 https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm
 Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered
 ------------------------------------------------------------
-Executive
-White House
-2026-02-04T21:19:41Z
-New Milestone in Operation Metro Surge: 4,000+ Criminal Illegals Removed from Minnesota Streets
-https://www.whitehouse.gov/articles/2026/02/new-milestone-in-operation-metro-surge-4000-criminal-illegals-removed-from-minnesota-streets/
-------------------------------------------------------------
-Executive
-White House
-2026-02-04T20:12:46Z
-First Lady Melania Trump Holds Private Meeting with Freed American-Israeli Hostage Keith Siegel After Helping Secure His Release
-https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-holds-private-meeting-with-freed-american-israeli-hostage-keith-siegel-after-helping-secure-his-release/
-------------------------------------------------------------
-Executive
-White House
-2026-02-04T17:59:12Z
-Nominations Sent to the Senate
-https://www.whitehouse.gov/presidential-actions/2026/02/nominations-sent-to-the-senate-2f25/
-------------------------------------------------------------
-Executive
-White House
-2026-02-04T16:22:40Z
-Presidential Message on National Women and Girls in Sports Day
-https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-national-women-and-girls-in-sports-day/
-------------------------------------------------------------
 OFAC
 Treasury
 2026-02-04T15:30:00Z
@@ -16476,24 +15968,6 @@ Civil Service Retirement System and Federal Employees' Retirement System: Second
 https://www.federalregister.gov/documents/2026/02/04/2026-02233/civil-service-retirement-system-and-federal-employees-retirement-system-secondary-position
 The Office of Personnel Management (OPM) proposes to amend its retirement regulations to revise the definition of secondary position for law enforcement officers, firefighters, nuclear materials couriers, and customs and border protection officers. The changes remove the requirement that experience in a primary position is a mandatory prerequisite for an executive level positi…
 ------------------------------------------------------------
-Executive
-White House
-2026-02-03T21:42:14Z
-Congressional Bill H.R. 7148 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bill-h-r-7148-signed-into-law/
-------------------------------------------------------------
-Executive
-White House
-2026-02-03T20:12:20Z
-Minnesota Democrats Protected This Violent Illegal Alien. The Trump Administration Is Deporting Him.
-https://www.whitehouse.gov/articles/2026/02/minnesota-democrats-protected-this-violent-illegal-alien-the-trump-administration-is-deporting-him/
-------------------------------------------------------------
-Executive
-White House
-2026-02-03T19:56:11Z
-National Black History Month, 2026
-https://www.whitehouse.gov/presidential-actions/2026/02/national-black-history-month-2026/
-------------------------------------------------------------
 Compliance Watch
 CDIA
 2026-02-03T16:08:08Z
@@ -16541,18 +16015,6 @@ Nomenclature Corrections Due to Office Reorganization, Removal of Obsolete Refer
 https://www.federalregister.gov/documents/2026/02/03/2026-02179/nomenclature-corrections-due-to-office-reorganization-removal-of-obsolete-references-and-payment
 The Surface Transportation Board (Board) recently completed a reorganization in which it combined its two legal offices, the Office of the General Counsel and the Office of Proceedings, to form the Office of Chief Counsel. The Board is issuing a final rule to make nomenclature changes reflecting the establishment of the Office of Chief Counsel as a result of this reorganizatio…
 ------------------------------------------------------------
-Executive
-White House
-2026-02-02T23:22:02Z
-America 250: Presidential Message on the Anniversary of Our Victory in the Mexican-American War
-https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-anniversary-of-our-victory-in-the-mexican-american-war/
-------------------------------------------------------------
-Executive
-White House
-2026-02-02T20:55:53Z
-Americans Overwhelmingly Support Deporting Criminal Illegals, Local Cooperation with ICE
-https://www.whitehouse.gov/articles/2026/02/americans-overwhelmingly-support-deporting-criminal-illegals-local-cooperation-with-ice/
-------------------------------------------------------------
 OFAC
 Treasury
 2026-02-02T20:00:00Z
@@ -16564,18 +16026,6 @@ Treasury
 2026-02-02T20:00:00Z
 Economy Statement for the Treasury Borrowing Advisory Committee
 https://home.treasury.gov/news/press-releases/sb0376
-------------------------------------------------------------
-Executive
-White House
-2026-02-02T17:41:27Z
-Ninth Meeting of the North American Drug Dialogue
-https://www.whitehouse.gov/articles/2026/02/ninth-meeting-of-the-north-american-drug-dialogue/
-------------------------------------------------------------
-Executive
-White House
-2026-02-02T17:19:27Z
-Rents Hit Four-Year Low as President Trump Continues Affordability Push
-https://www.whitehouse.gov/articles/2026/02/rents-hit-four-year-low-as-president-trump-continues-affordability-push/
 ------------------------------------------------------------
 Compliance Watch
 TBA
