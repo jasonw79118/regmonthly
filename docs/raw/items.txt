@@ -426,32 +426,11 @@ Treasury
 Preliminary Report on Foreign Holdings of U.S. Securities at End-June 2025
 https://home.treasury.gov/news/press-releases/sb0410
 ------------------------------------------------------------
-IS
-BleepingComputer
-2026-02-27T20:00:27Z
-Microsoft testing Windows 11 batch file security improvements
-https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/
-Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution. [...]
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-02-27T19:21:25Z
-APT37 hackers use new malware to breach air-gapped networks
-https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/
-North Korean hackers are deploying newly uncovered tools to move data between internet-connected and air-gapped systems, spread via removable drives, and conduct covert surveillance. [...]
-------------------------------------------------------------
 Executive
 White House
 2026-02-27T19:02:45Z
 President Trump Is Delivering for Texans
 https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-for-texans/
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-02-27T18:20:15Z
-Europol-led crackdown on The Com hackers leads to 30 arrests
-https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/
-A yearlong Europol-coordinated operation dubbed "Project Compass" has led to 30 arrests and 179 suspects being tied to "The Com," an online cybercrime collective that targets children and teenagers. [...]
 ------------------------------------------------------------
 Banking
 FDIC
@@ -481,26 +460,12 @@ CVE-2026-21523 GitHub Copilot and Visual Studio Code Remote Code Execution Vulne
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21523
 Download links fixed
 ------------------------------------------------------------
-IS
-BleepingComputer
-2026-02-27T15:57:04Z
-CISA warns that RESURGE malware can be dormant on Ivanti devices
-https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released new details about RESURGE, a malicious implant used in zero-day attacks exploiting CVE-2025-0282 to breach Ivanti Connect Secure devices. [...]
-------------------------------------------------------------
 Banking
 FDIC
 2026-02-27T15:02:09Z
 Press Release: FDIC Publishes Enforcement Orders for January 2026
 https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb983
 PRESS RELEASE | FEBRUARY 27, 2026 FDIC Publishes Enforcement Orders for January 2026 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026. There are no administrative hearings scheduled for March 2026. Consent Orders Community Bank & Trust West Ge…
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-02-27T15:00:10Z
-Third-Party Patching and the Business Footprint We All Share
-https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/
-Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface. Action1 explains how third-party software drift increases exploit risk and why consistent patching reduces exposure across endpoints. [...]
 ------------------------------------------------------------
 Payment Card Networks
 Visa
@@ -594,35 +559,11 @@ FHLB MPF
 MPF Announcement 2026-09
 https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-09
 ------------------------------------------------------------
-Legislative
-Senate Banking
-2026-02-27T00:00:00Z
-Warren Statement on Trump Administration’s Labeling American Company a Supply Chain Risk
-https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-administrations-labeling-american-company-a-supply-chain-risk
-------------------------------------------------------------
-Legislative
-Senate Banking
-2026-02-27T00:00:00Z
-Warren, Van Hollen, Merkley, Shaheen, Luján, Kim, and Wyden: Treasury Fails to Answer Why Trump Administration Made It Easier for Drug Cartels to Launder Millions
-https://www.banking.senate.gov/newsroom/minority/warren-van-hollen-merkley-shaheen-lujan-kim-and-wyden-treasury-fails-to-answer-why-trump-administration-made-it-easier-for-drug-cartels-to-launder-millions
-------------------------------------------------------------
-Legislative
-Senate Banking
-2026-02-27T00:00:00Z
-Van Hollen, Banking Committee Democrats Press Bondi and Bessent to Investigate Binance Following Reports of Flouting Sanctions, US Law
-https://www.banking.senate.gov/newsroom/minority/van-hollen-banking-committee-democrats-press-bondi-and-bessent-to-investigate-binance-following-reports-of-flouting-sanctions-us-law
-------------------------------------------------------------
 IS
 BleepingComputer
 2026-02-27T00:00:00Z
-Ukrainian man pleads guilty to running AI-powered fake ID site
-https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-02-27T00:00:00Z
-This refurbished HP OmniBook X 14″ Touch is on sale for $650
-https://www.bleepingcomputer.com/offer/deals/this-refurbished-hp-omnibook-x-14-touch-is-on-sale-for-650/
+Microsoft testing Windows 11 batch file security improvements
+https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -821,12 +762,6 @@ IRS
 IRS launches new web page to streamline tax fraud and scam reporting
 https://www.irs.gov/newsroom/irs-launches-new-web-page-to-streamline-tax-fraud-and-scam-reporting
 IR-2026-26, Feb. 26, 2026 — The Internal Revenue Service today announced the launch of a new web page that allows taxpayers to confidentially report suspected tax fraud, scams, evasion, or other tax-related illegal activities, as well as internal-facing improvements that will enhance how referrals are used to stop illegal activity.
-------------------------------------------------------------
-Banking
-OCC
-2026-02-26T00:00:00Z
-Comptroller Gould Testifies on Agency Priorities
-https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-10.html
 ------------------------------------------------------------
 Banking
 FRB
@@ -1056,12 +991,6 @@ OCC
 OCC Requests Comments on Proposal to Implement GENIUS Act
 https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-9.html
 The Office of the Comptroller of the Currency (OCC) today issued a proposed rulemaking to implement the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act.
-------------------------------------------------------------
-Banking
-OCC
-2026-02-25T00:00:00Z
-GENIUS Act Regulations: Notice of Proposed Rulemaking
-https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-3.html
 ------------------------------------------------------------
 Mortgage
 Freddie Mac
@@ -1334,12 +1263,6 @@ FDIC Board of Directors Approves Final Rule on Establishment and Relocation of B
 https://www.fdic.gov/news/press-releases/2025/fdic-board-directors-approves-final-rule-establishment-and-relocation
 The FDIC Board of Directors today approved a final rule to streamline the processes for the establishment and relocation of domestic branches and main offices.
 ------------------------------------------------------------
-Banking
-FRB
-2026-02-24T00:00:00Z
-RSS
-https://www.federalreserve.gov/feeds/press_all.xml
-------------------------------------------------------------
 Legislative
 House Financial Services
 2026-02-24T00:00:00Z
@@ -1363,13 +1286,6 @@ FIS
 2026-02-24T00:00:00Z
 FIS to Report Fourth Quarter Earnings on February 24, 2026
 https://www.investor.fisglobal.com/news-releases/news-release-details/fis-report-fourth-quarter-earnings-february-24-2026
-------------------------------------------------------------
-Compliance Watch
-Wolters Kluwer
-2026-02-24T00:00:00Z
-AI driven Finance takes center stage as CCH® Tagetik earns multiple 2025 Dresner Application Innovation Awards
-https://www.wolterskluwer.com/en/news/dresner-application-innovation-awards
-CCH Tagetik Powered by Expert AI has once again been recognized as a top innovator, earning multiple honors in the 2025 Dresner Advisory Services Application Innovation Awards.
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -4534,6 +4450,12 @@ Treasury
 2026-02-18T18:00:00Z
 Treasury Announces Public-Private Initiative to Strengthen Cybersecurity and Risk Management for AI
 https://home.treasury.gov/news/press-releases/sb0395
+------------------------------------------------------------
+Executive
+White House
+2026-02-18T17:25:08Z
+President Trump Celebrates Black History Month: Advancing Opportunity and Prosperity for Every American
+https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-black-history-month-advancing-opportunity-and-prosperity-for-every-american/
 ------------------------------------------------------------
 Executive
 White House
@@ -15044,12 +14966,6 @@ FHLB MPF
 MPF Announcement 2026-07
 https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-07
 ------------------------------------------------------------
-Payment Card Networks
-Mastercard
-2026-02-18T00:00:00Z
-### Ericsson and Mastercard enhance global digital money movement and accelerate digital financial inclusion February 18, 2026
-https://www.mastercard.com/us/en/news-and-trends/press/2026/february/Ericsson-Mastercard-enhance-global-digital-money-movement-accelerate-digital-financial-inclusion.html
-------------------------------------------------------------
 Compliance Watch
 ABA
 2026-02-18T00:00:00Z
@@ -15115,31 +15031,12 @@ White House
 President Trump Celebrates America’s New Golden Age on Presidents’ Day
 https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-americas-new-golden-era-on-presidents-day/
 ------------------------------------------------------------
-Banking
-OCC
-2026-02-17T00:00:00Z
-OCC Requests Comment on Proposed Rulemaking on the Bank Appeals Process
-https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-7.html
-The Office of the Comptroller of the Currency (OCC) today requested comment on a proposal to establish revised procedures and policies for appeals by OCC-supervised entities of material supervisory determinations.
-------------------------------------------------------------
-Banking
-OCC
-2026-02-17T00:00:00Z
-Bank Appeals Process: Notice of Proposed Rulemaking
-https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-2.html
-------------------------------------------------------------
 Mortgage
 Fannie Mae
 2026-02-17T00:00:00Z
 Data and Insights
 https://www.fanniemae.com/data-and-insights
 Fannie Mae’s market intelligence helps you understand changes in the housing and economic environment today and what it might signal for tomorrow.
-------------------------------------------------------------
-Payment Card Networks
-Mastercard
-2026-02-17T00:00:00Z
-### Cloudflare and Mastercard partner to extend comprehensive cyber defense across critical infrastructure and small businesses February 17, 2026
-https://www.mastercard.com/us/en/news-and-trends/press/2026/february/cloudflare-and-mastercard-to-extend-comprehensive-cyber-defense-.html
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -15606,12 +15503,6 @@ Finastra
 2026-02-10T12:00:00Z
 AI tipping point reached as just 2% of financial institutions report no AI use, finds Finastra Research
 https://www.finastra.com/press-media/ai-tipping-point-reached-just-2-financial-institutions-report-no-ai-use-finds-finastra
-------------------------------------------------------------
-Fintech Watch
-Finastra
-2026-02-10T12:00:00Z
-Finastra research finds AI adoption rising in Vietnam’s financial sector, but security and legacy systems limit scale
-https://www.finastra.com/press-media/finastra-research-finds-ai-adoption-rising-vietnams-financial-sector-security-and
 ------------------------------------------------------------
 Compliance Watch
 CDIA

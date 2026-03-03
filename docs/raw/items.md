@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-02T17:03:56-06:00` (CT) — `2026-03-02T23:03:56Z` (UTC)
+Last updated: `2026-03-03T08:25:48-06:00` (CT) — `2026-03-03T14:25:48Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -487,35 +487,11 @@ Find sample materials, training, and best practices to help you communicate with
 - Published: 2026-02-27T21:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0410
 
-## Microsoft testing Windows 11 batch file security improvements
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-27T20:00:27Z
-- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/
-
-Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution. [...]
-
-## APT37 hackers use new malware to breach air-gapped networks
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-27T19:21:25Z
-- URL: https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/
-
-North Korean hackers are deploying newly uncovered tools to move data between internet-connected and air-gapped systems, spread via removable drives, and conduct covert surveillance. [...]
-
 ## President Trump Is Delivering for Texans
 - Source: White House
 - Category: Executive
 - Published: 2026-02-27T19:02:45Z
 - URL: https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-for-texans/
-
-## Europol-led crackdown on The Com hackers leads to 30 arrests
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-27T18:20:15Z
-- URL: https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/
-
-A yearlong Europol-coordinated operation dubbed "Project Compass" has led to 30 arrests and 179 suspects being tied to "The Com," an online cybercrime collective that targets children and teenagers. [...]
 
 ## Press Release: FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah
 - Source: FDIC
@@ -549,14 +525,6 @@ Download links fixed
 
 Download links fixed
 
-## CISA warns that RESURGE malware can be dormant on Ivanti devices
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-27T15:57:04Z
-- URL: https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released new details about RESURGE, a malicious implant used in zero-day attacks exploiting CVE-2025-0282 to breach Ivanti Connect Secure devices. [...]
-
 ## Press Release: FDIC Publishes Enforcement Orders for January 2026
 - Source: FDIC
 - Category: Banking
@@ -564,14 +532,6 @@ The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released ne
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb983
 
 PRESS RELEASE | FEBRUARY 27, 2026 FDIC Publishes Enforcement Orders for January 2026 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026. There are no administrative hearings scheduled for March 2026. Consent Orders Community Bank & Trust West Ge…
-
-## Third-Party Patching and the Business Footprint We All Share
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-27T15:00:10Z
-- URL: https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/
-
-Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface. Action1 explains how third-party software drift increases exploit risk and why consistent patching reduces exposure across endpoints. [...]
 
 ## Visa Completes Acquisition of Prisma and Newpay
 - Source: Visa
@@ -673,35 +633,11 @@ IR-2026-27, Feb. 27, 2026 — The Department of the Treasury and the Internal Re
 - Published: 2026-02-27T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-09
 
-## Warren Statement on Trump Administration’s Labeling American Company a Supply Chain Risk
-- Source: Senate Banking
-- Category: Legislative
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-administrations-labeling-american-company-a-supply-chain-risk
-
-## Warren, Van Hollen, Merkley, Shaheen, Luján, Kim, and Wyden: Treasury Fails to Answer Why Trump Administration Made It Easier for Drug Cartels to Launder Millions
-- Source: Senate Banking
-- Category: Legislative
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.banking.senate.gov/newsroom/minority/warren-van-hollen-merkley-shaheen-lujan-kim-and-wyden-treasury-fails-to-answer-why-trump-administration-made-it-easier-for-drug-cartels-to-launder-millions
-
-## Van Hollen, Banking Committee Democrats Press Bondi and Bessent to Investigate Binance Following Reports of Flouting Sanctions, US Law
-- Source: Senate Banking
-- Category: Legislative
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.banking.senate.gov/newsroom/minority/van-hollen-banking-committee-democrats-press-bondi-and-bessent-to-investigate-binance-following-reports-of-flouting-sanctions-us-law
-
-## Ukrainian man pleads guilty to running AI-powered fake ID site
+## Microsoft testing Windows 11 batch file security improvements
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-02-27T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/
-
-## This refurbished HP OmniBook X 14″ Touch is on sale for $650
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/this-refurbished-hp-omnibook-x-14-touch-is-on-sale-for-650/
+- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/
 
 ## Commercial & Industrial Loans
 - Source: ABA
@@ -924,12 +860,6 @@ Information published.
 - URL: https://www.irs.gov/newsroom/irs-launches-new-web-page-to-streamline-tax-fraud-and-scam-reporting
 
 IR-2026-26, Feb. 26, 2026 — The Internal Revenue Service today announced the launch of a new web page that allows taxpayers to confidentially report suspected tax fraud, scams, evasion, or other tax-related illegal activities, as well as internal-facing improvements that will enhance how referrals are used to stop illegal activity.
-
-## Comptroller Gould Testifies on Agency Priorities
-- Source: OCC
-- Category: Banking
-- Published: 2026-02-26T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-10.html
 
 ## Regulatory Reform
 - Source: FRB
@@ -1178,12 +1108,6 @@ Wolters Kluwer, a global leader in professional information, software solutions 
 - URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-9.html
 
 The Office of the Comptroller of the Currency (OCC) today issued a proposed rulemaking to implement the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act.
-
-## GENIUS Act Regulations: Notice of Proposed Rulemaking
-- Source: OCC
-- Category: Banking
-- Published: 2026-02-25T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-3.html
 
 ## Freddie Mac Issues Monthly Volume Summary for January 2026
 - Source: Freddie Mac
@@ -1487,12 +1411,6 @@ The Board of Directors of the FDIC today approved a 2026 budget of $2.49 billion
 
 The FDIC Board of Directors today approved a final rule to streamline the processes for the establishment and relocation of domestic branches and main offices.
 
-## RSS
-- Source: FRB
-- Category: Banking
-- Published: 2026-02-24T00:00:00Z
-- URL: https://www.federalreserve.gov/feeds/press_all.xml
-
 ## VIDEO: Delivering for America: Strengthening the Economy, Expanding Opportunity
 - Source: House Financial Services
 - Category: Legislative
@@ -1516,14 +1434,6 @@ The FDIC Board of Directors today approved a final rule to streamline the proces
 - Category: Fintech Watch
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-report-fourth-quarter-earnings-february-24-2026
-
-## AI driven Finance takes center stage as CCH® Tagetik earns multiple 2025 Dresner Application Innovation Awards
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-02-24T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/dresner-application-innovation-awards
-
-CCH Tagetik Powered by Expert AI has once again been recognized as a top innovator, earning multiple honors in the 2025 Dresner Advisory Services Application Innovation Awards.
 
 ## Agency Information Collection Activities: Comment Request
 - Source: Federal Register
@@ -5110,6 +5020,12 @@ Minutes of the Federal Open Market Committee, January 27–28, 2026
 - Category: OFAC
 - Published: 2026-02-18T18:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0395
+
+## President Trump Celebrates Black History Month: Advancing Opportunity and Prosperity for Every American
+- Source: White House
+- Category: Executive
+- Published: 2026-02-18T17:25:08Z
+- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-black-history-month-advancing-opportunity-and-prosperity-for-every-american/
 
 ## Presidential Message on Ash Wednesday
 - Source: White House
@@ -17117,12 +17033,6 @@ The Federal Reserve Board of Governors in Washington DC.
 - Published: 2026-02-18T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-07
 
-## ### Ericsson and Mastercard enhance global digital money movement and accelerate digital financial inclusion February 18, 2026
-- Source: Mastercard
-- Category: Payment Card Networks
-- Published: 2026-02-18T00:00:00Z
-- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/february/Ericsson-Mastercard-enhance-global-digital-money-movement-accelerate-digital-financial-inclusion.html
-
 ## Wealth & Trust 360
 - Source: ABA
 - Category: Compliance Watch
@@ -17193,20 +17103,6 @@ Improper authentication in Windows Admin Center allows an authorized attacker to
 - Published: 2026-02-17T00:14:26Z
 - URL: https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-americas-new-golden-era-on-presidents-day/
 
-## OCC Requests Comment on Proposed Rulemaking on the Bank Appeals Process
-- Source: OCC
-- Category: Banking
-- Published: 2026-02-17T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-7.html
-
-The Office of the Comptroller of the Currency (OCC) today requested comment on a proposal to establish revised procedures and policies for appeals by OCC-supervised entities of material supervisory determinations.
-
-## Bank Appeals Process: Notice of Proposed Rulemaking
-- Source: OCC
-- Category: Banking
-- Published: 2026-02-17T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-2.html
-
 ## Data and Insights
 - Source: Fannie Mae
 - Category: Mortgage
@@ -17214,12 +17110,6 @@ The Office of the Comptroller of the Currency (OCC) today requested comment on a
 - URL: https://www.fanniemae.com/data-and-insights
 
 Fannie Mae’s market intelligence helps you understand changes in the housing and economic environment today and what it might signal for tomorrow.
-
-## ### Cloudflare and Mastercard partner to extend comprehensive cyber defense across critical infrastructure and small businesses February 17, 2026
-- Source: Mastercard
-- Category: Payment Card Networks
-- Published: 2026-02-17T00:00:00Z
-- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/february/cloudflare-and-mastercard-to-extend-comprehensive-cyber-defense-.html
 
 ## Incident Response
 - Source: ABA
@@ -17714,12 +17604,6 @@ The Environmental Protection Agency (EPA) is proposing to update the incorporati
 - Category: Fintech Watch
 - Published: 2026-02-10T12:00:00Z
 - URL: https://www.finastra.com/press-media/ai-tipping-point-reached-just-2-financial-institutions-report-no-ai-use-finds-finastra
-
-## Finastra research finds AI adoption rising in Vietnam’s financial sector, but security and legacy systems limit scale
-- Source: Finastra
-- Category: Fintech Watch
-- Published: 2026-02-10T12:00:00Z
-- URL: https://www.finastra.com/press-media/finastra-research-finds-ai-adoption-rising-vietnams-financial-sector-security-and
 
 ## The Future of Consumer Reporting starts at CDIA Connect- New Sessions Announced!
 - Source: CDIA

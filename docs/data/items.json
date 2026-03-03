@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-02T23:03:56Z",
-  "generated_at_ct": "2026-03-02T17:03:56-06:00",
+  "generated_at_utc": "2026-03-03T14:25:48Z",
+  "generated_at_ct": "2026-03-03T08:25:48-06:00",
   "items": [
     {
       "category": "OFAC",
@@ -501,36 +501,12 @@
       "summary": ""
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Microsoft testing Windows 11 batch file security improvements",
-      "published_at": "2026-02-27T20:00:27Z",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
-      "summary": "Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution. [...]"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "APT37 hackers use new malware to breach air-gapped networks",
-      "published_at": "2026-02-27T19:21:25Z",
-      "url": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/",
-      "summary": "North Korean hackers are deploying newly uncovered tools to move data between internet-connected and air-gapped systems, spread via removable drives, and conduct covert surveillance. [...]"
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "President Trump Is Delivering for Texans",
       "published_at": "2026-02-27T19:02:45Z",
       "url": "https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-for-texans/",
       "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Europol-led crackdown on The Com hackers leads to 30 arrests",
-      "published_at": "2026-02-27T18:20:15Z",
-      "url": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/",
-      "summary": "A yearlong Europol-coordinated operation dubbed \"Project Compass\" has led to 30 arrests and 179 suspects being tied to \"The Com,\" an online cybercrime collective that targets children and teenagers. [...]"
     },
     {
       "category": "Banking",
@@ -565,28 +541,12 @@
       "summary": "Download links fixed"
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
-      "published_at": "2026-02-27T15:57:04Z",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released new details about RESURGE, a malicious implant used in zero-day attacks exploiting CVE-2025-0282 to breach Ivanti Connect Secure devices. [...]"
-    },
-    {
       "category": "Banking",
       "source": "FDIC",
       "title": "Press Release: FDIC Publishes Enforcement Orders for January 2026",
       "published_at": "2026-02-27T15:02:09Z",
       "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb983",
       "summary": "PRESS RELEASE | FEBRUARY 27, 2026 FDIC Publishes Enforcement Orders for January 2026 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026. There are no administrative hearings scheduled for March 2026. Consent Orders Community Bank & Trust West Ge…"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Third-Party Patching and the Business Footprint We All Share",
-      "published_at": "2026-02-27T15:00:10Z",
-      "url": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/",
-      "summary": "Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface. Action1 explains how third-party software drift increases exploit risk and why consistent patching reduces exposure across endpoints. [...]"
     },
     {
       "category": "Payment Card Networks",
@@ -701,43 +661,11 @@
       "summary": ""
     },
     {
-      "category": "Legislative",
-      "source": "Senate Banking",
-      "title": "Warren Statement on Trump Administration’s Labeling American Company a Supply Chain Risk",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-administrations-labeling-american-company-a-supply-chain-risk",
-      "summary": ""
-    },
-    {
-      "category": "Legislative",
-      "source": "Senate Banking",
-      "title": "Warren, Van Hollen, Merkley, Shaheen, Luján, Kim, and Wyden: Treasury Fails to Answer Why Trump Administration Made It Easier for Drug Cartels to Launder Millions",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://www.banking.senate.gov/newsroom/minority/warren-van-hollen-merkley-shaheen-lujan-kim-and-wyden-treasury-fails-to-answer-why-trump-administration-made-it-easier-for-drug-cartels-to-launder-millions",
-      "summary": ""
-    },
-    {
-      "category": "Legislative",
-      "source": "Senate Banking",
-      "title": "Van Hollen, Banking Committee Democrats Press Bondi and Bessent to Investigate Binance Following Reports of Flouting Sanctions, US Law",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://www.banking.senate.gov/newsroom/minority/van-hollen-banking-committee-democrats-press-bondi-and-bessent-to-investigate-binance-following-reports-of-flouting-sanctions-us-law",
-      "summary": ""
-    },
-    {
       "category": "IS",
       "source": "BleepingComputer",
-      "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
+      "title": "Microsoft testing Windows 11 batch file security improvements",
       "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "This refurbished HP OmniBook X 14″ Touch is on sale for $650",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/offer/deals/this-refurbished-hp-omnibook-x-14-touch-is-on-sale-for-650/",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
       "summary": ""
     },
     {
@@ -986,14 +914,6 @@
       "published_at": "2026-02-26T00:00:00Z",
       "url": "https://www.irs.gov/newsroom/irs-launches-new-web-page-to-streamline-tax-fraud-and-scam-reporting",
       "summary": "IR-2026-26, Feb. 26, 2026 — The Internal Revenue Service today announced the launch of a new web page that allows taxpayers to confidentially report suspected tax fraud, scams, evasion, or other tax-related illegal activities, as well as internal-facing improvements that will enhance how referrals are used to stop illegal activity."
-    },
-    {
-      "category": "Banking",
-      "source": "OCC",
-      "title": "Comptroller Gould Testifies on Agency Priorities",
-      "published_at": "2026-02-26T00:00:00Z",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-10.html",
-      "summary": ""
     },
     {
       "category": "Banking",
@@ -1286,14 +1206,6 @@
       "published_at": "2026-02-25T00:00:00Z",
       "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-9.html",
       "summary": "The Office of the Comptroller of the Currency (OCC) today issued a proposed rulemaking to implement the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act."
-    },
-    {
-      "category": "Banking",
-      "source": "OCC",
-      "title": "GENIUS Act Regulations: Notice of Proposed Rulemaking",
-      "published_at": "2026-02-25T00:00:00Z",
-      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-3.html",
-      "summary": ""
     },
     {
       "category": "Mortgage",
@@ -1688,14 +1600,6 @@
       "summary": "The FDIC Board of Directors today approved a final rule to streamline the processes for the establishment and relocation of domestic branches and main offices."
     },
     {
-      "category": "Banking",
-      "source": "FRB",
-      "title": "RSS",
-      "published_at": "2026-02-24T00:00:00Z",
-      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
-      "summary": ""
-    },
-    {
       "category": "Legislative",
       "source": "House Financial Services",
       "title": "VIDEO: Delivering for America: Strengthening the Economy, Expanding Opportunity",
@@ -1726,14 +1630,6 @@
       "published_at": "2026-02-24T00:00:00Z",
       "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-report-fourth-quarter-earnings-february-24-2026",
       "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "Wolters Kluwer",
-      "title": "AI driven Finance takes center stage as CCH® Tagetik earns multiple 2025 Dresner Application Innovation Awards",
-      "published_at": "2026-02-24T00:00:00Z",
-      "url": "https://www.wolterskluwer.com/en/news/dresner-application-innovation-awards",
-      "summary": "CCH Tagetik Powered by Expert AI has once again been recognized as a top innovator, earning multiple honors in the 2025 Dresner Advisory Services Application Innovation Awards."
     },
     {
       "category": "Federal Register",
@@ -5441,6 +5337,14 @@
       "title": "Treasury Announces Public-Private Initiative to Strengthen Cybersecurity and Risk Management for AI",
       "published_at": "2026-02-18T18:00:00Z",
       "url": "https://home.treasury.gov/news/press-releases/sb0395",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "President Trump Celebrates Black History Month: Advancing Opportunity and Prosperity for Every American",
+      "published_at": "2026-02-18T17:25:08Z",
+      "url": "https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-black-history-month-advancing-opportunity-and-prosperity-for-every-american/",
       "summary": ""
     },
     {
@@ -17460,14 +17364,6 @@
       "summary": ""
     },
     {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "### Ericsson and Mastercard enhance global digital money movement and accelerate digital financial inclusion February 18, 2026",
-      "published_at": "2026-02-18T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/february/Ericsson-Mastercard-enhance-global-digital-money-movement-accelerate-digital-financial-inclusion.html",
-      "summary": ""
-    },
-    {
       "category": "Compliance Watch",
       "source": "ABA",
       "title": "Wealth & Trust 360",
@@ -17548,36 +17444,12 @@
       "summary": ""
     },
     {
-      "category": "Banking",
-      "source": "OCC",
-      "title": "OCC Requests Comment on Proposed Rulemaking on the Bank Appeals Process",
-      "published_at": "2026-02-17T00:00:00Z",
-      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-7.html",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today requested comment on a proposal to establish revised procedures and policies for appeals by OCC-supervised entities of material supervisory determinations."
-    },
-    {
-      "category": "Banking",
-      "source": "OCC",
-      "title": "Bank Appeals Process: Notice of Proposed Rulemaking",
-      "published_at": "2026-02-17T00:00:00Z",
-      "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-2.html",
-      "summary": ""
-    },
-    {
       "category": "Mortgage",
       "source": "Fannie Mae",
       "title": "Data and Insights",
       "published_at": "2026-02-17T00:00:00Z",
       "url": "https://www.fanniemae.com/data-and-insights",
       "summary": "Fannie Mae’s market intelligence helps you understand changes in the housing and economic environment today and what it might signal for tomorrow."
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "### Cloudflare and Mastercard partner to extend comprehensive cyber defense across critical infrastructure and small businesses February 17, 2026",
-      "published_at": "2026-02-17T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/february/cloudflare-and-mastercard-to-extend-comprehensive-cyber-defense-.html",
-      "summary": ""
     },
     {
       "category": "Compliance Watch",
@@ -18206,14 +18078,6 @@
       "title": "AI tipping point reached as just 2% of financial institutions report no AI use, finds Finastra Research",
       "published_at": "2026-02-10T12:00:00Z",
       "url": "https://www.finastra.com/press-media/ai-tipping-point-reached-just-2-financial-institutions-report-no-ai-use-finds-finastra",
-      "summary": ""
-    },
-    {
-      "category": "Fintech Watch",
-      "source": "Finastra",
-      "title": "Finastra research finds AI adoption rising in Vietnam’s financial sector, but security and legacy systems limit scale",
-      "published_at": "2026-02-10T12:00:00Z",
-      "url": "https://www.finastra.com/press-media/finastra-research-finds-ai-adoption-rising-vietnams-financial-sector-security-and",
       "summary": ""
     },
     {
