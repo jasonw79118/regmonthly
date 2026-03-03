@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-03T17:34:07Z",
-  "generated_at_ct": "2026-03-03T11:34:07-06:00",
+  "generated_at_utc": "2026-03-03T19:37:34Z",
+  "generated_at_ct": "2026-03-03T13:37:34-06:00",
   "items": [
     {
       "category": "OFAC",
@@ -445,14 +445,6 @@
       "summary": "Information published."
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
-      "summary": ""
-    },
-    {
       "category": "Compliance Watch",
       "source": "ABA",
       "title": "Consumer Lending",
@@ -531,6 +523,14 @@
       "published_at": "2026-02-27T15:02:09Z",
       "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb983",
       "summary": "PRESS RELEASE | FEBRUARY 27, 2026 FDIC Publishes Enforcement Orders for January 2026 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026. There are no administrative hearings scheduled for March 2026. Consent Orders Community Bank & Trust West Ge…"
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Visa Completes Acquisition of Prisma and Newpay",
+      "published_at": "2026-02-27T13:00:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html",
+      "summary": "BUENOS AIRES, Argentina & SAN FRANCISCO --(BUSINESS WIRE)--Feb. 27, 2026-- Visa (NYSE: V) today announced it has completed its acquisition of Prisma Medios de Pago S.A.U. (\"Prisma\") and Newpay S.A.U. (\"Newpay\") in Argentina. This transaction strengthens Visa's commitment to advancing payment"
     },
     {
       "category": "IS",
@@ -1357,14 +1357,6 @@
       "title": "Radical Left’s Rebuttal Will Contrast Democrat Extremism with President Trump’s Road to Prosperity",
       "published_at": "2026-02-24T17:58:15Z",
       "url": "https://www.whitehouse.gov/articles/2026/02/radical-lefts-rebuttal-will-contrast-democrat-extremism-with-president-trumps-road-to-prosperity/",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "ONDCP Launches New Public Awareness Effort Focused on Saving Lives Through Drug Prevention",
-      "published_at": "2026-02-24T17:11:34Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/ondcp-launches-new-public-awareness-effort-focused-on-saving-lives-through-drug-prevention/",
       "summary": ""
     },
     {
@@ -18973,14 +18965,6 @@
       "published_at": "2026-02-04T21:30:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm",
       "summary": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered"
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "New Milestone in Operation Metro Surge: 4,000+ Criminal Illegals Removed from Minnesota Streets",
-      "published_at": "2026-02-04T21:19:41Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/new-milestone-in-operation-metro-surge-4000-criminal-illegals-removed-from-minnesota-streets/",
-      "summary": ""
     },
     {
       "category": "Executive",

@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-03T11:34:07-06:00` (CT) — `2026-03-03T17:34:07Z` (UTC)
+Last updated: `2026-03-03T13:37:34-06:00` (CT) — `2026-03-03T19:37:34Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -435,12 +435,6 @@ Information published.
 
 Information published.
 
-## QuickLens Chrome extension steals crypto, shows ClickFix attack
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/
-
 ## Consumer Lending
 - Source: ABA
 - Category: Compliance Watch
@@ -516,6 +510,14 @@ Download links fixed
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb983
 
 PRESS RELEASE | FEBRUARY 27, 2026 FDIC Publishes Enforcement Orders for January 2026 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026. There are no administrative hearings scheduled for March 2026. Consent Orders Community Bank & Trust West Ge…
+
+## Visa Completes Acquisition of Prisma and Newpay
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-27T13:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html
+
+BUENOS AIRES, Argentina & SAN FRANCISCO --(BUSINESS WIRE)--Feb. 27, 2026-- Visa (NYSE: V) today announced it has completed its acquisition of Prisma Medios de Pago S.A.U. ("Prisma") and Newpay S.A.U. ("Newpay") in Argentina. This transaction strengthens Visa's commitment to advancing payment
 
 ## CVE-2026-21620 TFTP Path Traversal
 - Source: Microsoft MSRC
@@ -1180,12 +1182,6 @@ Minutes of the Board's discount rate meetings on January 20 and 28, 2026
 - Category: Executive
 - Published: 2026-02-24T17:58:15Z
 - URL: https://www.whitehouse.gov/articles/2026/02/radical-lefts-rebuttal-will-contrast-democrat-extremism-with-president-trumps-road-to-prosperity/
-
-## ONDCP Launches New Public Awareness Effort Focused on Saving Lives Through Drug Prevention
-- Source: White House
-- Category: Executive
-- Published: 2026-02-24T17:11:34Z
-- URL: https://www.whitehouse.gov/articles/2026/02/ondcp-launches-new-public-awareness-effort-focused-on-saving-lives-through-drug-prevention/
 
 ## First Lady Melania Trump’s State of the Union Guests Reflect Her Impact on Education, Tech, and the Foster Community
 - Source: White House
@@ -18392,12 +18388,6 @@ User interface (ui) misrepresentation of critical information in Microsoft Edge 
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm
 
 Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered
-
-## New Milestone in Operation Metro Surge: 4,000+ Criminal Illegals Removed from Minnesota Streets
-- Source: White House
-- Category: Executive
-- Published: 2026-02-04T21:19:41Z
-- URL: https://www.whitehouse.gov/articles/2026/02/new-milestone-in-operation-metro-surge-4000-criminal-illegals-removed-from-minnesota-streets/
 
 ## First Lady Melania Trump Holds Private Meeting with Freed American-Israeli Hostage Keith Siegel After Helping Secure His Release
 - Source: White House

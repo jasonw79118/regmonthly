@@ -379,12 +379,6 @@ CVE-2023-54207 HID: uclogic: Correct devm device reference for hidinput input_de
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-54207
 Information published.
 ------------------------------------------------------------
-IS
-BleepingComputer
-2026-02-28T00:00:00Z
-QuickLens Chrome extension steals crypto, shows ClickFix attack
-https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/
-------------------------------------------------------------
 Compliance Watch
 ABA
 2026-02-28T00:00:00Z
@@ -452,6 +446,13 @@ FDIC
 Press Release: FDIC Publishes Enforcement Orders for January 2026
 https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb983
 PRESS RELEASE | FEBRUARY 27, 2026 FDIC Publishes Enforcement Orders for January 2026 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026. There are no administrative hearings scheduled for March 2026. Consent Orders Community Bank & Trust West Ge…
+------------------------------------------------------------
+Payment Card Networks
+Visa
+2026-02-27T13:00:00Z
+Visa Completes Acquisition of Prisma and Newpay
+https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html
+BUENOS AIRES, Argentina & SAN FRANCISCO --(BUSINESS WIRE)--Feb. 27, 2026-- Visa (NYSE: V) today announced it has completed its acquisition of Prisma Medios de Pago S.A.U. ("Prisma") and Newpay S.A.U. ("Newpay") in Argentina. This transaction strengthens Visa's commitment to advancing payment
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -1057,12 +1058,6 @@ White House
 2026-02-24T17:58:15Z
 Radical Left’s Rebuttal Will Contrast Democrat Extremism with President Trump’s Road to Prosperity
 https://www.whitehouse.gov/articles/2026/02/radical-lefts-rebuttal-will-contrast-democrat-extremism-with-president-trumps-road-to-prosperity/
-------------------------------------------------------------
-Executive
-White House
-2026-02-24T17:11:34Z
-ONDCP Launches New Public Awareness Effort Focused on Saving Lives Through Drug Prevention
-https://www.whitehouse.gov/articles/2026/02/ondcp-launches-new-public-awareness-effort-focused-on-saving-lives-through-drug-prevention/
 ------------------------------------------------------------
 Executive
 White House
@@ -16224,12 +16219,6 @@ FRB
 Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered
 https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm
 Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered
-------------------------------------------------------------
-Executive
-White House
-2026-02-04T21:19:41Z
-New Milestone in Operation Metro Surge: 4,000+ Criminal Illegals Removed from Minnesota Streets
-https://www.whitehouse.gov/articles/2026/02/new-milestone-in-operation-metro-surge-4000-criminal-illegals-removed-from-minnesota-streets/
 ------------------------------------------------------------
 Executive
 White House

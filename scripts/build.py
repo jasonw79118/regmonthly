@@ -535,6 +535,15 @@ def allowed_for_source(source: str, url: str) -> bool:
     if h in GLOBAL_DENY_DOMAINS:
         return False
 
+        # NACHA: don't treat hub/listing pages as articles
+    if source == "NACHA":
+        try:
+            u = urlparse(url)
+            if (u.netloc or "").endswith("nacha.org") and (u.path or "").rstrip("/") == "/news":
+                return False
+        except Exception:
+            pass
+
     rules = SOURCE_RULES.get(source, {})
     deny = set(rules.get("deny_domains", set()))
     if h in deny:
@@ -719,10 +728,10 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
                 )
                 if pr.status_code < 400:
                     txtp = pr.text or ""
-                    if not looks_like_error_html(txtp):
-                        return txtp
-                    else:
+                    if looks_like_error_html(txtp):
+                        # Mastercard proxy content can look "error-like" even when it still contains the press-release body.
                         print(f"[warn] proxy returned error-like content: {url}", flush=True)
+                    return txtp
                 else:
                     print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
             except Exception as e:
