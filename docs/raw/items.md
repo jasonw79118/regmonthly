@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-02T16:25:19-06:00` (CT) — `2026-03-02T22:25:19Z` (UTC)
+Last updated: `2026-03-02T17:03:56-06:00` (CT) — `2026-03-02T23:03:56Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -573,6 +573,14 @@ PRESS RELEASE | FEBRUARY 27, 2026 FDIC Publishes Enforcement Orders for January 
 
 Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface. Action1 explains how third-party software drift increases exploit risk and why consistent patching reduces exposure across endpoints. [...]
 
+## Visa Completes Acquisition of Prisma and Newpay
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-27T13:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html
+
+BUENOS AIRES, Argentina & SAN FRANCISCO --(BUSINESS WIRE)--Feb. 27, 2026-- Visa (NYSE: V) today announced it has completed its acquisition of Prisma Medios de Pago S.A.U. ("Prisma") and Newpay S.A.U. ("Newpay") in Argentina. This transaction strengthens Visa's commitment to advancing payment
+
 ## CVE-2026-21620 TFTP Path Traversal
 - Source: Microsoft MSRC
 - Category: IS
@@ -682,78 +690,6 @@ IR-2026-27, Feb. 27, 2026 — The Department of the Treasury and the Internal Re
 - Category: Legislative
 - Published: 2026-02-27T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/van-hollen-banking-committee-democrats-press-bondi-and-bessent-to-investigate-binance-following-reports-of-flouting-sanctions-us-law
-
-## Visa Completes Acquisition of Prisma and Newpay
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html
-
-## Visa to Acquire Prisma Medios de Pago and Newpay in Argentina
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22176.html
-
-## Visa Renews Partnership Across Red Bull Formula One Teams
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html
-
-## Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html
-
-## Visa to Participate in Upcoming Investor Conferences
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html
-
-## Visa Introduces Visa & Main, A New Platform to Accelerate Small Business Growth Across the U.S.
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22121.html
-
-## Visa Direct and UnionPay International Will Extend Global Money Movement Network to Billions of Cards in Chinese Mainland
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22101.html
-
-## Visa Fiscal First Quarter 2026 Financial Results
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22086.html
-
-## Visa Spending Study Shows How Americans Will Use AI to Plan, Book and Spend on Winter Sports
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22026.html
-
-## Visa Debuts Milano Cortina 2026 Campaign Starring Record‑Breaking Athletes Mikaela Shiffrin and Oksana Masters
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22021.html
-
-## Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html
-
-## Visa 2026 Global Economic Outlook: AI Adoption and Shifting Trade Patterns Drive Economic Transformation Beneath Steady Growth
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
 
 ## Ukrainian man pleads guilty to running AI-powered fake ID site
 - Source: BleepingComputer
@@ -1550,6 +1486,12 @@ The Board of Directors of the FDIC today approved a 2026 budget of $2.49 billion
 - URL: https://www.fdic.gov/news/press-releases/2025/fdic-board-directors-approves-final-rule-establishment-and-relocation
 
 The FDIC Board of Directors today approved a final rule to streamline the processes for the establishment and relocation of domestic branches and main offices.
+
+## RSS
+- Source: FRB
+- Category: Banking
+- Published: 2026-02-24T00:00:00Z
+- URL: https://www.federalreserve.gov/feeds/press_all.xml
 
 ## VIDEO: Delivering for America: Strengthening the Economy, Expanding Opportunity
 - Source: House Financial Services
@@ -4277,11 +4219,27 @@ Corrected the CVE description and title. This is an informational change only.
 - Published: 2026-02-19T15:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0399
 
+## Visa to Acquire Prisma Medios de Pago and Newpay in Argentina
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-19T14:08:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22176.html
+
+BUENOS AIRES, Argentina --(BUSINESS WIRE)--Feb. 19, 2026-- Visa (NYSE: V) today announced that it has entered into a definitive agreement to acquire Prisma Medios de Pago S.A.U. (“Prisma”) and Newpay S.A.U. (“Newpay”) in Argentina from Advent International.
+
 ## Secretary Bessent Announces 2026 G20 Finance Track Agenda and Finance Ministers and Central Bank Governors Meeting in Asheville, North Carolina
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-02-19T14:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0398
+
+## Visa Renews Partnership Across Red Bull Formula One Teams
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-19T14:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html
+
+Long‑term renewal deepens Visa’s presence across Red Bull F1 Teams with enhanced branding, fan access and client experiences Renewed partnership to expand support of Oracle Red Bull Racing and Visa Cash App Racing Bulls SAN FRANCISCO & FAENZA, Italy & MILTON KEYNES, England --(BUSINESS WIRE)--Feb.
 
 ## Chromium: CVE-2026-2322 Heap buffer overflow in Codecs
 - Source: Microsoft MSRC
@@ -5152,12 +5110,6 @@ Minutes of the Federal Open Market Committee, January 27–28, 2026
 - Category: OFAC
 - Published: 2026-02-18T18:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0395
-
-## President Trump Celebrates Black History Month: Advancing Opportunity and Prosperity for Every American
-- Source: White House
-- Category: Executive
-- Published: 2026-02-18T17:25:08Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-black-history-month-advancing-opportunity-and-prosperity-for-every-american/
 
 ## Presidential Message on Ash Wednesday
 - Source: White House
@@ -17165,6 +17117,12 @@ The Federal Reserve Board of Governors in Washington DC.
 - Published: 2026-02-18T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-07
 
+## ### Ericsson and Mastercard enhance global digital money movement and accelerate digital financial inclusion February 18, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-02-18T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/february/Ericsson-Mastercard-enhance-global-digital-money-movement-accelerate-digital-financial-inclusion.html
+
 ## Wealth & Trust 360
 - Source: ABA
 - Category: Compliance Watch
@@ -17257,6 +17215,12 @@ The Office of the Comptroller of the Currency (OCC) today requested comment on a
 
 Fannie Mae’s market intelligence helps you understand changes in the housing and economic environment today and what it might signal for tomorrow.
 
+## ### Cloudflare and Mastercard partner to extend comprehensive cyber defense across critical infrastructure and small businesses February 17, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-02-17T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/february/cloudflare-and-mastercard-to-extend-comprehensive-cyber-defense-.html
+
 ## Incident Response
 - Source: ABA
 - Category: Compliance Watch
@@ -17272,6 +17236,14 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 - URL: https://www.federalregister.gov/documents/2026/02/17/2026-03082/agency-information-collection-activities-proposed-collection-renewal-comment-request
 
 The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0046; -0118; -0174; 0188 and -0202). The notices of proposed renewal for these information collections were pr…
+
+## Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-16T08:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html
+
+Northern Italy sees more than 60% increase in Visa cardholder visitors from overseas, with an increase in purchases up 80% compared to the same period in 2025 Significant increase in spending from Visa cardholders in many areas of commerce including Clothing & Accessories, Restaurants and Mobility
 
 ## Presidential Message on Susan B. Anthony Day
 - Source: White House
@@ -17528,6 +17500,14 @@ The NCUA Board (Board) is seeking comment on proposed regulations to implement p
 - Category: Executive
 - Published: 2026-02-11T21:57:59Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-strengthens-united-states-national-defense-with-americas-beautiful-clean-coal-power-generation-fleet/
+
+## Visa to Participate in Upcoming Investor Conferences
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-11T21:05:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html
+
+SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced its participation in the following investor conferences. On Tuesday, March 3, Jack Forestell, Chief Product and Strategy Officer, will present at the Morgan Stanley Technology, Media & Telecom Conference.
 
 ## First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day
 - Source: White House
@@ -18491,6 +18471,14 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 
 PRESS RELEASE | FEBRUARY 5, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in November 2025. The CRA is a 1…
 
+## Visa Introduces Visa & Main, A New Platform to Accelerate Small Business Growth Across the U.S.
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-05T12:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22121.html
+
+New program aims to tackle biggest challenges for entrepreneurs across three pillars: Business Capital, Business Connect and Business Essentials Visa &amp; Main launches $100M working capital facility SAN FRANCISCO &amp; ATLANTA --(BUSINESS WIRE)--Feb. 5, 2026-- Visa (NYSE: V) today announced the launch of
+
 ## CVE-2026-24302 Azure Arc Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -18654,6 +18642,14 @@ The Office of Personnel Management (OPM) proposes to amend its retirement regula
 - URL: https://www.cdiaonline.org/events/2026/02/03/whats-ahead-for-cdia-connect/
 
 Join legal experts, industry leaders, and regulators at 2026 CDIA Connect as we shape the future of the consumer reporting industry. Last year,... The post What’s Ahead for CDIA Connect? appeared first on CDIA .
+
+## Visa Direct and UnionPay International Will Extend Global Money Movement Network to Billions of Cards in Chinese Mainland
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-03T12:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22101.html
+
+By connecting Visa Direct’s card network to UnionPay International’s (UPI) MoneyExpress platform, Visa Direct will unlock real‑time 1 cross‑border money movement in one of the world’s largest remittance corridors SAN FRANCISCO &amp; DOHA, Qatar --(BUSINESS WIRE)--Feb.
 
 ## Issuance of Venezuela-related General License
 - Source: OFAC

@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-02T22:25:19Z",
-  "generated_at_ct": "2026-03-02T16:25:19-06:00",
+  "generated_at_utc": "2026-03-02T23:03:56Z",
+  "generated_at_ct": "2026-03-02T17:03:56-06:00",
   "items": [
     {
       "category": "OFAC",
@@ -589,6 +589,14 @@
       "summary": "Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface. Action1 explains how third-party software drift increases exploit risk and why consistent patching reduces exposure across endpoints. [...]"
     },
     {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Visa Completes Acquisition of Prisma and Newpay",
+      "published_at": "2026-02-27T13:00:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html",
+      "summary": "BUENOS AIRES, Argentina & SAN FRANCISCO --(BUSINESS WIRE)--Feb. 27, 2026-- Visa (NYSE: V) today announced it has completed its acquisition of Prisma Medios de Pago S.A.U. (\"Prisma\") and Newpay S.A.U. (\"Newpay\") in Argentina. This transaction strengthens Visa's commitment to advancing payment"
+    },
+    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2026-21620 TFTP Path Traversal",
@@ -714,102 +722,6 @@
       "title": "Van Hollen, Banking Committee Democrats Press Bondi and Bessent to Investigate Binance Following Reports of Flouting Sanctions, US Law",
       "published_at": "2026-02-27T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/van-hollen-banking-committee-democrats-press-bondi-and-bessent-to-investigate-binance-following-reports-of-flouting-sanctions-us-law",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa Completes Acquisition of Prisma and Newpay",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa to Acquire Prisma Medios de Pago and Newpay in Argentina",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22176.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa Renews Partnership Across Red Bull Formula One Teams",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa to Participate in Upcoming Investor Conferences",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa Introduces Visa & Main, A New Platform to Accelerate Small Business Growth Across the U.S.",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22121.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa Direct and UnionPay International Will Extend Global Money Movement Network to Billions of Cards in Chinese Mainland",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22101.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa Fiscal First Quarter 2026 Financial Results",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22086.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa Spending Study Shows How Americans Will Use AI to Plan, Book and Spend on Winter Sports",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22026.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa Debuts Milano Cortina 2026 Campaign Starring Record‑Breaking Athletes Mikaela Shiffrin and Oksana Masters",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22021.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa 2026 Global Economic Outlook: AI Adoption and Shifting Trade Patterns Drive Economic Transformation Beneath Steady Growth",
-      "published_at": "2026-02-27T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html",
       "summary": ""
     },
     {
@@ -1774,6 +1686,14 @@
       "published_at": "2026-02-24T00:00:00Z",
       "url": "https://www.fdic.gov/news/press-releases/2025/fdic-board-directors-approves-final-rule-establishment-and-relocation",
       "summary": "The FDIC Board of Directors today approved a final rule to streamline the processes for the establishment and relocation of domestic branches and main offices."
+    },
+    {
+      "category": "Banking",
+      "source": "FRB",
+      "title": "RSS",
+      "published_at": "2026-02-24T00:00:00Z",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "summary": ""
     },
     {
       "category": "Legislative",
@@ -4601,12 +4521,28 @@
       "summary": ""
     },
     {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Visa to Acquire Prisma Medios de Pago and Newpay in Argentina",
+      "published_at": "2026-02-19T14:08:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22176.html",
+      "summary": "BUENOS AIRES, Argentina --(BUSINESS WIRE)--Feb. 19, 2026-- Visa (NYSE: V) today announced that it has entered into a definitive agreement to acquire Prisma Medios de Pago S.A.U. (“Prisma”) and Newpay S.A.U. (“Newpay”) in Argentina from Advent International."
+    },
+    {
       "category": "OFAC",
       "source": "Treasury",
       "title": "Secretary Bessent Announces 2026 G20 Finance Track Agenda and Finance Ministers and Central Bank Governors Meeting in Asheville, North Carolina",
       "published_at": "2026-02-19T14:00:00Z",
       "url": "https://home.treasury.gov/news/press-releases/sb0398",
       "summary": ""
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Visa Renews Partnership Across Red Bull Formula One Teams",
+      "published_at": "2026-02-19T14:00:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html",
+      "summary": "Long‑term renewal deepens Visa’s presence across Red Bull F1 Teams with enhanced branding, fan access and client experiences Renewed partnership to expand support of Oracle Red Bull Racing and Visa Cash App Racing Bulls SAN FRANCISCO & FAENZA, Italy & MILTON KEYNES, England --(BUSINESS WIRE)--Feb."
     },
     {
       "category": "IS",
@@ -5505,14 +5441,6 @@
       "title": "Treasury Announces Public-Private Initiative to Strengthen Cybersecurity and Risk Management for AI",
       "published_at": "2026-02-18T18:00:00Z",
       "url": "https://home.treasury.gov/news/press-releases/sb0395",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "President Trump Celebrates Black History Month: Advancing Opportunity and Prosperity for Every American",
-      "published_at": "2026-02-18T17:25:08Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-black-history-month-advancing-opportunity-and-prosperity-for-every-american/",
       "summary": ""
     },
     {
@@ -17532,6 +17460,14 @@
       "summary": ""
     },
     {
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Ericsson and Mastercard enhance global digital money movement and accelerate digital financial inclusion February 18, 2026",
+      "published_at": "2026-02-18T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/february/Ericsson-Mastercard-enhance-global-digital-money-movement-accelerate-digital-financial-inclusion.html",
+      "summary": ""
+    },
+    {
       "category": "Compliance Watch",
       "source": "ABA",
       "title": "Wealth & Trust 360",
@@ -17636,6 +17572,14 @@
       "summary": "Fannie Mae’s market intelligence helps you understand changes in the housing and economic environment today and what it might signal for tomorrow."
     },
     {
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Cloudflare and Mastercard partner to extend comprehensive cyber defense across critical infrastructure and small businesses February 17, 2026",
+      "published_at": "2026-02-17T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/february/cloudflare-and-mastercard-to-extend-comprehensive-cyber-defense-.html",
+      "summary": ""
+    },
+    {
       "category": "Compliance Watch",
       "source": "ABA",
       "title": "Incident Response",
@@ -17655,6 +17599,14 @@
         "filter:federal-deposit-insurance-corporation"
       ],
       "fedreg_document_number": "2026-03082"
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026",
+      "published_at": "2026-02-16T08:00:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html",
+      "summary": "Northern Italy sees more than 60% increase in Visa cardholder visitors from overseas, with an increase in purchases up 80% compared to the same period in 2025 Significant increase in spending from Visa cardholders in many areas of commerce including Clothing & Accessories, Restaurants and Mobility"
     },
     {
       "category": "Executive",
@@ -17970,6 +17922,14 @@
       "published_at": "2026-02-11T21:57:59Z",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-strengthens-united-states-national-defense-with-americas-beautiful-clean-coal-power-generation-fleet/",
       "summary": ""
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Visa to Participate in Upcoming Investor Conferences",
+      "published_at": "2026-02-11T21:05:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html",
+      "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced its participation in the following investor conferences. On Tuesday, March 3, Jack Forestell, Chief Product and Strategy Officer, will present at the Morgan Stanley Technology, Media & Telecom Conference."
     },
     {
       "category": "Executive",
@@ -19111,6 +19071,14 @@
       "summary": "PRESS RELEASE | FEBRUARY 5, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in November 2025. The CRA is a 1…"
     },
     {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Visa Introduces Visa & Main, A New Platform to Accelerate Small Business Growth Across the U.S.",
+      "published_at": "2026-02-05T12:00:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22121.html",
+      "summary": "New program aims to tackle biggest challenges for entrepreneurs across three pillars: Business Capital, Business Connect and Business Essentials Visa &amp; Main launches $100M working capital facility SAN FRANCISCO &amp; ATLANTA --(BUSINESS WIRE)--Feb. 5, 2026-- Visa (NYSE: V) today announced the launch of"
+    },
+    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2026-24302 Azure Arc Elevation of Privilege Vulnerability",
@@ -19312,6 +19280,14 @@
       "published_at": "2026-02-03T16:08:08Z",
       "url": "https://www.cdiaonline.org/events/2026/02/03/whats-ahead-for-cdia-connect/",
       "summary": "Join legal experts, industry leaders, and regulators at 2026 CDIA Connect as we shape the future of the consumer reporting industry. Last year,... The post What’s Ahead for CDIA Connect? appeared first on CDIA ."
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Visa Direct and UnionPay International Will Extend Global Money Movement Network to Billions of Cards in Chinese Mainland",
+      "published_at": "2026-02-03T12:00:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22101.html",
+      "summary": "By connecting Visa Direct’s card network to UnionPay International’s (UPI) MoneyExpress platform, Visa Direct will unlock real‑time 1 cross‑border money movement in one of the world’s largest remittance corridors SAN FRANCISCO &amp; DOHA, Qatar --(BUSINESS WIRE)--Feb."
     },
     {
       "category": "OFAC",

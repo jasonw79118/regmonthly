@@ -87,7 +87,7 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
 }
 
 # Sources where we keep listing links but DO NOT fetch detail pages (to avoid blocks/timeouts)
-SKIP_DETAIL_SOURCES = {"Fannie Mae"}
+SKIP_DETAIL_SOURCES = {"Visa", "Fannie Mae"}
 DEFAULT_SOURCE_DETAIL_CAP = 15
 
 UA = "regmonthly/1.0 (+https://github.com/jasonw79118/regmonthly)"
@@ -895,7 +895,16 @@ def irs_news_releases_for_month_url(window_start_ct: datetime) -> str:
 # DATE PATTERNS
 # ============================
 
-MONTH_DATE_RE = re.compile(r"(?P<md>([A-Z][a-z]{2,9})\.?\s+\d{1,2},\s+\d{4})", re.I)
+# Examples:
+#   "February 23, 2026" / "Feb 23, 2026"
+#   "February 23 2026"  / "Feb 23 2026"
+#   "23 February 2026"  / "23 Feb 2026"
+#   "2/23/2026"
+#   "2026-02-23"
+MONTH_DATE_RE = re.compile(r"(?P<md>\b[A-Z][a-z]{2,9}\.?\s+\d{1,2},\s+\d{4}\b)", re.I)
+MONTH_DATE_NOCOMMA_RE = re.compile(r"(?P<mnc>\b[A-Z][a-z]{2,9}\.?\s+\d{1,2}\s+\d{4}\b)", re.I)
+DMY_MONTH_RE = re.compile(r"(?P<dmy>\b\d{1,2}\s+[A-Z][a-z]{2,9}\.?\s+\d{4}\b)", re.I)
+
 SLASH_DATE_RE = re.compile(r"(?P<sd>\b\d{1,2}/\d{1,2}/\d{2,4}\b)")
 ISO_DATE_RE = re.compile(r"(?P<id>\b\d{4}-\d{2}-\d{2}\b)")
 
@@ -905,6 +914,47 @@ DAYFIRST_SOURCES: set[str] = set()
 def extract_any_date(text: str, source: str = "") -> Optional[datetime]:
     if not text:
         return None
+
+    # Month name with comma (most common)
+    m = MONTH_DATE_RE.search(text)
+    if m:
+        dt = parse_date(m.group("md"))
+        if dt:
+            return dt
+
+    # Month name without comma (common on some corporate sites / proxy text)
+    m = MONTH_DATE_NOCOMMA_RE.search(text)
+    if m:
+        dt = parse_date(m.group("mnc"))
+        if dt:
+            return dt
+
+    # Day-first month name (common outside US, sometimes appears in proxy text)
+    m = DMY_MONTH_RE.search(text)
+    if m:
+        dt = parse_date(m.group("dmy"), dayfirst=True)
+        if dt:
+            return dt
+
+    # Slash dates
+    m = SLASH_DATE_RE.search(text)
+    if m:
+        sd = m.group("sd")
+        if source == "Visa":
+            dt = parse_slash_date_best(sd)
+        else:
+            dt = parse_date(sd, dayfirst=(source in DAYFIRST_SOURCES))
+        if dt:
+            return dt
+
+    # ISO dates
+    m = ISO_DATE_RE.search(text)
+    if m:
+        dt = parse_date(m.group("id"))
+        if dt:
+            return dt
+
+    return None
 
     m = MONTH_DATE_RE.search(text)
     if m:
@@ -3718,7 +3768,23 @@ def build() -> None:
 
                 snippet = ""
 
-                # If Visa has a date but outside window, let detail override
+                # For Payment Card Networks (Visa/Mastercard), the listing page dates can be unreliable
+                # (often showing a single day for many links). Prefer detail-page dates when available.
+                if source in {"Visa", "Mastercard"} and src_cap > 0:
+                    if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
+                        detail_html = polite_get(url)
+                        if detail_html:
+                            global_detail_fetches += 1
+                            src_used += 1
+                            per_source_detail_fetches[source] = src_used
+
+                            dt2, snippet2 = extract_published_from_detail(url, detail_html, source=source)
+                            if dt2:
+                                dt = dt2
+                            if snippet2:
+                                snippet = snippet2
+
+                # If Visa has a date but outside window, let detail override (legacy behavior)
                 if source == "Visa" and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
                     if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
                         detail_html = polite_get(url)
