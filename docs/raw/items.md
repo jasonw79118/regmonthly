@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-03T08:25:48-06:00` (CT) — `2026-03-03T14:25:48Z` (UTC)
+Last updated: `2026-03-03T10:14:46-06:00` (CT) — `2026-03-03T16:14:46Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -26,22 +26,6 @@ Last updated: `2026-03-03T08:25:48-06:00` (CT) — `2026-03-03T14:25:48Z` (UTC)
 - Category: IS
 - Published: 2026-03-01T00:00:00Z
 - URL: https://www.bleepingcomputer.com/offer/deals/1tb-lifetime-of-koffr-cloud-storage-is-just-160-for-a-limited-time/
-
-## QuickLens Chrome extension steals crypto, shows ClickFix attack
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-28T19:18:52Z
-- URL: https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/
-
-A Chrome extension named "QuickLens - Search Screen with Google Lens" has been removed from the Chrome Web Store after it was compromised to push malware and attempt to steal crypto from thousands of users. [...]
-
-## $4.8M in crypto stolen after Korean tax agency exposes wallet seed
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-28T15:17:23Z
-- URL: https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/
-
-South Korea's National Tax Service accidentally exposed the mnemonic recovery phrase of a seized cryptocurrency wallet in an official press release, allowing hackers to steal 6.4 billion won ($4.8M) worth in cryptocurrency. [...]
 
 ## CVE-2026-27571 nats-server websockets are vulnerable to pre-auth memory DoS
 - Source: Microsoft MSRC
@@ -451,11 +435,17 @@ Information published.
 
 Information published.
 
-## Just $80 gets you a refurbished travel-ready Lenovo Chromebook
+## QuickLens Chrome extension steals crypto, shows ClickFix attack
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-02-28T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/just-80-gets-you-a-refurbished-travel-ready-lenovo-chromebook/
+- URL: https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/
+
+## $4.8M in crypto stolen after Korean tax agency exposes wallet seed
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-02-28T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/
 
 ## Consumer Lending
 - Source: ABA
@@ -532,14 +522,6 @@ Download links fixed
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb983
 
 PRESS RELEASE | FEBRUARY 27, 2026 FDIC Publishes Enforcement Orders for January 2026 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026. There are no administrative hearings scheduled for March 2026. Consent Orders Community Bank & Trust West Ge…
-
-## Visa Completes Acquisition of Prisma and Newpay
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T13:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html
-
-BUENOS AIRES, Argentina & SAN FRANCISCO --(BUSINESS WIRE)--Feb. 27, 2026-- Visa (NYSE: V) today announced it has completed its acquisition of Prisma Medios de Pago S.A.U. ("Prisma") and Newpay S.A.U. ("Newpay") in Argentina. This transaction strengthens Visa's commitment to advancing payment
 
 ## CVE-2026-21620 TFTP Path Traversal
 - Source: Microsoft MSRC
@@ -632,12 +614,6 @@ IR-2026-27, Feb. 27, 2026 — The Department of the Treasury and the Internal Re
 - Category: Mortgage
 - Published: 2026-02-27T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-09
-
-## Microsoft testing Windows 11 batch file security improvements
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/
 
 ## Commercial & Industrial Loans
 - Source: ABA
@@ -1434,6 +1410,14 @@ The FDIC Board of Directors today approved a final rule to streamline the proces
 - Category: Fintech Watch
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-report-fourth-quarter-earnings-february-24-2026
+
+## AI driven Finance takes center stage as CCH® Tagetik earns multiple 2025 Dresner Application Innovation Awards
+- Source: Wolters Kluwer
+- Category: Compliance Watch
+- Published: 2026-02-24T00:00:00Z
+- URL: https://www.wolterskluwer.com/en/news/dresner-application-innovation-awards
+
+CCH Tagetik Powered by Expert AI has once again been recognized as a top innovator, earning multiple honors in the 2025 Dresner Advisory Services Application Innovation Awards.
 
 ## Agency Information Collection Activities: Comment Request
 - Source: Federal Register
@@ -4129,27 +4113,11 @@ Corrected the CVE description and title. This is an informational change only.
 - Published: 2026-02-19T15:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0399
 
-## Visa to Acquire Prisma Medios de Pago and Newpay in Argentina
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-19T14:08:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22176.html
-
-BUENOS AIRES, Argentina --(BUSINESS WIRE)--Feb. 19, 2026-- Visa (NYSE: V) today announced that it has entered into a definitive agreement to acquire Prisma Medios de Pago S.A.U. (“Prisma”) and Newpay S.A.U. (“Newpay”) in Argentina from Advent International.
-
 ## Secretary Bessent Announces 2026 G20 Finance Track Agenda and Finance Ministers and Central Bank Governors Meeting in Asheville, North Carolina
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-02-19T14:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0398
-
-## Visa Renews Partnership Across Red Bull Formula One Teams
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-19T14:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html
-
-Long‑term renewal deepens Visa’s presence across Red Bull F1 Teams with enhanced branding, fan access and client experiences Renewed partnership to expand support of Oracle Red Bull Racing and Visa Cash App Racing Bulls SAN FRANCISCO & FAENZA, Italy & MILTON KEYNES, England --(BUSINESS WIRE)--Feb.
 
 ## Chromium: CVE-2026-2322 Heap buffer overflow in Codecs
 - Source: Microsoft MSRC
@@ -17033,6 +17001,12 @@ The Federal Reserve Board of Governors in Washington DC.
 - Published: 2026-02-18T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-07
 
+## ### Ericsson and Mastercard enhance global digital money movement and accelerate digital financial inclusion February 18, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-02-18T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/february/Ericsson-Mastercard-enhance-global-digital-money-movement-accelerate-digital-financial-inclusion.html
+
 ## Wealth & Trust 360
 - Source: ABA
 - Category: Compliance Watch
@@ -17111,6 +17085,12 @@ Improper authentication in Windows Admin Center allows an authorized attacker to
 
 Fannie Mae’s market intelligence helps you understand changes in the housing and economic environment today and what it might signal for tomorrow.
 
+## ### Cloudflare and Mastercard partner to extend comprehensive cyber defense across critical infrastructure and small businesses February 17, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-02-17T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/february/cloudflare-and-mastercard-to-extend-comprehensive-cyber-defense-.html
+
 ## Incident Response
 - Source: ABA
 - Category: Compliance Watch
@@ -17126,14 +17106,6 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 - URL: https://www.federalregister.gov/documents/2026/02/17/2026-03082/agency-information-collection-activities-proposed-collection-renewal-comment-request
 
 The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0046; -0118; -0174; 0188 and -0202). The notices of proposed renewal for these information collections were pr…
-
-## Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-16T08:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html
-
-Northern Italy sees more than 60% increase in Visa cardholder visitors from overseas, with an increase in purchases up 80% compared to the same period in 2025 Significant increase in spending from Visa cardholders in many areas of commerce including Clothing & Accessories, Restaurants and Mobility
 
 ## Presidential Message on Susan B. Anthony Day
 - Source: White House
@@ -17390,14 +17362,6 @@ The NCUA Board (Board) is seeking comment on proposed regulations to implement p
 - Category: Executive
 - Published: 2026-02-11T21:57:59Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-strengthens-united-states-national-defense-with-americas-beautiful-clean-coal-power-generation-fleet/
-
-## Visa to Participate in Upcoming Investor Conferences
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-11T21:05:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html
-
-SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced its participation in the following investor conferences. On Tuesday, March 3, Jack Forestell, Chief Product and Strategy Officer, will present at the Morgan Stanley Technology, Media & Telecom Conference.
 
 ## First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day
 - Source: White House
@@ -18355,14 +18319,6 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 
 PRESS RELEASE | FEBRUARY 5, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in November 2025. The CRA is a 1…
 
-## Visa Introduces Visa & Main, A New Platform to Accelerate Small Business Growth Across the U.S.
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-05T12:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22121.html
-
-New program aims to tackle biggest challenges for entrepreneurs across three pillars: Business Capital, Business Connect and Business Essentials Visa &amp; Main launches $100M working capital facility SAN FRANCISCO &amp; ATLANTA --(BUSINESS WIRE)--Feb. 5, 2026-- Visa (NYSE: V) today announced the launch of
-
 ## CVE-2026-24302 Azure Arc Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -18526,14 +18482,6 @@ The Office of Personnel Management (OPM) proposes to amend its retirement regula
 - URL: https://www.cdiaonline.org/events/2026/02/03/whats-ahead-for-cdia-connect/
 
 Join legal experts, industry leaders, and regulators at 2026 CDIA Connect as we shape the future of the consumer reporting industry. Last year,... The post What’s Ahead for CDIA Connect? appeared first on CDIA .
-
-## Visa Direct and UnionPay International Will Extend Global Money Movement Network to Billions of Cards in Chinese Mainland
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-03T12:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22101.html
-
-By connecting Visa Direct’s card network to UnionPay International’s (UPI) MoneyExpress platform, Visa Direct will unlock real‑time 1 cross‑border money movement in one of the world’s largest remittance corridors SAN FRANCISCO &amp; DOHA, Qatar --(BUSINESS WIRE)--Feb.
 
 ## Issuance of Venezuela-related General License
 - Source: OFAC
