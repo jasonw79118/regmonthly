@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-03T13:37:34-06:00` (CT) — `2026-03-03T19:37:34Z` (UTC)
+Last updated: `2026-03-03T14:24:47-06:00` (CT) — `2026-03-03T20:24:47Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -435,14 +435,6 @@ Information published.
 
 Information published.
 
-## Consumer Lending
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/consumer-lending
-
-Enhance your knowledge and understanding of consumer loans and issues that effect them.
-
 ## Inclusive Banking
 - Source: ABA
 - Category: Compliance Watch
@@ -450,14 +442,6 @@ Enhance your knowledge and understanding of consumer loans and issues that effec
 - URL: https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
 
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-
-## Marketing & Communications
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/communications
-
-Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
 
 ## Preliminary Report on Foreign Holdings of U.S. Securities at End-June 2025
 - Source: Treasury
@@ -650,12 +634,6 @@ The Farm Credit Administration (FCA or we) requests comments on a proposed rule 
 - URL: https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical
 
 The Department is proposing to rescind the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA) currently set forth in 29 CFR part 795 and replace it with the analysis that it published and adopted in a prior final rule dated January 7, 2021, with a few modifications. In addition, the Department proposes to apply this ana…
-
-## Payments Innovation Alliance
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-26T17:39:46Z
-- URL: https://www.nacha.org/taxonomy/term/349
 
 ## Wolters Kluwer Survey finds integrated assurance is still elusive for most organizations
 - Source: Wolters Kluwer
@@ -867,14 +845,6 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-02-26T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-announces-proposed-offerings-senior-notes-0
 
-## Credit Cards
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-26T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments/credit-cards
-
-New credit card laws have fundamentally changed the industry.
-
 ## Debit Cards
 - Source: ABA
 - Category: Compliance Watch
@@ -922,24 +892,6 @@ The Board of Governors of the Federal Reserve System (Board) is inviting public 
 - URL: https://www.federalregister.gov/documents/2026/02/26/2026-03921/revocation-of-the-30-day-notification-requirement-prior-to-termination-of-lease-for-nonpayment-of
 
 This rule revokes the 2021 interim final rule and 2024 final rule requiring that public housing agencies (PHAs) and owners of properties receiving project-based rental assistance (PBRA) provide certain tenants with 30-day notification prior to termination of lease for nonpayment of rent. Regulatory requirements for notice of termination for nonpayment of rent will return to pr…
-
-## Education
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-25T21:11:23Z
-- URL: https://www.nacha.org/taxonomy/term/345
-
-## Accreditation
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-25T21:11:23Z
-- URL: https://www.nacha.org/taxonomy/term/346
-
-## Blog
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-25T21:11:23Z
-- URL: https://www.nacha.org/taxonomy/term/41
 
 ## WHAT THEY ARE SAYING: President Trump Heralds America’s Golden Age in Historic State of the Union Address
 - Source: White House
@@ -1182,6 +1134,12 @@ Minutes of the Board's discount rate meetings on January 20 and 28, 2026
 - Category: Executive
 - Published: 2026-02-24T17:58:15Z
 - URL: https://www.whitehouse.gov/articles/2026/02/radical-lefts-rebuttal-will-contrast-democrat-extremism-with-president-trumps-road-to-prosperity/
+
+## ONDCP Launches New Public Awareness Effort Focused on Saving Lives Through Drug Prevention
+- Source: White House
+- Category: Executive
+- Published: 2026-02-24T17:11:34Z
+- URL: https://www.whitehouse.gov/articles/2026/02/ondcp-launches-new-public-awareness-effort-focused-on-saving-lives-through-drug-prevention/
 
 ## First Lady Melania Trump’s State of the Union Guests Reflect Her Impact on Education, Tech, and the Foster Community
 - Source: White House
@@ -17391,12 +17349,6 @@ SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced 
 - Published: 2026-02-11T17:36:13Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-birthday-of-thomas-edison/
 
-## Payments Consulting
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-11T17:23:18Z
-- URL: https://www.nacha.org/taxonomy/term/362
-
 ## This Is the Trump Economy: Job Growth Crushes Expectations as More Americans Work for Higher Wages
 - Source: White House
 - Category: Executive
@@ -18081,12 +18033,6 @@ Added Affected Software for Windows packages
 
 Liability Reform & Competition and Impact on Risk to the Lender March 17, 2026 | 12:00 PM ET | CDIA Webinar (60 min)... The post New Webinar Alert! appeared first on CDIA .
 
-## Nacha Organization
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-09T08:26:53Z
-- URL: https://www.nacha.org/taxonomy/term/387
-
 ## Texas Bankers Annual Hall of Fame Gala set for April 23
 - Source: TBA
 - Category: Compliance Watch
@@ -18389,6 +18335,12 @@ User interface (ui) misrepresentation of critical information in Microsoft Edge 
 
 Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered
 
+## New Milestone in Operation Metro Surge: 4,000+ Criminal Illegals Removed from Minnesota Streets
+- Source: White House
+- Category: Executive
+- Published: 2026-02-04T21:19:41Z
+- URL: https://www.whitehouse.gov/articles/2026/02/new-milestone-in-operation-metro-surge-4000-criminal-illegals-removed-from-minnesota-streets/
+
 ## First Lady Melania Trump Holds Private Meeting with Freed American-Israeli Hostage Keith Siegel After Helping Secure His Release
 - Source: White House
 - Category: Executive
@@ -18612,9 +18564,3 @@ Agency statements, comments and additional information.
 - URL: https://www.federalregister.gov/documents/2026/02/02/2026-02073/agency-information-collection-activities-proposed-collection-renewal-comment-request
 
 The Federal Deposit Insurance Corporation (FDIC), as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on the renewal of the existing information collection described below (OMB Control No. 3064-0139).
-
-## Nacha Operating Rules
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-01T20:07:31Z
-- URL: https://www.nacha.org/taxonomy/term/338

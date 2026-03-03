@@ -382,23 +382,9 @@ Information published.
 Compliance Watch
 ABA
 2026-02-28T00:00:00Z
-Consumer Lending
-https://www.aba.com/banking-topics/consumer-banking/consumer-lending
-Enhance your knowledge and understanding of consumer loans and issues that effect them.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-02-28T00:00:00Z
 Inclusive Banking
 https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-02-28T00:00:00Z
-Marketing & Communications
-https://www.aba.com/banking-topics/communications
-Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
 ------------------------------------------------------------
 OFAC
 Treasury
@@ -573,12 +559,6 @@ Federal Register
 Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act
 https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical
 The Department is proposing to rescind the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA) currently set forth in 29 CFR part 795 and replace it with the analysis that it published and adopted in a prior final rule dated January 7, 2021, with a few modifications. In addition, the Department proposes to apply this ana…
-------------------------------------------------------------
-Payments
-NACHA
-2026-02-26T17:39:46Z
-Payments Innovation Alliance
-https://www.nacha.org/taxonomy/term/349
 ------------------------------------------------------------
 Compliance Watch
 Wolters Kluwer
@@ -772,13 +752,6 @@ https://www.investor.fisglobal.com/news-releases/news-release-details/fis-announ
 Compliance Watch
 ABA
 2026-02-26T00:00:00Z
-Credit Cards
-https://www.aba.com/banking-topics/payments/credit-cards
-New credit card laws have fundamentally changed the industry.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-02-26T00:00:00Z
 Debit Cards
 https://www.aba.com/banking-topics/payments/debit-cards
 Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
@@ -817,24 +790,6 @@ Federal Register
 Revocation of the 30-Day Notification Requirement Prior To Termination of Lease for Nonpayment of Rent
 https://www.federalregister.gov/documents/2026/02/26/2026-03921/revocation-of-the-30-day-notification-requirement-prior-to-termination-of-lease-for-nonpayment-of
 This rule revokes the 2021 interim final rule and 2024 final rule requiring that public housing agencies (PHAs) and owners of properties receiving project-based rental assistance (PBRA) provide certain tenants with 30-day notification prior to termination of lease for nonpayment of rent. Regulatory requirements for notice of termination for nonpayment of rent will return to pr…
-------------------------------------------------------------
-Payments
-NACHA
-2026-02-25T21:11:23Z
-Education
-https://www.nacha.org/taxonomy/term/345
-------------------------------------------------------------
-Payments
-NACHA
-2026-02-25T21:11:23Z
-Accreditation
-https://www.nacha.org/taxonomy/term/346
-------------------------------------------------------------
-Payments
-NACHA
-2026-02-25T21:11:23Z
-Blog
-https://www.nacha.org/taxonomy/term/41
 ------------------------------------------------------------
 Executive
 White House
@@ -1058,6 +1013,12 @@ White House
 2026-02-24T17:58:15Z
 Radical Left’s Rebuttal Will Contrast Democrat Extremism with President Trump’s Road to Prosperity
 https://www.whitehouse.gov/articles/2026/02/radical-lefts-rebuttal-will-contrast-democrat-extremism-with-president-trumps-road-to-prosperity/
+------------------------------------------------------------
+Executive
+White House
+2026-02-24T17:11:34Z
+ONDCP Launches New Public Awareness Effort Focused on Saving Lives Through Drug Prevention
+https://www.whitehouse.gov/articles/2026/02/ondcp-launches-new-public-awareness-effort-focused-on-saving-lives-through-drug-prevention/
 ------------------------------------------------------------
 Executive
 White House
@@ -15301,12 +15262,6 @@ White House
 America 250: Presidential Message on the Birthday of Thomas Edison
 https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-birthday-of-thomas-edison/
 ------------------------------------------------------------
-Payments
-NACHA
-2026-02-11T17:23:18Z
-Payments Consulting
-https://www.nacha.org/taxonomy/term/362
-------------------------------------------------------------
 Executive
 White House
 2026-02-11T15:35:02Z
@@ -15928,12 +15883,6 @@ New Webinar Alert!
 https://www.cdiaonline.org/events/2026/02/09/new-webinar-alert/
 Liability Reform & Competition and Impact on Risk to the Lender March 17, 2026 | 12:00 PM ET | CDIA Webinar (60 min)... The post New Webinar Alert! appeared first on CDIA .
 ------------------------------------------------------------
-Payments
-NACHA
-2026-02-09T08:26:53Z
-Nacha Organization
-https://www.nacha.org/taxonomy/term/387
-------------------------------------------------------------
 Compliance Watch
 TBA
 2026-02-09T08:00:00Z
@@ -16222,6 +16171,12 @@ Federal Reserve Board finalizes hypothetical scenarios for its annual stress tes
 ------------------------------------------------------------
 Executive
 White House
+2026-02-04T21:19:41Z
+New Milestone in Operation Metro Surge: 4,000+ Criminal Illegals Removed from Minnesota Streets
+https://www.whitehouse.gov/articles/2026/02/new-milestone-in-operation-metro-surge-4000-criminal-illegals-removed-from-minnesota-streets/
+------------------------------------------------------------
+Executive
+White House
 2026-02-04T20:12:46Z
 First Lady Melania Trump Holds Private Meeting with Freed American-Israeli Hostage Keith Siegel After Helping Secure His Release
 https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-holds-private-meeting-with-freed-american-israeli-hostage-keith-siegel-after-helping-secure-his-release/
@@ -16430,10 +16385,4 @@ Federal Register
 Agency Information Collection Activities: Proposed Collection Renewal; Comment Request
 https://www.federalregister.gov/documents/2026/02/02/2026-02073/agency-information-collection-activities-proposed-collection-renewal-comment-request
 The Federal Deposit Insurance Corporation (FDIC), as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on the renewal of the existing information collection described below (OMB Control No. 3064-0139).
-------------------------------------------------------------
-Payments
-NACHA
-2026-02-01T20:07:31Z
-Nacha Operating Rules
-https://www.nacha.org/taxonomy/term/338
 ------------------------------------------------------------

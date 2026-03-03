@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-03T19:37:34Z",
-  "generated_at_ct": "2026-03-03T13:37:34-06:00",
+  "generated_at_utc": "2026-03-03T20:24:47Z",
+  "generated_at_ct": "2026-03-03T14:24:47-06:00",
   "items": [
     {
       "category": "OFAC",
@@ -447,26 +447,10 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
-      "title": "Consumer Lending",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/consumer-banking/consumer-lending",
-      "summary": "Enhance your knowledge and understanding of consumer loans and issues that effect them."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
       "title": "Inclusive Banking",
       "published_at": "2026-02-28T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/inclusive-banking",
       "summary": "Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Marketing & Communications",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/communications",
-      "summary": "Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking."
     },
     {
       "category": "OFAC",
@@ -690,14 +674,6 @@
         "topic:insurance"
       ],
       "fedreg_document_number": "2026-03962"
-    },
-    {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "Payments Innovation Alliance",
-      "published_at": "2026-02-26T17:39:46Z",
-      "url": "https://www.nacha.org/taxonomy/term/349",
-      "summary": ""
     },
     {
       "category": "Compliance Watch",
@@ -926,14 +902,6 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
-      "title": "Credit Cards",
-      "published_at": "2026-02-26T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/payments/credit-cards",
-      "summary": "New credit card laws have fundamentally changed the industry."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
       "title": "Debit Cards",
       "published_at": "2026-02-26T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/payments/debit-cards",
@@ -990,30 +958,6 @@
         "topic:mortgages"
       ],
       "fedreg_document_number": "2026-03921"
-    },
-    {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "Education",
-      "published_at": "2026-02-25T21:11:23Z",
-      "url": "https://www.nacha.org/taxonomy/term/345",
-      "summary": ""
-    },
-    {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "Accreditation",
-      "published_at": "2026-02-25T21:11:23Z",
-      "url": "https://www.nacha.org/taxonomy/term/346",
-      "summary": ""
-    },
-    {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "Blog",
-      "published_at": "2026-02-25T21:11:23Z",
-      "url": "https://www.nacha.org/taxonomy/term/41",
-      "summary": ""
     },
     {
       "category": "Executive",
@@ -1357,6 +1301,14 @@
       "title": "Radical Left’s Rebuttal Will Contrast Democrat Extremism with President Trump’s Road to Prosperity",
       "published_at": "2026-02-24T17:58:15Z",
       "url": "https://www.whitehouse.gov/articles/2026/02/radical-lefts-rebuttal-will-contrast-democrat-extremism-with-president-trumps-road-to-prosperity/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "ONDCP Launches New Public Awareness Effort Focused on Saving Lives Through Drug Prevention",
+      "published_at": "2026-02-24T17:11:34Z",
+      "url": "https://www.whitehouse.gov/articles/2026/02/ondcp-launches-new-public-awareness-effort-focused-on-saving-lives-through-drug-prevention/",
       "summary": ""
     },
     {
@@ -17796,14 +17748,6 @@
       "summary": ""
     },
     {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "Payments Consulting",
-      "published_at": "2026-02-11T17:23:18Z",
-      "url": "https://www.nacha.org/taxonomy/term/362",
-      "summary": ""
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "This Is the Trump Economy: Job Growth Crushes Expectations as More Americans Work for Higher Wages",
@@ -18577,14 +18521,6 @@
       "summary": "Liability Reform & Competition and Impact on Risk to the Lender March 17, 2026 | 12:00 PM ET | CDIA Webinar (60 min)... The post New Webinar Alert! appeared first on CDIA ."
     },
     {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "Nacha Organization",
-      "published_at": "2026-02-09T08:26:53Z",
-      "url": "https://www.nacha.org/taxonomy/term/387",
-      "summary": ""
-    },
-    {
       "category": "Compliance Watch",
       "source": "TBA",
       "title": "Texas Bankers Annual Hall of Fame Gala set for April 23",
@@ -18969,6 +18905,14 @@
     {
       "category": "Executive",
       "source": "White House",
+      "title": "New Milestone in Operation Metro Surge: 4,000+ Criminal Illegals Removed from Minnesota Streets",
+      "published_at": "2026-02-04T21:19:41Z",
+      "url": "https://www.whitehouse.gov/articles/2026/02/new-milestone-in-operation-metro-surge-4000-criminal-illegals-removed-from-minnesota-streets/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
       "title": "First Lady Melania Trump Holds Private Meeting with Freed American-Israeli Hostage Keith Siegel After Helping Secure His Release",
       "published_at": "2026-02-04T20:12:46Z",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-holds-private-meeting-with-freed-american-israeli-hostage-keith-siegel-after-helping-secure-his-release/",
@@ -19257,14 +19201,6 @@
         "filter:federal-deposit-insurance-corporation"
       ],
       "fedreg_document_number": "2026-02073"
-    },
-    {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "Nacha Operating Rules",
-      "published_at": "2026-02-01T20:07:31Z",
-      "url": "https://www.nacha.org/taxonomy/term/338",
-      "summary": ""
     }
   ]
 }

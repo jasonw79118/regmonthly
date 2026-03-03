@@ -535,15 +535,6 @@ def allowed_for_source(source: str, url: str) -> bool:
     if h in GLOBAL_DENY_DOMAINS:
         return False
 
-        # NACHA: don't treat hub/listing pages as articles
-    if source == "NACHA":
-        try:
-            u = urlparse(url)
-            if (u.netloc or "").endswith("nacha.org") and (u.path or "").rstrip("/") == "/news":
-                return False
-        except Exception:
-            pass
-
     rules = SOURCE_RULES.get(source, {})
     deny = set(rules.get("deny_domains", set()))
     if h in deny:
@@ -728,10 +719,12 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
                 )
                 if pr.status_code < 400:
                     txtp = pr.text or ""
+                    # NOTE: Mastercard proxy responses sometimes look "error-like" to heuristics
+                    # while still containing usable article HTML/text. Return it anyway.
                     if looks_like_error_html(txtp):
-                        # Mastercard proxy content can look "error-like" even when it still contains the press-release body.
                         print(f"[warn] proxy returned error-like content: {url}", flush=True)
-                    return txtp
+                    if txtp.strip():
+                        return txtp
                 else:
                     print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
             except Exception as e:
@@ -920,6 +913,15 @@ def extract_any_date(text: str, source: str = "") -> Optional[datetime]:
         dt = parse_date(m.group("md"))
         if dt:
             return dt
+
+    # Mastercard pages often use ALL-CAPS month names and sometimes omit the comma.
+    # Keep this logic source-scoped to avoid impacting other sources.
+    if source == "Mastercard":
+        m2 = re.search(r"([A-Za-z]{3,9})\.?\s+\d{1,2},?\s+\d{4}", text, re.I)
+        if m2:
+            dt = parse_date(m2.group(0))
+            if dt:
+                return dt
 
     m = SLASH_DATE_RE.search(text)
     if m:
@@ -3724,6 +3726,13 @@ def build() -> None:
                     continue
                 if is_generic_listing_or_home(source, title, url):
                     continue
+
+                # NACHA: prevent non-article "page links" (taxonomy, category hubs, etc.) from showing as items.
+                # NACHA news articles are under /news/<slug>. Keep only those.
+                if source == "NACHA":
+                    u = urlparse(url)
+                    if u.netloc.endswith("nacha.org") and not (u.path or "").startswith("/news/"):
+                        continue
 
                 snippet = ""
 
