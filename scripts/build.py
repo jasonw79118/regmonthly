@@ -923,6 +923,14 @@ def extract_any_date(text: str, source: str = "") -> Optional[datetime]:
             if dt:
                 return dt
 
+    # Mastercard proxy/text views sometimes render dates as '3 March 2026' or '03 March 2026' (day-month-year).
+    if source == "Mastercard":
+        m3 = re.search(r"\b\d{1,2}\s+[A-Za-z]{3,9}\.?,?\s+\d{4}\b", text, re.I)
+        if m3:
+            dt = parse_date(m3.group(0), dayfirst=True)
+            if dt:
+                return dt
+
     m = SLASH_DATE_RE.search(text)
     if m:
         sd = m.group("sd")
@@ -1161,7 +1169,7 @@ def items_from_feed(source: str, feed_url: str, start: datetime, end: datetime) 
 
         out.append(
             {
-                "category": CATEGORY_BY_SOURCE.get(source, source),
+                "category": (CATEGORY_BY_SOURCE.get(source, source) or "").strip(),
                 "source": source,
                 "title": title,
                 "published_at": iso_z(dt),
@@ -3750,15 +3758,15 @@ def build() -> None:
                         if not pth.startswith("/news/"):
                             continue
                         # drop known non-article hubs under /news/
-                        # Keep this *very* narrow so we only drop obvious non-article hubs.
-                        # (NACHA can publish legitimate articles under some subpaths, so avoid broad blocking.)
                         bad_prefixes = (
-                             "/news/archive",
-                             "/news/category",
-                             "/news/tag",
-                             "/news/topic",
-                             "/news/search",
-                         )
+                            "/news/archive",
+                            "/news/category",
+                            "/news/tag",
+                            "/news/topic",
+                            "/news/search",
+                            "/news/events",
+                            "/news/webinars",
+                        )
                         if any(pth.lower().startswith(bp) for bp in bad_prefixes):
                             continue
                         # drop obvious pagination (either query ?page= or /page/N)
@@ -3811,7 +3819,7 @@ def build() -> None:
 
                 all_items.append(
                     {
-                        "category": CATEGORY_BY_SOURCE.get(source, source),
+                        "category": (CATEGORY_BY_SOURCE.get(source, source) or "").strip(),
                         "source": source,
                         "title": title,
                         "published_at": iso_z(dt),

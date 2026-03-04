@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-03T16:58:49-06:00` (CT) — `2026-03-03T22:58:49Z` (UTC)
+Last updated: `2026-03-04T08:05:34-06:00` (CT) — `2026-03-04T14:05:34Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -476,14 +476,6 @@ Download links fixed
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb983
 
 PRESS RELEASE | FEBRUARY 27, 2026 FDIC Publishes Enforcement Orders for January 2026 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026. There are no administrative hearings scheduled for March 2026. Consent Orders Community Bank & Trust West Ge…
-
-## Visa Completes Acquisition of Prisma and Newpay
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-27T13:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html
-
-BUENOS AIRES, Argentina & SAN FRANCISCO --(BUSINESS WIRE)--Feb. 27, 2026-- Visa (NYSE: V) today announced it has completed its acquisition of Prisma Medios de Pago S.A.U. ("Prisma") and Newpay S.A.U. ("Newpay") in Argentina. This transaction strengthens Visa's commitment to advancing payment
 
 ## CVE-2026-21620 TFTP Path Traversal
 - Source: Microsoft MSRC
@@ -1340,14 +1332,6 @@ The FDIC Board of Directors today approved a final rule to streamline the proces
 - Category: Fintech Watch
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-report-fourth-quarter-earnings-february-24-2026
-
-## AI driven Finance takes center stage as CCH® Tagetik earns multiple 2025 Dresner Application Innovation Awards
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-02-24T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/dresner-application-innovation-awards
-
-CCH Tagetik Powered by Expert AI has once again been recognized as a top innovator, earning multiple honors in the 2025 Dresner Advisory Services Application Innovation Awards.
 
 ## Agency Information Collection Activities: Comment Request
 - Source: Federal Register
@@ -4043,27 +4027,11 @@ Corrected the CVE description and title. This is an informational change only.
 - Published: 2026-02-19T15:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0399
 
-## Visa to Acquire Prisma Medios de Pago and Newpay in Argentina
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-19T14:08:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22176.html
-
-BUENOS AIRES, Argentina --(BUSINESS WIRE)--Feb. 19, 2026-- Visa (NYSE: V) today announced that it has entered into a definitive agreement to acquire Prisma Medios de Pago S.A.U. (“Prisma”) and Newpay S.A.U. (“Newpay”) in Argentina from Advent International.
-
 ## Secretary Bessent Announces 2026 G20 Finance Track Agenda and Finance Ministers and Central Bank Governors Meeting in Asheville, North Carolina
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-02-19T14:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0398
-
-## Visa Renews Partnership Across Red Bull Formula One Teams
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-19T14:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html
-
-Long‑term renewal deepens Visa’s presence across Red Bull F1 Teams with enhanced branding, fan access and client experiences Renewed partnership to expand support of Oracle Red Bull Racing and Visa Cash App Racing Bulls SAN FRANCISCO & FAENZA, Italy & MILTON KEYNES, England --(BUSINESS WIRE)--Feb.
 
 ## Chromium: CVE-2026-2322 Heap buffer overflow in Codecs
 - Source: Microsoft MSRC
@@ -17041,14 +17009,6 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 
 The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0046; -0118; -0174; 0188 and -0202). The notices of proposed renewal for these information collections were pr…
 
-## Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-16T08:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html
-
-Northern Italy sees more than 60% increase in Visa cardholder visitors from overseas, with an increase in purchases up 80% compared to the same period in 2025 Significant increase in spending from Visa cardholders in many areas of commerce including Clothing & Accessories, Restaurants and Mobility
-
 ## Presidential Message on Susan B. Anthony Day
 - Source: White House
 - Category: Executive
@@ -17187,6 +17147,12 @@ Federal Reserve Board announces approval of application by Cooperativa de Ahorro
 - Published: 2026-02-12T19:37:57Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/02/joint-statement-on-a-framework-for-united-states-north-macedonia-agreement-on-reciprocal-fair-and-balanced-trade/
 
+## “Champion of Beautiful, Clean Coal”: President Trump Celebrates Industry Revival
+- Source: White House
+- Category: Executive
+- Published: 2026-02-12T17:48:45Z
+- URL: https://www.whitehouse.gov/articles/2026/02/champion-of-beautiful-clean-coal-president-trump-celebrates-industry-revival/
+
 ## Press Release: FDIC Releases Economic Scenarios for 2026 Stress Testing
 - Source: FDIC
 - Category: Federal Banking Agencies
@@ -17202,6 +17168,12 @@ PRESS RELEASE | FEBRUARY 12, 2026 FDIC Releases Economic Scenarios for 2026 Stre
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm
 
 Federal Reserve Board issues enforcement action with former employee of Regions Bank
+
+## Birthday of President Abraham Lincoln, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-02-12T15:48:42Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/02/birthday-of-president-abraham-lincoln-2026/
 
 ## First Lady Melania Trump Secures Another Russian – Ukrainian Child Reunification
 - Source: White House
@@ -17292,14 +17264,6 @@ The NCUA Board (Board) is seeking comment on proposed regulations to implement p
 - Category: Executive
 - Published: 2026-02-11T21:57:59Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-strengthens-united-states-national-defense-with-americas-beautiful-clean-coal-power-generation-fleet/
-
-## Visa to Participate in Upcoming Investor Conferences
-- Source: Visa
-- Category: Payment Card Networks
-- Published: 2026-02-11T21:05:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html
-
-SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced its participation in the following investor conferences. On Tuesday, March 3, Jack Forestell, Chief Product and Strategy Officer, will present at the Morgan Stanley Technology, Media & Telecom Conference.
 
 ## First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day
 - Source: White House
