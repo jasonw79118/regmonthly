@@ -2167,10 +2167,18 @@ MC_MARKDOWN_LINK_RE = re.compile(
 
 
 MC_DATE_IN_PATH_RE = re.compile(
-    r"/press/(?:releases/)?(?P<y>\d{4})/(?P<m>\d{2})/(?P<d>\d{2})/",
+    r"/(?:(?:news-and-trends/press)|(?:newsroom/press-releases)|press)"
+    r"(?:/(?:releases))?"
+    r"/(?P<y>\d{4})/(?P<m>\d{2})/(?P<d>\d{2})/",
     re.I,
 )
 
+MC_DATE_MONTHNAME_RE = re.compile(
+    r"/(?P<y>\d{4})/"
+    r"(?P<mon>january|february|march|april|may|june|july|august|september|october|november|december)"
+    r"/(?P<d>\d{1,2})/",
+    re.I,
+)
 def mastercard_date_from_url(url: str) -> Optional[datetime]:
     """Best-effort date extraction from Mastercard press-release URL paths.
 
@@ -2179,11 +2187,35 @@ def mastercard_date_from_url(url: str) -> Optional[datetime]:
     try:
         p = urlparse(url).path
         m = MC_DATE_IN_PATH_RE.search(p or "")
-        if not m:
-            return None
-        y = int(m.group("y"))
-        mo = int(m.group("m"))
-        d = int(m.group("d"))
+        if m:
+            y = int(m.group("y"))
+            mo = int(m.group("m"))
+            d = int(m.group("d"))
+        else:
+            # Some Mastercard URLs use month names instead of numeric months.
+            m2 = MC_DATE_MONTHNAME_RE.search(p or "")
+            if not m2:
+                return None
+            y = int(m2.group("y"))
+            mon = (m2.group("mon") or "").strip().lower()
+            month_map = {
+                "january": 1,
+                "february": 2,
+                "march": 3,
+                "april": 4,
+                "may": 5,
+                "june": 6,
+                "july": 7,
+                "august": 8,
+                "september": 9,
+                "october": 10,
+                "november": 11,
+                "december": 12,
+            }
+            mo = month_map.get(mon)
+            if not mo:
+                return None
+            d = int(m2.group("d"))
         dt = datetime(y, mo, d, 12, 0, 0, tzinfo=CENTRAL_TZ)
         return dt.astimezone(timezone.utc)
     except Exception:
