@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-04T08:05:34-06:00` (CT) — `2026-03-04T14:05:34Z` (UTC)
+Last updated: `2026-03-04T08:38:47-06:00` (CT) — `2026-03-04T14:38:47Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -437,9 +437,21 @@ Leading resources and information to support banks in meeting the needs of their
 - Published: 2026-02-27T19:02:45Z
 - URL: https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-for-texans/
 
+## Faster Payments
+- Source: NACHA
+- Category: Payments
+- Published: 2026-02-27T17:57:01Z
+- URL: https://www.nacha.org/taxonomy/term/366
+
+## Accreditation
+- Source: NACHA
+- Category: Payments
+- Published: 2026-02-27T17:57:01Z
+- URL: https://www.nacha.org/taxonomy/term/346
+
 ## Press Release: FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-27T17:16:05Z
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/40be1c8
 
@@ -447,7 +459,7 @@ PRESS RELEASE | FEBRUARY 27, 2026 FDIC Approves the Deposit Insurance Applicatio
 
 ## Press Release: FDIC Issues CRA Examination Schedules for Second Quarter 2026 and Third Quarter 2026
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-27T16:02:32Z
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb9b3
 
@@ -471,7 +483,7 @@ Download links fixed
 
 ## Press Release: FDIC Publishes Enforcement Orders for January 2026
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-27T15:02:09Z
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb983
 
@@ -541,13 +553,13 @@ IR-2026-27, Feb. 27, 2026 — The Department of the Treasury and the Internal Re
 
 ## OCC Issues Second and Third Quarter 2026 CRA Evaluation Schedule
 - Source: OCC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-27T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-11.html
 
 ## National Bank Chartering: Final Rule
 - Source: OCC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-27T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-4.html
 
@@ -787,7 +799,7 @@ IR-2026-26, Feb. 26, 2026 — The Internal Revenue Service today announced the l
 
 ## Regulatory Reform
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-26T00:00:00Z
 - URL: https://www.federalreserve.gov/reform.htm
 
@@ -866,6 +878,18 @@ The Board of Governors of the Federal Reserve System (Board) is inviting public 
 - URL: https://www.federalregister.gov/documents/2026/02/26/2026-03921/revocation-of-the-30-day-notification-requirement-prior-to-termination-of-lease-for-nonpayment-of
 
 This rule revokes the 2021 interim final rule and 2024 final rule requiring that public housing agencies (PHAs) and owners of properties receiving project-based rental assistance (PBRA) provide certain tenants with 30-day notification prior to termination of lease for nonpayment of rent. Regulatory requirements for notice of termination for nonpayment of rent will return to pr…
+
+## Education
+- Source: NACHA
+- Category: Payments
+- Published: 2026-02-25T21:11:23Z
+- URL: https://www.nacha.org/taxonomy/term/345
+
+## Blog
+- Source: NACHA
+- Category: Payments
+- Published: 2026-02-25T21:11:23Z
+- URL: https://www.nacha.org/taxonomy/term/41
 
 ## WHAT THEY ARE SAYING: President Trump Heralds America’s Golden Age in Historic State of the Union Address
 - Source: White House
@@ -1001,7 +1025,7 @@ Wolters Kluwer, a global leader in professional information, software solutions 
 
 ## OCC Requests Comments on Proposal to Implement GENIUS Act
 - Source: OCC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-25T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-9.html
 
@@ -1097,7 +1121,7 @@ The Rural Housing Service (RHS or the Agency), an agency of the Rural Developmen
 
 ## Minutes of the Board's discount rate meetings on January 20 and 28, 2026
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T19:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260224a.htm
 
@@ -1123,7 +1147,7 @@ Minutes of the Board's discount rate meetings on January 20 and 28, 2026
 
 ## Federal Reserve Board issues enforcement action with former employee of First Financial Bank
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T16:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260224a.htm
 
@@ -1131,7 +1155,7 @@ Federal Reserve Board issues enforcement action with former employee of First Fi
 
 ## Press Release: FDIC-Insured Institutions Reported Return on Assets of 1.24 Percent and Net Income of $77.7 Billion in Fourth Quarter 2025
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T15:07:29Z
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/40b2c3e
 
@@ -1151,7 +1175,7 @@ PRESS RELEASE | FEBRUARY 24, 2026 FDIC-Insured Institutions Reported Return on A
 
 ## FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-approves-deposit-insurance-application-edward-jones-bank-salt-lake
 
@@ -1159,7 +1183,7 @@ The Board of Directors (FDIC) announced the approval of a deposit insurance appl
 
 ## FDIC Issues CRA Examination Schedules for Second Quarter 2026 and Third Quarter 2026
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-cra-examination-schedules-second-quarter-2026-and-third
 
@@ -1167,7 +1191,7 @@ The FDIC today issued the lists of institutions scheduled for a CRA examination 
 
 ## FDIC Publishes January Enforcement Actions
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-publishes-january-enforcement-actions
 
@@ -1175,7 +1199,7 @@ FDIC today published a list of orders of administrative enforcement actions take
 
 ## FDIC-Insured Institutions Reported Return on Assets of 1.24 Percent and Net Income of $77.7 Billion in Fourth Quarter 2025
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-insured-institutions-reported-return-assets-124-percent-and-net
 
@@ -1183,7 +1207,7 @@ The banking industry reported a return on assets ratio of 1.24 percent, a decrea
 
 ## FDIC Releases Economic Scenarios for 2026 Stress Testing
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-releases-economic-scenarios-2026-stress-testing
 
@@ -1191,7 +1215,7 @@ WASHINGTON — The Federal Deposit Insurance Corporation (FDIC) today released t
 
 ## FDIC Extends Comment Period on Proposal to Establish GENIUS Act Application Procedures for FDIC-Supervised Institutions Seeking to Issue Payment Stablecoins
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-extends-comment-period-proposal-establish-genius-act-application
 
@@ -1199,7 +1223,7 @@ The FDIC today announced a 90-day extension to the comment period on the agency�
 
 ## FDIC Issues List of Banks Examined for CRA Compliance
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-0
 
@@ -1207,7 +1231,7 @@ The FDIC today issued its list of state nonmember banks recently evaluated for c
 
 ## First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/first-independence-bank-detroit-michigan-assumes-all-deposits-metropolitan
 
@@ -1215,7 +1239,7 @@ First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan
 
 ## FDIC Publishes December Enforcement Actions
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-publishes-december-enforcement-actions
 
@@ -1223,7 +1247,7 @@ The FDIC today published a list of orders of administrative enforcement actions 
 
 ## FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-approves-deposit-insurance-applications-ford-credit-bank-salt-lake
 
@@ -1231,7 +1255,7 @@ The FDIC today approved deposit insurance applications submitted by Ford Motor C
 
 ## FDIC Board Approves Final Rule to Amend Official Signs and Advertising Requirements
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-board-approves-final-rule-amend-official-signs-and-advertising
 
@@ -1239,7 +1263,7 @@ The FDIC Board of Directors today approved a final rule to amend regulations gov
 
 ## FDIC Board of Directors Establishes Office of Supervisory Appeals
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-establishes-office-supervisory-appeals
 
@@ -1247,7 +1271,7 @@ The FDIC Board of Directors today approved amendments to the agency’s Guidelin
 
 ## Travis Hill Sworn in as the 23rd Chairman of the FDIC
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/travis-hill-sworn-23rd-chairman-fdic
 
@@ -1255,7 +1279,7 @@ Travis Hill was sworn in as the 23rd Chairman of the Federal Deposit Insurance C
 
 ## Agencies Issue 2025 Shared National Credit Program Report
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/agencies-issue-2025-shared-national-credit-program-report
 
@@ -1263,7 +1287,7 @@ Federal bank regulatory agencies today released the 2025 Shared National Credit 
 
 ## FDIC Issues List of Banks Examined for CRA Compliance
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance
 
@@ -1271,7 +1295,7 @@ The FDIC today issued its list of state nonmember banks recently evaluated for c
 
 ## Agencies Release Annual Asset-Size Thresholds Under Community Reinvestment Act Regulations
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2025/agencies-release-annual-asset-size-thresholds-under-community-reinvestment
 
@@ -1279,7 +1303,7 @@ The agencies today announced the 2026 updated Community Reinvestment Act (CRA) �
 
 ## FDIC Publishes November Enforcement Actions
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2025/fdic-publishes-november-enforcement-actions
 
@@ -1287,7 +1311,7 @@ The FDIC today published a list of orders of administrative enforcement actions 
 
 ## FDIC Approves the Deposit Insurance Application for Erebor Bank, N.A., Columbus, Ohio
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2025/fdic-approves-deposit-insurance-application-erebor-bank-na-columbus-ohio
 
@@ -1295,7 +1319,7 @@ The FDIC today approved a deposit insurance application to establish Erebor Bank
 
 ## FDIC Board Approves 2026 Operating Budget
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2025/fdic-board-approves-2026-operating-budget
 
@@ -1303,7 +1327,7 @@ The Board of Directors of the FDIC today approved a 2026 budget of $2.49 billion
 
 ## FDIC Board of Directors Approves Final Rule on Establishment and Relocation of Branches and Offices
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-24T00:00:00Z
 - URL: https://www.fdic.gov/news/press-releases/2025/fdic-board-directors-approves-final-rule-establishment-and-relocation
 
@@ -1373,7 +1397,7 @@ In accordance with the Paperwork Reduction Act of 1995 (PRA), the Consumer Finan
 
 ## Following earlier actions to remove reputation risk from its supervision of banks, Federal Reserve Board requests comment on proposal to codify that removal
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-23T22:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260223a.htm
 
@@ -3961,7 +3985,7 @@ Section 214 of the Housing and Community Development Act of 1980, as amended ("S
 
 ## Federal Reserve Board announces approval of application by Fulton Financial Corporation
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-19T21:30:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/orders20260219a.htm
 
@@ -3975,7 +3999,7 @@ Federal Reserve Board announces approval of application by Fulton Financial Corp
 
 ## Federal Reserve Board announces it will hold a hybrid public outreach meeting on Thursday, March 26, as part of its review of regulations under the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA)
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-19T20:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/other20260219a.htm
 
@@ -4027,11 +4051,27 @@ Corrected the CVE description and title. This is an informational change only.
 - Published: 2026-02-19T15:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0399
 
+## Visa to Acquire Prisma Medios de Pago and Newpay in Argentina
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-19T14:08:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22176.html
+
+BUENOS AIRES, Argentina --(BUSINESS WIRE)--Feb. 19, 2026-- Visa (NYSE: V) today announced that it has entered into a definitive agreement to acquire Prisma Medios de Pago S.A.U. (“Prisma”) and Newpay S.A.U. (“Newpay”) in Argentina from Advent International.
+
 ## Secretary Bessent Announces 2026 G20 Finance Track Agenda and Finance Ministers and Central Bank Governors Meeting in Asheville, North Carolina
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-02-19T14:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0398
+
+## Visa Renews Partnership Across Red Bull Formula One Teams
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-19T14:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html
+
+Long‑term renewal deepens Visa’s presence across Red Bull F1 Teams with enhanced branding, fan access and client experiences Renewed partnership to expand support of Oracle Red Bull Racing and Visa Cash App Racing Bulls SAN FRANCISCO & FAENZA, Italy & MILTON KEYNES, England --(BUSINESS WIRE)--Feb.
 
 ## Chromium: CVE-2026-2322 Heap buffer overflow in Codecs
 - Source: Microsoft MSRC
@@ -4891,7 +4931,7 @@ Information published.
 
 ## Minutes of the Federal Open Market Committee, January 27–28, 2026
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-18T19:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260218a.htm
 
@@ -16891,7 +16931,7 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 
 ## News & Events
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-18T00:00:00Z
 - URL: https://www.federalreserve.gov/newsevents.htm
 
@@ -17008,6 +17048,14 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 - URL: https://www.federalregister.gov/documents/2026/02/17/2026-03082/agency-information-collection-activities-proposed-collection-renewal-comment-request
 
 The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0046; -0118; -0174; 0188 and -0202). The notices of proposed renewal for these information collections were pr…
+
+## Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-16T08:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html
+
+Northern Italy sees more than 60% increase in Visa cardholder visitors from overseas, with an increase in purchases up 80% compared to the same period in 2025 Significant increase in spending from Visa cardholders in many areas of commerce including Clothing & Accessories, Restaurants and Mobility
 
 ## Presidential Message on Susan B. Anthony Day
 - Source: White House
@@ -17135,7 +17183,7 @@ FOR IMMEDIATE RELEASE: February 12, 2026 (AUSTIN) – Texas Bankers Association 
 
 ## Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-12T21:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/orders20260212a.htm
 
@@ -17155,7 +17203,7 @@ Federal Reserve Board announces approval of application by Cooperativa de Ahorro
 
 ## Press Release: FDIC Releases Economic Scenarios for 2026 Stress Testing
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-12T16:02:11Z
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4098769
 
@@ -17163,7 +17211,7 @@ PRESS RELEASE | FEBRUARY 12, 2026 FDIC Releases Economic Scenarios for 2026 Stre
 
 ## Federal Reserve Board issues enforcement action with former employee of Regions Bank
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-12T16:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm
 
@@ -17265,6 +17313,14 @@ The NCUA Board (Board) is seeking comment on proposed regulations to implement p
 - Published: 2026-02-11T21:57:59Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-strengthens-united-states-national-defense-with-americas-beautiful-clean-coal-power-generation-fleet/
 
+## Visa to Participate in Upcoming Investor Conferences
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-11T21:05:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html
+
+SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced its participation in the following investor conferences. On Tuesday, March 3, Jack Forestell, Chief Product and Strategy Officer, will present at the Morgan Stanley Technology, Media & Telecom Conference.
+
 ## First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day
 - Source: White House
 - Category: Executive
@@ -17282,6 +17338,12 @@ The NCUA Board (Board) is seeking comment on proposed regulations to implement p
 - Category: Executive
 - Published: 2026-02-11T17:36:13Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-birthday-of-thomas-edison/
+
+## Payments Consulting
+- Source: NACHA
+- Category: Payments
+- Published: 2026-02-11T17:23:18Z
+- URL: https://www.nacha.org/taxonomy/term/362
 
 ## This Is the Trump Economy: Job Growth Crushes Expectations as More Americans Work for Higher Wages
 - Source: White House
@@ -17967,6 +18029,12 @@ Added Affected Software for Windows packages
 
 Liability Reform & Competition and Impact on Risk to the Lender March 17, 2026 | 12:00 PM ET | CDIA Webinar (60 min)... The post New Webinar Alert! appeared first on CDIA .
 
+## Nacha Organization
+- Source: NACHA
+- Category: Payments
+- Published: 2026-02-09T08:26:53Z
+- URL: https://www.nacha.org/taxonomy/term/387
+
 ## Texas Bankers Annual Hall of Fame Gala set for April 23
 - Source: TBA
 - Category: Compliance Watch
@@ -18069,7 +18137,7 @@ IR-2026-22, Feb. 9, 2026 — The Internal Revenue Service today announced a new 
 
 ## FDIC Extends Comment Period on Proposal to Establish GENIUS Act Application Procedures for FDIC-Supervised Institutions Seeking to Issue Payment Stablecoins
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-06T20:25:00Z
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4082a4d
 
@@ -18203,7 +18271,7 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 
 ## Press Release: FDIC Issues List of Banks Examined for CRA Compliance
 - Source: FDIC
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-05T15:15:50Z
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/407cc7a
 
@@ -18255,7 +18323,7 @@ User interface (ui) misrepresentation of critical information in Microsoft Edge 
 
 ## Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered
 - Source: FRB
-- Category: Federal Banking Agencies
+- Category: Banking
 - Published: 2026-02-04T21:30:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm
 
@@ -18373,6 +18441,14 @@ The Office of Personnel Management (OPM) proposes to amend its retirement regula
 
 Join legal experts, industry leaders, and regulators at 2026 CDIA Connect as we shape the future of the consumer reporting industry. Last year,... The post What’s Ahead for CDIA Connect? appeared first on CDIA .
 
+## Visa Direct and UnionPay International Will Extend Global Money Movement Network to Billions of Cards in Chinese Mainland
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-03T12:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22101.html
+
+By connecting Visa Direct’s card network to UnionPay International’s (UPI) MoneyExpress platform, Visa Direct will unlock real‑time 1 cross‑border money movement in one of the world’s largest remittance corridors SAN FRANCISCO &amp; DOHA, Qatar --(BUSINESS WIRE)--Feb.
+
 ## Issuance of Venezuela-related General License
 - Source: OFAC
 - Category: OFAC
@@ -18482,3 +18558,9 @@ Agency statements, comments and additional information.
 - URL: https://www.federalregister.gov/documents/2026/02/02/2026-02073/agency-information-collection-activities-proposed-collection-renewal-comment-request
 
 The Federal Deposit Insurance Corporation (FDIC), as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on the renewal of the existing information collection described below (OMB Control No. 3064-0139).
+
+## Nacha Operating Rules
+- Source: NACHA
+- Category: Payments
+- Published: 2026-02-01T20:07:31Z
+- URL: https://www.nacha.org/taxonomy/term/338

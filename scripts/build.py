@@ -87,7 +87,7 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
 }
 
 # Sources where we keep listing links but DO NOT fetch detail pages (to avoid blocks/timeouts)
-SKIP_DETAIL_SOURCES = {"Fannie Mae"}
+SKIP_DETAIL_SOURCES = {"Visa", "Fannie Mae"}
 DEFAULT_SOURCE_DETAIL_CAP = 15
 
 UA = "regmonthly/1.0 (+https://github.com/jasonw79118/regmonthly)"
@@ -106,11 +106,11 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     # Payments tile
     "NACHA": "Payments",
     "FRB Payments": "Payments",
-    "FRB": "Federal Banking Agencies",
+    "FRB": "Banking",
 
     # Banking tile
-    "OCC": "Federal Banking Agencies",
-    "FDIC": "Federal Banking Agencies",
+    "OCC": "Banking",
+    "FDIC": "Banking",
 
     # Mortgage tile
     "FHLB MPF": "Mortgage",
@@ -719,12 +719,10 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
                 )
                 if pr.status_code < 400:
                     txtp = pr.text or ""
-                    # NOTE: Mastercard proxy responses sometimes look "error-like" to heuristics
-                    # while still containing usable article HTML/text. Return it anyway.
-                    if looks_like_error_html(txtp):
-                        print(f"[warn] proxy returned error-like content: {url}", flush=True)
-                    if txtp.strip():
+                    if not looks_like_error_html(txtp):
                         return txtp
+                    else:
+                        print(f"[warn] proxy returned error-like content: {url}", flush=True)
                 else:
                     print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
             except Exception as e:
@@ -913,23 +911,6 @@ def extract_any_date(text: str, source: str = "") -> Optional[datetime]:
         dt = parse_date(m.group("md"))
         if dt:
             return dt
-
-    # Mastercard pages often use ALL-CAPS month names and sometimes omit the comma.
-    # Keep this logic source-scoped to avoid impacting other sources.
-    if source == "Mastercard":
-        m2 = re.search(r"([A-Za-z]{3,9})\.?\s+\d{1,2},?\s+\d{4}", text, re.I)
-        if m2:
-            dt = parse_date(m2.group(0))
-            if dt:
-                return dt
-
-    # Mastercard proxy/text views sometimes render dates as '3 March 2026' or '03 March 2026' (day-month-year).
-    if source == "Mastercard":
-        m3 = re.search(r"\b\d{1,2}\s+[A-Za-z]{3,9}\.?,?\s+\d{4}\b", text, re.I)
-        if m3:
-            dt = parse_date(m3.group(0), dayfirst=True)
-            if dt:
-                return dt
 
     m = SLASH_DATE_RE.search(text)
     if m:
@@ -1169,7 +1150,7 @@ def items_from_feed(source: str, feed_url: str, start: datetime, end: datetime) 
 
         out.append(
             {
-                "category": (CATEGORY_BY_SOURCE.get(source, source) or "").strip(),
+                "category": CATEGORY_BY_SOURCE.get(source, source),
                 "source": source,
                 "title": title,
                 "published_at": iso_z(dt),
@@ -2491,17 +2472,6 @@ def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[
             continue
 
         u = urlparse(urljoin(page_url, href))
-        # If we fetched the listing via r.jina.ai proxy, links can be wrapped like:
-        #   https://r.jina.ai/https://www.mastercard.com/...
-        # unwrap those back to the underlying Mastercard URL.
-        if u.netloc.lower() == "r.jina.ai":
-            inner = (u.path or "").lstrip("/")
-            if inner.startswith("http://") or inner.startswith("https://"):
-                try:
-                    u = urlparse(inner)
-                except Exception:
-                    pass
-
         if u.netloc.lower() != "www.mastercard.com":
             continue
         if not MASTERCARD_PR_PATH_RE.match(u.path):
@@ -3746,36 +3716,6 @@ def build() -> None:
                 if is_generic_listing_or_home(source, title, url):
                     continue
 
-                # NACHA: prevent non-article "page links" (taxonomy, category hubs, archives, pagination, etc.)
-                # NACHA news articles are under /news/<slug>. Keep only true article detail pages.
-                if source == "NACHA":
-                    u = urlparse(url)
-                    if u.netloc.endswith("nacha.org"):
-                        pth = (u.path or "").strip()
-                        # drop listing root (/news) and anything without a slug after /news/
-                        if pth.rstrip("/") == "/news":
-                            continue
-                        if not pth.startswith("/news/"):
-                            continue
-                        # drop known non-article hubs under /news/
-                        bad_prefixes = (
-                            "/news/archive",
-                            "/news/category",
-                            "/news/tag",
-                            "/news/topic",
-                            "/news/search",
-                            "/news/events",
-                            "/news/webinars",
-                        )
-                        if any(pth.lower().startswith(bp) for bp in bad_prefixes):
-                            continue
-                        # drop obvious pagination (either query ?page= or /page/N)
-                        q = parse_qs(u.query or "")
-                        if "page" in q:
-                            continue
-                        if re.search(r"/page/\d+/?$", pth, re.I):
-                            continue
-
                 snippet = ""
 
                 # If Visa has a date but outside window, let detail override
@@ -3819,7 +3759,7 @@ def build() -> None:
 
                 all_items.append(
                     {
-                        "category": (CATEGORY_BY_SOURCE.get(source, source) or "").strip(),
+                        "category": CATEGORY_BY_SOURCE.get(source, source),
                         "source": source,
                         "title": title,
                         "published_at": iso_z(dt),
