@@ -885,18 +885,6 @@ https://www.whitehouse.gov/articles/2026/02/president-trump-returned-our-nation-
 ------------------------------------------------------------
 Executive
 White House
-2026-02-25T03:12:02Z
-American Energy Dominance Is Back Under President Trump
-https://www.whitehouse.gov/articles/2026/02/american-energy-dominance-is-back-under-president-trump/
-------------------------------------------------------------
-Executive
-White House
-2026-02-25T02:37:10Z
-President Trump Is Delivering Real Relief — Reversing Biden’s Economic Disaster and Unleashing Greater Prosperity Ahead
-https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-real-relief-reversing-bidens-economic-disaster-and-unleashing-greater-prosperity-ahead/
-------------------------------------------------------------
-Executive
-White House
 2026-02-25T02:20:04Z
 President Trump Is Restoring the American Dream
 https://www.whitehouse.gov/articles/2026/02/president-trump-is-restoring-the-american-dream/
@@ -3521,24 +3509,12 @@ Housing and Community Development Act of 1980: Verification of Eligible Status
 https://www.federalregister.gov/documents/2026/02/20/2026-03405/housing-and-community-development-act-of-1980-verification-of-eligible-status
 Section 214 of the Housing and Community Development Act of 1980, as amended ("Section 214"), prohibits the Secretary of HUD from making financial assistance available to persons other than United States citizens or certain categories of eligible noncitizens in HUD's public and specified assisted housing programs. This proposed rule would revise HUD's Section 214 implementing…
 ------------------------------------------------------------
-Executive
-White House
-2026-02-19T22:43:42Z
-President Trump Is Bringing Back the American Dream of Homeownership
-https://www.whitehouse.gov/articles/2026/02/president-trump-is-bringing-back-the-american-dream-of-homeownership/
-------------------------------------------------------------
 Banking
 FRB
 2026-02-19T21:30:00Z
 Federal Reserve Board announces approval of application by Fulton Financial Corporation
 https://www.federalreserve.gov/newsevents/pressreleases/orders20260219a.htm
 Federal Reserve Board announces approval of application by Fulton Financial Corporation
-------------------------------------------------------------
-Executive
-White House
-2026-02-19T20:15:03Z
-America 250: Anniversary of the Battle of Iwo Jima
-https://www.whitehouse.gov/briefings-statements/2026/02/america-250-anniversary-of-the-battle-of-iwo-jima/
 ------------------------------------------------------------
 Banking
 FRB
@@ -3603,13 +3579,6 @@ Treasury
 2026-02-19T14:00:00Z
 Secretary Bessent Announces 2026 G20 Finance Track Agenda and Finance Ministers and Central Bank Governors Meeting in Asheville, North Carolina
 https://home.treasury.gov/news/press-releases/sb0398
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-02-19T14:00:00Z
-Visa Renews Partnership Across Red Bull Formula One Teams
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html
-Long‑term renewal deepens Visa’s presence across Red Bull F1 Teams with enhanced branding, fan access and client experiences Renewed partnership to expand support of Oracle Red Bull Racing and Visa Cash App Racing Bulls SAN FRANCISCO & FAENZA, Italy & MILTON KEYNES, England --(BUSINESS WIRE)--Feb.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -14980,13 +14949,6 @@ Agency Information Collection Activities: Proposed Collection Renewal; Comment R
 https://www.federalregister.gov/documents/2026/02/17/2026-03082/agency-information-collection-activities-proposed-collection-renewal-comment-request
 The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0046; -0118; -0174; 0188 and -0202). The notices of proposed renewal for these information collections were pr…
 ------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-02-16T08:00:00Z
-Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html
-Northern Italy sees more than 60% increase in Visa cardholder visitors from overseas, with an increase in purchases up 80% compared to the same period in 2025 Significant increase in spending from Visa cardholders in many areas of commerce including Clothing & Accessories, Restaurants and Mobility
-------------------------------------------------------------
 Executive
 White House
 2026-02-15T22:00:59Z
@@ -15241,18 +15203,6 @@ White House
 2026-02-11T20:04:28Z
 First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day
 https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/
-------------------------------------------------------------
-Executive
-White House
-2026-02-11T17:37:15Z
-ICYMI: “Violent crime plummets across major U.S. cities”
-https://www.whitehouse.gov/articles/2026/02/icymi-violent-crime-plummets-across-major-u-s-cities/
-------------------------------------------------------------
-Executive
-White House
-2026-02-11T17:36:13Z
-America 250: Presidential Message on the Birthday of Thomas Edison
-https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-birthday-of-thomas-edison/
 ------------------------------------------------------------
 Payments
 NACHA
@@ -15837,12 +15787,6 @@ House Financial Services
 2026-02-10T00:00:00Z
 Full Committee Examines Affordability Challenges For American Families
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411023
-------------------------------------------------------------
-Legislative
-House Financial Services
-2026-02-10T00:00:00Z
-Oversight and Investigations Subcommittee Reviews Public Housing Authorities
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411025
 ------------------------------------------------------------
 Payments
 NACHA

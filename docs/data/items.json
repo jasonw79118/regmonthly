@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-04T14:38:47Z",
-  "generated_at_ct": "2026-03-04T08:38:47-06:00",
+  "generated_at_utc": "2026-03-04T16:16:57Z",
+  "generated_at_ct": "2026-03-04T10:16:57-06:00",
   "items": [
     {
       "category": "OFAC",
@@ -1069,22 +1069,6 @@
       "title": "President Trump Returned Our Nation to Law and Order",
       "published_at": "2026-02-25T03:12:04Z",
       "url": "https://www.whitehouse.gov/articles/2026/02/president-trump-returned-our-nation-to-law-and-order/",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "American Energy Dominance Is Back Under President Trump",
-      "published_at": "2026-02-25T03:12:02Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/american-energy-dominance-is-back-under-president-trump/",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "President Trump Is Delivering Real Relief — Reversing Biden’s Economic Disaster and Unleashing Greater Prosperity Ahead",
-      "published_at": "2026-02-25T02:37:10Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-real-relief-reversing-bidens-economic-disaster-and-unleashing-greater-prosperity-ahead/",
       "summary": ""
     },
     {
@@ -4241,28 +4225,12 @@
       "fedreg_document_number": "2026-03405"
     },
     {
-      "category": "Executive",
-      "source": "White House",
-      "title": "President Trump Is Bringing Back the American Dream of Homeownership",
-      "published_at": "2026-02-19T22:43:42Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/president-trump-is-bringing-back-the-american-dream-of-homeownership/",
-      "summary": ""
-    },
-    {
       "category": "Banking",
       "source": "FRB",
       "title": "Federal Reserve Board announces approval of application by Fulton Financial Corporation",
       "published_at": "2026-02-19T21:30:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260219a.htm",
       "summary": "Federal Reserve Board announces approval of application by Fulton Financial Corporation"
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "America 250: Anniversary of the Battle of Iwo Jima",
-      "published_at": "2026-02-19T20:15:03Z",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/02/america-250-anniversary-of-the-battle-of-iwo-jima/",
-      "summary": ""
     },
     {
       "category": "Banking",
@@ -4343,14 +4311,6 @@
       "published_at": "2026-02-19T14:00:00Z",
       "url": "https://home.treasury.gov/news/press-releases/sb0398",
       "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa Renews Partnership Across Red Bull Formula One Teams",
-      "published_at": "2026-02-19T14:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html",
-      "summary": "Long‑term renewal deepens Visa’s presence across Red Bull F1 Teams with enhanced branding, fan access and client experiences Renewed partnership to expand support of Oracle Red Bull Racing and Visa Cash App Racing Bulls SAN FRANCISCO & FAENZA, Italy & MILTON KEYNES, England --(BUSINESS WIRE)--Feb."
     },
     {
       "category": "IS",
@@ -17385,14 +17345,6 @@
       "fedreg_document_number": "2026-03082"
     },
     {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026",
-      "published_at": "2026-02-16T08:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html",
-      "summary": "Northern Italy sees more than 60% increase in Visa cardholder visitors from overseas, with an increase in purchases up 80% compared to the same period in 2025 Significant increase in spending from Visa cardholders in many areas of commerce including Clothing & Accessories, Restaurants and Mobility"
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "Presidential Message on Susan B. Anthony Day",
@@ -17721,22 +17673,6 @@
       "title": "First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day",
       "published_at": "2026-02-11T20:04:28Z",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "ICYMI: “Violent crime plummets across major U.S. cities”",
-      "published_at": "2026-02-11T17:37:15Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/icymi-violent-crime-plummets-across-major-u-s-cities/",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "America 250: Presidential Message on the Birthday of Thomas Edison",
-      "published_at": "2026-02-11T17:36:13Z",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-birthday-of-thomas-edison/",
       "summary": ""
     },
     {
@@ -18462,14 +18398,6 @@
       "title": "Full Committee Examines Affordability Challenges For American Families",
       "published_at": "2026-02-10T00:00:00Z",
       "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411023",
-      "summary": ""
-    },
-    {
-      "category": "Legislative",
-      "source": "House Financial Services",
-      "title": "Oversight and Investigations Subcommittee Reviews Public Housing Authorities",
-      "published_at": "2026-02-10T00:00:00Z",
-      "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411025",
       "summary": ""
     },
     {

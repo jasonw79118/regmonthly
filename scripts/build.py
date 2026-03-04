@@ -997,6 +997,21 @@ def is_probably_nav_link(source: str, title: str, url: str) -> bool:
         tl = t.strip().lower()
         if tl in {"more", "more more", "moremore"}:
             return True
+    # NACHA: exclude non-article /news hub and pager/filter links that sometimes get captured as "articles"
+    if source == "NACHA":
+        try:
+            up = urlparse(url)
+            p = (up.path or "").rstrip("/")
+            if p == "/news":
+                return True
+            q = parse_qs(up.query or "")
+            if any(k in q for k in ["page", "p", "offset", "sort", "filter", "category", "topic", "tags"]):
+                tl = t.strip().lower()
+                if NAV_TITLE_RE.match(t) or tl in {"news", "newsroom", "all", "view all", "show more", "more"}:
+                    return True
+        except Exception:
+            pass
+
 
     return False
 
@@ -1005,6 +1020,15 @@ def is_generic_listing_or_home(source: str, title: str, url: str) -> bool:
     tl = (title or "").strip().lower()
     if tl in GENERIC_TITLES:
         return True
+
+    # NACHA: treat /news hub as non-article
+    if source == "NACHA":
+        try:
+            u0 = urlparse(url)
+            if (u0.path or "").rstrip("/") == "/news":
+                return True
+        except Exception:
+            pass
 
     u = urlparse(url)
     p = (u.path or "/").rstrip("/")
@@ -2123,6 +2147,29 @@ MC_MARKDOWN_LINK_RE = re.compile(
 )
 
 
+MC_DATE_IN_PATH_RE = re.compile(
+    r"/press/(?:releases/)?(?P<y>\d{4})/(?P<m>\d{2})/(?P<d>\d{2})/",
+    re.I,
+)
+
+def mastercard_date_from_url(url: str) -> Optional[datetime]:
+    """Best-effort date extraction from Mastercard press-release URL paths.
+
+    Mastercard detail pages are frequently blocked (403) even via proxy. Many URLs embed YYYY/MM/DD.
+    """
+    try:
+        p = urlparse(url).path
+        m = MC_DATE_IN_PATH_RE.search(p or "")
+        if not m:
+            return None
+        y = int(m.group("y"))
+        mo = int(m.group("m"))
+        d = int(m.group("d"))
+        dt = datetime(y, mo, d, 12, 0, 0, tzinfo=CENTRAL_TZ)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return None
+
 def _mastercard_links_from_text(page_url: str, text: str) -> List[Tuple[str, str, Optional[datetime]]]:
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen: set[str] = set()
@@ -2505,6 +2552,8 @@ def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[
             wrap = a.find_parent(["li", "article", "div", "section"]) or a.parent
             if wrap:
                 dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1000), source="Mastercard")
+        if dt is None:
+            dt = mastercard_date_from_url(url)
 
         links.append((title, url, dt))
         if len(links) >= MAX_LISTING_LINKS:
