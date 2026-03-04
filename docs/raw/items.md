@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-04T10:16:57-06:00` (CT) — `2026-03-04T16:16:57Z` (UTC)
+Last updated: `2026-03-04T13:57:14-06:00` (CT) — `2026-03-04T19:57:14Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -431,24 +431,6 @@ Leading resources and information to support banks in meeting the needs of their
 - Published: 2026-02-27T21:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0410
 
-## President Trump Is Delivering for Texans
-- Source: White House
-- Category: Executive
-- Published: 2026-02-27T19:02:45Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-for-texans/
-
-## Faster Payments
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-27T17:57:01Z
-- URL: https://www.nacha.org/taxonomy/term/366
-
-## Accreditation
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-27T17:57:01Z
-- URL: https://www.nacha.org/taxonomy/term/346
-
 ## Press Release: FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah
 - Source: FDIC
 - Category: Banking
@@ -488,6 +470,14 @@ Download links fixed
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/40bb983
 
 PRESS RELEASE | FEBRUARY 27, 2026 FDIC Publishes Enforcement Orders for January 2026 WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026. There are no administrative hearings scheduled for March 2026. Consent Orders Community Bank & Trust West Ge…
+
+## Visa Completes Acquisition of Prisma and Newpay
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-27T13:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html
+
+BUENOS AIRES, Argentina & SAN FRANCISCO --(BUSINESS WIRE)--Feb. 27, 2026-- Visa (NYSE: V) today announced it has completed its acquisition of Prisma Medios de Pago S.A.U. ("Prisma") and Newpay S.A.U. ("Newpay") in Argentina. This transaction strengthens Visa's commitment to advancing payment
 
 ## CVE-2026-21620 TFTP Path Traversal
 - Source: Microsoft MSRC
@@ -777,12 +767,6 @@ Information published.
 
 Information published.
 
-## President Trump Delivers his 2026 State of the Union Address
-- Source: White House
-- Category: Executive
-- Published: 2026-02-26T01:30:00Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-delivers-his-2026-state-of-the-union-address/
-
 ## Nicaragua-related Designations; Issuance of Amended Russia-related General License and Associated Frequently Asked Questions
 - Source: OFAC
 - Category: OFAC
@@ -879,24 +863,6 @@ The Board of Governors of the Federal Reserve System (Board) is inviting public 
 
 This rule revokes the 2021 interim final rule and 2024 final rule requiring that public housing agencies (PHAs) and owners of properties receiving project-based rental assistance (PBRA) provide certain tenants with 30-day notification prior to termination of lease for nonpayment of rent. Regulatory requirements for notice of termination for nonpayment of rent will return to pr…
 
-## Education
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-25T21:11:23Z
-- URL: https://www.nacha.org/taxonomy/term/345
-
-## Blog
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-25T21:11:23Z
-- URL: https://www.nacha.org/taxonomy/term/41
-
-## WHAT THEY ARE SAYING: President Trump Heralds America’s Golden Age in Historic State of the Union Address
-- Source: White House
-- Category: Executive
-- Published: 2026-02-25T20:18:11Z
-- URL: https://www.whitehouse.gov/articles/2026/02/what-they-are-saying-president-trump-heralds-americas-golden-age-in-historic-state-of-the-union-address/
-
 ## Treasury Targets Iran’s Shadow Fleet, Networks Supplying Ballistic Missile and ACW Programs
 - Source: Treasury
 - Category: OFAC
@@ -974,36 +940,6 @@ Information published.
 - URL: https://www.wolterskluwer.com/en/news/wolters-kluwer-2025-full-year-report
 
 Wolters Kluwer, a global leader in professional information, software solutions and services, today releases its full-year 2025 results.
-
-## Democrats Showed Whose Side They’re On — And it’s Not the American People
-- Source: White House
-- Category: Executive
-- Published: 2026-02-25T06:10:09Z
-- URL: https://www.whitehouse.gov/articles/2026/02/democrats-showed-whose-side-theyre-on-and-its-not-the-american-people-249d/
-
-## President Trump’s Peace Through Strength: Renewed American Leadership and Global Security
-- Source: White House
-- Category: Executive
-- Published: 2026-02-25T03:12:05Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trumps-peace-through-strength-renewed-american-leadership-and-global-security/
-
-## President Trump Returned Our Nation to Law and Order
-- Source: White House
-- Category: Executive
-- Published: 2026-02-25T03:12:04Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-returned-our-nation-to-law-and-order/
-
-## President Trump Is Restoring the American Dream
-- Source: White House
-- Category: Executive
-- Published: 2026-02-25T02:20:04Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-is-restoring-the-american-dream/
-
-## President Trump Is Securing Our Homeland: Ending the Invasion, Deporting Criminals, and Protecting Our Communities
-- Source: White House
-- Category: Executive
-- Published: 2026-02-25T02:16:50Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-is-securing-our-homeland-ending-the-invasion-deporting-criminals-and-protecting-our-communities/
 
 ## Iran-related Designations; Non-Proliferation Designations
 - Source: OFAC
@@ -1114,24 +1050,6 @@ The Rural Housing Service (RHS or the Agency), an agency of the Rural Developmen
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260224a.htm
 
 Minutes of the Board's discount rate meetings on January 20 and 28, 2026
-
-## Radical Left’s Rebuttal Will Contrast Democrat Extremism with President Trump’s Road to Prosperity
-- Source: White House
-- Category: Executive
-- Published: 2026-02-24T17:58:15Z
-- URL: https://www.whitehouse.gov/articles/2026/02/radical-lefts-rebuttal-will-contrast-democrat-extremism-with-president-trumps-road-to-prosperity/
-
-## ONDCP Launches New Public Awareness Effort Focused on Saving Lives Through Drug Prevention
-- Source: White House
-- Category: Executive
-- Published: 2026-02-24T17:11:34Z
-- URL: https://www.whitehouse.gov/articles/2026/02/ondcp-launches-new-public-awareness-effort-focused-on-saving-lives-through-drug-prevention/
-
-## First Lady Melania Trump’s State of the Union Guests Reflect Her Impact on Education, Tech, and the Foster Community
-- Source: White House
-- Category: Executive
-- Published: 2026-02-24T17:02:35Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trumps-state-of-the-union-guests-reflect-her-impact-on-education-tech-and-the-foster-community/
 
 ## Federal Reserve Board issues enforcement action with former employee of First Financial Bank
 - Source: FRB
@@ -1333,12 +1251,6 @@ The FDIC Board of Directors today approved a final rule to streamline the proces
 - Published: 2026-02-24T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411042
 
-## FIS Reports Full-Year 2025 Results and Introduces 2026 Outlook
-- Source: FIS
-- Category: Fintech Watch
-- Published: 2026-02-24T00:00:00Z
-- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-reports-full-year-2025-results-and-introduces-2026-outlook
-
 ## FIS to Report Fourth Quarter Earnings on February 24, 2026
 - Source: FIS
 - Category: Fintech Watch
@@ -1377,12 +1289,6 @@ In accordance with the Paperwork Reduction Act of 1995 (PRA), the Consumer Finan
 
 In accordance with the Paperwork Reduction Act of 1995 (PRA), the Consumer Financial Protection Bureau (CFPB or Bureau) requests the Office of Management and Budget's (OMB's) extension of an information collection titled "Truth in Savings (Regulation DD)" approved under OMB Control Number 3170-0004.
 
-## America 250: Presidential Message on the Anniversary of the Battle of the Alamo
-- Source: White House
-- Category: Executive
-- Published: 2026-02-23T22:13:24Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-anniversary-of-the-battle-of-the-alamo/
-
 ## Following earlier actions to remove reputation risk from its supervision of banks, Federal Reserve Board requests comment on proposal to codify that removal
 - Source: FRB
 - Category: Banking
@@ -1390,18 +1296,6 @@ In accordance with the Paperwork Reduction Act of 1995 (PRA), the Consumer Finan
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260223a.htm
 
 Following earlier actions to remove reputation risk from its supervision of banks, Federal Reserve Board requests comment on proposal to codify that removal
-
-## President Trump Honors Angel Families, Remembers American Lives Lost to Illegal Immigration
-- Source: White House
-- Category: Executive
-- Published: 2026-02-23T20:43:19Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-honors-angel-families-remembers-american-lives-lost-to-illegal-immigration/
-
-## National Angel Family Day, 2026
-- Source: White House
-- Category: Executive
-- Published: 2026-02-23T16:19:54Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/national-angel-family-day-2026/
 
 ## USDA’s Farmer Bridge Assistance program now open
 - Source: TBA
@@ -3831,47 +3725,11 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
 
-## Imposing a Temporary Import Surcharge to Address Fundamental International Payments Problems
-- Source: White House
-- Category: Executive
-- Published: 2026-02-21T00:40:07Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/imposing-a-temporary-import-surcharge-to-address-fundamental-international-payments-problems/
-
-## Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries
-- Source: White House
-- Category: Executive
-- Published: 2026-02-21T00:14:47Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries/
-
-## Ending Certain Tariff Actions
-- Source: White House
-- Category: Executive
-- Published: 2026-02-21T00:12:16Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/ending-certain-tariff-actions/
-
-## Fact Sheet: President Donald J. Trump Imposes a Temporary Import Duty to Address Fundamental International Payment Problems
-- Source: White House
-- Category: Executive
-- Published: 2026-02-21T00:05:41Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/
-
-## President Trump Was Right About Everything — Including the Democrat Shutdown Costing Us Growth
-- Source: White House
-- Category: Executive
-- Published: 2026-02-20T21:39:33Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-was-right-about-everything-including-the-democrat-shutdown-costing-us-growth/
-
 ## Secretary of the Treasury Scott Bessent’s Remarks Before the Economic Club of Dallas - Economic Security First
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-02-20T19:12:25Z
 - URL: https://home.treasury.gov/news/press-releases/sb0403
-
-## First Lady Melania Trump Champions U.S. Fashion Leadership
-- Source: White House
-- Category: Executive
-- Published: 2026-02-20T18:01:09Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-champions-u-s-fashion-leadership/
 
 ## New Research Reinforces Tri-Merge as the Golden Standard
 - Source: CDIA
@@ -3910,30 +3768,6 @@ Updated CWE value. This is an informational change only.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-65046
 
 Updated CWE value. This is an informational change only.
-
-## Drug Czar Hosts Roundtable Discussion at the White House About Combatting Illicit Drug Trafficking on Social Media Platforms
-- Source: White House
-- Category: Executive
-- Published: 2026-02-20T15:21:44Z
-- URL: https://www.whitehouse.gov/articles/2026/02/36480/
-
-## U.S. Promotes AI Adoption, Sovereignty, and Exports at India AI Impact Summit
-- Source: White House
-- Category: Executive
-- Published: 2026-02-20T06:09:24Z
-- URL: https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/
-
-## Remarks by Director Michael Kratsios at the India AI Impact Summit
-- Source: White House
-- Category: Executive
-- Published: 2026-02-20T06:05:38Z
-- URL: https://www.whitehouse.gov/articles/2026/02/remarks-by-director-michael-kratsios-at-the-india-ai-impact-summit/
-
-## Fact Sheet: Trump Administration Finalizes Trade Deal with Indonesia
-- Source: White House
-- Category: Executive
-- Published: 2026-02-20T00:55:39Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-trump-administration-finalizes-trade-deal-with-indonesia/
 
 ## Treasury, IRS issue guidance on special depreciation allowance for qualified production property, announce upcoming proposed regulations under the One, Big, Beautiful Bill
 - Source: IRS
@@ -3987,18 +3821,6 @@ Federal Reserve Board announces it will hold a hybrid public outreach meeting on
 - Published: 2026-02-19T19:30:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0401
 
-## President Trump Returns to Georgia: Delivering Real Relief for Families, With Much More on the Way
-- Source: White House
-- Category: Executive
-- Published: 2026-02-19T18:23:32Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-returns-to-georgia-delivering-real-relief-for-families-with-much-more-on-the-way/
-
-## Implementation of the Agreement Toward a NEW GOLDEN AGE for the U.S.-Indonesian Alliance
-- Source: White House
-- Category: Executive
-- Published: 2026-02-19T17:31:10Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/implementation-of-the-agreement-toward-a-new-golden-age-for-the-u-s-indonesian-alliance/
-
 ## CVE-2026-21535 Microsoft Teams Information Disclosure Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -4040,6 +3862,14 @@ BUENOS AIRES, Argentina --(BUSINESS WIRE)--Feb. 19, 2026-- Visa (NYSE: V) today 
 - Category: OFAC
 - Published: 2026-02-19T14:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0398
+
+## Visa Renews Partnership Across Red Bull Formula One Teams
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-19T14:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html
+
+Long‑term renewal deepens Visa’s presence across Red Bull F1 Teams with enhanced branding, fan access and client experiences Renewed partnership to expand support of Oracle Red Bull Racing and Visa Cash App Racing Bulls SAN FRANCISCO & FAENZA, Italy & MILTON KEYNES, England --(BUSINESS WIRE)--Feb.
 
 ## Chromium: CVE-2026-2322 Heap buffer overflow in Codecs
 - Source: Microsoft MSRC
@@ -4115,12 +3945,6 @@ The Farm Credit Administration (FCA, we, us or our) is issuing a final rule amen
 
 The Office of Personnel Management (OPM) is issuing a final rule to amend its career and career-conditional employment regulations. The revision is necessary to implement section 1108 of the John S. McCain National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2019, which requires OPM to issue regulations implementing hiring authorities that allow agencies to hire cert…
 
-## Fact Sheet: President Donald J. Trump Ensures an Adequate Supply of Elemental Phosphorus and Glyphosate-Based Herbicides for National Security
-- Source: White House
-- Category: Executive
-- Published: 2026-02-18T23:12:45Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-ensures-an-adequate-supply-of-elemental-phosphorus-and-glyphosate-based-herbicides-for-national-security/
-
 ## CVE-2024-40635 containerd has an integer overflow in User ID handling
 - Source: Microsoft MSRC
 - Category: IS
@@ -4168,12 +3992,6 @@ Information published.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2017-15042
 
 Information published.
-
-## Promoting the National Defense by Ensuring an Adequate Supply of Elemental Phosphorus and Glyphosate-Based Herbicides
-- Source: White House
-- Category: Executive
-- Published: 2026-02-18T22:47:24Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/promoting-the-national-defense-by-ensuring-an-adequate-supply-of-elemental-phosphorus-and-glyphosate-based-herbicides/
 
 ## CVE-2023-6856 The WebGL `DrawElementsInstanced` method was susceptible to a heap buffer overflow when used on systems with the Mesa VM driver. This issue could allow an attacker to perform remote code execution and sand…
 - Source: Microsoft MSRC
@@ -4885,12 +4703,6 @@ Information published.
 - Published: 2026-02-18T21:57:31Z
 - URL: https://home.treasury.gov/news/press-releases/sb0397
 
-## Congressional Bills H.J.Res. 142 and S. 3705 Signed into Law
-- Source: White House
-- Category: Executive
-- Published: 2026-02-18T21:29:42Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bills-h-j-res-142-and-s-3705-signed-into-law/
-
 ## Treasury International Capital Data for December
 - Source: Treasury
 - Category: OFAC
@@ -4910,18 +4722,6 @@ Minutes of the Federal Open Market Committee, January 27–28, 2026
 - Category: OFAC
 - Published: 2026-02-18T18:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0395
-
-## President Trump Celebrates Black History Month: Advancing Opportunity and Prosperity for Every American
-- Source: White House
-- Category: Executive
-- Published: 2026-02-18T17:25:08Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-black-history-month-advancing-opportunity-and-prosperity-for-every-american/
-
-## Presidential Message on Ash Wednesday
-- Source: White House
-- Category: Executive
-- Published: 2026-02-18T14:37:50Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-ash-wednesday/
 
 ## CVE-2024-23307 Integer overflow in raid5_cache_count in Linux kernel
 - Source: Microsoft MSRC
@@ -16939,18 +16739,6 @@ The best conference for wealth management and trust professionals.
 
 The U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an order granting exceptive relief to covered financial institutions from certain requirements under FinCEN’s Customer Due Diligence Requirements for Financial Institutions rule (the “2016 CDD Rule”). The order exempts covered financial institutions from the requirement to identify and v…
 
-## Estimating the Cost of the Consumer Financial Protection Bureau to Consumers
-- Source: White House
-- Category: Executive
-- Published: 2026-02-17T20:00:00Z
-- URL: https://www.whitehouse.gov/research/2026/02/estimating-the-cost-of-the-consumer-financial-protection-bureau-to-consumers/
-
-## Presidential Message on Ramadan
-- Source: White House
-- Category: Executive
-- Published: 2026-02-17T18:32:57Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-ramadan-ecc0/
-
 ## Just Announced: New Speakers Added to CDIA Connect 2026!
 - Source: CDIA
 - Category: Compliance Watch
@@ -16958,12 +16746,6 @@ The U.S. Department of the Treasury’s Financial Crimes Enforcement Network (Fi
 - URL: https://www.cdiaonline.org/events/2026/02/17/just-announced-new-speakers-added-to-cdia-connect-2026/
 
 The highly anticipated CDIA Connect returns May 6–8, 2026, in Washington, DC — bringing together legal experts, thought leaders, regulators, and industry officials for timely... The post Just Announced: New Speakers Added to CDIA Connect 2026! appeared first on CDIA .
-
-## Presidential Message on Lunar New Year
-- Source: White House
-- Category: Executive
-- Published: 2026-02-17T16:11:33Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-lunar-new-year/
 
 ## CVE-2026-0102 Microsoft Edge (Chromium-based) Defense in Depth Vulnerability
 - Source: Microsoft MSRC
@@ -16980,18 +16762,6 @@ Under specific conditions, a malicious webpage may trigger autofill population a
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-26119
 
 Improper authentication in Windows Admin Center allows an authorized attacker to elevate privileges over a network.
-
-## President George Washington’s Birthday, 2026
-- Source: White House
-- Category: Executive
-- Published: 2026-02-17T01:09:15Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/president-george-washingtons-birthday-2026/
-
-## President Trump Celebrates America’s New Golden Age on Presidents’ Day
-- Source: White House
-- Category: Executive
-- Published: 2026-02-17T00:14:26Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-celebrates-americas-new-golden-era-on-presidents-day/
 
 ## Data and Insights
 - Source: Fannie Mae
@@ -17017,47 +16787,13 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 
 The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0046; -0118; -0174; 0188 and -0202). The notices of proposed renewal for these information collections were pr…
 
-## Presidential Message on Susan B. Anthony Day
-- Source: White House
-- Category: Executive
-- Published: 2026-02-15T22:00:59Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-susan-b-anthony-day/
+## Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-16T08:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html
 
-## Presidential Message on the Daytona 500
-- Source: White House
-- Category: Executive
-- Published: 2026-02-15T15:39:15Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-the-daytona-500/
-
-## In Munich, Secretary Rubio Calls on Allies to Embrace Shared Heritage, Meet Challenges of New Era
-- Source: White House
-- Category: Executive
-- Published: 2026-02-15T02:55:57Z
-- URL: https://www.whitehouse.gov/articles/2026/02/in-munich-secretary-rubio-calls-on-allies-to-embrace-shared-heritage-meet-challenges-of-new-era/
-
-## First Lady Melania Trump Embraces Love of Country & Family to United States Armed Forces
-- Source: White House
-- Category: Executive
-- Published: 2026-02-13T20:49:46Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-embraces-love-of-country-family-to-united-states-armed-forces/
-
-## President Trump Delivers Biggest Regulatory Relief in History
-- Source: White House
-- Category: Executive
-- Published: 2026-02-13T18:13:07Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-delivers-biggest-regulatory-relief-in-history/
-
-## Presidential Message on Career and Technical Education Month
-- Source: White House
-- Category: Executive
-- Published: 2026-02-13T17:26:30Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-career-and-technical-education-month/
-
-## Presidential Message on American Heart Month
-- Source: White House
-- Category: Executive
-- Published: 2026-02-13T16:33:45Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-american-heart-month/
+Northern Italy sees more than 60% increase in Visa cardholder visitors from overseas, with an increase in purchases up 80% compared to the same period in 2025 Significant increase in spending from Visa cardholders in many areas of commerce including Clothing & Accessories, Restaurants and Mobility
 
 ## CVE-2025-59213 Configuration Manager Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
@@ -17074,12 +16810,6 @@ Updated information to include CVSS scores. This is an informational change only
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21517
 
 Download links fixed
-
-## President Trump Delivers Another Inflation Win: Real Wages Surge, Price Relief Reaches Americans
-- Source: White House
-- Category: Executive
-- Published: 2026-02-13T14:54:20Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-delivers-another-inflation-win-real-wages-surge-price-relief-reaches-americans/
 
 ## Treasury Accepting Whistleblower Tips on Fraud, Money Laundering, Sanctions Violations
 - Source: Treasury
@@ -17149,18 +16879,6 @@ FOR IMMEDIATE RELEASE: February 12, 2026 (AUSTIN) – Texas Bankers Association 
 
 Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.
 
-## Joint Statement on a Framework for United States-North Macedonia Agreement on Reciprocal, Fair, and Balanced Trade
-- Source: White House
-- Category: Executive
-- Published: 2026-02-12T19:37:57Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/joint-statement-on-a-framework-for-united-states-north-macedonia-agreement-on-reciprocal-fair-and-balanced-trade/
-
-## “Champion of Beautiful, Clean Coal”: President Trump Celebrates Industry Revival
-- Source: White House
-- Category: Executive
-- Published: 2026-02-12T17:48:45Z
-- URL: https://www.whitehouse.gov/articles/2026/02/champion-of-beautiful-clean-coal-president-trump-celebrates-industry-revival/
-
 ## Press Release: FDIC Releases Economic Scenarios for 2026 Stress Testing
 - Source: FDIC
 - Category: Banking
@@ -17176,18 +16894,6 @@ PRESS RELEASE | FEBRUARY 12, 2026 FDIC Releases Economic Scenarios for 2026 Stre
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm
 
 Federal Reserve Board issues enforcement action with former employee of Regions Bank
-
-## Birthday of President Abraham Lincoln, 2026
-- Source: White House
-- Category: Executive
-- Published: 2026-02-12T15:48:42Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/birthday-of-president-abraham-lincoln-2026/
-
-## First Lady Melania Trump Secures Another Russian – Ukrainian Child Reunification
-- Source: White House
-- Category: Executive
-- Published: 2026-02-12T15:03:04Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-secures-another-russian-ukrainian-child-reunification/
 
 ## CVE-2026-20841 Windows Notepad App Remote Code Execution Vulnerability
 - Source: Microsoft MSRC
@@ -17255,24 +16961,6 @@ IR-2026-23, Feb. 12, 2026 — The Department of the Treasury and the Internal Re
 
 The NCUA Board (Board) is seeking comment on proposed regulations to implement portions of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act). The GENIUS Act charges the NCUA with licensing, regulating, and supervising payment stablecoin issuers that are subsidiaries of federally insured credit unions (FICU subsidiaries). The GENIUS Act also…
 
-## Nominations Sent to the Senate
-- Source: White House
-- Category: Executive
-- Published: 2026-02-11T22:17:58Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/nominations-sent-to-the-senate-b65f/
-
-## Strengthening United States National Defense with America’s Beautiful Clean Coal Power Generation Fleet
-- Source: White House
-- Category: Executive
-- Published: 2026-02-11T22:03:51Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/strengthening-united-states-national-defense-with-americas-beautiful-clean-coal-power-generation-fleet/
-
-## Fact Sheet: President Donald J. Trump Strengthens United States National Defense with America’s Beautiful Clean Coal Power Generation Fleet
-- Source: White House
-- Category: Executive
-- Published: 2026-02-11T21:57:59Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-strengthens-united-states-national-defense-with-americas-beautiful-clean-coal-power-generation-fleet/
-
 ## Visa to Participate in Upcoming Investor Conferences
 - Source: Visa
 - Category: Payment Card Networks
@@ -17280,24 +16968,6 @@ The NCUA Board (Board) is seeking comment on proposed regulations to implement p
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html
 
 SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced its participation in the following investor conferences. On Tuesday, March 3, Jack Forestell, Chief Product and Strategy Officer, will present at the Morgan Stanley Technology, Media & Telecom Conference.
-
-## First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day
-- Source: White House
-- Category: Executive
-- Published: 2026-02-11T20:04:28Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/
-
-## Payments Consulting
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-11T17:23:18Z
-- URL: https://www.nacha.org/taxonomy/term/362
-
-## This Is the Trump Economy: Job Growth Crushes Expectations as More Americans Work for Higher Wages
-- Source: White House
-- Category: Executive
-- Published: 2026-02-11T15:35:02Z
-- URL: https://www.whitehouse.gov/articles/2026/02/this-is-the-trump-economy-job-growth-crushes-expectations-as-more-americans-work-for-higher-wages/
 
 ## Metro 2® Format Fundamentals Webinar Series April 14–16, 2026
 - Source: CDIA
@@ -17408,18 +17078,6 @@ The NCUA Board (Board) is proposing to amend its regulations governing the conve
 - URL: https://www.federalregister.gov/documents/2026/02/11/2026-02715/voluntary-consensus-standards-update-formaldehyde-emission-standards-for-composite-wood-products
 
 The Environmental Protection Agency (EPA) is proposing to update the incorporation by reference of several voluntary consensus standards in the Agency's formaldehyde standards for composite wood products regulations under the Toxic Substances Control Act (TSCA) due to the standards having been updated or superseded by the issuing organizations. These new standards primarily up…
-
-## Congressional Bill S. 269 Signed into Law
-- Source: White House
-- Category: Executive
-- Published: 2026-02-10T22:59:09Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bill-s-269-signed-into-law/
-
-## The SAVE America Act: Voter ID is Popular with Everyone
-- Source: White House
-- Category: Executive
-- Published: 2026-02-10T17:53:59Z
-- URL: https://www.whitehouse.gov/articles/2026/02/voter-id-is-overwhelmingly-popular-with-literally-everyone-except-democrat-politicians/
 
 ## Treasury Sanctions Operatives Generating Revenue for Hizballah and Exploiting Lebanon’s Cash Economy
 - Source: Treasury
@@ -17945,24 +17603,6 @@ Added Affected Software for Windows packages
 - Published: 2026-02-10T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-reports-fourth-quarter-and-full-year-2025-results
 
-## Fact Sheet: The United States and India Announce Historic Trade Deal
-- Source: White House
-- Category: Executive
-- Published: 2026-02-09T21:51:00Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-the-united-states-and-india-announce-historic-trade-deal/
-
-## Don’t Be a Panican. We’re Winning — and We’re Not Slowing Down.
-- Source: White House
-- Category: Executive
-- Published: 2026-02-09T20:44:15Z
-- URL: https://www.whitehouse.gov/articles/2026/02/dont-be-a-panican-were-winning-and-were-not-slowing-down/
-
-## Joint Statement on United States – Bangladesh Agreement on Reciprocal Trade
-- Source: White House
-- Category: Executive
-- Published: 2026-02-09T18:27:11Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/joint-statement-on-framework-for-united-states-bangladesh-agreement-on-reciprocal-trade/
-
 ## New Webinar Alert!
 - Source: CDIA
 - Category: Compliance Watch
@@ -17970,12 +17610,6 @@ Added Affected Software for Windows packages
 - URL: https://www.cdiaonline.org/events/2026/02/09/new-webinar-alert/
 
 Liability Reform & Competition and Impact on Risk to the Lender March 17, 2026 | 12:00 PM ET | CDIA Webinar (60 min)... The post New Webinar Alert! appeared first on CDIA .
-
-## Nacha Organization
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-09T08:26:53Z
-- URL: https://www.nacha.org/taxonomy/term/387
 
 ## Texas Bankers Annual Hall of Fame Gala set for April 23
 - Source: TBA
@@ -17999,84 +17633,6 @@ IR-2026-22, Feb. 9, 2026 — The Internal Revenue Service today announced a new 
 - Published: 2026-02-09T00:00:00Z
 - URL: https://www.nacha.org/news/nacha-announces-board-directors-2026
 
-## Presidential Message on Super Bowl LX
-- Source: White House
-- Category: Executive
-- Published: 2026-02-08T16:00:56Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-super-bowl-lx/
-
-## Modifying Duties to Address Threats to the United States by the Government of the Russian Federation
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T23:30:12Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/modifying-duties-to-address-threats-to-the-united-states-by-the-government-of-the-russian-federation-04b2/
-
-## United States-India Joint Statement
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T22:19:51Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/united-states-india-joint-statement/
-
-## Establishing an America First Arms Transfer Strategy
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T22:08:25Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/establishing-an-america-first-arms-transfer-strategy/
-
-## Fact Sheet: President Donald J. Trump Establishes the America First Arms Transfer Strategy
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T22:07:47Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-establishes-the-america-first-arms-transfer-strategy/
-
-## Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Iran
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T22:07:20Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-iran/
-
-## Fact Sheet: President Donald J. Trump Ensures Affordable Beef for the American Consumer
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T22:06:56Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-ensures-affordable-beef-for-the-american-consumer/
-
-## Fact Sheet: President Donald J. Trump Unleashes Commercial Fishing in the Atlantic
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T22:06:38Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-unleashes-commercial-fishing-in-the-atlantic/
-
-## Protecting the National Security and Welfare of the United States and its Citizens from Criminal Actors and Other Public Safety Threats
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T21:51:16Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/protecting-the-national-security-and-welfare-of-the-united-states-and-its-citizens-from-criminal-actors-and-other-public-safety-threats/
-
-## Congressional Bill S. 3424 Signed into Law
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T21:49:12Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bill-s-3424-signed-into-law/
-
-## Addressing Threats to the United States by the Government of Iran
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T21:47:01Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/addressing-threats-to-the-united-states-by-the-government-of-iran/
-
-## Unleashing American Commercial Fishing in the Atlantic
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T21:33:14Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/unleashing-american-commercial-fishing-in-the-atlantic/
-
-## Ensuring Affordable Beef for the American Consumer
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T21:18:13Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/ensuring-affordable-beef-for-the-american-consumer/
-
 ## FDIC Extends Comment Period on Proposal to Establish GENIUS Act Application Procedures for FDIC-Supervised Institutions Seeking to Issue Payment Stablecoins
 - Source: FDIC
 - Category: Banking
@@ -18084,12 +17640,6 @@ IR-2026-22, Feb. 9, 2026 — The Internal Revenue Service today announced a new 
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4082a4d
 
 PRESS RELEASE | FEBRUARY 6, 2026 FDIC Extends Comment Period on Proposal to Establish GENIUS Act Application Procedures for FDIC-Supervised Institutions Seeking to Issue Payment Stablecoins WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) today announced a 90-day extension to the comment period on the agency’s notice of proposed rulemaking (NPR) that would impleme…
-
-## President Trump Launches TrumpRx.gov, Delivering Massive, Immediate Savings to Millions of Americans
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T17:45:29Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-launches-trumprx-gov-delivering-massive-immediate-savings-to-millions-of-americans/
 
 ## Readouts
 - Source: Treasury
@@ -18115,12 +17665,6 @@ PRESS RELEASE | FEBRUARY 6, 2026 FDIC Extends Comment Period on Proposal to Esta
 - Published: 2026-02-06T13:45:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0389
 
-## First Lady Melania Trump Announces 2026 White House Easter Egg Roll
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T13:17:23Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-announces-2026-white-house-easter-egg-roll/
-
 ## Chromium: CVE-2026-1862 Type Confusion in V8
 - Source: Microsoft MSRC
 - Category: IS
@@ -18128,12 +17672,6 @@ PRESS RELEASE | FEBRUARY 6, 2026 FDIC Extends Comment Period on Proposal to Esta
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1862
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
-
-## Fact Sheet: President Donald J. Trump Launches TrumpRx.gov to Bring Lower Drug Prices to American Patients
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T00:31:50Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-launches-trumprx-gov-to-bring-lower-drug-prices-to-american-patients/
 
 ## Iran-related Designations
 - Source: OFAC
@@ -18191,12 +17729,6 @@ Notice is hereby given that the Federal Deposit Insurance Corporation (Corporati
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
 
-## President Trump Showcases Historic Successes, Future Vision in Exclusive NBC Interview
-- Source: White House
-- Category: Executive
-- Published: 2026-02-05T16:42:39Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-showcases-historic-successes-future-vision-exclusive-nbc-interview/
-
 ## TBA to offer pilot access for tokenized deposit capabilities following Vantage Bank launch
 - Source: TBA
 - Category: Compliance Watch
@@ -18218,6 +17750,14 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/407cc7a
 
 PRESS RELEASE | FEBRUARY 5, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in November 2025. The CRA is a 1…
+
+## Visa Introduces Visa & Main, A New Platform to Accelerate Small Business Growth Across the U.S.
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-02-05T12:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22121.html
+
+New program aims to tackle biggest challenges for entrepreneurs across three pillars: Business Capital, Business Connect and Business Essentials Visa &amp; Main launches $100M working capital facility SAN FRANCISCO &amp; ATLANTA --(BUSINESS WIRE)--Feb. 5, 2026-- Visa (NYSE: V) today announced the launch of
 
 ## CVE-2026-24302 Azure Arc Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
@@ -18270,30 +17810,6 @@ User interface (ui) misrepresentation of critical information in Microsoft Edge 
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm
 
 Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered
-
-## New Milestone in Operation Metro Surge: 4,000+ Criminal Illegals Removed from Minnesota Streets
-- Source: White House
-- Category: Executive
-- Published: 2026-02-04T21:19:41Z
-- URL: https://www.whitehouse.gov/articles/2026/02/new-milestone-in-operation-metro-surge-4000-criminal-illegals-removed-from-minnesota-streets/
-
-## First Lady Melania Trump Holds Private Meeting with Freed American-Israeli Hostage Keith Siegel After Helping Secure His Release
-- Source: White House
-- Category: Executive
-- Published: 2026-02-04T20:12:46Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-holds-private-meeting-with-freed-american-israeli-hostage-keith-siegel-after-helping-secure-his-release/
-
-## Nominations Sent to the Senate
-- Source: White House
-- Category: Executive
-- Published: 2026-02-04T17:59:12Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/nominations-sent-to-the-senate-2f25/
-
-## Presidential Message on National Women and Girls in Sports Day
-- Source: White House
-- Category: Executive
-- Published: 2026-02-04T16:22:40Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-national-women-and-girls-in-sports-day/
 
 ## Statement from Secretary of the Treasury Scott Bessent Before the United States House Financial Services Committee
 - Source: Treasury
@@ -18357,24 +17873,6 @@ This document contains proposed regulations regarding the clean fuel production 
 
 The Office of Personnel Management (OPM) proposes to amend its retirement regulations to revise the definition of secondary position for law enforcement officers, firefighters, nuclear materials couriers, and customs and border protection officers. The changes remove the requirement that experience in a primary position is a mandatory prerequisite for an executive level positi…
 
-## Congressional Bill H.R. 7148 Signed into Law
-- Source: White House
-- Category: Executive
-- Published: 2026-02-03T21:42:14Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bill-h-r-7148-signed-into-law/
-
-## Minnesota Democrats Protected This Violent Illegal Alien. The Trump Administration Is Deporting Him.
-- Source: White House
-- Category: Executive
-- Published: 2026-02-03T20:12:20Z
-- URL: https://www.whitehouse.gov/articles/2026/02/minnesota-democrats-protected-this-violent-illegal-alien-the-trump-administration-is-deporting-him/
-
-## National Black History Month, 2026
-- Source: White House
-- Category: Executive
-- Published: 2026-02-03T19:56:11Z
-- URL: https://www.whitehouse.gov/presidential-actions/2026/02/national-black-history-month-2026/
-
 ## What’s Ahead for CDIA Connect?
 - Source: CDIA
 - Category: Compliance Watch
@@ -18435,18 +17933,6 @@ The Secretary of Homeland Security, in consultation with the Secretary of Labor,
 
 The Surface Transportation Board (Board) recently completed a reorganization in which it combined its two legal offices, the Office of the General Counsel and the Office of Proceedings, to form the Office of Chief Counsel. The Board is issuing a final rule to make nomenclature changes reflecting the establishment of the Office of Chief Counsel as a result of this reorganizatio…
 
-## America 250: Presidential Message on the Anniversary of Our Victory in the Mexican-American War
-- Source: White House
-- Category: Executive
-- Published: 2026-02-02T23:22:02Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-anniversary-of-our-victory-in-the-mexican-american-war/
-
-## Americans Overwhelmingly Support Deporting Criminal Illegals, Local Cooperation with ICE
-- Source: White House
-- Category: Executive
-- Published: 2026-02-02T20:55:53Z
-- URL: https://www.whitehouse.gov/articles/2026/02/americans-overwhelmingly-support-deporting-criminal-illegals-local-cooperation-with-ice/
-
 ## Treasury Announces Marketable Borrowing Estimates
 - Source: Treasury
 - Category: OFAC
@@ -18458,18 +17944,6 @@ The Surface Transportation Board (Board) recently completed a reorganization in 
 - Category: OFAC
 - Published: 2026-02-02T20:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0376
-
-## Ninth Meeting of the North American Drug Dialogue
-- Source: White House
-- Category: Executive
-- Published: 2026-02-02T17:41:27Z
-- URL: https://www.whitehouse.gov/articles/2026/02/ninth-meeting-of-the-north-american-drug-dialogue/
-
-## Rents Hit Four-Year Low as President Trump Continues Affordability Push
-- Source: White House
-- Category: Executive
-- Published: 2026-02-02T17:19:27Z
-- URL: https://www.whitehouse.gov/articles/2026/02/rents-hit-four-year-low-as-president-trump-continues-affordability-push/
 
 ## Trump nominates Kevin Warsh as Fed Chair
 - Source: TBA
@@ -18500,9 +17974,3 @@ Agency statements, comments and additional information.
 - URL: https://www.federalregister.gov/documents/2026/02/02/2026-02073/agency-information-collection-activities-proposed-collection-renewal-comment-request
 
 The Federal Deposit Insurance Corporation (FDIC), as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on the renewal of the existing information collection described below (OMB Control No. 3064-0139).
-
-## Nacha Operating Rules
-- Source: NACHA
-- Category: Payments
-- Published: 2026-02-01T20:07:31Z
-- URL: https://www.nacha.org/taxonomy/term/338
