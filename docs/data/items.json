@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-03T20:24:47Z",
-  "generated_at_ct": "2026-03-03T14:24:47-06:00",
+  "generated_at_utc": "2026-03-03T22:58:49Z",
+  "generated_at_ct": "2026-03-03T16:58:49-06:00",
   "items": [
     {
       "category": "OFAC",
@@ -10,30 +10,6 @@
       "title": "FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026",
       "published_at": "2026-03-01T00:00:00Z",
       "url": "https://www.fincen.gov/news/news-releases/fincen-announces-postponement-residential-real-estate-reporting-until-march-1",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
-      "published_at": "2026-03-01T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Samsung TVs to stop collecting Texans’ data without express consent",
-      "published_at": "2026-03-01T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "1TB lifetime of Koffr cloud storage is just $160 for a limited time",
-      "published_at": "2026-03-01T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/offer/deals/1tb-lifetime-of-koffr-cloud-storage-is-just-160-for-a-limited-time/",
       "summary": ""
     },
     {
@@ -469,7 +445,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "Press Release: FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah",
       "published_at": "2026-02-27T17:16:05Z",
@@ -477,7 +453,7 @@
       "summary": "PRESS RELEASE | FEBRUARY 27, 2026 FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah WASHINGTON – The Board of Directors of the Federal Deposit Insurance Corporation (FDIC) today announced the approval of a deposit insurance application submitted by the Jones Financial Companies, L.L.L.P. to establish Edward Jones Bank, which will be a…"
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "Press Release: FDIC Issues CRA Examination Schedules for Second Quarter 2026 and Third Quarter 2026",
       "published_at": "2026-02-27T16:02:32Z",
@@ -501,7 +477,7 @@
       "summary": "Download links fixed"
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "Press Release: FDIC Publishes Enforcement Orders for January 2026",
       "published_at": "2026-02-27T15:02:09Z",
@@ -581,7 +557,7 @@
       "summary": "IR-2026-27, Feb. 27, 2026 — The Department of the Treasury and the Internal Revenue Service today issued frequently asked questions on FS-2026-03 related to general refundability and recognizing Indian tribal governments for purposes of making a special needs determination for the Adoption Tax Credit."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "OCC",
       "title": "OCC Issues Second and Third Quarter 2026 CRA Evaluation Schedule",
       "published_at": "2026-02-27T00:00:00Z",
@@ -589,7 +565,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "OCC",
       "title": "National Bank Chartering: Final Rule",
       "published_at": "2026-02-27T00:00:00Z",
@@ -860,7 +836,7 @@
       "summary": "IR-2026-26, Feb. 26, 2026 — The Internal Revenue Service today announced the launch of a new web page that allows taxpayers to confidentially report suspected tax fraud, scams, evasion, or other tax-related illegal activities, as well as internal-facing improvements that will enhance how referrals are used to stop illegal activity."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "Regulatory Reform",
       "published_at": "2026-02-26T00:00:00Z",
@@ -1112,7 +1088,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "OCC",
       "title": "OCC Requests Comments on Proposal to Implement GENIUS Act",
       "published_at": "2026-02-25T00:00:00Z",
@@ -1288,7 +1264,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "Minutes of the Board's discount rate meetings on January 20 and 28, 2026",
       "published_at": "2026-02-24T19:00:00Z",
@@ -1320,7 +1296,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
       "published_at": "2026-02-24T16:00:00Z",
@@ -1328,7 +1304,7 @@
       "summary": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank"
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "Press Release: FDIC-Insured Institutions Reported Return on Assets of 1.24 Percent and Net Income of $77.7 Billion in Fourth Quarter 2025",
       "published_at": "2026-02-24T15:07:29Z",
@@ -1352,7 +1328,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1360,7 +1336,7 @@
       "summary": "The Board of Directors (FDIC) announced the approval of a deposit insurance application submitted by the Jones Financial Companies, L.L.L.P."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Issues CRA Examination Schedules for Second Quarter 2026 and Third Quarter 2026",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1368,7 +1344,7 @@
       "summary": "The FDIC today issued the lists of institutions scheduled for a CRA examination during the second quarter 2026 and third quarter 2026."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Publishes January Enforcement Actions",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1376,7 +1352,7 @@
       "summary": "FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC-Insured Institutions Reported Return on Assets of 1.24 Percent and Net Income of $77.7 Billion in Fourth Quarter 2025",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1384,7 +1360,7 @@
       "summary": "The banking industry reported a return on assets ratio of 1.24 percent, a decrease of 3 basis points from third quarter 2025."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Releases Economic Scenarios for 2026 Stress Testing",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1392,7 +1368,7 @@
       "summary": "WASHINGTON — The Federal Deposit Insurance Corporation (FDIC) today released the hypothetical economic scenarios for use in the upcoming stress tests for covere"
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Extends Comment Period on Proposal to Establish GENIUS Act Application Procedures for FDIC-Supervised Institutions Seeking to Issue Payment Stablecoins",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1400,7 +1376,7 @@
       "summary": "The FDIC today announced a 90-day extension to the comment period on the agency’s notice of proposed rulemaking (NPR) that would implement the application provi"
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Issues List of Banks Examined for CRA Compliance",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1408,7 +1384,7 @@
       "summary": "The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA)."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1416,7 +1392,7 @@
       "summary": "First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois"
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Publishes December Enforcement Actions",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1424,7 +1400,7 @@
       "summary": "The FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in December 2025."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1432,7 +1408,7 @@
       "summary": "The FDIC today approved deposit insurance applications submitted by Ford Motor Company to establish Ford Credit Bank and General Motors Company to establish GM"
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Board Approves Final Rule to Amend Official Signs and Advertising Requirements",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1440,7 +1416,7 @@
       "summary": "The FDIC Board of Directors today approved a final rule to amend regulations governing the display of the FDIC official digital sign and non-deposit signage."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Board of Directors Establishes Office of Supervisory Appeals",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1448,7 +1424,7 @@
       "summary": "The FDIC Board of Directors today approved amendments to the agency’s Guidelines for Appeals of Material Supervisory Determinations."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "Travis Hill Sworn in as the 23rd Chairman of the FDIC",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1456,7 +1432,7 @@
       "summary": "Travis Hill was sworn in as the 23rd Chairman of the Federal Deposit Insurance Corporation (FDIC)."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "Agencies Issue 2025 Shared National Credit Program Report",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1464,7 +1440,7 @@
       "summary": "Federal bank regulatory agencies today released the 2025 Shared National Credit report that indicates credit risk associated with large, syndicated bank loans"
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Issues List of Banks Examined for CRA Compliance",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1472,7 +1448,7 @@
       "summary": "The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA)."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "Agencies Release Annual Asset-Size Thresholds Under Community Reinvestment Act Regulations",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1480,7 +1456,7 @@
       "summary": "The agencies today announced the 2026 updated Community Reinvestment Act (CRA) “small bank” and “intermediate small bank” asset-size thresholds."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Publishes November Enforcement Actions",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1488,7 +1464,7 @@
       "summary": "The FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in November 2025."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Approves the Deposit Insurance Application for Erebor Bank, N.A., Columbus, Ohio",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1496,7 +1472,7 @@
       "summary": "The FDIC today approved a deposit insurance application to establish Erebor Bank, N.A. (Erebor Bank), a newly chartered national bank to be headquartered.."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Board Approves 2026 Operating Budget",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1504,7 +1480,7 @@
       "summary": "The Board of Directors of the FDIC today approved a 2026 budget of $2.49 billion to support the agency’s ongoing operations and receivership functions."
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Board of Directors Approves Final Rule on Establishment and Relocation of Branches and Offices",
       "published_at": "2026-02-24T00:00:00Z",
@@ -1612,7 +1588,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "Following earlier actions to remove reputation risk from its supervision of banks, Federal Reserve Board requests comment on proposal to codify that removal",
       "published_at": "2026-02-23T22:00:00Z",
@@ -4257,7 +4233,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "Federal Reserve Board announces approval of application by Fulton Financial Corporation",
       "published_at": "2026-02-19T21:30:00Z",
@@ -4273,7 +4249,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "Federal Reserve Board announces it will hold a hybrid public outreach meeting on Thursday, March 26, as part of its review of regulations under the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA)",
       "published_at": "2026-02-19T20:00:00Z",
@@ -5244,7 +5220,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
       "published_at": "2026-02-18T19:00:00Z",
@@ -17252,7 +17228,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "News & Events",
       "published_at": "2026-02-18T00:00:00Z",
@@ -17550,7 +17526,7 @@
       "summary": "FOR IMMEDIATE RELEASE: February 12, 2026 (AUSTIN) – Texas Bankers Association (TBA) CEO Chris Furlow and General Counsel/EVP for Government Relations Celeste Embrey are proud to announce the appointment of David “Chip” Bartlett as Senior Vice President of Government Relations, further strengthening the association’s leadership at a time when Texas banks are playing a key […] T…"
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
       "published_at": "2026-02-12T21:00:00Z",
@@ -17566,15 +17542,7 @@
       "summary": ""
     },
     {
-      "category": "Executive",
-      "source": "White House",
-      "title": "“Champion of Beautiful, Clean Coal”: President Trump Celebrates Industry Revival",
-      "published_at": "2026-02-12T17:48:45Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/champion-of-beautiful-clean-coal-president-trump-celebrates-industry-revival/",
-      "summary": ""
-    },
-    {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "Press Release: FDIC Releases Economic Scenarios for 2026 Stress Testing",
       "published_at": "2026-02-12T16:02:11Z",
@@ -17582,20 +17550,12 @@
       "summary": "PRESS RELEASE | FEBRUARY 12, 2026 FDIC Releases Economic Scenarios for 2026 Stress Testing WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) today released the hypothetical economic scenarios for use in the upcoming stress tests for covered institutions with total consolidated assets of more than $250 billion. The Dodd-Frank Wall Street Reform and Consumer Protecti…"
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
       "published_at": "2026-02-12T16:00:00Z",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm",
       "summary": "Federal Reserve Board issues enforcement action with former employee of Regions Bank"
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "Birthday of President Abraham Lincoln, 2026",
-      "published_at": "2026-02-12T15:48:42Z",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/02/birthday-of-president-abraham-lincoln-2026/",
-      "summary": ""
     },
     {
       "category": "Executive",
@@ -18649,7 +18609,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "FDIC Extends Comment Period on Proposal to Establish GENIUS Act Application Procedures for FDIC-Supervised Institutions Seeking to Issue Payment Stablecoins",
       "published_at": "2026-02-06T20:25:00Z",
@@ -18831,20 +18791,12 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FDIC",
       "title": "Press Release: FDIC Issues List of Banks Examined for CRA Compliance",
       "published_at": "2026-02-05T15:15:50Z",
       "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/407cc7a",
       "summary": "PRESS RELEASE | FEBRUARY 5, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in November 2025. The CRA is a 1…"
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa Introduces Visa & Main, A New Platform to Accelerate Small Business Growth Across the U.S.",
-      "published_at": "2026-02-05T12:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22121.html",
-      "summary": "New program aims to tackle biggest challenges for entrepreneurs across three pillars: Business Capital, Business Connect and Business Essentials Visa &amp; Main launches $100M working capital facility SAN FRANCISCO &amp; ATLANTA --(BUSINESS WIRE)--Feb. 5, 2026-- Visa (NYSE: V) today announced the launch of"
     },
     {
       "category": "IS",
@@ -18895,7 +18847,7 @@
       "summary": ""
     },
     {
-      "category": "Banking",
+      "category": "Federal Banking Agencies",
       "source": "FRB",
       "title": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
       "published_at": "2026-02-04T21:30:00Z",
@@ -19048,14 +19000,6 @@
       "published_at": "2026-02-03T16:08:08Z",
       "url": "https://www.cdiaonline.org/events/2026/02/03/whats-ahead-for-cdia-connect/",
       "summary": "Join legal experts, industry leaders, and regulators at 2026 CDIA Connect as we shape the future of the consumer reporting industry. Last year,... The post What’s Ahead for CDIA Connect? appeared first on CDIA ."
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Visa",
-      "title": "Visa Direct and UnionPay International Will Extend Global Money Movement Network to Billions of Cards in Chinese Mainland",
-      "published_at": "2026-02-03T12:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22101.html",
-      "summary": "By connecting Visa Direct’s card network to UnionPay International’s (UPI) MoneyExpress platform, Visa Direct will unlock real‑time 1 cross‑border money movement in one of the world’s largest remittance corridors SAN FRANCISCO &amp; DOHA, Qatar --(BUSINESS WIRE)--Feb."
     },
     {
       "category": "OFAC",

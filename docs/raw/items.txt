@@ -5,24 +5,6 @@ FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1
 https://www.fincen.gov/news/news-releases/fincen-announces-postponement-residential-real-estate-reporting-until-march-1
 ------------------------------------------------------------
 IS
-BleepingComputer
-2026-03-01T00:00:00Z
-ClawJacked attack let malicious websites hijack OpenClaw to steal data
-https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-01T00:00:00Z
-Samsung TVs to stop collecting Texans’ data without express consent
-https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-01T00:00:00Z
-1TB lifetime of Koffr cloud storage is just $160 for a limited time
-https://www.bleepingcomputer.com/offer/deals/1tb-lifetime-of-koffr-cloud-storage-is-just-160-for-a-limited-time/
-------------------------------------------------------------
-IS
 Microsoft MSRC
 2026-02-28T09:39:54Z
 CVE-2026-27571 nats-server websockets are vulnerable to pre-auth memory DoS
@@ -398,14 +380,14 @@ White House
 President Trump Is Delivering for Texans
 https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-for-texans/
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-27T17:16:05Z
 Press Release: FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah
 https://content.govdelivery.com/accounts/USFDIC/bulletins/40be1c8
 PRESS RELEASE | FEBRUARY 27, 2026 FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah WASHINGTON – The Board of Directors of the Federal Deposit Insurance Corporation (FDIC) today announced the approval of a deposit insurance application submitted by the Jones Financial Companies, L.L.L.P. to establish Edward Jones Bank, which will be a…
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-27T16:02:32Z
 Press Release: FDIC Issues CRA Examination Schedules for Second Quarter 2026 and Third Quarter 2026
@@ -426,7 +408,7 @@ CVE-2026-21523 GitHub Copilot and Visual Studio Code Remote Code Execution Vulne
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21523
 Download links fixed
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-27T15:02:09Z
 Press Release: FDIC Publishes Enforcement Orders for January 2026
@@ -495,13 +477,13 @@ Treasury, IRS issue FAQs about general refundability and recognizing Indian trib
 https://www.irs.gov/newsroom/treasury-irs-issue-faqs-about-general-refundability-and-recognizing-indian-tribal-governments-for-purposes-of-making-a-special-needs-determination-for-the-adoption-tax-credit
 IR-2026-27, Feb. 27, 2026 — The Department of the Treasury and the Internal Revenue Service today issued frequently asked questions on FS-2026-03 related to general refundability and recognizing Indian tribal governments for purposes of making a special needs determination for the Adoption Tax Credit.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 OCC
 2026-02-27T00:00:00Z
 OCC Issues Second and Third Quarter 2026 CRA Evaluation Schedule
 https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-11.html
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 OCC
 2026-02-27T00:00:00Z
 National Bank Chartering: Final Rule
@@ -717,7 +699,7 @@ IRS launches new web page to streamline tax fraud and scam reporting
 https://www.irs.gov/newsroom/irs-launches-new-web-page-to-streamline-tax-fraud-and-scam-reporting
 IR-2026-26, Feb. 26, 2026 — The Internal Revenue Service today announced the launch of a new web page that allows taxpayers to confidentially report suspected tax fraud, scams, evasion, or other tax-related illegal activities, as well as internal-facing improvements that will enhance how referrals are used to stop illegal activity.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-26T00:00:00Z
 Regulatory Reform
@@ -914,7 +896,7 @@ OFAC
 Iran-related Designations; Non-Proliferation Designations
 https://ofac.treasury.gov/recent-actions/20260225
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 OCC
 2026-02-25T00:00:00Z
 OCC Requests Comments on Proposal to Implement GENIUS Act
@@ -1001,7 +983,7 @@ Treasury
 Treasury Sanctions Exploit Broker Network for Theft and Sale of U.S. Government Cyber Tools
 https://home.treasury.gov/news/press-releases/sb0404
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-24T19:00:00Z
 Minutes of the Board's discount rate meetings on January 20 and 28, 2026
@@ -1026,14 +1008,14 @@ White House
 First Lady Melania Trump’s State of the Union Guests Reflect Her Impact on Education, Tech, and the Foster Community
 https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trumps-state-of-the-union-guests-reflect-her-impact-on-education-tech-and-the-foster-community/
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-24T16:00:00Z
 Federal Reserve Board issues enforcement action with former employee of First Financial Bank
 https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260224a.htm
 Federal Reserve Board issues enforcement action with former employee of First Financial Bank
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T15:07:29Z
 Press Release: FDIC-Insured Institutions Reported Return on Assets of 1.24 Percent and Net Income of $77.7 Billion in Fourth Quarter 2025
@@ -1052,140 +1034,140 @@ OFAC
 Cyber-related Designations; CAATSA - Russia-related Designations; PAIPA Designations
 https://ofac.treasury.gov/recent-actions/20260224
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah
 https://www.fdic.gov/news/press-releases/2026/fdic-approves-deposit-insurance-application-edward-jones-bank-salt-lake
 The Board of Directors (FDIC) announced the approval of a deposit insurance application submitted by the Jones Financial Companies, L.L.L.P.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Issues CRA Examination Schedules for Second Quarter 2026 and Third Quarter 2026
 https://www.fdic.gov/news/press-releases/2026/fdic-issues-cra-examination-schedules-second-quarter-2026-and-third
 The FDIC today issued the lists of institutions scheduled for a CRA examination during the second quarter 2026 and third quarter 2026.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Publishes January Enforcement Actions
 https://www.fdic.gov/news/press-releases/2026/fdic-publishes-january-enforcement-actions
 FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in January 2026.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC-Insured Institutions Reported Return on Assets of 1.24 Percent and Net Income of $77.7 Billion in Fourth Quarter 2025
 https://www.fdic.gov/news/press-releases/2026/fdic-insured-institutions-reported-return-assets-124-percent-and-net
 The banking industry reported a return on assets ratio of 1.24 percent, a decrease of 3 basis points from third quarter 2025.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Releases Economic Scenarios for 2026 Stress Testing
 https://www.fdic.gov/news/press-releases/2026/fdic-releases-economic-scenarios-2026-stress-testing
 WASHINGTON — The Federal Deposit Insurance Corporation (FDIC) today released the hypothetical economic scenarios for use in the upcoming stress tests for covere
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Extends Comment Period on Proposal to Establish GENIUS Act Application Procedures for FDIC-Supervised Institutions Seeking to Issue Payment Stablecoins
 https://www.fdic.gov/news/press-releases/2026/fdic-extends-comment-period-proposal-establish-genius-act-application
 The FDIC today announced a 90-day extension to the comment period on the agency’s notice of proposed rulemaking (NPR) that would implement the application provi
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Issues List of Banks Examined for CRA Compliance
 https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-0
 The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA).
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois
 https://www.fdic.gov/news/press-releases/2026/first-independence-bank-detroit-michigan-assumes-all-deposits-metropolitan
 First Independence Bank, Detroit, Michigan, Assumes All Deposits of Metropolitan Capital Bank & Trust, Chicago, Illinois
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Publishes December Enforcement Actions
 https://www.fdic.gov/news/press-releases/2026/fdic-publishes-december-enforcement-actions
 The FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in December 2025.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Approves the Deposit Insurance Applications for Ford Credit Bank, Salt Lake City, Utah, and GM Financial Bank, Salt Lake City, Utah
 https://www.fdic.gov/news/press-releases/2026/fdic-approves-deposit-insurance-applications-ford-credit-bank-salt-lake
 The FDIC today approved deposit insurance applications submitted by Ford Motor Company to establish Ford Credit Bank and General Motors Company to establish GM
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Board Approves Final Rule to Amend Official Signs and Advertising Requirements
 https://www.fdic.gov/news/press-releases/2026/fdic-board-approves-final-rule-amend-official-signs-and-advertising
 The FDIC Board of Directors today approved a final rule to amend regulations governing the display of the FDIC official digital sign and non-deposit signage.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Board of Directors Establishes Office of Supervisory Appeals
 https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-establishes-office-supervisory-appeals
 The FDIC Board of Directors today approved amendments to the agency’s Guidelines for Appeals of Material Supervisory Determinations.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 Travis Hill Sworn in as the 23rd Chairman of the FDIC
 https://www.fdic.gov/news/press-releases/2026/travis-hill-sworn-23rd-chairman-fdic
 Travis Hill was sworn in as the 23rd Chairman of the Federal Deposit Insurance Corporation (FDIC).
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 Agencies Issue 2025 Shared National Credit Program Report
 https://www.fdic.gov/news/press-releases/2026/agencies-issue-2025-shared-national-credit-program-report
 Federal bank regulatory agencies today released the 2025 Shared National Credit report that indicates credit risk associated with large, syndicated bank loans
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Issues List of Banks Examined for CRA Compliance
 https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance
 The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA).
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 Agencies Release Annual Asset-Size Thresholds Under Community Reinvestment Act Regulations
 https://www.fdic.gov/news/press-releases/2025/agencies-release-annual-asset-size-thresholds-under-community-reinvestment
 The agencies today announced the 2026 updated Community Reinvestment Act (CRA) “small bank” and “intermediate small bank” asset-size thresholds.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Publishes November Enforcement Actions
 https://www.fdic.gov/news/press-releases/2025/fdic-publishes-november-enforcement-actions
 The FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in November 2025.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Approves the Deposit Insurance Application for Erebor Bank, N.A., Columbus, Ohio
 https://www.fdic.gov/news/press-releases/2025/fdic-approves-deposit-insurance-application-erebor-bank-na-columbus-ohio
 The FDIC today approved a deposit insurance application to establish Erebor Bank, N.A. (Erebor Bank), a newly chartered national bank to be headquartered..
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Board Approves 2026 Operating Budget
 https://www.fdic.gov/news/press-releases/2025/fdic-board-approves-2026-operating-budget
 The Board of Directors of the FDIC today approved a 2026 budget of $2.49 billion to support the agency’s ongoing operations and receivership functions.
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-24T00:00:00Z
 FDIC Board of Directors Approves Final Rule on Establishment and Relocation of Branches and Offices
@@ -1257,7 +1239,7 @@ White House
 America 250: Presidential Message on the Anniversary of the Battle of the Alamo
 https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-anniversary-of-the-battle-of-the-alamo/
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-23T22:00:00Z
 Following earlier actions to remove reputation risk from its supervision of banks, Federal Reserve Board requests comment on proposal to codify that removal
@@ -3535,7 +3517,7 @@ White House
 President Trump Is Bringing Back the American Dream of Homeownership
 https://www.whitehouse.gov/articles/2026/02/president-trump-is-bringing-back-the-american-dream-of-homeownership/
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-19T21:30:00Z
 Federal Reserve Board announces approval of application by Fulton Financial Corporation
@@ -3548,7 +3530,7 @@ White House
 America 250: Anniversary of the Battle of Iwo Jima
 https://www.whitehouse.gov/briefings-statements/2026/02/america-250-anniversary-of-the-battle-of-iwo-jima/
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-19T20:00:00Z
 Federal Reserve Board announces it will hold a hybrid public outreach meeting on Thursday, March 26, as part of its review of regulations under the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA)
@@ -4374,7 +4356,7 @@ Treasury
 Treasury International Capital Data for December
 https://home.treasury.gov/news/press-releases/sb0396
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-18T19:00:00Z
 Minutes of the Federal Open Market Committee, January 27–28, 2026
@@ -14877,7 +14859,7 @@ OFAC
 Issuance of Venezuela-related Frequently Asked Questions
 https://ofac.treasury.gov/recent-actions/20260218
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-18T00:00:00Z
 News & Events
@@ -15111,7 +15093,7 @@ Chip Bartlett Joins Texas Bankers as Senior Vice President of Government Relatio
 https://www.texasbankers.com/chip-bartlett-joins-texas-bankers-as-senior-vice-president-of-government-relations/
 FOR IMMEDIATE RELEASE: February 12, 2026 (AUSTIN) – Texas Bankers Association (TBA) CEO Chris Furlow and General Counsel/EVP for Government Relations Celeste Embrey are proud to announce the appointment of David “Chip” Bartlett as Senior Vice President of Government Relations, further strengthening the association’s leadership at a time when Texas banks are playing a key […] T…
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-12T21:00:00Z
 Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.
@@ -15124,31 +15106,19 @@ White House
 Joint Statement on a Framework for United States-North Macedonia Agreement on Reciprocal, Fair, and Balanced Trade
 https://www.whitehouse.gov/briefings-statements/2026/02/joint-statement-on-a-framework-for-united-states-north-macedonia-agreement-on-reciprocal-fair-and-balanced-trade/
 ------------------------------------------------------------
-Executive
-White House
-2026-02-12T17:48:45Z
-“Champion of Beautiful, Clean Coal”: President Trump Celebrates Industry Revival
-https://www.whitehouse.gov/articles/2026/02/champion-of-beautiful-clean-coal-president-trump-celebrates-industry-revival/
-------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-12T16:02:11Z
 Press Release: FDIC Releases Economic Scenarios for 2026 Stress Testing
 https://content.govdelivery.com/accounts/USFDIC/bulletins/4098769
 PRESS RELEASE | FEBRUARY 12, 2026 FDIC Releases Economic Scenarios for 2026 Stress Testing WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) today released the hypothetical economic scenarios for use in the upcoming stress tests for covered institutions with total consolidated assets of more than $250 billion. The Dodd-Frank Wall Street Reform and Consumer Protecti…
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-12T16:00:00Z
 Federal Reserve Board issues enforcement action with former employee of Regions Bank
 https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm
 Federal Reserve Board issues enforcement action with former employee of Regions Bank
-------------------------------------------------------------
-Executive
-White House
-2026-02-12T15:48:42Z
-Birthday of President Abraham Lincoln, 2026
-https://www.whitehouse.gov/briefings-statements/2026/02/birthday-of-president-abraham-lincoln-2026/
 ------------------------------------------------------------
 Executive
 White House
@@ -15981,7 +15951,7 @@ White House
 Ensuring Affordable Beef for the American Consumer
 https://www.whitehouse.gov/presidential-actions/2026/02/ensuring-affordable-beef-for-the-american-consumer/
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-06T20:25:00Z
 FDIC Extends Comment Period on Proposal to Establish GENIUS Act Application Procedures for FDIC-Supervised Institutions Seeking to Issue Payment Stablecoins
@@ -16108,19 +16078,12 @@ Treasury
 Statement from Secretary of the Treasury Scott Bessent Before the United States Senate Banking Committee
 https://home.treasury.gov/news/press-releases/sb0388
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FDIC
 2026-02-05T15:15:50Z
 Press Release: FDIC Issues List of Banks Examined for CRA Compliance
 https://content.govdelivery.com/accounts/USFDIC/bulletins/407cc7a
 PRESS RELEASE | FEBRUARY 5, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in November 2025. The CRA is a 1…
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-02-05T12:00:00Z
-Visa Introduces Visa & Main, A New Platform to Accelerate Small Business Growth Across the U.S.
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22121.html
-New program aims to tackle biggest challenges for entrepreneurs across three pillars: Business Capital, Business Connect and Business Essentials Visa &amp; Main launches $100M working capital facility SAN FRANCISCO &amp; ATLANTA --(BUSINESS WIRE)--Feb. 5, 2026-- Visa (NYSE: V) today announced the launch of
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -16162,7 +16125,7 @@ NACHA
 Phixius by Nacha and Kinexys by J.P. Morgan Integration Goes Live, Expanding Multi-Responder Account Validation Network
 https://www.nacha.org/news/phixius-nacha-and-kinexys-jp-morgan-integration-goes-live-expanding-multi-responder-account
 ------------------------------------------------------------
-Banking
+Federal Banking Agencies
 FRB
 2026-02-04T21:30:00Z
 Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered
@@ -16275,13 +16238,6 @@ CDIA
 What’s Ahead for CDIA Connect?
 https://www.cdiaonline.org/events/2026/02/03/whats-ahead-for-cdia-connect/
 Join legal experts, industry leaders, and regulators at 2026 CDIA Connect as we shape the future of the consumer reporting industry. Last year,... The post What’s Ahead for CDIA Connect? appeared first on CDIA .
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-02-03T12:00:00Z
-Visa Direct and UnionPay International Will Extend Global Money Movement Network to Billions of Cards in Chinese Mainland
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22101.html
-By connecting Visa Direct’s card network to UnionPay International’s (UPI) MoneyExpress platform, Visa Direct will unlock real‑time 1 cross‑border money movement in one of the world’s largest remittance corridors SAN FRANCISCO &amp; DOHA, Qatar --(BUSINESS WIRE)--Feb.
 ------------------------------------------------------------
 OFAC
 OFAC

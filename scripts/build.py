@@ -106,11 +106,11 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     # Payments tile
     "NACHA": "Payments",
     "FRB Payments": "Payments",
-    "FRB": "Banking",
+    "FRB": "Federal Banking Agencies",
 
     # Banking tile
-    "OCC": "Banking",
-    "FDIC": "Banking",
+    "OCC": "Federal Banking Agencies",
+    "FDIC": "Federal Banking Agencies",
 
     # Mortgage tile
     "FHLB MPF": "Mortgage",
@@ -2483,6 +2483,17 @@ def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[
             continue
 
         u = urlparse(urljoin(page_url, href))
+        # If we fetched the listing via r.jina.ai proxy, links can be wrapped like:
+        #   https://r.jina.ai/https://www.mastercard.com/...
+        # unwrap those back to the underlying Mastercard URL.
+        if u.netloc.lower() == "r.jina.ai":
+            inner = (u.path or "").lstrip("/")
+            if inner.startswith("http://") or inner.startswith("https://"):
+                try:
+                    u = urlparse(inner)
+                except Exception:
+                    pass
+
         if u.netloc.lower() != "www.mastercard.com":
             continue
         if not MASTERCARD_PR_PATH_RE.match(u.path):
@@ -3727,12 +3738,35 @@ def build() -> None:
                 if is_generic_listing_or_home(source, title, url):
                     continue
 
-                # NACHA: prevent non-article "page links" (taxonomy, category hubs, etc.) from showing as items.
-                # NACHA news articles are under /news/<slug>. Keep only those.
+                # NACHA: prevent non-article "page links" (taxonomy, category hubs, archives, pagination, etc.)
+                # NACHA news articles are under /news/<slug>. Keep only true article detail pages.
                 if source == "NACHA":
                     u = urlparse(url)
-                    if u.netloc.endswith("nacha.org") and not (u.path or "").startswith("/news/"):
-                        continue
+                    if u.netloc.endswith("nacha.org"):
+                        pth = (u.path or "").strip()
+                        # drop listing root (/news) and anything without a slug after /news/
+                        if pth.rstrip("/") == "/news":
+                            continue
+                        if not pth.startswith("/news/"):
+                            continue
+                        # drop known non-article hubs under /news/
+                        # Keep this *very* narrow so we only drop obvious non-article hubs.
+                        # (NACHA can publish legitimate articles under some subpaths, so avoid broad blocking.)
+                        bad_prefixes = (
+                             "/news/archive",
+                             "/news/category",
+                             "/news/tag",
+                             "/news/topic",
+                             "/news/search",
+                         )
+                        if any(pth.lower().startswith(bp) for bp in bad_prefixes):
+                            continue
+                        # drop obvious pagination (either query ?page= or /page/N)
+                        q = parse_qs(u.query or "")
+                        if "page" in q:
+                            continue
+                        if re.search(r"/page/\d+/?$", pth, re.I):
+                            continue
 
                 snippet = ""
 
