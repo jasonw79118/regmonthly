@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-05T09:18:53-06:00` (CT) — `2026-03-05T15:18:53Z` (UTC)
+Last updated: `2026-03-05T10:10:58-06:00` (CT) — `2026-03-05T16:10:58Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -616,14 +616,6 @@ The Farm Credit Administration (FCA or we) requests comments on a proposed rule 
 - URL: https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical
 
 The Department is proposing to rescind the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA) currently set forth in 29 CFR part 795 and replace it with the analysis that it published and adopted in a prior final rule dated January 7, 2021, with a few modifications. In addition, the Department proposes to apply this ana…
-
-## Wolters Kluwer Survey finds integrated assurance is still elusive for most organizations
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-02-26T16:45:00Z
-- URL: https://www.wolterskluwer.com/en/news/wolters-kluwer-survey-finds-integrated-assurance-elusive-most-organizations
-
-A new survey of nearly 2,000 risk, audit, and compliance professionals shows that while organizations increasingly recognize the value of integrated assurance, 91% remain in the early stages of turning that vision into reality.
 
 ## Treasury Sanctions Nicaraguan Officials Enabling the Murillo-Ortega Dictatorship’s Repression
 - Source: Treasury
@@ -16925,14 +16917,6 @@ The Federal Reserve Board of Governors in Washington DC.
 - Published: 2026-02-18T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-07
 
-## Wealth & Trust 360
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-18T00:00:00Z
-- URL: https://www.aba.com/training-events/conferences/wealth-management-trust-conference
-
-The best conference for wealth management and trust professionals.
-
 ## FinCEN issues exceptive relief on due diligence
 - Source: TBA
 - Category: Compliance Watch
@@ -17930,12 +17914,6 @@ Added Affected Software for Windows packages
 - Category: Legislative
 - Published: 2026-02-10T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411021
-
-## WTAS: House of Representatives Highlights Support for the Committee’s Bipartisan Housing for the 21st Century Act
-- Source: House Financial Services
-- Category: Legislative
-- Published: 2026-02-10T00:00:00Z
-- URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411022
 
 ## Inaugural National Nacha Accreditation Day Honors Nearly 6,000 Payments Professionals
 - Source: NACHA

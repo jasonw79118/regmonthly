@@ -2196,23 +2196,59 @@ MC_MARKDOWN_LINK_RE = re.compile(
 
 
 MC_DATE_IN_PATH_RE = re.compile(
-    r"/press/(?:releases/)?(?P<y>\d{4})/(?P<m>\d{2})/(?P<d>\d{2})/",
+    r"/(?:(?:news-and-trends/press)|(?:newsroom/press-releases)|press)"
+    r"(?:/(?:releases))?"
+    r"/(?P<y>\d{4})/(?P<m>\d{2})/(?P<d>\d{2})/",
     re.I,
 )
+
+MC_DATE_MONTHNAME_RE = re.compile(
+    r"/(?P<y>\d{4})/"
+    r"(?P<mon>january|february|march|april|may|june|july|august|september|october|november|december)"
+    r"/(?P<d>\d{1,2})/",
+    re.I,
+)
+
 
 def mastercard_date_from_url(url: str) -> Optional[datetime]:
     """Best-effort date extraction from Mastercard press-release URL paths.
 
-    Mastercard detail pages are frequently blocked (403) even via proxy. Many URLs embed YYYY/MM/DD.
+    Mastercard detail pages are frequently blocked (403) even via proxy. Many URLs embed a date in the path.
+    We support both numeric months (YYYY/MM/DD) and month-name paths (YYYY/february/12/...).
     """
     try:
-        p = urlparse(url).path
-        m = MC_DATE_IN_PATH_RE.search(p or "")
-        if not m:
-            return None
-        y = int(m.group("y"))
-        mo = int(m.group("m"))
-        d = int(m.group("d"))
+        p = urlparse(url).path or ""
+
+        m = MC_DATE_IN_PATH_RE.search(p)
+        if m:
+            y = int(m.group("y"))
+            mo = int(m.group("m"))
+            d = int(m.group("d"))
+        else:
+            m2 = MC_DATE_MONTHNAME_RE.search(p)
+            if not m2:
+                return None
+            y = int(m2.group("y"))
+            mon = (m2.group("mon") or "").strip().lower()
+            month_map = {
+                "january": 1,
+                "february": 2,
+                "march": 3,
+                "april": 4,
+                "may": 5,
+                "june": 6,
+                "july": 7,
+                "august": 8,
+                "september": 9,
+                "october": 10,
+                "november": 11,
+                "december": 12,
+            }
+            mo = month_map.get(mon)
+            if not mo:
+                return None
+            d = int(m2.group("d"))
+
         dt = datetime(y, mo, d, 12, 0, 0, tzinfo=CENTRAL_TZ)
         return dt.astimezone(timezone.utc)
     except Exception:
@@ -2256,7 +2292,7 @@ def _mastercard_links_from_text(page_url: str, text: str) -> List[Tuple[str, str
         if url in seen:
             continue
         seen.add(url)
-        links.append(("Mastercard press release", url, None))
+        links.append(("Mastercard press release", url, mastercard_date_from_url(url)))
         if len(links) >= MAX_LISTING_LINKS:
             break
 
@@ -2656,6 +2692,8 @@ def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[
             wrap = a.find_parent(["li", "article", "div", "section"]) or a.parent
             if wrap:
                 dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1000), source="Mastercard")
+        if dt is None:
+            dt = mastercard_date_from_url(url)
         if dt is None:
             dt = mastercard_date_from_listing_context(a)
         if dt is None:
