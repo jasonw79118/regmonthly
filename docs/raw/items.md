@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-05T11:04:35-06:00` (CT) — `2026-03-05T17:04:35Z` (UTC)
+Last updated: `2026-03-05T12:25:16-06:00` (CT) — `2026-03-05T18:25:16Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -430,12 +430,6 @@ Leading resources and information to support banks in meeting the needs of their
 - Category: OFAC
 - Published: 2026-02-27T21:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0410
-
-## President Trump Is Delivering for Texans
-- Source: White House
-- Category: Executive
-- Published: 2026-02-27T19:02:45Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-for-texans/
 
 ## Press Release: FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah
 - Source: FDIC

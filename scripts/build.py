@@ -2628,8 +2628,27 @@ def mastercard_date_from_listing_context(a: Any) -> Optional[datetime]:
     except Exception:
         pass
 
+    mc_dt_re = re.compile(
+        r"\b(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\b\.?\s+\d{1,2},\s+\d{4}",
+        re.I,
+    )
+
     for cand in candidates:
         dt = extract_any_date(cand, source="Mastercard")
+        if dt is None:
+            m = mc_dt_re.search(cand or "")
+            if m:
+                dt = parse_date(m.group(0))
+        if dt is None:
+            # Last resort: dateutil fuzzy parsing (kept Mastercard-only to avoid impacting other sources)
+            try:
+                tmp = dtparser.parse(cand or "", fuzzy=True)
+                if tmp:
+                    if tmp.tzinfo is None:
+                        tmp = tmp.replace(tzinfo=CENTRAL_TZ)
+                    dt = tmp.astimezone(timezone.utc)
+            except Exception:
+                dt = None
         if dt:
             return dt
     return None
@@ -2687,7 +2706,9 @@ def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[
             continue
         seen.add(url)
         
-        dt = find_time_near_anchor(a, "Mastercard")
+        dt = extract_any_date(title, source="Mastercard")
+        if dt is None:
+            dt = find_time_near_anchor(a, "Mastercard")
         if dt is None:
             wrap = a.find_parent(["li", "article", "div", "section"]) or a.parent
             if wrap:
