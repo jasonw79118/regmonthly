@@ -2255,10 +2255,16 @@ def mastercard_date_from_url(url: str) -> Optional[datetime]:
         return None
 
 def _mastercard_links_from_text(page_url: str, text: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    """Mastercard fallback: parse proxy/reader text that often contains markdown links.
+
+    We try to extract a date from the *local* context around each link (same line / nearby text),
+    falling back to date-in-URL when present.
+    """
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen: set[str] = set()
+    blob = text or ""
 
-    for m in MC_MARKDOWN_LINK_RE.finditer(text or ""):
+    for m in MC_MARKDOWN_LINK_RE.finditer(blob):
         title = clean_text(m.group(1), 220)
         url = canonical_url(m.group(2))
         if not url:
@@ -2275,10 +2281,29 @@ def _mastercard_links_from_text(page_url: str, text: str) -> List[Tuple[str, str
             continue
         seen.add(url)
 
-        dt = extract_any_date(text, source="Mastercard")
+        # Look near the link for an explicit date (often: "February 12, 2026" on the same line).
+        i0, i1 = m.span()
+        ctx = blob[max(0, i0 - 260) : min(len(blob), i1 + 80)]
+        dt = extract_any_date(ctx, source="Mastercard")
+
+        # If still missing, try the full line containing the link.
+        if dt is None:
+            line_start = blob.rfind("\n", 0, i0) + 1
+            line_end = blob.find("\n", i1)
+            if line_end == -1:
+                line_end = len(blob)
+            line = blob[line_start:line_end]
+            dt = extract_any_date(line, source="Mastercard")
+
+        # Last resort: infer from URL if it contains a recognizable date.
+        if dt is None:
+            dt = mastercard_date_from_url(url)
+
         links.append((title, url, dt))
         if len(links) >= MAX_LISTING_LINKS:
-            return links
+            break
+
+    return links
 
     raw_url_re = re.compile(r"(https?://www\.mastercard\.com/[^\s\"')<>]+)", re.I)
     for m in raw_url_re.finditer(text or ""):
@@ -2639,16 +2664,7 @@ def mastercard_date_from_listing_context(a: Any) -> Optional[datetime]:
             m = mc_dt_re.search(cand or "")
             if m:
                 dt = parse_date(m.group(0))
-        if dt is None:
-            # Last resort: dateutil fuzzy parsing (kept Mastercard-only to avoid impacting other sources)
-            try:
-                tmp = dtparser.parse(cand or "", fuzzy=True)
-                if tmp:
-                    if tmp.tzinfo is None:
-                        tmp = tmp.replace(tzinfo=CENTRAL_TZ)
-                    dt = tmp.astimezone(timezone.utc)
-            except Exception:
-                dt = None
+
         if dt:
             return dt
     return None

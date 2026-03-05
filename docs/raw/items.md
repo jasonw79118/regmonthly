@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-05T12:25:16-06:00` (CT) — `2026-03-05T18:25:16Z` (UTC)
+Last updated: `2026-03-05T14:15:21-06:00` (CT) — `2026-03-05T20:15:21Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -431,6 +431,12 @@ Leading resources and information to support banks in meeting the needs of their
 - Published: 2026-02-27T21:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0410
 
+## President Trump Is Delivering for Texans
+- Source: White House
+- Category: Executive
+- Published: 2026-02-27T19:02:45Z
+- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-for-texans/
+
 ## Press Release: FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah
 - Source: FDIC
 - Category: Banking
@@ -541,18 +547,6 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 
 IR-2026-27, Feb. 27, 2026 — The Department of the Treasury and the Internal Revenue Service today issued frequently asked questions on FS-2026-03 related to general refundability and recognizing Indian tribal governments for purposes of making a special needs determination for the Adoption Tax Credit.
 
-## OCC Issues Second and Third Quarter 2026 CRA Evaluation Schedule
-- Source: OCC
-- Category: Banking
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-11.html
-
-## National Bank Chartering: Final Rule
-- Source: OCC
-- Category: Banking
-- Published: 2026-02-27T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-4.html
-
 ## MPF Announcement Summary 2026-S02
 - Source: FHLB MPF
 - Category: Mortgage
@@ -610,14 +604,6 @@ The Farm Credit Administration (FCA or we) requests comments on a proposed rule 
 - URL: https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical
 
 The Department is proposing to rescind the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA) currently set forth in 29 CFR part 795 and replace it with the analysis that it published and adopted in a prior final rule dated January 7, 2021, with a few modifications. In addition, the Department proposes to apply this ana…
-
-## Wolters Kluwer Survey finds integrated assurance is still elusive for most organizations
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-02-26T16:45:00Z
-- URL: https://www.wolterskluwer.com/en/news/wolters-kluwer-survey-finds-integrated-assurance-elusive-most-organizations
-
-A new survey of nearly 2,000 risk, audit, and compliance professionals shows that while organizations increasingly recognize the value of integrated assurance, 91% remain in the early stages of turning that vision into reality.
 
 ## Treasury Sanctions Nicaraguan Officials Enabling the Murillo-Ortega Dictatorship’s Repression
 - Source: Treasury
@@ -993,14 +979,6 @@ Information published.
 - Published: 2026-02-25T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260225
 
-## OCC Requests Comments on Proposal to Implement GENIUS Act
-- Source: OCC
-- Category: Banking
-- Published: 2026-02-25T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-9.html
-
-The Office of the Comptroller of the Currency (OCC) today issued a proposed rulemaking to implement the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act.
-
 ## Freddie Mac Issues Monthly Volume Summary for January 2026
 - Source: Freddie Mac
 - Category: Mortgage
@@ -1142,6 +1120,14 @@ PRESS RELEASE | FEBRUARY 24, 2026 FDIC-Insured Institutions Reported Return on A
 - Category: OFAC
 - Published: 2026-02-24T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260224
+
+## Agencies Clarify the Capital Treatment of Tokenized Securities
+- Source: FDIC
+- Category: Banking
+- Published: 2026-02-24T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-clarify-capital-treatment-tokenized-securities
+
+The federal bank regulatory agencies today jointly issued answers to frequently asked questions to clarify the capital treatment of tokenized securities.
 
 ## FDIC Issues List of Banks Examined for CRA Compliance
 - Source: FDIC
@@ -1294,14 +1280,6 @@ The FDIC today published a list of orders of administrative enforcement actions 
 - URL: https://www.fdic.gov/news/press-releases/2025/fdic-approves-deposit-insurance-application-erebor-bank-na-columbus-ohio
 
 The FDIC today approved a deposit insurance application to establish Erebor Bank, N.A. (Erebor Bank), a newly chartered national bank to be headquartered..
-
-## FDIC Board Approves 2026 Operating Budget
-- Source: FDIC
-- Category: Banking
-- Published: 2026-02-24T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2025/fdic-board-approves-2026-operating-budget
-
-The Board of Directors of the FDIC today approved a 2026 budget of $2.49 billion to support the agency’s ongoing operations and receivership functions.
 
 ## VIDEO: Delivering for America: Strengthening the Economy, Expanding Opportunity
 - Source: House Financial Services
@@ -16919,6 +16897,12 @@ The Federal Reserve Board of Governors in Washington DC.
 - Published: 2026-02-18T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-07
 
+## ### Cloudflare and Mastercard partner to extend comprehensive cyber defense across critical infrastructure and small businesses February 17, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-02-18T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/february/cloudflare-and-mastercard-to-extend-comprehensive-cyber-defense-.html
+
 ## FinCEN issues exceptive relief on due diligence
 - Source: TBA
 - Category: Compliance Watch
@@ -16988,6 +16972,12 @@ Improper authentication in Windows Admin Center allows an authorized attacker to
 - URL: https://www.fanniemae.com/data-and-insights
 
 Fannie Mae’s market intelligence helps you understand changes in the housing and economic environment today and what it might signal for tomorrow.
+
+## ### Noah Kahan and Mastercard to premiere ‘The Great Divide’ music video and offer cardholders Priceless experiences January 29, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-02-17T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/january/noah-kahan-and-mastercard-to-premiere--the-great-divide--music-v.html
 
 ## Incident Response
 - Source: ABA
