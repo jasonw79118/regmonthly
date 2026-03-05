@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-04T15:36:28-06:00` (CT) — `2026-03-04T21:36:28Z` (UTC)
+Last updated: `2026-03-04T17:56:15-06:00` (CT) — `2026-03-04T23:56:15Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -932,14 +932,6 @@ Information published.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-27199
 
 Information published.
-
-## Wolters Kluwer 2025 Full-Year Report
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-02-25T08:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/wolters-kluwer-2025-full-year-report
-
-Wolters Kluwer, a global leader in professional information, software solutions and services, today releases its full-year 2025 results.
 
 ## Iran-related Designations; Non-Proliferation Designations
 - Source: OFAC

@@ -823,13 +823,6 @@ CVE-2026-27199 Werkzeug safe_join() allows Windows special device names
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-27199
 Information published.
 ------------------------------------------------------------
-Compliance Watch
-Wolters Kluwer
-2026-02-25T08:00:00Z
-Wolters Kluwer 2025 Full-Year Report
-https://www.wolterskluwer.com/en/news/wolters-kluwer-2025-full-year-report
-Wolters Kluwer, a global leader in professional information, software solutions and services, today releases its full-year 2025 results.
-------------------------------------------------------------
 OFAC
 OFAC
 2026-02-25T00:00:00Z
