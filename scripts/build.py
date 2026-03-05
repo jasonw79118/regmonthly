@@ -305,6 +305,13 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
         "allow_path_prefixes": {"/news/"},
     },
 
+    "Senate Banking": {
+        "allow_domains": {"www.banking.senate.gov", "banking.senate.gov"},
+        "allow_path_prefixes": {"/newsroom", "/newsroom/", "/news", "/news/"},
+    },
+
+    
+
     "White House": {
         "allow_domains": {"www.whitehouse.gov"},
         "allow_path_prefixes": {
@@ -2117,27 +2124,28 @@ def whitehouse_links_single(page_url: str, html: str) -> List[Tuple[str, str, Op
         return []
 
     links: List[Tuple[str, str, Optional[datetime]]] = []
-    seen = set()
+    seen: set[str] = set()
 
-    for a in container.select("h2 a[href], h3 a[href]"):
+    def consider_anchor(a) -> None:
+        nonlocal links, seen
         href = (a.get("href") or "").strip()
         if not href or href.startswith("#"):
-            continue
+            return
 
         url = canonical_url(urljoin(page_url, href))
         if not allowed_for_source("White House", url):
-            continue
+            return
 
         title = clean_text(a.get_text(" ", strip=True) or "", 220)
-        if not title:
-            continue
+        if not title or len(title) < 8:
+            return
         if is_probably_nav_link("White House", title, url):
-            continue
+            return
         if is_generic_listing_or_home("White House", title, url):
-            continue
+            return
 
         if url in seen:
-            continue
+            return
         seen.add(url)
 
         dt = find_time_near_anchor(a, "White House")
@@ -2145,6 +2153,27 @@ def whitehouse_links_single(page_url: str, html: str) -> List[Tuple[str, str, Op
             wrap = a.find_parent(["div", "article", "li", "section"]) or a.parent
             if wrap:
                 dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1000), source="White House")
+
+        links.append((title, url, dt))
+
+    # Primary: headline links (current markup)
+    for a in container.select("h2 a[href], h3 a[href]"):
+        consider_anchor(a)
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    # Fallback: some White House listings don't use h2/h3 anchors in the main container
+    if not links:
+        for a in container.find_all("a", href=True):
+            href = (a.get("href") or "").strip().lower()
+            if ("/news/" in href) or ("/briefings-statements/" in href) or ("/presidential-actions/" in href):
+                consider_anchor(a)
+                if len(links) >= MAX_LISTING_LINKS:
+                    break
+
+    # newest-first when dates exist
+    links.sort(key=lambda t: (t[2] is None, t[2] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
+    return links
 
 
 # ============================
