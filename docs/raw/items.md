@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-05T14:15:21-06:00` (CT) — `2026-03-05T20:15:21Z` (UTC)
+Last updated: `2026-03-05T15:19:48-06:00` (CT) — `2026-03-05T21:19:48Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -1384,6 +1384,12 @@ Fannie Mae announced that it has commenced fixed-price cash tender offers for th
 - Category: Fintech Watch
 - Published: 2026-02-23T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-247-ai-assistant-ease-risk-models-management
+
+## SELCO Community Credit Union Strengthens Fraud Mitigation Strategy with Jack Henry
+- Source: Jack Henry
+- Category: Fintech Watch
+- Published: 2026-02-23T00:00:00Z
+- URL: https://ir.jackhenry.com/news-releases/news-release-details/selco-community-credit-union-strengthens-fraud-mitigation
 
 ## Human Resources
 - Source: ABA
@@ -17361,6 +17367,12 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Published: 2026-02-11T00:00:00Z
 - URL: https://www.nacha.org/news/how-industry-adapting-nachas-new-risk-management-rules
 
+## Blue Sky Bank Turns to Jack Henry to Drive Innovation, Elevate Customer Service and Support Growth
+- Source: Jack Henry
+- Category: Fintech Watch
+- Published: 2026-02-11T00:00:00Z
+- URL: https://ir.jackhenry.com/news-releases/news-release-details/blue-sky-bank-turns-jack-henry-drive-innovation-elevate-customer
+
 ## Chartering and Field of Membership for Federal Credit Unions-Interpretive Rulings and Policy Statements
 - Source: Federal Register
 - Category: Federal Register
@@ -17901,12 +17913,6 @@ Added Affected Software for Windows packages
 - Published: 2026-02-10T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411015
 
-## Meuser: The Trump Administration And This Committee Have Made Oversight And Enforcement Of PHAs A Priority
-- Source: House Financial Services
-- Category: Legislative
-- Published: 2026-02-10T00:00:00Z
-- URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411021
-
 ## Inaugural National Nacha Accreditation Day Honors Nearly 6,000 Payments Professionals
 - Source: NACHA
 - Category: Payments
@@ -17918,6 +17924,12 @@ Added Affected Software for Windows packages
 - Category: Fintech Watch
 - Published: 2026-02-10T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-reports-fourth-quarter-and-full-year-2025-results
+
+## Jack Henry Study Reveals Confidence Gaps and Growth Opportunities for Small and Medium-Sized Businesses
+- Source: Jack Henry
+- Category: Fintech Watch
+- Published: 2026-02-10T00:00:00Z
+- URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-study-reveals-confidence-gaps-and-growth
 
 ## Fact Sheet: The United States and India Announce Historic Trade Deal
 - Source: White House
@@ -17966,6 +17978,12 @@ IR-2026-22, Feb. 9, 2026 — The Internal Revenue Service today announced a new 
 - Category: Payments
 - Published: 2026-02-09T00:00:00Z
 - URL: https://www.nacha.org/news/nacha-announces-board-directors-2026
+
+## Jack Henry & Associates Increases the Quarterly Dividend on its Common Stock by 6 Percent to $.61 Per Share
+- Source: Jack Henry
+- Category: Fintech Watch
+- Published: 2026-02-09T00:00:00Z
+- URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-associates-increases-quarterly-dividend-its-common-16
 
 ## Presidential Message on Super Bowl LX
 - Source: White House
@@ -18316,6 +18334,12 @@ Fannie Mae Expands U.S. Rental Housing Supply Through Nearly $74 Billion in Mult
 - Category: Payments
 - Published: 2026-02-04T00:00:00Z
 - URL: https://www.nacha.org/news/nachas-payments-innovation-alliance-announces-2026-2027-advisory-committee
+
+## Jack Henry & Associates to Provide Webcast of Second Quarter Fiscal 2026 Earnings Call
+- Source: Jack Henry
+- Category: Fintech Watch
+- Published: 2026-02-04T00:00:00Z
+- URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-associates-provide-webcast-second-quarter-fiscal-2026
 
 ## Section 45Z Clean Fuel Production Credit
 - Source: Federal Register

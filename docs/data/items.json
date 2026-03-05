@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-05T20:15:21Z",
-  "generated_at_ct": "2026-03-05T14:15:21-06:00",
+  "generated_at_utc": "2026-03-05T21:19:48Z",
+  "generated_at_ct": "2026-03-05T15:19:48-06:00",
   "items": [
     {
       "category": "OFAC",
@@ -1585,6 +1585,14 @@
       "title": "FIS Launches 24/7 AI Assistant to Ease Risk Models Management",
       "published_at": "2026-02-23T00:00:00Z",
       "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-247-ai-assistant-ease-risk-models-management",
+      "summary": ""
+    },
+    {
+      "category": "Fintech Watch",
+      "source": "Jack Henry",
+      "title": "SELCO Community Credit Union Strengthens Fraud Mitigation Strategy with Jack Henry",
+      "published_at": "2026-02-23T00:00:00Z",
+      "url": "https://ir.jackhenry.com/news-releases/news-release-details/selco-community-credit-union-strengthens-fraud-mitigation",
       "summary": ""
     },
     {
@@ -17764,6 +17772,14 @@
       "summary": ""
     },
     {
+      "category": "Fintech Watch",
+      "source": "Jack Henry",
+      "title": "Blue Sky Bank Turns to Jack Henry to Drive Innovation, Elevate Customer Service and Support Growth",
+      "published_at": "2026-02-11T00:00:00Z",
+      "url": "https://ir.jackhenry.com/news-releases/news-release-details/blue-sky-bank-turns-jack-henry-drive-innovation-elevate-customer",
+      "summary": ""
+    },
+    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Chartering and Field of Membership for Federal Credit Unions-Interpretive Rulings and Policy Statements",
@@ -18361,14 +18377,6 @@
       "summary": ""
     },
     {
-      "category": "Legislative",
-      "source": "House Financial Services",
-      "title": "Meuser: The Trump Administration And This Committee Have Made Oversight And Enforcement Of PHAs A Priority",
-      "published_at": "2026-02-10T00:00:00Z",
-      "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411021",
-      "summary": ""
-    },
-    {
       "category": "Payments",
       "source": "NACHA",
       "title": "Inaugural National Nacha Accreditation Day Honors Nearly 6,000 Payments Professionals",
@@ -18382,6 +18390,14 @@
       "title": "Fiserv Reports Fourth Quarter and Full Year 2025 Results",
       "published_at": "2026-02-10T00:00:00Z",
       "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-reports-fourth-quarter-and-full-year-2025-results",
+      "summary": ""
+    },
+    {
+      "category": "Fintech Watch",
+      "source": "Jack Henry",
+      "title": "Jack Henry Study Reveals Confidence Gaps and Growth Opportunities for Small and Medium-Sized Businesses",
+      "published_at": "2026-02-10T00:00:00Z",
+      "url": "https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-study-reveals-confidence-gaps-and-growth",
       "summary": ""
     },
     {
@@ -18438,6 +18454,14 @@
       "title": "Nacha Announces Board of Directors for 2026",
       "published_at": "2026-02-09T00:00:00Z",
       "url": "https://www.nacha.org/news/nacha-announces-board-directors-2026",
+      "summary": ""
+    },
+    {
+      "category": "Fintech Watch",
+      "source": "Jack Henry",
+      "title": "Jack Henry & Associates Increases the Quarterly Dividend on its Common Stock by 6 Percent to $.61 Per Share",
+      "published_at": "2026-02-09T00:00:00Z",
+      "url": "https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-associates-increases-quarterly-dividend-its-common-16",
       "summary": ""
     },
     {
@@ -18884,6 +18908,14 @@
       "title": "Nacha’s Payments Innovation Alliance Announces 2026-2027 Advisory Committee",
       "published_at": "2026-02-04T00:00:00Z",
       "url": "https://www.nacha.org/news/nachas-payments-innovation-alliance-announces-2026-2027-advisory-committee",
+      "summary": ""
+    },
+    {
+      "category": "Fintech Watch",
+      "source": "Jack Henry",
+      "title": "Jack Henry & Associates to Provide Webcast of Second Quarter Fiscal 2026 Earnings Call",
+      "published_at": "2026-02-04T00:00:00Z",
+      "url": "https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-associates-provide-webcast-second-quarter-fiscal-2026",
       "summary": ""
     },
     {

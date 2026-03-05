@@ -1238,6 +1238,12 @@ FIS
 FIS Launches 24/7 AI Assistant to Ease Risk Models Management
 https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-247-ai-assistant-ease-risk-models-management
 ------------------------------------------------------------
+Fintech Watch
+Jack Henry
+2026-02-23T00:00:00Z
+SELCO Community Credit Union Strengthens Fraud Mitigation Strategy with Jack Henry
+https://ir.jackhenry.com/news-releases/news-release-details/selco-community-credit-union-strengthens-fraud-mitigation
+------------------------------------------------------------
 Compliance Watch
 ABA
 2026-02-23T00:00:00Z
@@ -15274,6 +15280,12 @@ NACHA
 How the Industry Is Adapting to Nacha’s New Risk Management Rules
 https://www.nacha.org/news/how-industry-adapting-nachas-new-risk-management-rules
 ------------------------------------------------------------
+Fintech Watch
+Jack Henry
+2026-02-11T00:00:00Z
+Blue Sky Bank Turns to Jack Henry to Drive Innovation, Elevate Customer Service and Support Growth
+https://ir.jackhenry.com/news-releases/news-release-details/blue-sky-bank-turns-jack-henry-drive-innovation-elevate-customer
+------------------------------------------------------------
 Federal Register
 Federal Register
 2026-02-11T00:00:00Z
@@ -15757,12 +15769,6 @@ House Financial Services
 Chairman Hill: We Have Direct Solutions To Improve The Cost Of Living For All Americans
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411015
 ------------------------------------------------------------
-Legislative
-House Financial Services
-2026-02-10T00:00:00Z
-Meuser: The Trump Administration And This Committee Have Made Oversight And Enforcement Of PHAs A Priority
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411021
-------------------------------------------------------------
 Payments
 NACHA
 2026-02-10T00:00:00Z
@@ -15774,6 +15780,12 @@ Fiserv
 2026-02-10T00:00:00Z
 Fiserv Reports Fourth Quarter and Full Year 2025 Results
 https://investors.fiserv.com/news-releases/news-release-details/fiserv-reports-fourth-quarter-and-full-year-2025-results
+------------------------------------------------------------
+Fintech Watch
+Jack Henry
+2026-02-10T00:00:00Z
+Jack Henry Study Reveals Confidence Gaps and Growth Opportunities for Small and Medium-Sized Businesses
+https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-study-reveals-confidence-gaps-and-growth
 ------------------------------------------------------------
 Executive
 White House
@@ -15819,6 +15831,12 @@ NACHA
 2026-02-09T00:00:00Z
 Nacha Announces Board of Directors for 2026
 https://www.nacha.org/news/nacha-announces-board-directors-2026
+------------------------------------------------------------
+Fintech Watch
+Jack Henry
+2026-02-09T00:00:00Z
+Jack Henry & Associates Increases the Quarterly Dividend on its Common Stock by 6 Percent to $.61 Per Share
+https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-associates-increases-quarterly-dividend-its-common-16
 ------------------------------------------------------------
 Executive
 White House
@@ -16153,6 +16171,12 @@ NACHA
 2026-02-04T00:00:00Z
 Nacha’s Payments Innovation Alliance Announces 2026-2027 Advisory Committee
 https://www.nacha.org/news/nachas-payments-innovation-alliance-announces-2026-2027-advisory-committee
+------------------------------------------------------------
+Fintech Watch
+Jack Henry
+2026-02-04T00:00:00Z
+Jack Henry & Associates to Provide Webcast of Second Quarter Fiscal 2026 Earnings Call
+https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-associates-provide-webcast-second-quarter-fiscal-2026
 ------------------------------------------------------------
 Federal Register
 Federal Register

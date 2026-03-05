@@ -356,7 +356,7 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
     "Fiserv": {"allow_domains": {"investors.fiserv.com"}},
 
     # ✅ Jack Henry links are often in tables; allow both press-releases and news-releases detail pages.
-    "Jack Henry": {"allow_domains": {"ir.jackhenry.com"}},
+    "Jack Henry": {"allow_domains": {"ir.jackhenry.com", "jkhy.client.shareholder.com", "www.prnewswire.com"}},
 
     "Finastra": {"allow_domains": {"www.finastra.com"}},
 
@@ -801,6 +801,48 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
             return None
 
         if r.status_code >= 400:
+            if h == "ir.jackhenry.com":
+                print(f"[warn] GET {r.status_code}: {url} (retrying Jack Henry fallbacks)", flush=True)
+
+                # 1) Proxy retry (r.jina.ai)
+                proxy_url = _jina_proxy_url(url)
+                try:
+                    time.sleep(REQUEST_DELAY_SEC)
+                    pr = SESSION.get(
+                        proxy_url,
+                        headers={"User-Agent": browser_ua, "Accept": "text/html,application/xhtml+xml,*/*"},
+                        timeout=(10, max(read_timeout, 45)),
+                        allow_redirects=True,
+                    )
+                    if pr.status_code < 400:
+                        txtp = pr.text or ""
+                        if txtp.strip():
+                            return txtp
+                    else:
+                        print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
+                except Exception as e2:
+                    print(f"[warn] proxy GET failed: {proxy_url} :: {e2}", flush=True)
+
+                # 2) Fallback to shareholder.com listing (often more reliable than ir.jackhenry.com)
+                try:
+                    fallback = "https://jkhy.client.shareholder.com/press-releases?mobile=1&view=all"
+                    print(f"[warn] Jack Henry fallback listing: {fallback}", flush=True)
+                    time.sleep(REQUEST_DELAY_SEC)
+                    fr = SESSION.get(
+                        fallback,
+                        headers={"User-Agent": browser_ua, "Accept": "text/html,application/xhtml+xml,*/*"},
+                        timeout=(10, max(read_timeout, 45)),
+                        allow_redirects=True,
+                    )
+                    if fr.status_code < 400:
+                        txtf = fr.text or ""
+                        if txtf.strip() and not looks_like_error_html(txtf, fallback):
+                            return txtf
+                    else:
+                        print(f"[warn] fallback GET {fr.status_code}: {fallback}", flush=True)
+                except Exception as e3:
+                    print(f"[warn] fallback GET failed: {fallback} :: {e3}", flush=True)
+
             print(f"[warn] GET {r.status_code}: {url}", flush=True)
             return None
 
@@ -811,6 +853,53 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
 
         return txt
     except Exception as e:
+        # Retry via r.jina.ai proxy, and if that still fails, fall back to the shareholder.com
+        # mirror of the same IR press-release listing. This change is *only* for Jack Henry.
+        if h == "ir.jackhenry.com":
+            print(f"[warn] GET failed: {url} :: {e}", flush=True)
+
+            # 1) Proxy retry (r.jina.ai)
+            try:
+                print(f"[warn] Jack Henry GET failed (retrying via proxy): {url}", flush=True)
+                proxy_url = _jina_proxy_url(url)
+                time.sleep(REQUEST_DELAY_SEC)
+                pr = SESSION.get(
+                    proxy_url,
+                    headers={"User-Agent": browser_ua, "Accept": "text/html,application/xhtml+xml,*/*"},
+                    timeout=(10, max(read_timeout, 45)),
+                    allow_redirects=True,
+                )
+                if pr.status_code < 400:
+                    txtp = pr.text or ""
+                    if txtp.strip():
+                        return txtp
+                else:
+                    print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
+            except Exception as e2:
+                print(f"[warn] proxy GET failed: {proxy_url} :: {e2}", flush=True)
+
+            # 2) Fallback to shareholder.com listing (often more reliable than ir.jackhenry.com)
+            try:
+                fallback = "https://jkhy.client.shareholder.com/press-releases?mobile=1&view=all"
+                print(f"[warn] Jack Henry fallback listing: {fallback}", flush=True)
+                time.sleep(REQUEST_DELAY_SEC)
+                fr = SESSION.get(
+                    fallback,
+                    headers={"User-Agent": browser_ua, "Accept": "text/html,application/xhtml+xml,*/*"},
+                    timeout=(10, max(read_timeout, 45)),
+                    allow_redirects=True,
+                )
+                if fr.status_code < 400:
+                    txtf = fr.text or ""
+                    if txtf.strip() and not looks_like_error_html(txtf, fallback):
+                        return txtf
+                else:
+                    print(f"[warn] fallback GET {fr.status_code}: {fallback}", flush=True)
+            except Exception as e3:
+                print(f"[warn] fallback GET failed: {fallback} :: {e3}", flush=True)
+
+            return None
+
         print(f"[warn] GET failed: {url} :: {e}", flush=True)
         return None
 
@@ -3134,78 +3223,118 @@ def cdia_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
 JH_DETAIL_RE = re.compile(r"^/news-releases/news-release-details/", re.I)
         
 def jackhenry_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    # Jack Henry IR pages can intermittently time out or return JS-heavy content.
+    # When we fetch via the r.jina.ai proxy, the response is often Markdown, not HTML.
+    # In that case, parse Markdown-style links like: [Title](https://ir.jackhenry.com/...)
+    if html and ("<html" not in html.lower()) and ("](" in html) and ("ir.jackhenry.com" in html or "jkhy.client.shareholder.com" in html):
+        links: List[Tuple[str, str, Optional[datetime]]] = []
+        seen: set[str] = set()
+
+        md_re = re.compile(
+            r"\[([^\]]{3,220})\]\((https?://(?:ir\.jackhenry\.com|jkhy\.client\.shareholder\.com)/[^\)\s]+)\)",
+            re.I,
+        )
+        for m in md_re.finditer(html):
+            title = clean_text(m.group(1), 220)
+            url = canonical_url(m.group(2))
+            if not allowed_for_source("Jack Henry", url):
+                continue
+            up = urlparse(url).path.lower()
+            if not JH_DETAIL_RE.match(up) and "/news-release-details/" not in up and "/press-release-details/" not in up:
+                continue
+            if url in seen:
+                continue
+            seen.add(url)
+            links.append((title, url, None))
+            if len(links) >= MAX_LISTING_LINKS:
+                break
+
+        if links:
+            return links
+
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
     if not container:
         return []
-        
+
     strip_nav_like(container)
-        
+
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen: set[str] = set()
-        
-    # Most IR templates: PR links are "/news-releases/news-release-details/<slug>"
-    for a in container.select('a[href^="/news-releases/news-release-details/"]'):
+
+    for a in container.find_all("a", href=True):
         href = (a.get("href") or "").strip()
         if not href or href.startswith("#"):
             continue
-        if not JH_DETAIL_RE.match(href):
-            continue
-        
+
         url = canonical_url(urljoin(page_url, href))
         if not allowed_for_source("Jack Henry", url):
             continue
-        
+
+        up = urlparse(url).path.lower()
+        if not JH_DETAIL_RE.match(up) and "/news-release-details/" not in up and "/press-release-details/" not in up:
+            continue
+
         raw_title = (a.get_text(" ", strip=True) or "").strip()
         if not raw_title:
+            wrap = a.find_parent(["tr", "li", "article", "div", "section"]) or a.parent
+            if wrap:
+                h = wrap.find(["h1", "h2", "h3", "h4", "strong"])
+                if h:
+                    raw_title = (h.get_text(" ", strip=True) or "").strip()
+
+        if not raw_title:
             continue
+
         title = clean_text(raw_title, 220)
         if not title or title.lower() in {"read more", "learn more", "more", "details"}:
             continue
         if is_probably_nav_link("Jack Henry", title, url):
             continue
-        
+
         if url in seen:
             continue
         seen.add(url)
-        
-        # Date is often in same row (tr) or near the link
+
         dt = None
         row = a.find_parent("tr")
         if row:
             dt = extract_any_date(clean_text(row.get_text(" ", strip=True), 500), source="Jack Henry")
         if dt is None:
+            wrap = a.find_parent(["li", "article", "div", "section", "p"]) or a.parent
+            if wrap:
+                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 900), source="Jack Henry")
+        if dt is None:
             dt = find_time_near_anchor(a, "Jack Henry")
-        
+
         links.append((title, url, dt))
         if len(links) >= MAX_LISTING_LINKS:
             break
-        
-    # Fallback: sometimes anchor pattern differs, but detail pages still use /news-release-details/
-    if not links:
-        for a in container.find_all("a", href=True):
-            href = (a.get("href") or "").strip()
-            if not href or href.startswith("#"):
-                continue
-            if "/news-releases/news-release-details/" not in href:
-                continue
-            url = canonical_url(urljoin(page_url, href))
+
+    # Plain-URL fallback for shareholder/proxy text that isn't valid HTML.
+    if not links and html:
+        raw_url_re = re.compile(
+            r"https?://(?:ir\.jackhenry\.com|jkhy\.client\.shareholder\.com)/[^\s"'<>]+',
+            re.I,
+        )
+        for m in raw_url_re.finditer(html):
+            url = canonical_url(m.group(0).rstrip(').,'))
             if not allowed_for_source("Jack Henry", url):
                 continue
-            title = clean_text((a.get_text(" ", strip=True) or "").strip(), 220)
-            if not title or title.lower() in {"read more", "learn more", "more", "details"}:
+            up = urlparse(url).path.lower()
+            if not JH_DETAIL_RE.match(up) and "/news-release-details/" not in up and "/press-release-details/" not in up:
                 continue
             if url in seen:
                 continue
             seen.add(url)
-            dt = find_time_near_anchor(a, "Jack Henry")
-            links.append((title, url, dt))
+            title = clean_text(up.rsplit('/', 1)[-1].replace('-', ' ').strip().title(), 220) or "Jack Henry press release"
+            links.append((title, url, None))
             if len(links) >= MAX_LISTING_LINKS:
                 break
-        
+
     return links
-        
-        
+
+
 # ============================
 # ✅ NEW: TCS listing extractor (non-article DOM)
 # ============================
