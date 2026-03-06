@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-05T15:19:48-06:00` (CT) — `2026-03-05T21:19:48Z` (UTC)
+Last updated: `2026-03-05T16:40:39-06:00` (CT) — `2026-03-05T22:40:39Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -18115,12 +18115,6 @@ PRESS RELEASE | FEBRUARY 6, 2026 FDIC Extends Comment Period on Proposal to Esta
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
 
-## Fact Sheet: President Donald J. Trump Launches TrumpRx.gov to Bring Lower Drug Prices to American Patients
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T00:31:50Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-launches-trumprx-gov-to-bring-lower-drug-prices-to-american-patients/
-
 ## Iran-related Designations
 - Source: OFAC
 - Category: OFAC
@@ -18410,6 +18404,12 @@ IR-2026-21, Feb. 3, 2026 — The IRS encourages all taxpayers to create an IRS I
 - Category: Fintech Watch
 - Published: 2026-02-03T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/january-deep-freeze-impacts-small-business-foot-traffic-new
+
+## Jack Henry & Associates, Inc. Reports Second Quarter Fiscal 2026 Results
+- Source: Jack Henry
+- Category: Fintech Watch
+- Published: 2026-02-03T00:00:00Z
+- URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-associates-inc-reports-second-quarter-fiscal-2026
 
 ## Exercise of Time-Limited Authority To Increase the Fiscal Year 2026 Numerical Limitation for the H-2B Temporary Nonagricultural Worker Program
 - Source: Federal Register

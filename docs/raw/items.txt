@@ -15966,12 +15966,6 @@ Chromium: CVE-2026-1862 Type Confusion in V8
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1862
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
 ------------------------------------------------------------
-Executive
-White House
-2026-02-06T00:31:50Z
-Fact Sheet: President Donald J. Trump Launches TrumpRx.gov to Bring Lower Drug Prices to American Patients
-https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-launches-trumprx-gov-to-bring-lower-drug-prices-to-american-patients/
-------------------------------------------------------------
 OFAC
 OFAC
 2026-02-06T00:00:00Z
@@ -16242,6 +16236,12 @@ Fiserv
 2026-02-03T00:00:00Z
 January Deep Freeze Impacts Small Business Foot Traffic, New Fiserv Data Shows
 https://investors.fiserv.com/news-releases/news-release-details/january-deep-freeze-impacts-small-business-foot-traffic-new
+------------------------------------------------------------
+Fintech Watch
+Jack Henry
+2026-02-03T00:00:00Z
+Jack Henry & Associates, Inc. Reports Second Quarter Fiscal 2026 Results
+https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-associates-inc-reports-second-quarter-fiscal-2026
 ------------------------------------------------------------
 Federal Register
 Federal Register

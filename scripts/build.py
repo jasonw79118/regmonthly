@@ -3556,6 +3556,150 @@ def finastra_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[da
     return links
         
         
+
+
+# ============================
+# ✅ NEW: FASB "In the News" listing extractor
+# ============================
+
+FASB_IN_NEWS_PATH_RE = re.compile(r"^/news-and-meetings/in-the-news/(?!$)[^\s?#]+", re.I)
+
+def fasb_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    """Extract real FASB 'In the News' items from https://www.fasb.org/news-and-meetings/in-the-news
+
+    The listing page often uses CTA-style anchor text (e.g., 'Read more') which the generic
+    extractor discards. This function pulls the headline from the surrounding card and attaches
+    a nearby date (e.g., 'February 9, 2026') so the item passes the monthly window filter.
+
+    This change is *only* for the FASB source.
+    """
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    # If we fetched via proxy and got markdown-ish text, parse markdown links first.
+    if html and ("<html" not in (html.lower())) and ("](" in html) and ("fasb.org" in html):
+        md_re = re.compile(
+            r"\[([^\]]{1,260})\]\((https?://(?:www\.)?fasb\.org/news-and-meetings/in-the-news/[^\)\s]+)\)",
+            re.I,
+        )
+        for m in md_re.finditer(html):
+            raw_title = clean_text(m.group(1), 220)
+            url = canonical_url(m.group(2))
+            if not allowed_for_source("FASB", url):
+                continue
+
+            # If title is generic, try to infer from nearby line text
+            tl = (raw_title or "").strip().lower()
+            title = raw_title
+            if tl in {"read more", "learn more", "more", "details", "read the article", "read article"}:
+                i0, _i1 = m.span()
+                line_start = html.rfind("\n", 0, i0) + 1
+                line = html[line_start:i0]
+                line = re.sub(r"\s+", " ", (line or "").strip())
+                # strip leading bullet-like characters
+                line = re.sub(r"^[\-\*\u2022\s]+", "", line)
+                # remove an obvious date prefix if present
+                line2 = re.sub(r"^(?:[A-Z][a-z]{2,9})\.?\s+\d{1,2},\s+\d{4}\s*[:\-–—]\s*", "", line).strip()
+                cand = clean_text(line2 or line, 220)
+                if cand and cand.lower() not in GENERIC_TITLES and len(cand) >= 8:
+                    title = cand
+                else:
+                    title = "FASB In the News"
+
+            if url in seen:
+                continue
+            seen.add(url)
+
+            ctx = html[max(0, m.start() - 240) : min(len(html), m.end() + 120)]
+            dt = extract_any_date(ctx, source="FASB")
+            links.append((title, url, dt))
+            if len(links) >= MAX_LISTING_LINKS:
+                return links
+
+        if links:
+            return links
+
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    strip_nav_like(container)
+
+    for a in container.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#"):
+            continue
+
+        full = canonical_url(urljoin(page_url, href))
+        u = urlparse(full)
+        pth = (u.path or "").rstrip("/")
+
+        # Only accept real in-the-news detail pages (exclude the listing root itself).
+        if not FASB_IN_NEWS_PATH_RE.match(pth + "/"):
+            continue
+        if pth.rstrip("/").lower() in {"/news-and-meetings/in-the-news"}:
+            continue
+
+        if not allowed_for_source("FASB", full):
+            continue
+
+        raw = (a.get_text(" ", strip=True) or "").strip()
+        if not raw:
+            raw = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
+
+        tl = (raw or "").strip().lower()
+        title = ""
+
+        if tl in {"read more", "learn more", "more", "details", "read the article", "read article"} or not raw:
+            wrap = a.find_parent(["article", "li", "div", "section", "p"]) or a.parent
+            if wrap:
+                h = wrap.find(["h1", "h2", "h3", "h4", "strong"])
+                if h:
+                    title = clean_text(h.get_text(" ", strip=True), 220)
+
+                if not title:
+                    for sel in [".title", ".headline", "[class*='title']", "[class*='headline']"]:
+                        try:
+                            el = wrap.select_one(sel)
+                        except Exception:
+                            el = None
+                        if el and getattr(el, "get_text", None):
+                            cand = clean_text(el.get_text(" ", strip=True), 220)
+                            if cand and cand.lower() not in GENERIC_TITLES:
+                                title = cand
+                                break
+
+                if not title:
+                    blob = clean_text(wrap.get_text(" ", strip=True), 700)
+                    # Sometimes the first clause is the headline; keep it short.
+                    title = clean_text(blob.split("…")[0], 220)
+        else:
+            title = clean_text(raw, 220)
+
+        if not title or title.lower() in GENERIC_TITLES or len(title) < 8:
+            continue
+        if is_probably_nav_link("FASB", title, full):
+            continue
+        if is_generic_listing_or_home("FASB", title, full):
+            continue
+
+        if full in seen:
+            continue
+        seen.add(full)
+
+        dt = find_time_near_anchor(a, "FASB")
+        if dt is None:
+            wrap = a.find_parent(["article", "li", "div", "section", "p"]) or a.parent
+            if wrap:
+                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 900), source="FASB")
+
+        links.append((title, full, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    return links
+
 # ============================
 # MAIN CONTENT LINK ROUTER
 # ============================
@@ -3584,6 +3728,9 @@ def main_content_links(source: str, page_url: str, html: str, window_start: date
         return freddiemac_globenewswire_links(page_url, html)
     if source == "CDIA":
         return cdia_links(page_url, html)
+    if source == "FASB":
+        return fasb_links(page_url, html)
+
     if source == "FHLB MPF":
         return fhlbmpf_links(page_url, html)
         
