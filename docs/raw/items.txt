@@ -361,13 +361,6 @@ CVE-2023-54207 HID: uclogic: Correct devm device reference for hidinput input_de
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-54207
 Information published.
 ------------------------------------------------------------
-Compliance Watch
-ABA
-2026-02-28T00:00:00Z
-Inclusive Banking
-https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
-Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-------------------------------------------------------------
 OFAC
 Treasury
 2026-02-27T21:00:00Z
@@ -1237,6 +1230,12 @@ FIS
 2026-02-23T00:00:00Z
 FIS Launches 24/7 AI Assistant to Ease Risk Models Management
 https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-247-ai-assistant-ease-risk-models-management
+------------------------------------------------------------
+Fintech Watch
+Jack Henry
+2026-02-23T00:00:00Z
+SELCO Community Credit Union Strengthens Fraud Mitigation Strategy with Jack Henry
+https://ir.jackhenry.com/news-releases/news-release-details/selco-community-credit-union-strengthens-fraud-mitigation
 ------------------------------------------------------------
 Compliance Watch
 ABA

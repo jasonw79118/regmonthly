@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-06T09:10:33-06:00` (CT) — `2026-03-06T15:10:33Z` (UTC)
+Last updated: `2026-03-06T11:10:41-06:00` (CT) — `2026-03-06T17:10:41Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -416,14 +416,6 @@ Information published.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-54207
 
 Information published.
-
-## Inclusive Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
-
-Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
 
 ## Preliminary Report on Foreign Holdings of U.S. Securities at End-June 2025
 - Source: Treasury
@@ -1384,6 +1376,12 @@ Fannie Mae announced that it has commenced fixed-price cash tender offers for th
 - Category: Fintech Watch
 - Published: 2026-02-23T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-247-ai-assistant-ease-risk-models-management
+
+## SELCO Community Credit Union Strengthens Fraud Mitigation Strategy with Jack Henry
+- Source: Jack Henry
+- Category: Fintech Watch
+- Published: 2026-02-23T00:00:00Z
+- URL: https://ir.jackhenry.com/news-releases/news-release-details/selco-community-credit-union-strengthens-fraud-mitigation
 
 ## Human Resources
 - Source: ABA

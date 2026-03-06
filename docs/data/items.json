@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-06T15:10:33Z",
-  "generated_at_ct": "2026-03-06T09:10:33-06:00",
+  "generated_at_utc": "2026-03-06T17:10:41Z",
+  "generated_at_ct": "2026-03-06T11:10:41-06:00",
   "items": [
     {
       "category": "OFAC",
@@ -419,14 +419,6 @@
       "published_at": "2026-02-28T09:01:22Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-54207",
       "summary": "Information published."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Inclusive Banking",
-      "published_at": "2026-02-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/consumer-banking/inclusive-banking",
-      "summary": "Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion."
     },
     {
       "category": "OFAC",
@@ -1585,6 +1577,14 @@
       "title": "FIS Launches 24/7 AI Assistant to Ease Risk Models Management",
       "published_at": "2026-02-23T00:00:00Z",
       "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-247-ai-assistant-ease-risk-models-management",
+      "summary": ""
+    },
+    {
+      "category": "Fintech Watch",
+      "source": "Jack Henry",
+      "title": "SELCO Community Credit Union Strengthens Fraud Mitigation Strategy with Jack Henry",
+      "published_at": "2026-02-23T00:00:00Z",
+      "url": "https://ir.jackhenry.com/news-releases/news-release-details/selco-community-credit-union-strengthens-fraud-mitigation",
       "summary": ""
     },
     {

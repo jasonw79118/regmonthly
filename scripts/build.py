@@ -2563,28 +2563,91 @@ def senate_banking_links_single(page_url: str, html: str) -> List[Tuple[str, str
     if not container:
         return []
 
+    strip_nav_like(container)
+
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen = set()
 
-    # Try common newsroom patterns (press releases, statements, hearings)
     for a in container.find_all("a", href=True):
         href = (a.get("href") or "").strip()
         if not href or href.startswith("#"):
             continue
 
-        # Keep only likely article links
-        if "/newsroom/" not in href and "/news/" not in href:
+        url = canonical_url(urljoin(page_url, href))
+        up = urlparse(url)
+        pth = (up.path or "").rstrip("/").lower()
+
+        # Keep only real article/detail pages under the newsroom.
+        # The homepage also exposes category tabs like /newsroom and /newsroom/press-releases
+        # which were being captured as listing links and then filtered out downstream.
+        if "/newsroom/" not in pth and "/news/" not in pth:
             continue
-        if any(x in href for x in ["/videos", "/in-the-news"]):
+        if pth in {
+            "/newsroom",
+            "/newsroom/press-releases",
+            "/newsroom/in-the-news",
+            "/newsroom/photos",
+            "/newsroom/videos",
+            "/news",
+        }:
+            continue
+        if any(x in pth for x in ["/videos", "/photos", "/in-the-news", "/press-release-archive", "/archive"]):
             continue
 
-        url = canonical_url(urljoin(page_url, href))
+        # Prefer actual article paths like /newsroom/majority/<slug> or /newsroom/minority/<slug>.
+        parts = [seg for seg in pth.split("/") if seg]
+        if "newsroom" in parts:
+            i = parts.index("newsroom")
+            tail = parts[i + 1 :]
+            if len(tail) < 2:
+                continue
+            if tail[0] not in {"majority", "minority"}:
+                continue
+        elif "news" in parts:
+            i = parts.index("news")
+            tail = parts[i + 1 :]
+            if len(tail) < 1:
+                continue
+
         if not allowed_for_source("Senate Banking", url):
             continue
 
-        raw_title = (a.get_text(" ", strip=True) or "").strip()
-        title = clean_text(raw_title, 220)
+        raw = (a.get_text(" ", strip=True) or "").strip()
+        if not raw:
+            raw = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
+
+        tl = (raw or "").strip().lower()
+        title = ""
+        if tl in {"continue reading", "read more", "learn more", "more", "details"} or not raw:
+            wrap = a.find_parent(["article", "div", "li", "section", "p"]) or a.parent
+            if wrap:
+                h = wrap.find(["h1", "h2", "h3", "h4", "strong"])
+                if h:
+                    title = clean_text(h.get_text(" ", strip=True), 220)
+
+                if not title:
+                    for sel in [".title", ".headline", "[class*='title']", "[class*='headline']"]:
+                        try:
+                            el = wrap.select_one(sel)
+                        except Exception:
+                            el = None
+                        if el and getattr(el, "get_text", None):
+                            cand = clean_text(el.get_text(" ", strip=True), 220)
+                            if cand and cand.lower() not in GENERIC_TITLES:
+                                title = cand
+                                break
+
+                if not title:
+                    blob = clean_text(wrap.get_text(" ", strip=True), 900)
+                    title = clean_text(blob.split("…")[0], 220)
+        else:
+            title = clean_text(raw, 220)
+
         if not title or len(title) < 8:
+            continue
+        if is_probably_nav_link("Senate Banking", title, url):
+            continue
+        if is_generic_listing_or_home("Senate Banking", title, url):
             continue
 
         if url in seen:
@@ -3593,6 +3656,10 @@ def finastra_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[da
 # ============================
 
 FASB_IN_NEWS_PATH_RE = re.compile(r"^/news-and-meetings/in-the-news/(?!$)[^\s?#]+", re.I)
+FASB_IN_NEWS_ABS_RE = re.compile(
+    r'https?://(?:www\.)?fasb\.org/news-and-meetings/in-the-news/[^\s\)\]<>"\']+',
+    re.I,
+)
 
 def fasb_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
     """Extract real FASB 'In the News' items from https://www.fasb.org/news-and-meetings/in-the-news
@@ -3606,8 +3673,9 @@ def fasb_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen: set[str] = set()
 
-    # If we fetched via proxy and got markdown-ish text, parse markdown links first.
-    if html and ("<html" not in (html.lower())) and ("](" in html) and ("fasb.org" in html):
+    # If we fetched via proxy and got markdown-ish or plain-text content, parse absolute URLs first.
+    # r.jina.ai can return either [title](url) markdown or plain absolute links on separate lines.
+    if html and ("<html" not in (html.lower())) and ("fasb.org" in html):
         md_re = re.compile(
             r"\[([^\]]{1,260})\]\((https?://(?:www\.)?fasb\.org/news-and-meetings/in-the-news/[^\)\s]+)\)",
             re.I,
@@ -3618,7 +3686,6 @@ def fasb_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
             if not allowed_for_source("FASB", url):
                 continue
 
-            # If title is generic, try to infer from nearby line text
             tl = (raw_title or "").strip().lower()
             title = raw_title
             if tl in {"read more", "learn more", "more", "details", "read the article", "read article"}:
@@ -3626,9 +3693,7 @@ def fasb_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
                 line_start = html.rfind("\n", 0, i0) + 1
                 line = html[line_start:i0]
                 line = re.sub(r"\s+", " ", (line or "").strip())
-                # strip leading bullet-like characters
-                line = re.sub(r"^[\-\*\u2022\s]+", "", line)
-                # remove an obvious date prefix if present
+                line = re.sub(r"^[\-\*•\s]+", "", line)
                 line2 = re.sub(r"^(?:[A-Z][a-z]{2,9})\.?\s+\d{1,2},\s+\d{4}\s*[:\-–—]\s*", "", line).strip()
                 cand = clean_text(line2 or line, 220)
                 if cand and cand.lower() not in GENERIC_TITLES and len(cand) >= 8:
@@ -3642,6 +3707,41 @@ def fasb_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
 
             ctx = html[max(0, m.start() - 240) : min(len(html), m.end() + 120)]
             dt = extract_any_date(ctx, source="FASB")
+            links.append((title, url, dt))
+            if len(links) >= MAX_LISTING_LINKS:
+                return links
+
+        # Plain text fallback: capture any absolute FASB in-the-news URL and infer a title/date
+        # from surrounding lines. This is needed when proxy output is not markdown-formatted.
+        for m in FASB_IN_NEWS_ABS_RE.finditer(html):
+            url = canonical_url(m.group(0))
+            if not allowed_for_source("FASB", url):
+                continue
+            if url in seen:
+                continue
+
+            i0, i1 = m.span()
+            prev_chunk = html[max(0, i0 - 500) : i0]
+            next_chunk = html[i1 : min(len(html), i1 + 140)]
+            prev_lines = [re.sub(r"\s+", " ", ln).strip() for ln in prev_chunk.splitlines()]
+            prev_lines = [ln for ln in prev_lines if ln]
+
+            title = ""
+            for ln in reversed(prev_lines[-6:]):
+                ln2 = re.sub(r"^[\-\*•\s]+", "", ln)
+                if not ln2 or "fasb.org/news-and-meetings/in-the-news/" in ln2.lower():
+                    continue
+                if ln2.lower() in GENERIC_TITLES:
+                    continue
+                if len(ln2) >= 8:
+                    title = clean_text(ln2, 220)
+                    break
+            if not title:
+                title = "FASB In the News"
+
+            ctx = prev_chunk + " " + next_chunk
+            dt = extract_any_date(ctx, source="FASB")
+            seen.add(url)
             links.append((title, url, dt))
             if len(links) >= MAX_LISTING_LINKS:
                 return links
