@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-05T16:40:39-06:00` (CT) — `2026-03-05T22:40:39Z` (UTC)
+Last updated: `2026-03-06T09:10:33-06:00` (CT) — `2026-03-06T15:10:33Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -1384,12 +1384,6 @@ Fannie Mae announced that it has commenced fixed-price cash tender offers for th
 - Category: Fintech Watch
 - Published: 2026-02-23T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-247-ai-assistant-ease-risk-models-management
-
-## SELCO Community Credit Union Strengthens Fraud Mitigation Strategy with Jack Henry
-- Source: Jack Henry
-- Category: Fintech Watch
-- Published: 2026-02-23T00:00:00Z
-- URL: https://ir.jackhenry.com/news-releases/news-release-details/selco-community-credit-union-strengthens-fraud-mitigation
 
 ## Human Resources
 - Source: ABA
@@ -17907,12 +17901,6 @@ Added Affected Software for Windows packages
 - Published: 2026-02-10T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411012
 
-## Chairman Hill: We Have Direct Solutions To Improve The Cost Of Living For All Americans
-- Source: House Financial Services
-- Category: Legislative
-- Published: 2026-02-10T00:00:00Z
-- URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411015
-
 ## Inaugural National Nacha Accreditation Day Honors Nearly 6,000 Payments Professionals
 - Source: NACHA
 - Category: Payments
@@ -18114,6 +18102,12 @@ PRESS RELEASE | FEBRUARY 6, 2026 FDIC Extends Comment Period on Proposal to Esta
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1862
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
+
+## Fact Sheet: President Donald J. Trump Launches TrumpRx.gov to Bring Lower Drug Prices to American Patients
+- Source: White House
+- Category: Executive
+- Published: 2026-02-06T00:31:50Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-launches-trumprx-gov-to-bring-lower-drug-prices-to-american-patients/
 
 ## Iran-related Designations
 - Source: OFAC
@@ -18382,22 +18376,6 @@ By connecting Visa Direct’s card network to UnionPay International’s (UPI) M
 - Category: OFAC
 - Published: 2026-02-03T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260203
-
-## Treasury, IRS issue proposed regulations on the clean fuel production credit under the One, Big, Beautiful Bill
-- Source: IRS
-- Category: IRS
-- Published: 2026-02-03T00:00:00Z
-- URL: https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-on-the-clean-fuel-production-credit-under-the-one-big-beautiful-bill
-
-IR-2026-20, Feb. 3, 2026 — The Department of the Treasury and the Internal Revenue Service today issued proposed regulations for domestic producers of clean transportation fuel to determine their eligibility for and calculate the clean fuel production credit under the One, Big, Beautiful Bill.
-
-## Create an IRS Individual Online Account today for security and convenience
-- Source: IRS
-- Category: IRS
-- Published: 2026-02-03T00:00:00Z
-- URL: https://www.irs.gov/newsroom/create-an-irs-individual-online-account-today-for-security-and-convenience
-
-IR-2026-21, Feb. 3, 2026 — The IRS encourages all taxpayers to create an IRS Individual Online Account to access their tax account information securely online and to help protect against identity theft and fraud.
 
 ## January Deep Freeze Impacts Small Business Foot Traffic, New Fiserv Data Shows
 - Source: Fiserv

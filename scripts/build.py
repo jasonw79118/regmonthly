@@ -776,6 +776,36 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
             except Exception as e:
                 print(f"[warn] proxy GET failed: {proxy_url} :: {e}", flush=True)
             return None
+
+        # ✅ FASB: the "In the News" page can return JS-light / incomplete HTML to requests.
+        # Use the proxy only for FASB when the direct fetch is blocked or the page looks incomplete.
+        if h in {"www.fasb.org", "fasb.org"} and (
+            r.status_code == 403
+            or looks_like_error_html(r.text or "", url)
+            or looks_js_rendered(r.text or "")
+        ):
+            why = "403" if r.status_code == 403 else "incomplete html"
+            print(f"[warn] GET {why}: {url} (retrying via proxy)", flush=True)
+            proxy_url = _jina_proxy_url(url)
+            try:
+                time.sleep(REQUEST_DELAY_SEC)
+                pr = SESSION.get(
+                    proxy_url,
+                    headers={"User-Agent": browser_ua, "Accept": "text/html,application/xhtml+xml,*/*"},
+                    timeout=(10, max(read_timeout, 40)),
+                    allow_redirects=True,
+                )
+                if pr.status_code < 400:
+                    txtp = pr.text or ""
+                    if txtp.strip():
+                        return txtp
+                    print(f"[warn] proxy returned empty content: {url}", flush=True)
+                else:
+                    print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
+            except Exception as e:
+                print(f"[warn] proxy GET failed: {proxy_url} :: {e}", flush=True)
+            return None
+
         # ✅ BankersOnline: 403 is common -> proxy retry
         if r.status_code == 403 and h == "www.bankersonline.com":
             print(f"[warn] GET 403: {url} (retrying via proxy)", flush=True)

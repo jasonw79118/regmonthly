@@ -1238,12 +1238,6 @@ FIS
 FIS Launches 24/7 AI Assistant to Ease Risk Models Management
 https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-247-ai-assistant-ease-risk-models-management
 ------------------------------------------------------------
-Fintech Watch
-Jack Henry
-2026-02-23T00:00:00Z
-SELCO Community Credit Union Strengthens Fraud Mitigation Strategy with Jack Henry
-https://ir.jackhenry.com/news-releases/news-release-details/selco-community-credit-union-strengthens-fraud-mitigation
-------------------------------------------------------------
 Compliance Watch
 ABA
 2026-02-23T00:00:00Z
@@ -15763,12 +15757,6 @@ House Financial Services
 Committee Seeks Answers on Living Conditions and Management at 32 Troubled Public Housing Agencies
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411012
 ------------------------------------------------------------
-Legislative
-House Financial Services
-2026-02-10T00:00:00Z
-Chairman Hill: We Have Direct Solutions To Improve The Cost Of Living For All Americans
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411015
-------------------------------------------------------------
 Payments
 NACHA
 2026-02-10T00:00:00Z
@@ -15965,6 +15953,12 @@ Microsoft MSRC
 Chromium: CVE-2026-1862 Type Confusion in V8
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1862
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2024 ) for more information.
+------------------------------------------------------------
+Executive
+White House
+2026-02-06T00:31:50Z
+Fact Sheet: President Donald J. Trump Launches TrumpRx.gov to Bring Lower Drug Prices to American Patients
+https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-launches-trumprx-gov-to-bring-lower-drug-prices-to-american-patients/
 ------------------------------------------------------------
 OFAC
 OFAC
@@ -16216,20 +16210,6 @@ OFAC
 2026-02-03T00:00:00Z
 Issuance of Venezuela-related General License
 https://ofac.treasury.gov/recent-actions/20260203
-------------------------------------------------------------
-IRS
-IRS
-2026-02-03T00:00:00Z
-Treasury, IRS issue proposed regulations on the clean fuel production credit under the One, Big, Beautiful Bill
-https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-on-the-clean-fuel-production-credit-under-the-one-big-beautiful-bill
-IR-2026-20, Feb. 3, 2026 — The Department of the Treasury and the Internal Revenue Service today issued proposed regulations for domestic producers of clean transportation fuel to determine their eligibility for and calculate the clean fuel production credit under the One, Big, Beautiful Bill.
-------------------------------------------------------------
-IRS
-IRS
-2026-02-03T00:00:00Z
-Create an IRS Individual Online Account today for security and convenience
-https://www.irs.gov/newsroom/create-an-irs-individual-online-account-today-for-security-and-convenience
-IR-2026-21, Feb. 3, 2026 — The IRS encourages all taxpayers to create an IRS Individual Online Account to access their tax account information securely online and to help protect against identity theft and fraud.
 ------------------------------------------------------------
 Fintech Watch
 Fiserv
