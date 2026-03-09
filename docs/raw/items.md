@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-06T11:10:41-06:00` (CT) — `2026-03-06T17:10:41Z` (UTC)
+Last updated: `2026-03-06T14:13:32-06:00` (CT) — `2026-03-06T20:13:32Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
