@@ -4065,8 +4065,8 @@ def get_start_pages() -> List[SourcePage]:
         
         # Legislative / exec
         SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom"),
-        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/majority"),
-        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/minority"),
+        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/majority-press-releases"),
+        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/minority-press-releases"),
         SourcePage("House Financial Services", "https://financialservices.house.gov/news/"),
         SourcePage("White House", "https://www.whitehouse.gov/news/"),
         SourcePage("White House", "https://www.whitehouse.gov/presidential-actions/"),

@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-09T12:12:17-05:00` (CT) — `2026-03-09T17:12:17Z` (UTC)
+Last updated: `2026-03-09T14:48:37-05:00` (CT) — `2026-03-09T19:48:37Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -1356,6 +1356,126 @@ The United States Department of Agriculture’s Farmer Bridge Assistance program
 - URL: https://www.fanniemae.com/newsroom/fannie-mae-news/tender-offer-any-all-certain-cas-notes-feb-2026
 
 Fannie Mae announced that it has commenced fixed-price cash tender offers for the purchase of certain of its Connecticut Avenue Securities® (CAS) Notes.
+
+## Warren in Fox News: Trump’s Broken Promise on Credit Cards
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-in-fox-news-trumps-broken-promise-on-credit-cards
+
+## Warren Response to Trump Press Conference on Chaotic Tariffs
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-response-to-trump-press-conference-on-chaotic-tariffs
+
+## Warren Statement on Supreme Court Trump Tariffs Ruling
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-supreme-court-trump-tariffs-ruling
+
+## Warren Presses Treasury Secretary Bessent and Fed Chair Powell to Rule Out Taxpayer-Funded Bailout for Cryptocurrency Billionaires
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-presses-treasury-secretary-bessent-and-fed-chair-powell-to-rule-out-taxpayer-funded-bailout-for-cryptocurrency-billionaires
+
+## Warren, Gallego, Colleagues Push Fed Vice Chair Bowman on Troubling Leadership of Fed’s Supervision and Regulation Division
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-gallego-colleagues-push-fed-vice-chair-bowman-on-troubling-leadership-of-feds-supervision-and-regulation-division
+
+## Warren Statement on Turmoil in Private Credit Market
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-turmoil-in-private-credit-market
+
+## Warren Calls Jamie Dimon's Bluff on Credit Card Affordability, Asks Him to Publicly Support Bill Allowing States to Impose Interest Rate Caps
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-calls-jamie-dimons-bluff-on-credit-card-affordability-asks-him-to-publicly-support-bill-allowing-states-to-impose-interest-rate-caps
+
+## Warren Raises Concerns With Neptune's Private Flood Insurance Business Model as Insurance Costs Soar for Americans
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-raises-concerns-with-neptunes-private-flood-insurance-business-model-as-insurance-costs-soar-for-americans
+
+## Warren Joins Cotton on Bill to Prevent Diversion of Advanced AI Chips to China
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-joins-cotton-on-bill-to-prevent-diversion-of-advanced-ai-chips-to-china
+
+## Senator Warren Statement on January 2026 CPI
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-january-2026-cpi
+
+## At Hearing with SEC Chair Atkins, Warren Calls Out Trump Administration for Corruption As It Drops Cases Against Corporate Crooks
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/at-hearing-with-sec-chair-atkins-warren-calls-out-trump-administration-for-corruption-as-it-drops-cases-against-corporate-crooks
+
+## Ahead of Hearing, Warren Presses SEC Chair Paul Atkins on Implementation of Trump Executive Order To Weaken Shareholder Rights
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/ahead-of-hearing-warren-presses-sec-chair-paul-atkins-on-implementation-of-trump-executive-order-to-weaken-shareholder-rights
+
+## Warren, Warner Press Commerce Secretary Lutnick on Reportedly Pushing Out Key Officials Working to Counter Cyber Threats Posed by China
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-warner-press-commerce-secretary-lutnick-on-reportedly-pushing-out-key-officials-working-to-counter-cyber-threats-posed-by-china
+
+## Following Push from Warren Oversight, Majority of Sports Gambling Market Will Restrict Credit Card Companies From Ripping Off Americans
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/following-push-from-warren-oversight-majority-of-sports-gambling-market-will-restrict-credit-card-companies-from-ripping-off-americans
+
+## In Responses to Warren, Trump CYBERCOM and NSA Nominee Warns About China Seeking Advanced American AI Chips
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/in-responses-to-warren-trump-cybercom-and-nsa-nominee-warns-about-china-seeking-advanced-american-ai-chips
+
+## Senator Warren Statement on January 2026 Jobs Report
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-january-2026-jobs-report
+
+## Warren, Schumer, Waters Lead Nearly 200 Members of Congress in Amicus Brief Challenging the Trump Administration's Illegal Efforts to Dismantle the CFPB
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-schumer-waters-lead-nearly-200-members-of-congress-in-amicus-brief-challenging-the-trump-administrations-illegal-efforts-to-dismantle-the-cfpb
+
+## Statement by Senator Warren on Recent Crypto Volatility
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/statement-by-senator-warren-on-recent-crypto-volatility
+
+## New Report Finds Trump's Attack on the CFPB Has Cost Americans $19 Billion in One Year Alone
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/new-report-finds-trumps-attack-on-the-cfpb-has-cost-americans-19-billion-in-one-year-alone
+
+## In Response to Warren, Kim, Waters Request, Independent Congressional Watchdog Releases Initial Report on Trump Administration's Dismantling of the Consumer Financial Protection Bureau
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/in-response-to-warren-kim-waters-request-independent-congressional-watchdog-releases-initial-report-on-trump-administrations-dismantling-of-the-consumer-financial-protection-bureau
 
 ## There Will be No Dikkering Around When Scott Dikkers Speaks at Payments
 - Source: NACHA
@@ -3784,12 +3904,6 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Category: Executive
 - Published: 2026-02-21T00:12:16Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/02/ending-certain-tariff-actions/
-
-## Fact Sheet: President Donald J. Trump Imposes a Temporary Import Duty to Address Fundamental International Payment Problems
-- Source: White House
-- Category: Executive
-- Published: 2026-02-21T00:05:41Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/
 
 ## President Trump Was Right About Everything — Including the Democrat Shutdown Costing Us Growth
 - Source: White House
@@ -17985,18 +18099,6 @@ IR-2026-22, Feb. 9, 2026 — The Internal Revenue Service today announced a new 
 - Published: 2026-02-06T22:07:47Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-establishes-the-america-first-arms-transfer-strategy/
 
-## Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Iran
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T22:07:20Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-iran/
-
-## Fact Sheet: President Donald J. Trump Ensures Affordable Beef for the American Consumer
-- Source: White House
-- Category: Executive
-- Published: 2026-02-06T22:06:56Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-ensures-affordable-beef-for-the-american-consumer/
-
 ## Fact Sheet: President Donald J. Trump Unleashes Commercial Fishing in the Atlantic
 - Source: White House
 - Category: Executive
@@ -18152,14 +18254,6 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Category: Executive
 - Published: 2026-02-05T16:42:39Z
 - URL: https://www.whitehouse.gov/articles/2026/02/president-trump-showcases-historic-successes-future-vision-exclusive-nbc-interview/
-
-## TBA to offer pilot access for tokenized deposit capabilities following Vantage Bank launch
-- Source: TBA
-- Category: Compliance Watch
-- Published: 2026-02-05T16:03:30Z
-- URL: https://www.texasbankers.com/tba-to-offer-pilot-access-for-tokenized-deposit-capabilities-following-vantage-bank-launch/
-
-(AUSTIN, TEXAS) – The Texas Bankers Association (TBA) announced that it will offer TBA member banks the opportunity to explore tokenized deposit capabilities through pilot access in its Innovation Magnet program, enabled by Vantage Bank’s phased rollout of its platform. This development reflects a growing shift in how community banks can leverage on-chain infrastructure to […]…
 
 ## Statement from Secretary of the Treasury Scott Bessent Before the United States Senate Banking Committee
 - Source: Treasury
@@ -18414,14 +18508,6 @@ The Surface Transportation Board (Board) recently completed a reorganization in 
 - Category: Executive
 - Published: 2026-02-02T17:19:27Z
 - URL: https://www.whitehouse.gov/articles/2026/02/rents-hit-four-year-low-as-president-trump-continues-affordability-push/
-
-## Trump nominates Kevin Warsh as Fed Chair
-- Source: TBA
-- Category: Compliance Watch
-- Published: 2026-02-02T07:00:00Z
-- URL: https://www.texasbankers.com/trump-nominates-kevin-warsh-as-fed-chair/
-
-President Trump announced his nomination of Kevin Warsh to serve as the Federal Reserve’s Chair of the Board of Governors, with current Chairman Jerome Powell’s term set to expire in May. The Senate will vote to confirm Warsh’s nomination. Warsh worked in the mergers and acquisitions department at Morgan Stanley before joining the administration of […] The post Trump nominates…
 
 ## Issuance of Venezuela-related General License and Amended Frequently Asked Question
 - Source: OFAC
