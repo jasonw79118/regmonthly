@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-10T16:21:38Z",
-  "generated_at_ct": "2026-03-10T11:21:38-05:00",
+  "generated_at_utc": "2026-03-10T18:48:33Z",
+  "generated_at_ct": "2026-03-10T13:48:33-05:00",
   "items": [
     {
       "category": "OFAC",
@@ -17798,6 +17798,14 @@
     {
       "category": "Executive",
       "source": "White House",
+      "title": "First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day",
+      "published_at": "2026-02-11T20:04:28Z",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
       "title": "ICYMI: “Violent crime plummets across major U.S. cities”",
       "published_at": "2026-02-11T17:37:15Z",
       "url": "https://www.whitehouse.gov/articles/2026/02/icymi-violent-crime-plummets-across-major-u-s-cities/",
@@ -18566,14 +18574,6 @@
       "title": "Jack Henry & Associates Increases the Quarterly Dividend on its Common Stock by 6 Percent to $.61 Per Share",
       "published_at": "2026-02-09T00:00:00Z",
       "url": "https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-associates-increases-quarterly-dividend-its-common-16",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "Presidential Message on Super Bowl LX",
-      "published_at": "2026-02-08T16:00:56Z",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-super-bowl-lx/",
       "summary": ""
     },
     {

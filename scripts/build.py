@@ -3806,6 +3806,48 @@ def fasb_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
         if links:
             return links
 
+    # ── Plain-URL fallback ───────────────────────────────────────────────────
+    # r.jina.ai sometimes returns bare URLs (no markdown brackets) mixed with
+    # prose.  This branch runs only when we have no HTML *and* no markdown links
+    # were found above, so it is strictly additive and only affects FASB.
+    if not links and html and "<html" not in html.lower() and "fasb.org" in html:
+        plain_re = re.compile(
+            r"https?://(?:www\.)?fasb\.org/news-and-meetings/in-the-news/"
+            r"(?![\s\"')>\]])[^\s\"')>\]]+",
+            re.I,
+        )
+        for m in plain_re.finditer(html):
+            url = canonical_url(m.group(0).rstrip(".,;:"))
+            if not allowed_for_source("FASB", url):
+                continue
+            if url in seen:
+                continue
+            seen.add(url)
+            # Try to recover title from the text on the line preceding the URL.
+            i0 = m.start()
+            line_start = html.rfind("\n", 0, i0) + 1
+            preceding = re.sub(r"\s+", " ", html[line_start:i0].strip())
+            preceding = re.sub(r"^[\-\*\u2022\s]+", "", preceding)
+            # Strip leading date prefix (e.g. "Feb 9, 2026 – ")
+            title_cand = re.sub(
+                r"^(?:[A-Z][a-z]{2,9})\.?\s+\d{1,2},\s+\d{4}\s*[:\-\u2013\u2014]\s*",
+                "",
+                preceding,
+            ).strip()
+            title = (
+                clean_text(title_cand, 220)
+                if title_cand and len(title_cand) >= 8
+                else title_from_url_slug(url)
+            )
+            ctx = html[max(0, i0 - 240) : min(len(html), m.end() + 120)]
+            dt = extract_any_date(ctx, source="FASB")
+            links.append((title, url, dt))
+            if len(links) >= MAX_LISTING_LINKS:
+                return links
+        if links:
+            return links
+    # ── end plain-URL fallback ───────────────────────────────────────────────
+
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
     if not container:

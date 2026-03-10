@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-10T11:21:38-05:00` (CT) — `2026-03-10T16:21:38Z` (UTC)
+Last updated: `2026-03-10T13:48:33-05:00` (CT) — `2026-03-10T18:48:33Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -17369,6 +17369,12 @@ The NCUA Board (Board) is seeking comment on proposed regulations to implement p
 
 SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced its participation in the following investor conferences. On Tuesday, March 3, Jack Forestell, Chief Product and Strategy Officer, will present at the Morgan Stanley Technology, Media & Telecom Conference.
 
+## First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day
+- Source: White House
+- Category: Executive
+- Published: 2026-02-11T20:04:28Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/
+
 ## ICYMI: “Violent crime plummets across major U.S. cities”
 - Source: White House
 - Category: Executive
@@ -18054,12 +18060,6 @@ IR-2026-22, Feb. 9, 2026 — The Internal Revenue Service today announced a new 
 - Category: Fintech Watch
 - Published: 2026-02-09T00:00:00Z
 - URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-associates-increases-quarterly-dividend-its-common-16
-
-## Presidential Message on Super Bowl LX
-- Source: White House
-- Category: Executive
-- Published: 2026-02-08T16:00:56Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/presidential-message-on-super-bowl-lx/
 
 ## Modifying Duties to Address Threats to the United States by the Government of the Russian Federation
 - Source: White House
