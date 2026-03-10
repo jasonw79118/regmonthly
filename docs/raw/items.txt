@@ -470,6 +470,13 @@ Treasury, IRS issue FAQs about general refundability and recognizing Indian trib
 https://www.irs.gov/newsroom/treasury-irs-issue-faqs-about-general-refundability-and-recognizing-indian-tribal-governments-for-purposes-of-making-a-special-needs-determination-for-the-adoption-tax-credit
 IR-2026-27, Feb. 27, 2026 — The Department of the Treasury and the Internal Revenue Service today issued frequently asked questions on FS-2026-03 related to general refundability and recognizing Indian tribal governments for purposes of making a special needs determination for the Adoption Tax Credit.
 ------------------------------------------------------------
+IRS
+IRS
+2026-02-27T00:00:00Z
+News releases for frequently asked questions
+https://www.irs.gov/newsroom/news-releases-for-frequently-asked-questions
+Find current and past news releases about Chief Counsel's frequently asked questions regarding new legislation and emerging issues.
+------------------------------------------------------------
 Mortgage
 FHLB MPF
 2026-02-27T00:00:00Z
@@ -3460,6 +3467,12 @@ White House
 2026-02-21T00:12:16Z
 Ending Certain Tariff Actions
 https://www.whitehouse.gov/presidential-actions/2026/02/ending-certain-tariff-actions/
+------------------------------------------------------------
+Executive
+White House
+2026-02-21T00:05:41Z
+Fact Sheet: President Donald J. Trump Imposes a Temporary Import Duty to Address Fundamental International Payment Problems
+https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/
 ------------------------------------------------------------
 Executive
 White House
@@ -15468,12 +15481,6 @@ Finastra
 German financial institutions are rapidly embracing AI and modernization, Finastra research reveals
 https://www.finastra.com/press-media/german-financial-institutions-are-rapidly-embracing-ai-and-modernization-finastra
 ------------------------------------------------------------
-Fintech Watch
-Finastra
-2026-02-10T12:00:00Z
-94% of French financial institutions use or plan to use AI and are now focusing on operational deployments, according to a Finastra study
-https://www.finastra.com/press-media/94-french-financial-institutions-use-or-plan-use-ai-and-are-now-focusing-operational
-------------------------------------------------------------
 Compliance Watch
 CDIA
 2026-02-10T10:00:33Z
@@ -15893,13 +15900,6 @@ Joint Statement on United States – Bangladesh Agreement on Reciprocal Trade
 https://www.whitehouse.gov/briefings-statements/2026/02/joint-statement-on-framework-for-united-states-bangladesh-agreement-on-reciprocal-trade/
 ------------------------------------------------------------
 Compliance Watch
-CDIA
-2026-02-09T15:05:47Z
-New Webinar Alert!
-https://www.cdiaonline.org/events/2026/02/09/new-webinar-alert/
-Liability Reform & Competition and Impact on Risk to the Lender March 17, 2026 | 12:00 PM ET | CDIA Webinar (60 min)... The post New Webinar Alert! appeared first on CDIA .
-------------------------------------------------------------
-Compliance Watch
 TBA
 2026-02-09T08:00:00Z
 Texas Bankers Annual Hall of Fame Gala set for April 23
@@ -15954,6 +15954,18 @@ White House
 2026-02-06T22:07:47Z
 Fact Sheet: President Donald J. Trump Establishes the America First Arms Transfer Strategy
 https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-establishes-the-america-first-arms-transfer-strategy/
+------------------------------------------------------------
+Executive
+White House
+2026-02-06T22:07:20Z
+Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Iran
+https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-iran/
+------------------------------------------------------------
+Executive
+White House
+2026-02-06T22:06:56Z
+Fact Sheet: President Donald J. Trump Ensures Affordable Beef for the American Consumer
+https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-ensures-affordable-beef-for-the-american-consumer/
 ------------------------------------------------------------
 Executive
 White House
@@ -16283,6 +16295,20 @@ OFAC
 2026-02-03T00:00:00Z
 Issuance of Venezuela-related General License
 https://ofac.treasury.gov/recent-actions/20260203
+------------------------------------------------------------
+IRS
+IRS
+2026-02-03T00:00:00Z
+Create an IRS Individual Online Account today for security and convenience
+https://www.irs.gov/newsroom/create-an-irs-individual-online-account-today-for-security-and-convenience
+IR-2026-21, Feb. 3, 2026 — The IRS encourages all taxpayers to create an IRS Individual Online Account to access their tax account information securely online and to help protect against identity theft and fraud.
+------------------------------------------------------------
+IRS
+IRS
+2026-02-03T00:00:00Z
+Treasury, IRS issue proposed regulations on the clean fuel production credit under the One, Big, Beautiful Bill
+https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-on-the-clean-fuel-production-credit-under-the-one-big-beautiful-bill
+IR-2026-20, Feb. 3, 2026 — The Department of the Treasury and the Internal Revenue Service today issued proposed regulations for domestic producers of clean transportation fuel to determine their eligibility for and calculate the clean fuel production credit under the One, Big, Beautiful Bill.
 ------------------------------------------------------------
 Fintech Watch
 Fiserv

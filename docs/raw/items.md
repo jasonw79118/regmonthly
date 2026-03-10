@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-09T14:48:37-05:00` (CT) — `2026-03-09T19:48:37Z` (UTC)
+Last updated: `2026-03-10T08:12:52-05:00` (CT) — `2026-03-10T13:12:52Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -538,6 +538,14 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - URL: https://www.irs.gov/newsroom/treasury-irs-issue-faqs-about-general-refundability-and-recognizing-indian-tribal-governments-for-purposes-of-making-a-special-needs-determination-for-the-adoption-tax-credit
 
 IR-2026-27, Feb. 27, 2026 — The Department of the Treasury and the Internal Revenue Service today issued frequently asked questions on FS-2026-03 related to general refundability and recognizing Indian tribal governments for purposes of making a special needs determination for the Adoption Tax Credit.
+
+## News releases for frequently asked questions
+- Source: IRS
+- Category: IRS
+- Published: 2026-02-27T00:00:00Z
+- URL: https://www.irs.gov/newsroom/news-releases-for-frequently-asked-questions
+
+Find current and past news releases about Chief Counsel's frequently asked questions regarding new legislation and emerging issues.
 
 ## MPF Announcement Summary 2026-S02
 - Source: FHLB MPF
@@ -3904,6 +3912,12 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Category: Executive
 - Published: 2026-02-21T00:12:16Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/02/ending-certain-tariff-actions/
+
+## Fact Sheet: President Donald J. Trump Imposes a Temporary Import Duty to Address Fundamental International Payment Problems
+- Source: White House
+- Category: Executive
+- Published: 2026-02-21T00:05:41Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/
 
 ## President Trump Was Right About Everything — Including the Democrat Shutdown Costing Us Growth
 - Source: White House
@@ -17557,12 +17571,6 @@ The Environmental Protection Agency (EPA) is proposing to update the incorporati
 - Published: 2026-02-10T12:00:00Z
 - URL: https://www.finastra.com/press-media/german-financial-institutions-are-rapidly-embracing-ai-and-modernization-finastra
 
-## 94% of French financial institutions use or plan to use AI and are now focusing on operational deployments, according to a Finastra study
-- Source: Finastra
-- Category: Fintech Watch
-- Published: 2026-02-10T12:00:00Z
-- URL: https://www.finastra.com/press-media/94-french-financial-institutions-use-or-plan-use-ai-and-are-now-focusing-operational
-
 ## The Future of Consumer Reporting starts at CDIA Connect- New Sessions Announced!
 - Source: CDIA
 - Category: Compliance Watch
@@ -18033,14 +18041,6 @@ Added Affected Software for Windows packages
 - Published: 2026-02-09T18:27:11Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/02/joint-statement-on-framework-for-united-states-bangladesh-agreement-on-reciprocal-trade/
 
-## New Webinar Alert!
-- Source: CDIA
-- Category: Compliance Watch
-- Published: 2026-02-09T15:05:47Z
-- URL: https://www.cdiaonline.org/events/2026/02/09/new-webinar-alert/
-
-Liability Reform & Competition and Impact on Risk to the Lender March 17, 2026 | 12:00 PM ET | CDIA Webinar (60 min)... The post New Webinar Alert! appeared first on CDIA .
-
 ## Texas Bankers Annual Hall of Fame Gala set for April 23
 - Source: TBA
 - Category: Compliance Watch
@@ -18098,6 +18098,18 @@ IR-2026-22, Feb. 9, 2026 — The Internal Revenue Service today announced a new 
 - Category: Executive
 - Published: 2026-02-06T22:07:47Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-establishes-the-america-first-arms-transfer-strategy/
+
+## Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Iran
+- Source: White House
+- Category: Executive
+- Published: 2026-02-06T22:07:20Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-iran/
+
+## Fact Sheet: President Donald J. Trump Ensures Affordable Beef for the American Consumer
+- Source: White House
+- Category: Executive
+- Published: 2026-02-06T22:06:56Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-ensures-affordable-beef-for-the-american-consumer/
 
 ## Fact Sheet: President Donald J. Trump Unleashes Commercial Fishing in the Atlantic
 - Source: White House
@@ -18444,6 +18456,22 @@ By connecting Visa Direct’s card network to UnionPay International’s (UPI) M
 - Category: OFAC
 - Published: 2026-02-03T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260203
+
+## Create an IRS Individual Online Account today for security and convenience
+- Source: IRS
+- Category: IRS
+- Published: 2026-02-03T00:00:00Z
+- URL: https://www.irs.gov/newsroom/create-an-irs-individual-online-account-today-for-security-and-convenience
+
+IR-2026-21, Feb. 3, 2026 — The IRS encourages all taxpayers to create an IRS Individual Online Account to access their tax account information securely online and to help protect against identity theft and fraud.
+
+## Treasury, IRS issue proposed regulations on the clean fuel production credit under the One, Big, Beautiful Bill
+- Source: IRS
+- Category: IRS
+- Published: 2026-02-03T00:00:00Z
+- URL: https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-on-the-clean-fuel-production-credit-under-the-one-big-beautiful-bill
+
+IR-2026-20, Feb. 3, 2026 — The Department of the Treasury and the Internal Revenue Service today issued proposed regulations for domestic producers of clean transportation fuel to determine their eligibility for and calculate the clean fuel production credit under the One, Big, Beautiful Bill.
 
 ## January Deep Freeze Impacts Small Business Foot Traffic, New Fiserv Data Shows
 - Source: Fiserv
