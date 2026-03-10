@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-10T08:12:52-05:00` (CT) — `2026-03-10T13:12:52Z` (UTC)
+Last updated: `2026-03-10T11:21:38-05:00` (CT) — `2026-03-10T16:21:38Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -822,14 +822,6 @@ Understand how to safely deploy artificial intelligence at your bank with resour
 - URL: https://www.wolterskluwer.com/en/news/cch-tagetik-expanding-north-america-partnerships
 
 Read about the latest partnerships signed by Wolters Kluwer’s CCH® Tagetik team with Column5, Darwin Analytics and TripleBolt Technology.
-
-## Wolters Kluwer survey indicates financial institutions that align with regulators are able to adopt AI more successfully
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-02-26T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/survey-indicates-financial-institutions-that-align-with-regulators-are-able-to-adopt-ai-successfully
-
-Wolters Kluwer Financial & Corporate Compliance today published the results of a new survey of 148 financial institutions identifying regulatory clarity and talent development as critical enablers in successful AI adoption within the banking industry
 
 ## Prohibition on Use of Reputation Risk or Other Supervisory Tools To Encourage or Compel Banking Organizations To Engage in Politicized or Unlawful Discrimination
 - Source: Federal Register
@@ -17376,12 +17368,6 @@ The NCUA Board (Board) is seeking comment on proposed regulations to implement p
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html
 
 SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced its participation in the following investor conferences. On Tuesday, March 3, Jack Forestell, Chief Product and Strategy Officer, will present at the Morgan Stanley Technology, Media & Telecom Conference.
-
-## First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day
-- Source: White House
-- Category: Executive
-- Published: 2026-02-11T20:04:28Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/
 
 ## ICYMI: “Violent crime plummets across major U.S. cities”
 - Source: White House

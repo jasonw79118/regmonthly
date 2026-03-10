@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-10T13:12:52Z",
-  "generated_at_ct": "2026-03-10T08:12:52-05:00",
+  "generated_at_utc": "2026-03-10T16:21:38Z",
+  "generated_at_ct": "2026-03-10T11:21:38-05:00",
   "items": [
     {
       "category": "OFAC",
@@ -866,14 +866,6 @@
       "published_at": "2026-02-26T00:00:00Z",
       "url": "https://www.wolterskluwer.com/en/news/cch-tagetik-expanding-north-america-partnerships",
       "summary": "Read about the latest partnerships signed by Wolters Kluwer’s CCH® Tagetik team with Column5, Darwin Analytics and TripleBolt Technology."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "Wolters Kluwer",
-      "title": "Wolters Kluwer survey indicates financial institutions that align with regulators are able to adopt AI more successfully",
-      "published_at": "2026-02-26T00:00:00Z",
-      "url": "https://www.wolterskluwer.com/en/news/survey-indicates-financial-institutions-that-align-with-regulators-are-able-to-adopt-ai-successfully",
-      "summary": "Wolters Kluwer Financial & Corporate Compliance today published the results of a new survey of 148 financial institutions identifying regulatory clarity and talent development as critical enablers in successful AI adoption within the banking industry"
     },
     {
       "category": "Federal Register",
@@ -17802,14 +17794,6 @@
       "published_at": "2026-02-11T21:05:00Z",
       "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html",
       "summary": "SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced its participation in the following investor conferences. On Tuesday, March 3, Jack Forestell, Chief Product and Strategy Officer, will present at the Morgan Stanley Technology, Media & Telecom Conference."
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day",
-      "published_at": "2026-02-11T20:04:28Z",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/",
-      "summary": ""
     },
     {
       "category": "Executive",
