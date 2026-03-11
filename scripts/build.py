@@ -568,7 +568,7 @@ def sitemap_links_for_source(source: str) -> List[Tuple[str, str, Optional[datet
         "Senate Banking": {
             "base": "https://www.banking.senate.gov",
             "fallback_sitemaps": ["https://www.banking.senate.gov/sitemap.xml"],
-            "allow_re": re.compile(r"/(?:newsroom/(?:majority|minority)(?:/\d{2}/\d{2}/\d{4})?/[^/?#]+|news/[^/?#]+)", re.I),
+            "allow_re": re.compile(r"/(?:newsroom/(?:majority|minority)(?:-press-releases)?(?:/\d{2}/\d{2}/\d{4})?/[^/?#]+|news/[^/?#]+)", re.I),
             "deny_re": re.compile(r"/(?:newsroom|newsroom/press-release-archive|newsroom/photos|newsroom/videos|newsroom/in-the-news|news(?:/press-releases)?)/?$", re.I),
             "title_fallback": "Senate Banking news",
             "date_from_url_re": re.compile(r"/(\d{2})/(\d{2})/(\d{4})/"),
@@ -2720,28 +2720,43 @@ def senate_banking_links_single(page_url: str, html: str) -> List[Tuple[str, str
     if not container:
         return []
 
+    strip_nav_like(container)
+
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen = set()
 
-    # Try common newsroom patterns (press releases, statements, hearings)
     for a in container.find_all("a", href=True):
         href = (a.get("href") or "").strip()
         if not href or href.startswith("#"):
             continue
 
-        # Keep only likely article links
-        if "/newsroom/" not in href and "/news/" not in href:
+        href_l = href.lower()
+        if any(x in href_l for x in ["/videos", "/in-the-news"]):
             continue
-        if any(x in href for x in ["/videos", "/in-the-news"]):
+
+        # Keep only Senate article/detail links, not pager/filter/navigation links.
+        if not (
+            "/newsroom/majority-press-releases/" in href_l
+            or "/newsroom/minority-press-releases/" in href_l
+            or re.search(r"/newsroom/\d{2}/\d{2}/\d{4}/", href_l)
+            or href_l.startswith("/news/")
+        ):
             continue
 
         url = canonical_url(urljoin(page_url, href))
         if not allowed_for_source("Senate Banking", url):
             continue
+        if is_generic_listing_or_home("Senate Banking", "", url):
+            continue
 
         raw_title = (a.get_text(" ", strip=True) or "").strip()
+        if not raw_title:
+            raw_title = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
+
         title = clean_text(raw_title, 220)
-        if not title or len(title) < 8:
+        if not title or len(title) < 8 or title.lower() in GENERIC_TITLES:
+            continue
+        if is_probably_nav_link("Senate Banking", title, url):
             continue
 
         if url in seen:
@@ -2750,14 +2765,27 @@ def senate_banking_links_single(page_url: str, html: str) -> List[Tuple[str, str
 
         dt = find_time_near_anchor(a, "Senate Banking")
         if dt is None:
-            wrap = a.find_parent(["article", "div", "li", "section", "p"]) or a.parent
+            wrap = a.find_parent(["article", "li", "div", "section", "tr", "td", "p"]) or a.parent
             if wrap:
                 dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1200), source="Senate Banking")
+
+        if dt is None:
+            prev_bits: List[str] = []
+            for sib in list(a.previous_siblings)[-6:]:
+                try:
+                    txt = sib.get_text(" ", strip=True) if hasattr(sib, "get_text") else str(sib).strip()
+                except Exception:
+                    txt = ""
+                if txt:
+                    prev_bits.append(txt)
+            if prev_bits:
+                dt = extract_any_date(" ".join(prev_bits), source="Senate Banking")
 
         links.append((title, url, dt))
         if len(links) >= MAX_LISTING_LINKS:
             break
 
+    links.sort(key=lambda t: (t[2] is None, t[2] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
     return links
 
 
