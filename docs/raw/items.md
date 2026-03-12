@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-11T12:46:25-05:00` (CT) — `2026-03-11T17:46:25Z` (UTC)
+Last updated: `2026-03-12T10:10:59-05:00` (CT) — `2026-03-12T15:10:59Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -798,14 +798,6 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - URL: https://www.aba.com/banking-topics/payments/debit-cards
 
 Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
-
-## Artificial Intelligence
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-26T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology/artificial-intelligence
-
-Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.
 
 ## Prohibition on Use of Reputation Risk or Other Supervisory Tools To Encourage or Compel Banking Organizations To Engage in Politicized or Unlawful Discrimination
 - Source: Federal Register
@@ -3850,12 +3842,6 @@ Updated CWE value. This is an informational change only.
 - URL: https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-special-depreciation-allowance-for-qualified-production-property-announce-upcoming-proposed-regulations-under-the-one-big-beautiful-bill
 
 IR-2026-25, Feb. 20, 2026 — The Department of the Treasury and the Internal Revenue Service today provided interim guidance for taxpayers regarding the special depreciation allowance for qualified production property enacted under the One, Big, Beautiful Bill.
-
-## Education Services
-- Source: CDIA
-- Category: Compliance Watch
-- Published: 2026-02-20T00:00:00Z
-- URL: https://www.cdiaonline.org/education-services/
 
 ## Privacy Act of 1974; System of Records
 - Source: Federal Register
@@ -16933,14 +16919,6 @@ Fannie Mae’s market intelligence helps you understand changes in the housing a
 - Published: 2026-02-17T00:00:00Z
 - URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/january/noah-kahan-and-mastercard-to-premiere--the-great-divide--music-v.html
 
-## Incident Response
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-02-17T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management/incident-response
-
-Resources to help you prepare for and respond to a physical or cyber incident.
-
 ## Agency Information Collection Activities: Proposed Collection Renewal; Comment Request
 - Source: Federal Register
 - Category: Federal Register
@@ -17226,12 +17204,6 @@ SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced 
 - Category: Executive
 - Published: 2026-02-11T20:04:28Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/
-
-## ICYMI: “Violent crime plummets across major U.S. cities”
-- Source: White House
-- Category: Executive
-- Published: 2026-02-11T17:37:15Z
-- URL: https://www.whitehouse.gov/articles/2026/02/icymi-violent-crime-plummets-across-major-u-s-cities/
 
 ## America 250: Presidential Message on the Birthday of Thomas Edison
 - Source: White House
@@ -18274,12 +18246,6 @@ The Office of Personnel Management (OPM) proposes to amend its retirement regula
 - Category: Executive
 - Published: 2026-02-03T21:42:14Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bill-h-r-7148-signed-into-law/
-
-## Minnesota Democrats Protected This Violent Illegal Alien. The Trump Administration Is Deporting Him.
-- Source: White House
-- Category: Executive
-- Published: 2026-02-03T20:12:20Z
-- URL: https://www.whitehouse.gov/articles/2026/02/minnesota-democrats-protected-this-violent-illegal-alien-the-trump-administration-is-deporting-him/
 
 ## National Black History Month, 2026
 - Source: White House

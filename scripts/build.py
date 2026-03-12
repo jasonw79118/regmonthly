@@ -2723,7 +2723,7 @@ def senate_banking_links_single(page_url: str, html: str) -> List[Tuple[str, str
     strip_nav_like(container)
 
     links: List[Tuple[str, str, Optional[datetime]]] = []
-    seen = set()
+    seen: set[str] = set()
 
     for a in container.find_all("a", href=True):
         href = (a.get("href") or "").strip()
@@ -2731,16 +2731,14 @@ def senate_banking_links_single(page_url: str, html: str) -> List[Tuple[str, str
             continue
 
         href_l = href.lower()
-        if any(x in href_l for x in ["/videos", "/in-the-news"]):
-            continue
-
-        # Keep only Senate article/detail links, not pager/filter/navigation links.
         if not (
             "/newsroom/majority-press-releases/" in href_l
             or "/newsroom/minority-press-releases/" in href_l
             or re.search(r"/newsroom/\d{2}/\d{2}/\d{4}/", href_l)
             or href_l.startswith("/news/")
         ):
+            continue
+        if any(x in href_l for x in ["/videos", "/in-the-news", "/photos"]):
             continue
 
         url = canonical_url(urljoin(page_url, href))
@@ -2752,42 +2750,43 @@ def senate_banking_links_single(page_url: str, html: str) -> List[Tuple[str, str
         raw_title = (a.get_text(" ", strip=True) or "").strip()
         if not raw_title:
             raw_title = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
-
         title = clean_text(raw_title, 220)
-        if not title or len(title) < 8 or title.lower() in GENERIC_TITLES:
+        if not title or len(title) < 8:
             continue
         if is_probably_nav_link("Senate Banking", title, url):
+            continue
+        if title.lower() in GENERIC_TITLES:
             continue
 
         if url in seen:
             continue
-        seen.add(url)
 
         dt = find_time_near_anchor(a, "Senate Banking")
         if dt is None:
-            wrap = a.find_parent(["article", "li", "div", "section", "tr", "td", "p"]) or a.parent
+            wrap = a.find_parent(["article", "div", "li", "section", "p", "tr", "td"]) or a.parent
             if wrap:
-                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1200), source="Senate Banking")
+                blob = clean_text(wrap.get_text(" ", strip=True), 1200)
+                dt = extract_any_date(blob, source="Senate Banking")
 
-        if dt is None:
-            prev_bits: List[str] = []
-            for sib in list(a.previous_siblings)[-6:]:
-                try:
-                    txt = sib.get_text(" ", strip=True) if hasattr(sib, "get_text") else str(sib).strip()
-                except Exception:
-                    txt = ""
-                if txt:
-                    prev_bits.append(txt)
-            if prev_bits:
-                dt = extract_any_date(" ".join(prev_bits), source="Senate Banking")
+                if dt is None:
+                    prev_bits: List[str] = []
+                    for sib in list(wrap.previous_siblings)[-6:]:
+                        try:
+                            txt = sib.get_text(" ", strip=True) if hasattr(sib, "get_text") else str(sib).strip()
+                        except Exception:
+                            txt = ""
+                        if txt:
+                            prev_bits.append(txt)
+                    if prev_bits:
+                        dt = extract_any_date(" ".join(prev_bits), source="Senate Banking")
 
+        seen.add(url)
         links.append((title, url, dt))
         if len(links) >= MAX_LISTING_LINKS:
             break
 
     links.sort(key=lambda t: (t[2] is None, t[2] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
     return links
-
 
 def fincen_links(page_url: str, html: str, window_start: Optional[datetime]) -> List[Tuple[str, str, Optional[datetime]]]:
     return _paginate_listing("FinCEN", page_url, html, window_start, fincen_links_single)
@@ -4093,8 +4092,8 @@ def get_start_pages() -> List[SourcePage]:
         
         # Legislative / exec
         SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom"),
-        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/majority-press-releases"),
-        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/minority-press-releases"),
+        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/majority"),
+        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/minority"),
         SourcePage("House Financial Services", "https://financialservices.house.gov/news/"),
         SourcePage("White House", "https://www.whitehouse.gov/news/"),
         SourcePage("White House", "https://www.whitehouse.gov/presidential-actions/"),

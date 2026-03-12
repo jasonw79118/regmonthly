@@ -705,13 +705,6 @@ Debit Cards
 https://www.aba.com/banking-topics/payments/debit-cards
 Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
 ------------------------------------------------------------
-Compliance Watch
-ABA
-2026-02-26T00:00:00Z
-Artificial Intelligence
-https://www.aba.com/banking-topics/technology/artificial-intelligence
-Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.
-------------------------------------------------------------
 Federal Register
 Federal Register
 2026-02-26T00:00:00Z
@@ -3403,12 +3396,6 @@ IRS
 Treasury, IRS issue guidance on special depreciation allowance for qualified production property, announce upcoming proposed regulations under the One, Big, Beautiful Bill
 https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-special-depreciation-allowance-for-qualified-production-property-announce-upcoming-proposed-regulations-under-the-one-big-beautiful-bill
 IR-2026-25, Feb. 20, 2026 — The Department of the Treasury and the Internal Revenue Service today provided interim guidance for taxpayers regarding the special depreciation allowance for qualified production property enacted under the One, Big, Beautiful Bill.
-------------------------------------------------------------
-Compliance Watch
-CDIA
-2026-02-20T00:00:00Z
-Education Services
-https://www.cdiaonline.org/education-services/
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -14874,13 +14861,6 @@ Mastercard
 ### Noah Kahan and Mastercard to premiere ‘The Great Divide’ music video and offer cardholders Priceless experiences January 29, 2026
 https://www.mastercard.com/us/en/news-and-trends/press/2026/january/noah-kahan-and-mastercard-to-premiere--the-great-divide--music-v.html
 ------------------------------------------------------------
-Compliance Watch
-ABA
-2026-02-17T00:00:00Z
-Incident Response
-https://www.aba.com/banking-topics/risk-management/incident-response
-Resources to help you prepare for and respond to a physical or cyber incident.
-------------------------------------------------------------
 Federal Register
 Federal Register
 2026-02-17T00:00:00Z
@@ -15149,12 +15129,6 @@ White House
 2026-02-11T20:04:28Z
 First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day
 https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/
-------------------------------------------------------------
-Executive
-White House
-2026-02-11T17:37:15Z
-ICYMI: “Violent crime plummets across major U.S. cities”
-https://www.whitehouse.gov/articles/2026/02/icymi-violent-crime-plummets-across-major-u-s-cities/
 ------------------------------------------------------------
 Executive
 White House
@@ -16117,12 +16091,6 @@ White House
 2026-02-03T21:42:14Z
 Congressional Bill H.R. 7148 Signed into Law
 https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bill-h-r-7148-signed-into-law/
-------------------------------------------------------------
-Executive
-White House
-2026-02-03T20:12:20Z
-Minnesota Democrats Protected This Violent Illegal Alien. The Trump Administration Is Deporting Him.
-https://www.whitehouse.gov/articles/2026/02/minnesota-democrats-protected-this-violent-illegal-alien-the-trump-administration-is-deporting-him/
 ------------------------------------------------------------
 Executive
 White House

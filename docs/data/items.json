@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-11T17:46:25Z",
-  "generated_at_ct": "2026-03-11T12:46:25-05:00",
+  "generated_at_utc": "2026-03-12T15:10:59Z",
+  "generated_at_ct": "2026-03-12T10:10:59-05:00",
   "items": [
     {
       "category": "OFAC",
@@ -842,14 +842,6 @@
       "published_at": "2026-02-26T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/payments/debit-cards",
       "summary": "Debit cards are a preferred payment method for consumers, and are now synonymous with banking."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Artificial Intelligence",
-      "published_at": "2026-02-26T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/technology/artificial-intelligence",
-      "summary": "Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI."
     },
     {
       "category": "Federal Register",
@@ -4085,14 +4077,6 @@
       "published_at": "2026-02-20T00:00:00Z",
       "url": "https://www.irs.gov/newsroom/treasury-irs-issue-guidance-on-special-depreciation-allowance-for-qualified-production-property-announce-upcoming-proposed-regulations-under-the-one-big-beautiful-bill",
       "summary": "IR-2026-25, Feb. 20, 2026 — The Department of the Treasury and the Internal Revenue Service today provided interim guidance for taxpayers regarding the special depreciation allowance for qualified production property enacted under the One, Big, Beautiful Bill."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "CDIA",
-      "title": "Education Services",
-      "published_at": "2026-02-20T00:00:00Z",
-      "url": "https://www.cdiaonline.org/education-services/",
-      "summary": ""
     },
     {
       "category": "Federal Register",
@@ -17252,14 +17236,6 @@
       "summary": ""
     },
     {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Incident Response",
-      "published_at": "2026-02-17T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/risk-management/incident-response",
-      "summary": "Resources to help you prepare for and respond to a physical or cyber incident."
-    },
-    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
@@ -17609,14 +17585,6 @@
       "title": "First Lady Melania Trump Visits Children with Rare and Serious Diseases at The Children’s Inn at NIH for Valentine’s Day",
       "published_at": "2026-02-11T20:04:28Z",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "ICYMI: “Violent crime plummets across major U.S. cities”",
-      "published_at": "2026-02-11T17:37:15Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/icymi-violent-crime-plummets-across-major-u-s-cities/",
       "summary": ""
     },
     {
@@ -18855,14 +18823,6 @@
       "title": "Congressional Bill H.R. 7148 Signed into Law",
       "published_at": "2026-02-03T21:42:14Z",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bill-h-r-7148-signed-into-law/",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "Minnesota Democrats Protected This Violent Illegal Alien. The Trump Administration Is Deporting Him.",
-      "published_at": "2026-02-03T20:12:20Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/minnesota-democrats-protected-this-violent-illegal-alien-the-trump-administration-is-deporting-him/",
       "summary": ""
     },
     {
