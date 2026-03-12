@@ -2698,8 +2698,66 @@ def wolterskluwer_news_links(page_url: str, html: str) -> List[Tuple[str, str, O
     return links[:MAX_LISTING_LINKS]
 
 
+def _discover_senate_banking_paged_links(
+    page_url: str,
+    first_html: str,
+    max_pages: int = 120,
+) -> List[Tuple[str, str, Optional[datetime]]]:
+    """Exhaustively walk Senate Banking majority/minority press-release pagination.
+
+    The site commonly uses PageNum_rs=N and may not expose a reliable "next" link in the HTML.
+    We stop when a page yields no new qualifying article links.
+    """
+    out: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    cur_url = canonical_url(page_url)
+    cur_html = first_html
+
+    for page_i in range(max_pages):
+        batch = senate_banking_links_single(cur_url, cur_html) or []
+        new_on_page = 0
+        for t, u, d in batch:
+            if not u or u in seen:
+                continue
+            seen.add(u)
+            out.append((t, u, d))
+            new_on_page += 1
+            if len(out) >= MAX_LISTING_LINKS:
+                return out[:MAX_LISTING_LINKS]
+
+        if new_on_page == 0:
+            break
+
+        next_url = _next_page_url_source_fallback("Senate Banking", cur_url, cur_html, page_i)
+        if not next_url or canonical_url(next_url) == canonical_url(cur_url):
+            break
+
+        nxt_html = polite_get(next_url)
+        if not nxt_html:
+            break
+
+        cur_url, cur_html = next_url, nxt_html
+
+    return out
+
+
 def senate_banking_links(page_url: str, html: str, window_start: Optional[datetime]) -> List[Tuple[str, str, Optional[datetime]]]:
     links = _paginate_listing("Senate Banking", page_url, html, window_start, senate_banking_links_single)
+
+    # Majority/minority press-release archives often hide pager controls.
+    # Walk PageNum_rs pages directly so we do not miss articles because of pagination.
+    page_url_l = (page_url or "").lower()
+    if ("/newsroom/majority-press-releases" in page_url_l) or ("/newsroom/minority-press-releases" in page_url_l):
+        seen = {u for _t, u, _d in links}
+        for t, u, d in _discover_senate_banking_paged_links(page_url, html):
+            if u in seen:
+                continue
+            seen.add(u)
+            links.append((t, u, d))
+            if len(links) >= MAX_LISTING_LINKS:
+                break
+
     # The Senate Banking newsroom landing page now exposes only a small handful of recent items,
     # which can leave a full prior-month run empty. Fall back to sitemap discovery for this source only.
     if len(links) < 12:
@@ -2734,6 +2792,8 @@ def senate_banking_links_single(page_url: str, html: str) -> List[Tuple[str, str
         if not (
             "/newsroom/majority-press-releases/" in href_l
             or "/newsroom/minority-press-releases/" in href_l
+            or "/newsroom/majority/" in href_l
+            or "/newsroom/minority/" in href_l
             or re.search(r"/newsroom/\d{2}/\d{2}/\d{4}/", href_l)
             or href_l.startswith("/news/")
         ):
@@ -4091,9 +4151,10 @@ def get_start_pages() -> List[SourcePage]:
         SourcePage("Freddie Mac", "https://www.globenewswire.com/search/organization/Freddie%20Mac"),
         
         # Legislative / exec
-        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom"),
-        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/majority"),
-        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/minority"),
+        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/"),
+        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/majority-press-releases"),
+        SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom/minority-press-releases"),
+	SourcePage("Senate Banking", "https://www.banking.senate.gov/newsroom"),
         SourcePage("House Financial Services", "https://financialservices.house.gov/news/"),
         SourcePage("White House", "https://www.whitehouse.gov/news/"),
         SourcePage("White House", "https://www.whitehouse.gov/presidential-actions/"),

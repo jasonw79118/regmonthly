@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-12T10:10:59-05:00` (CT) — `2026-03-12T15:10:59Z` (UTC)
+Last updated: `2026-03-12T11:41:54-05:00` (CT) — `2026-03-12T16:41:54Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -565,6 +565,24 @@ Find current and past news releases about Chief Counsel's frequently asked quest
 - Published: 2026-02-27T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-09
 
+## Warren Statement on Trump Administration’s Labeling American Company a Supply Chain Risk
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-27T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-administrations-labeling-american-company-a-supply-chain-risk
+
+## Warren, Van Hollen, Merkley, Shaheen, Luján, Kim, and Wyden: Treasury Fails to Answer Why Trump Administration Made It Easier for Drug Cartels to Launder Millions
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-27T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-van-hollen-merkley-shaheen-lujan-kim-and-wyden-treasury-fails-to-answer-why-trump-administration-made-it-easier-for-drug-cartels-to-launder-millions
+
+## Van Hollen, Banking Committee Democrats Press Bondi and Bessent to Investigate Binance Following Reports of Flouting Sanctions, US Law
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-27T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/van-hollen-banking-committee-democrats-press-bondi-and-bessent-to-investigate-binance-following-reports-of-flouting-sanctions-us-law
+
 ## Commercial & Industrial Loans
 - Source: ABA
 - Category: Compliance Watch
@@ -779,6 +797,42 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-02-26T00:00:00Z
 - URL: https://www.globenewswire.com/news-release/2026/02/26/3245903/0/en/Mortgage-Rates-Drop-Below-6-for-the-First-Time-in-3-5-Years.html
 
+## Chairman Scott Highlights End of Debanking, Calls for Balanced Bank Regulation
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-26T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/majority/chairman-scott-highlights-end-of-debanking-calls-for-balanced-bank-regulation
+
+## At Hearing, Warren Presses Trump Regulators on Wall Street-First Agenda and Trump Crypto Corruption Amid Affordability Crisis
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-26T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/at-hearing-warren-presses-trump-regulators-on-wall-street-first-agenda-and-trump-crypto-corruption-amid-affordability-crisis
+
+## At Hearing, OCC Comptroller Gould Says He Will Consider Warren Request to Review World Liberty Financial Bank Application
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-26T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/at-hearing-occ-comptroller-gould-says-he-will-consider-warren-request-to-review-world-liberty-financial-bank-application
+
+## Warren Launches New Probe into Trump Failure on Affordability
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-26T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-launches-new-probe-into-trump-failure-on-affordability
+
+## Warren Highlights Failure of Trump Regulators to Hold Epstein-Connected Bankers Accountable
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-26T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-highlights-failure-of-trump-regulators-to-hold-epstein-connected-bankers-accountable
+
+## Ahead of Hearing, Warren Probes Suspicious Approval of Bank Charter for Trump's Billionaire Friends in Silicon Valley
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-26T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/ahead-of-hearing-warren-probes-suspicious-approval-of-bank-charter-for-trumps-billionaire-friends-in-silicon-valley
+
 ## Chairman Hill on Thune Filing Cloture on Housing for the 21st Century Act
 - Source: House Financial Services
 - Category: Legislative
@@ -944,6 +998,18 @@ Information published.
 - Category: Mortgage
 - Published: 2026-02-25T00:00:00Z
 - URL: https://www.globenewswire.com/news-release/2026/02/25/3245075/0/en/Freddie-Mac-Issues-Monthly-Volume-Summary-for-January-2026.html
+
+## Ahead of Hearing, Senate Democrats Press Banking Regulators on Civil Rights Safeguards for American Borrowers
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-25T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/ahead-of-hearing-senate-democrats-press-banking-regulators-on-civil-rights-safeguards-for-american-borrowers
+
+## Warren, Kim Statement on Reports Secretary Hegseth May Use DPA to Force American Company to Remove Guardrails on AI Models
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-25T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-kim-statement-on-reports-secretary-hegseth-may-use-dpa-to-force-american-company-to-remove-guardrails-on-ai-models
 
 ## Beating the Deadline for Continuing Education Credits Yields a Nice Reward
 - Source: NACHA
@@ -1235,6 +1301,24 @@ The FDIC today published a list of orders of administrative enforcement actions 
 
 The FDIC today approved a deposit insurance application to establish Erebor Bank, N.A. (Erebor Bank), a newly chartered national bank to be headquartered..
 
+## On Fourth Anniversary of Putin’s Full-Scale War, New Banking Committee Analysis Highlights Range of Targets Left Unsanctioned by Trump Administration
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-24T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/on-fourth-anniversary-of-putins-full-scale-war-new-banking-committee-analysis-highlights-range-of-targets-left-unsanctioned-by-trump-administration
+
+## ALSOBROOKS, WARREN, WYDEN, SCHUMER, COLLEAGUES BLAST WHITE HOUSE FOR FED INTERFERENCE, HIDING THE COST OF TARIFFS
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-24T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/alsobrooks-warren-wyden-schumer-colleagues-blast-white-house-for-fed-interference-hiding-the-cost-of-tariffs
+
+## Senate Democrats Introduce The American Homeownership Act To Stop Wall Street’s Housing Grab and Get Homes Back into the Hands of Families
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-24T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/senate-democrats-introduce-the-american-homeownership-act-to-stop-wall-streets-housing-grab-and-get-homes-back-into-the-hands-of-families
+
 ## VIDEO: Delivering for America: Strengthening the Economy, Expanding Opportunity
 - Source: House Financial Services
 - Category: Legislative
@@ -1326,6 +1410,12 @@ The United States Department of Agriculture’s Farmer Bridge Assistance program
 - URL: https://www.fanniemae.com/newsroom/fannie-mae-news/tender-offer-any-all-certain-cas-notes-feb-2026
 
 Fannie Mae announced that it has commenced fixed-price cash tender offers for the purchase of certain of its Connecticut Avenue Securities® (CAS) Notes.
+
+## Warren in Fox News: Trump’s Broken Promise on Credit Cards
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-23T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-in-fox-news-trumps-broken-promise-on-credit-cards
 
 ## There Will be No Dikkering Around When Scott Dikkers Speaks at Payments
 - Source: NACHA
@@ -3843,6 +3933,18 @@ Updated CWE value. This is an informational change only.
 
 IR-2026-25, Feb. 20, 2026 — The Department of the Treasury and the Internal Revenue Service today provided interim guidance for taxpayers regarding the special depreciation allowance for qualified production property enacted under the One, Big, Beautiful Bill.
 
+## Warren Response to Trump Press Conference on Chaotic Tariffs
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-20T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-response-to-trump-press-conference-on-chaotic-tariffs
+
+## Warren Statement on Supreme Court Trump Tariffs Ruling
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-20T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-supreme-court-trump-tariffs-ruling
+
 ## Privacy Act of 1974; System of Records
 - Source: Federal Register
 - Category: Federal Register
@@ -3998,6 +4100,24 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Category: Mortgage
 - Published: 2026-02-19T00:00:00Z
 - URL: https://www.globenewswire.com/news-release/2026/02/19/3241388/0/en/Average-30-Year-Fixed-Rate-Mortgage-Hits-Another-Low.html
+
+## Warren Presses Treasury Secretary Bessent and Fed Chair Powell to Rule Out Taxpayer-Funded Bailout for Cryptocurrency Billionaires
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-19T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-presses-treasury-secretary-bessent-and-fed-chair-powell-to-rule-out-taxpayer-funded-bailout-for-cryptocurrency-billionaires
+
+## Warren, Gallego, Colleagues Push Fed Vice Chair Bowman on Troubling Leadership of Fed’s Supervision and Regulation Division
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-19T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-gallego-colleagues-push-fed-vice-chair-bowman-on-troubling-leadership-of-feds-supervision-and-regulation-division
+
+## Warren Statement on Turmoil in Private Credit Market
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-19T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-turmoil-in-private-credit-market
 
 ## HEARINGS NOTICE: House Financial Services Committee Schedule for March 2026
 - Source: House Financial Services
@@ -16837,6 +16957,18 @@ The Federal Reserve Board of Governors in Washington DC.
 - Published: 2026-02-18T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-07
 
+## Warren Calls Jamie Dimon's Bluff on Credit Card Affordability, Asks Him to Publicly Support Bill Allowing States to Impose Interest Rate Caps
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-18T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-calls-jamie-dimons-bluff-on-credit-card-affordability-asks-him-to-publicly-support-bill-allowing-states-to-impose-interest-rate-caps
+
+## Warren Raises Concerns With Neptune's Private Flood Insurance Business Model as Insurance Costs Soar for Americans
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-18T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-raises-concerns-with-neptunes-private-flood-insurance-business-model-as-insurance-costs-soar-for-americans
+
 ## ### Cloudflare and Mastercard partner to extend comprehensive cyber defense across critical infrastructure and small businesses February 17, 2026
 - Source: Mastercard
 - Category: Payment Card Networks
@@ -16912,6 +17044,12 @@ Improper authentication in Windows Admin Center allows an authorized attacker to
 - URL: https://www.fanniemae.com/data-and-insights
 
 Fannie Mae’s market intelligence helps you understand changes in the housing and economic environment today and what it might signal for tomorrow.
+
+## Warren Joins Cotton on Bill to Prevent Diversion of Advanced AI Chips to China
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-17T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-joins-cotton-on-bill-to-prevent-diversion-of-advanced-ai-chips-to-china
 
 ## ### Noah Kahan and Mastercard to premiere ‘The Great Divide’ music video and offer cardholders Priceless experiences January 29, 2026
 - Source: Mastercard
@@ -17043,6 +17181,12 @@ Relief Reduces Burdensome and Duplicative Regulatory Requirement
 
 IR-2026-24, Feb. 13, 2026 — With the 2026 filing season underway and increased call-center demand around the Presidents Day holiday on Feb. 16, the Internal Revenue Service encourages taxpayers to visit Let Us Help You on IRS.gov and use online tools to get fast, convenient help without waiting on hold.
 
+## Senator Warren Statement on January 2026 CPI
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-13T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-january-2026-cpi
+
 ## 60-Day Notice of Proposed Information Collection: Housing Choice Voucher Program and Tribal HUD-VASH
 - Source: Federal Register
 - Category: Federal Register
@@ -17141,6 +17285,24 @@ IR-2026-23, Feb. 12, 2026 — The Department of the Treasury and the Internal Re
 - Published: 2026-02-12T00:00:00Z
 - URL: https://www.globenewswire.com/news-release/2026/02/12/3237170/0/en/Freddie-Mac-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html
 
+## Chairman Scott Charts Path Forward on Digital Assets and Capital Formation at Hearing with SEC Chair
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-12T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/majority/chairman-scott-charts-path-forward-on-digital-assets-and-capital-formation-at-hearing-with-sec-chair
+
+## At Hearing with SEC Chair Atkins, Warren Calls Out Trump Administration for Corruption As It Drops Cases Against Corporate Crooks
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-12T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/at-hearing-with-sec-chair-atkins-warren-calls-out-trump-administration-for-corruption-as-it-drops-cases-against-corporate-crooks
+
+## Ahead of Hearing, Warren Presses SEC Chair Paul Atkins on Implementation of Trump Executive Order To Weaken Shareholder Rights
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-12T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/ahead-of-hearing-warren-presses-sec-chair-paul-atkins-on-implementation-of-trump-executive-order-to-weaken-shareholder-rights
+
 ## Chairmen Hill, Meuser, Flood Raise Concerns with HUD About Public Housing Authorities
 - Source: House Financial Services
 - Category: Legislative
@@ -17205,6 +17367,12 @@ SAN FRANCISCO --(BUSINESS WIRE)--Feb. 11, 2026-- Visa (NYSE: V) today announced 
 - Published: 2026-02-11T20:04:28Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-visits-children-with-rare-and-serious-diseases-at-the-childrens-inn-at-nih-for-valentines-day/
 
+## ICYMI: “Violent crime plummets across major U.S. cities”
+- Source: White House
+- Category: Executive
+- Published: 2026-02-11T17:37:15Z
+- URL: https://www.whitehouse.gov/articles/2026/02/icymi-violent-crime-plummets-across-major-u-s-cities/
+
 ## America 250: Presidential Message on the Birthday of Thomas Edison
 - Source: White House
 - Category: Executive
@@ -17262,6 +17430,30 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Category: Mortgage
 - Published: 2026-02-11T00:00:00Z
 - URL: https://www.fanniemae.com/newsroom/fannie-mae-news/scheduled-release-fourth-quarter-full-year-2025-financial-results
+
+## Warren, Warner Press Commerce Secretary Lutnick on Reportedly Pushing Out Key Officials Working to Counter Cyber Threats Posed by China
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-11T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-warner-press-commerce-secretary-lutnick-on-reportedly-pushing-out-key-officials-working-to-counter-cyber-threats-posed-by-china
+
+## Following Push from Warren Oversight, Majority of Sports Gambling Market Will Restrict Credit Card Companies From Ripping Off Americans
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-11T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/following-push-from-warren-oversight-majority-of-sports-gambling-market-will-restrict-credit-card-companies-from-ripping-off-americans
+
+## In Responses to Warren, Trump CYBERCOM and NSA Nominee Warns About China Seeking Advanced American AI Chips
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-11T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/in-responses-to-warren-trump-cybercom-and-nsa-nominee-warns-about-china-seeking-advanced-american-ai-chips
+
+## Senator Warren Statement on January 2026 Jobs Report
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-11T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-january-2026-jobs-report
 
 ## Chairman Hill: The SEC's Actions Align With Committee Republicans’ Commitment To Foster Efficient, Transparent, And Innovation-Friendly Markets
 - Source: House Financial Services
@@ -17815,12 +18007,6 @@ Added Affected Software for Windows packages
 - Published: 2026-02-10T00:00:00Z
 - URL: https://www.globenewswire.com/news-release/2026/02/10/3235794/0/en/Freddie-Mac-Announces-Release-Date-for-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html
 
-## Committee Seeks Answers on Living Conditions and Management at 32 Troubled Public Housing Agencies
-- Source: House Financial Services
-- Category: Legislative
-- Published: 2026-02-10T00:00:00Z
-- URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411012
-
 ## Inaugural National Nacha Accreditation Day Honors Nearly 6,000 Payments Professionals
 - Source: NACHA
 - Category: Payments
@@ -17872,6 +18058,30 @@ The Texas Bankers Hall of Fame will induct its 2026 honorees at the 13thAnnual T
 - URL: https://www.irs.gov/newsroom/irs-announces-next-expansion-of-tax-pro-account-to-support-tax-professional-businesses
 
 IR-2026-22, Feb. 9, 2026 — The Internal Revenue Service today announced a new expansion of Tax Pro Account, introducing business-level digital capabilities for tax professionals who work in tax-preparation companies, accounting firms, or other organizations.
+
+## Warren, Schumer, Waters Lead Nearly 200 Members of Congress in Amicus Brief Challenging the Trump Administration's Illegal Efforts to Dismantle the CFPB
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-09T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-schumer-waters-lead-nearly-200-members-of-congress-in-amicus-brief-challenging-the-trump-administrations-illegal-efforts-to-dismantle-the-cfpb
+
+## Statement by Senator Warren on Recent Crypto Volatility
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-09T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/statement-by-senator-warren-on-recent-crypto-volatility
+
+## New Report Finds Trump's Attack on the CFPB Has Cost Americans $19 Billion in One Year Alone
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-09T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/new-report-finds-trumps-attack-on-the-cfpb-has-cost-americans-19-billion-in-one-year-alone
+
+## In Response to Warren, Kim, Waters Request, Independent Congressional Watchdog Releases Initial Report on Trump Administration's Dismantling of the Consumer Financial Protection Bureau
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-09T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/in-response-to-warren-kim-waters-request-independent-congressional-watchdog-releases-initial-report-on-trump-administrations-dismantling-of-the-consumer-financial-protection-bureau
 
 ## Nacha Announces Board of Directors for 2026
 - Source: NACHA
@@ -18027,6 +18237,24 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Published: 2026-02-06T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260206
 
+## Warren Presses Trump On Involvement in Powell, Cook Investigations Following Bessent Assertion to Warren that DOJ Investigations are “Up to the President”
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-06T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-presses-trump-on-involvement-in-powell-cook-investigations-following-bessent-assertion-to-warren-that-doj-investigations-are-up-to-the-president
+
+## Ahead of Super Bowl, Warren Warns of Credit Card Junk Fees on Sports Bets and Requests Data from Sports Betting Companies
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-06T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/ahead-of-super-bowl-warren-warns-of-credit-card-junk-fees-on-sports-bets-and-requests-data-from-sports-betting-companies
+
+## Warren, Reed, Van Hollen, Whitehouse, Blumenthal Call On OCC and FDIC to Rescind Safety and Soundness Proposal That Would Loosen Bank Oversight and Threaten American Families
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-06T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-reed-van-hollen-whitehouse-blumenthal-call-on-occ-and-fdic-to-rescind-safety-and-soundness-proposal-that-would-loosen-bank-oversight-and-threaten-american-families
+
 ## In Case You Missed It
 - Source: House Financial Services
 - Category: Legislative
@@ -18143,6 +18371,48 @@ User interface (ui) misrepresentation of critical information in Microsoft Edge 
 - Published: 2026-02-05T00:00:00Z
 - URL: https://www.globenewswire.com/news-release/2026/02/05/3233311/0/en/Mortgage-Rates-Continue-to-Show-Stability-Hovering-Near-6.html
 
+## Chairman Scott, Treasury Secretary Bessent Discuss Affordability at Annual Report Hearing
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-05T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/majority/chairman-scott-treasury-secretary-bessent-discuss-affordability-at-annual-report-hearing
+
+## Warren, Van Hollen, Kim, and Slotkin Push for Vote on Senate Floor to Condemn Trump Chip Sales to UAE and Call for Reversal of Deal
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-05T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-van-hollen-kim-and-slotkin-push-for-vote-on-senate-floor-to-condemn-trump-chip-sales-to-uae-and-call-for-reversal-of-deal
+
+## At Hearing, Warren Calls Out Bessent for Denying Basic Facts About Affordability
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-05T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/at-hearing-warren-calls-out-bessent-for-denying-basic-facts-about-affordability
+
+## With Trump Sidelining CFPB, Warren Launches Probe into the Auto Lending Industry as Car Repossessions Skyrocket
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-05T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/with-trump-sidelining-cfpb-warren-launches-probe-into-the-auto-lending-industry-as-car-repossessions-skyrocket
+
+## Ahead of Bessent Hearing, Warren Presses Trump Administration to Monitor and Address Risks Posed by K-Shaped Economy
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-05T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/ahead-of-bessent-hearing-warren-presses-trump-administration-to-monitor-and-address-risks-posed-by-k-shaped-economy
+
+## Ahead of Hearing, Warren Presses Bessent to Terminate $20 Billion Line of Credit for Argentina's Government
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-05T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/ahead-of-hearing-warren-presses-bessent-to-terminate-20-billion-line-of-credit-for-argentinas-government
+
+## At Hearing, Bessent Admits to Warren That It's "Up to President Trump" Whether the DOJ Decides to Sue or Investigate Warsh If He Fails to Follow Trump's Direction at the Fed
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-05T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/at-hearing-bessent-admits-to-warren-that-its-up-to-president-trump-whether-the-doj-decides-to-sue-or-investigate-warsh-if-he-fails-to-follow-trumps-direction-at-the-fed
+
 ## Phixius by Nacha and Kinexys by J.P. Morgan Integration Goes Live, Expanding Multi-Responder Account Validation Network
 - Source: NACHA
 - Category: Payments
@@ -18213,6 +18483,18 @@ Federal Reserve Board finalizes hypothetical scenarios for its annual stress tes
 
 Fannie Mae Expands U.S. Rental Housing Supply Through Nearly $74 Billion in Multifamily Loan Production Volume in 2025
 
+## ICYMI: Chairman Scott Highlights Affordability Agenda, ROAD to Housing Act, and Previews Banking Committee Hearing with Treasury Secretary Bessent
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-04T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/majority/icymi-chairman-scott-highlights-affordability-agenda-road-to-housing-act-and-previews-banking-committee-hearing-with-treasury-secretary-bessent
+
+## Warnock, Warren, Senate Democrats Urge Vought to Rescind CFPB's Proposal to Gut Civil Rights Protections in Lending
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-04T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warnock-warren-senate-democrats-urge-vought-to-rescind-cfpbs-proposal-to-gut-civil-rights-protections-in-lending
+
 ## Nacha’s Payments Innovation Alliance Announces 2026-2027 Advisory Committee
 - Source: NACHA
 - Category: Payments
@@ -18246,6 +18528,12 @@ The Office of Personnel Management (OPM) proposes to amend its retirement regula
 - Category: Executive
 - Published: 2026-02-03T21:42:14Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/02/congressional-bill-h-r-7148-signed-into-law/
+
+## Minnesota Democrats Protected This Violent Illegal Alien. The Trump Administration Is Deporting Him.
+- Source: White House
+- Category: Executive
+- Published: 2026-02-03T20:12:20Z
+- URL: https://www.whitehouse.gov/articles/2026/02/minnesota-democrats-protected-this-violent-illegal-alien-the-trump-administration-is-deporting-him/
 
 ## National Black History Month, 2026
 - Source: White House
@@ -18282,6 +18570,24 @@ IR-2026-21, Feb. 3, 2026 — The IRS encourages all taxpayers to create an IRS I
 - URL: https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-on-the-clean-fuel-production-credit-under-the-one-big-beautiful-bill
 
 IR-2026-20, Feb. 3, 2026 — The Department of the Treasury and the Internal Revenue Service today issued proposed regulations for domestic producers of clean transportation fuel to determine their eligibility for and calculate the clean fuel production credit under the One, Big, Beautiful Bill.
+
+## All Banking Committee Democrats Demand Chairman Scott Delay Warsh Nomination Hearing Until Sham Investigations Against Fed Board Members are Closed
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-03T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/all-banking-committee-democrats-demand-chairman-scott-delay-warsh-nomination-hearing-until-sham-investigations-against-fed-board-members-are-closed
+
+## Senator Warren to Trump Administration: Release January Jobs Report As Soon as Possible
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-03T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/senator-warren-to-trump-administration-release-january-jobs-report-as-soon-as-possible
+
+## Warren, Kim Press Key Commerce Department Official on Continuing Financial Conflicts of Interest and Failure to Divest
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-02-03T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-kim-press-key-commerce-department-official-on-continuing-financial-conflicts-of-interest-and-failure-to-divest
 
 ## January Deep Freeze Impacts Small Business Foot Traffic, New Fiserv Data Shows
 - Source: Fiserv
@@ -18323,17 +18629,17 @@ The Surface Transportation Board (Board) recently completed a reorganization in 
 - Published: 2026-02-02T20:55:53Z
 - URL: https://www.whitehouse.gov/articles/2026/02/americans-overwhelmingly-support-deporting-criminal-illegals-local-cooperation-with-ice/
 
-## Treasury Announces Marketable Borrowing Estimates
-- Source: Treasury
-- Category: OFAC
-- Published: 2026-02-02T20:00:00Z
-- URL: https://home.treasury.gov/news/press-releases/sb0377
-
 ## Economy Statement for the Treasury Borrowing Advisory Committee
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-02-02T20:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0376
+
+## Treasury Announces Marketable Borrowing Estimates
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-02-02T20:00:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0377
 
 ## Rents Hit Four-Year Low as President Trump Continues Affordability Push
 - Source: White House
