@@ -3464,12 +3464,6 @@ Updated CWE value. This is an informational change only.
 ------------------------------------------------------------
 Executive
 White House
-2026-02-20T06:09:24Z
-U.S. Promotes AI Adoption, Sovereignty, and Exports at India AI Impact Summit
-https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/
-------------------------------------------------------------
-Executive
-White House
 2026-02-20T06:05:38Z
 Remarks by Director Michael Kratsios at the India AI Impact Summit
 https://www.whitehouse.gov/articles/2026/02/remarks-by-director-michael-kratsios-at-the-india-ai-impact-summit/

@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-12T16:41:54Z",
-  "generated_at_ct": "2026-03-12T11:41:54-05:00",
+  "generated_at_utc": "2026-03-12T20:29:49Z",
+  "generated_at_ct": "2026-03-12T15:29:49-05:00",
   "items": [
     {
       "category": "OFAC",
@@ -4165,14 +4165,6 @@
       "published_at": "2026-02-20T16:00:00Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-65046",
       "summary": "Updated CWE value. This is an informational change only."
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "U.S. Promotes AI Adoption, Sovereignty, and Exports at India AI Impact Summit",
-      "published_at": "2026-02-20T06:09:24Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/",
-      "summary": ""
     },
     {
       "category": "Executive",

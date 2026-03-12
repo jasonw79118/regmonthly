@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-12T11:41:54-05:00` (CT) — `2026-03-12T16:41:54Z` (UTC)
+Last updated: `2026-03-12T15:29:49-05:00` (CT) — `2026-03-12T20:29:49Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -3906,12 +3906,6 @@ Updated CWE value. This is an informational change only.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-65046
 
 Updated CWE value. This is an informational change only.
-
-## U.S. Promotes AI Adoption, Sovereignty, and Exports at India AI Impact Summit
-- Source: White House
-- Category: Executive
-- Published: 2026-02-20T06:09:24Z
-- URL: https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/
 
 ## Remarks by Director Michael Kratsios at the India AI Impact Summit
 - Source: White House
