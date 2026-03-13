@@ -873,12 +873,6 @@ https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-real-r
 ------------------------------------------------------------
 Executive
 White House
-2026-02-25T02:20:04Z
-President Trump Is Restoring the American Dream
-https://www.whitehouse.gov/articles/2026/02/president-trump-is-restoring-the-american-dream/
-------------------------------------------------------------
-Executive
-White House
 2026-02-25T02:16:50Z
 President Trump Is Securing Our Homeland: Ending the Invasion, Deporting Criminals, and Protecting Our Communities
 https://www.whitehouse.gov/articles/2026/02/president-trump-is-securing-our-homeland-ending-the-invasion-deporting-criminals-and-protecting-our-communities/
@@ -3461,6 +3455,12 @@ Microsoft MSRC
 CVE-2025-65046 Microsoft Edge (Chromium-based) Spoofing Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-65046
 Updated CWE value. This is an informational change only.
+------------------------------------------------------------
+Executive
+White House
+2026-02-20T06:09:24Z
+U.S. Promotes AI Adoption, Sovereignty, and Exports at India AI Impact Summit
+https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/
 ------------------------------------------------------------
 Executive
 White House
@@ -15374,18 +15374,6 @@ House Financial Services
 2026-02-11T00:00:00Z
 Chairman Hill: The SEC's Actions Align With Committee Republicans’ Commitment To Foster Efficient, Transparent, And Innovation-Friendly Markets
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411016
-------------------------------------------------------------
-Legislative
-House Financial Services
-2026-02-11T00:00:00Z
-Flood: My Hope Is That All Members Of This Subcommittee Will Be Better Served By An In-Depth Discussion Of How The Secondary Mortgage Market Works
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411026
-------------------------------------------------------------
-Legislative
-House Financial Services
-2026-02-11T00:00:00Z
-Full Committee Discusses the Securities and Exchange Commission Agenda under Chairman Paul Atkins
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411027
 ------------------------------------------------------------
 Payments
 NACHA

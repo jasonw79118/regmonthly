@@ -1,8 +1,8 @@
 {
   "window_start": "2026-02-01T06:00:00Z",
   "window_end": "2026-03-01T05:59:59Z",
-  "generated_at_utc": "2026-03-12T20:29:49Z",
-  "generated_at_ct": "2026-03-12T15:29:49-05:00",
+  "generated_at_utc": "2026-03-13T14:57:17Z",
+  "generated_at_ct": "2026-03-13T09:57:17-05:00",
   "items": [
     {
       "category": "OFAC",
@@ -1061,14 +1061,6 @@
       "title": "President Trump Is Delivering Real Relief — Reversing Biden’s Economic Disaster and Unleashing Greater Prosperity Ahead",
       "published_at": "2026-02-25T02:37:10Z",
       "url": "https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-real-relief-reversing-bidens-economic-disaster-and-unleashing-greater-prosperity-ahead/",
-      "summary": ""
-    },
-    {
-      "category": "Executive",
-      "source": "White House",
-      "title": "President Trump Is Restoring the American Dream",
-      "published_at": "2026-02-25T02:20:04Z",
-      "url": "https://www.whitehouse.gov/articles/2026/02/president-trump-is-restoring-the-american-dream/",
       "summary": ""
     },
     {
@@ -4165,6 +4157,14 @@
       "published_at": "2026-02-20T16:00:00Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-65046",
       "summary": "Updated CWE value. This is an informational change only."
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "U.S. Promotes AI Adoption, Sovereignty, and Exports at India AI Impact Summit",
+      "published_at": "2026-02-20T06:09:24Z",
+      "url": "https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/",
+      "summary": ""
     },
     {
       "category": "Executive",
@@ -17905,22 +17905,6 @@
       "title": "Chairman Hill: The SEC's Actions Align With Committee Republicans’ Commitment To Foster Efficient, Transparent, And Innovation-Friendly Markets",
       "published_at": "2026-02-11T00:00:00Z",
       "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411016",
-      "summary": ""
-    },
-    {
-      "category": "Legislative",
-      "source": "House Financial Services",
-      "title": "Flood: My Hope Is That All Members Of This Subcommittee Will Be Better Served By An In-Depth Discussion Of How The Secondary Mortgage Market Works",
-      "published_at": "2026-02-11T00:00:00Z",
-      "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411026",
-      "summary": ""
-    },
-    {
-      "category": "Legislative",
-      "source": "House Financial Services",
-      "title": "Full Committee Discusses the Securities and Exchange Commission Agenda under Chairman Paul Atkins",
-      "published_at": "2026-02-11T00:00:00Z",
-      "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411027",
       "summary": ""
     },
     {

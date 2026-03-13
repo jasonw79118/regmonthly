@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-02-01T06:00:00Z` → `2026-03-01T05:59:59Z` (UTC)
-Last updated: `2026-03-12T15:29:49-05:00` (CT) — `2026-03-12T20:29:49Z` (UTC)
+Last updated: `2026-03-13T09:57:17-05:00` (CT) — `2026-03-13T14:57:17Z` (UTC)
 
 ## FinCEN Announces Postponement of Residential Real Estate Reporting Until March 1, 2026
 - Source: FinCEN
@@ -974,12 +974,6 @@ Information published.
 - Category: Executive
 - Published: 2026-02-25T02:37:10Z
 - URL: https://www.whitehouse.gov/articles/2026/02/president-trump-is-delivering-real-relief-reversing-bidens-economic-disaster-and-unleashing-greater-prosperity-ahead/
-
-## President Trump Is Restoring the American Dream
-- Source: White House
-- Category: Executive
-- Published: 2026-02-25T02:20:04Z
-- URL: https://www.whitehouse.gov/articles/2026/02/president-trump-is-restoring-the-american-dream/
 
 ## President Trump Is Securing Our Homeland: Ending the Invasion, Deporting Criminals, and Protecting Our Communities
 - Source: White House
@@ -3906,6 +3900,12 @@ Updated CWE value. This is an informational change only.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-65046
 
 Updated CWE value. This is an informational change only.
+
+## U.S. Promotes AI Adoption, Sovereignty, and Exports at India AI Impact Summit
+- Source: White House
+- Category: Executive
+- Published: 2026-02-20T06:09:24Z
+- URL: https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/
 
 ## Remarks by Director Michael Kratsios at the India AI Impact Summit
 - Source: White House
@@ -17454,18 +17454,6 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Category: Legislative
 - Published: 2026-02-11T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411016
-
-## Flood: My Hope Is That All Members Of This Subcommittee Will Be Better Served By An In-Depth Discussion Of How The Secondary Mortgage Market Works
-- Source: House Financial Services
-- Category: Legislative
-- Published: 2026-02-11T00:00:00Z
-- URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411026
-
-## Full Committee Discusses the Securities and Exchange Commission Agenda under Chairman Paul Atkins
-- Source: House Financial Services
-- Category: Legislative
-- Published: 2026-02-11T00:00:00Z
-- URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411027
 
 ## How the Industry Is Adapting to Nacha’s New Risk Management Rules
 - Source: NACHA
