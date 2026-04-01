@@ -2519,38 +2519,40 @@ def mastercard_date_from_url(url: str) -> Optional[datetime]:
         return None
 
 def _mastercard_links_from_text(page_url: str, text: str) -> List[Tuple[str, str, Optional[datetime]]]:
-    """Mastercard fallback: parse proxy/reader text that often contains markdown links.
+    """Mastercard fallback: parse proxy/reader text when HTML cards/anchors are thin.
 
-    We try to extract a date from the *local* context around each link (same line / nearby text),
-    falling back to date-in-URL when present.
+    This supports both markdown-style links returned by reader/proxy paths and raw
+    mastercard.com URLs embedded in text blobs. Dates are taken from nearby text when
+    available, then from the URL path as a last resort.
     """
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen: set[str] = set()
     blob = text or ""
+
+    def _add(title: str, url: str, dt: Optional[datetime]) -> None:
+        nonlocal links, seen
+        if not url or url in seen:
+            return
+        if not allowed_for_source("Mastercard", url):
+            return
+        if not MASTERCARD_PR_PATH_RE.match(urlparse(url).path):
+            return
+        if is_probably_nav_link("Mastercard", title, url):
+            return
+        if is_generic_listing_or_home("Mastercard", title, url):
+            return
+        seen.add(url)
+        links.append((title, url, dt))
 
     for m in MC_MARKDOWN_LINK_RE.finditer(blob):
         title = clean_text(m.group(1), 220)
         url = canonical_url(m.group(2))
         if not url:
             continue
-        if not allowed_for_source("Mastercard", url):
-            continue
-        if not MASTERCARD_PR_PATH_RE.match(urlparse(url).path):
-            continue
-        if is_probably_nav_link("Mastercard", title, url):
-            continue
-        if is_generic_listing_or_home("Mastercard", title, url):
-            continue
-        if url in seen:
-            continue
-        seen.add(url)
 
-        # Look near the link for an explicit date (often: "February 12, 2026" on the same line).
         i0, i1 = m.span()
         ctx = blob[max(0, i0 - 260) : min(len(blob), i1 + 80)]
         dt = extract_any_date(ctx, source="Mastercard")
-
-        # If still missing, try the full line containing the link.
         if dt is None:
             line_start = blob.rfind("\n", 0, i0) + 1
             line_end = blob.find("\n", i1)
@@ -2558,35 +2560,31 @@ def _mastercard_links_from_text(page_url: str, text: str) -> List[Tuple[str, str
                 line_end = len(blob)
             line = blob[line_start:line_end]
             dt = extract_any_date(line, source="Mastercard")
-
-        # Last resort: infer from URL if it contains a recognizable date.
         if dt is None:
             dt = mastercard_date_from_url(url)
 
-        links.append((title, url, dt))
+        _add(title, url, dt)
         if len(links) >= MAX_LISTING_LINKS:
-            break
+            return links
 
-    return links
-
-    raw_url_re = re.compile(r"(https?://www\.mastercard\.com/[^\s\"')<>]+)", re.I)
-    for m in raw_url_re.finditer(text or ""):
+    raw_url_re = re.compile(r'(https?://www\.mastercard\.com/[^\s"\')<>]+)', re.I)
+    for m in raw_url_re.finditer(blob):
         url = canonical_url(m.group(1))
         if not url:
             continue
-        if not allowed_for_source("Mastercard", url):
-            continue
-        if not MASTERCARD_PR_PATH_RE.match(urlparse(url).path):
-            continue
-        if url in seen:
-            continue
-        seen.add(url)
-        links.append(("Mastercard press release", url, mastercard_date_from_url(url)))
+
+        i0, i1 = m.span()
+        ctx = blob[max(0, i0 - 260) : min(len(blob), i1 + 120)]
+        dt = extract_any_date(ctx, source="Mastercard")
+        if dt is None:
+            dt = mastercard_date_from_url(url)
+
+        title = title_from_url_slug(url, "Mastercard press release")
+        _add(title, url, dt)
         if len(links) >= MAX_LISTING_LINKS:
             break
 
     return links
-
 
 
 def _parse_date_any(text: str) -> Optional[datetime]:
@@ -3103,16 +3101,16 @@ def mastercard_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[
         if len(links) >= MAX_LISTING_LINKS:
             return links
         
-    if len(links) < 5:
-        extra = _mastercard_links_from_text(page_url, html)
-        for t, u, d in extra:
-            if u in seen:
-                continue
-            seen.add(u)
-            links.append((t, u, d))
-            if len(links) >= MAX_LISTING_LINKS:
-                break
-        
+    extra = _mastercard_links_from_text(page_url, html)
+    for t, u, d in extra:
+        if u in seen:
+            continue
+        seen.add(u)
+        links.append((t, u, d))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    links.sort(key=lambda t: (t[2] is None, t[2] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
     return links
         
         
@@ -3163,56 +3161,82 @@ def visa_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
     container = pick_container(soup) or soup
     if not container:
         return []
-        
+
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen = set()
-        
+
     selectors = [
         'a[href*="/about-visa/newsroom/press-releases.releaseId."]',
         'a[href*="/about-visa/newsroom/press-releases/"]',
         'a[href*="press-releases.releaseId."]',
         'a[href*="/press-releases.releaseId."]',
     ]
-        
+
     for sel in selectors:
         for a in container.select(sel):
             href = (a.get("href") or "").strip()
             if not href or href.startswith("#"):
                 continue
-        
+
             url = canonical_url(urljoin(page_url, href))
             if not allowed_for_source("Visa", url):
                 continue
-        
+
             raw_title = (a.get_text(" ", strip=True) or "").strip()
             if not raw_title:
                 raw_title = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
             title = clean_text(raw_title, 220)
             if not title or len(title) < 8:
                 continue
-        
+
             if title.lower() in {"read more", "learn more", "more", "details"}:
                 continue
             if is_probably_nav_link("Visa", title, url):
                 continue
             if is_generic_listing_or_home("Visa", title, url):
                 continue
-        
+
             if url in seen:
                 continue
             seen.add(url)
-        
+
             dt = find_time_near_anchor(a, "Visa")
             if dt is None:
                 dt = visa_date_from_listing_context(a)
-        
+            if dt is None:
+                wrap = a.find_parent(["li", "article", "div", "section"]) or a.parent
+                if wrap:
+                    dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1200), source="Visa")
+
             links.append((title, url, dt))
             if len(links) >= MAX_LISTING_LINKS:
+                links.sort(key=lambda t: (t[2] is None, t[2] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
                 return links
-        
+
+    blob = clean_text(container.get_text("\n", strip=True), 50000)
+    visa_line_re = re.compile(
+        r'(?P<date>\b\d{1,2}/\d{1,2}/\d{2,4}\b)\s+(?P<title>.{8,260}?)\s+(?P<url>https?://usa\.visa\.com/about-visa/newsroom/press-releases(?:\.releaseId)?\.[^\s]+)',
+        re.I,
+    )
+    for m in visa_line_re.finditer(blob):
+        url = canonical_url(m.group('url'))
+        if url in seen:
+            continue
+        title = clean_text(m.group('title'), 220)
+        dt = parse_slash_date_best(m.group('date'))
+        if not title or not allowed_for_source('Visa', url):
+            continue
+        if is_probably_nav_link('Visa', title, url) or is_generic_listing_or_home('Visa', title, url):
+            continue
+        seen.add(url)
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    links.sort(key=lambda t: (t[2] is None, t[2] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
     return links
-        
-        
+
+
 # ============================
 # Treasury press releases
 # ============================
@@ -4504,21 +4528,40 @@ def build() -> None:
         
                 snippet = ""
         
-                # If Visa has a date but outside window, let detail override
-                if source == "Visa" and dt is not None and (not in_window(dt, window_start, window_end)) and src_cap > 0:
+                # Visa listing dates can shift between DD/MM/YYYY and local renderings.
+                # Confirm Visa dates from the detail page whenever cap permits so the monthly
+                # window is based on the article date, not the listing-page text.
+                if source == "Visa" and src_cap > 0:
+                    needs_visa_confirm = (dt is None) or (not in_window(dt, window_start, window_end))
+                    if needs_visa_confirm and global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
+                        detail_html = polite_get(url)
+                        if detail_html:
+                            global_detail_fetches += 1
+                            src_used += 1
+                            per_source_detail_fetches[source] = src_used
+
+                            dt2, snippet2 = extract_published_from_detail(url, detail_html, source=source)
+                            if dt2:
+                                dt = dt2
+                            if snippet2:
+                                snippet = snippet2
+
+                # Mastercard can lose links/dates when the listing comes back thin or partially rendered.
+                # If a captured Mastercard listing link is missing a usable date, confirm it on detail when allowed.
+                if source == "Mastercard" and dt is None and src_cap > 0:
                     if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
                         detail_html = polite_get(url)
                         if detail_html:
                             global_detail_fetches += 1
                             src_used += 1
                             per_source_detail_fetches[source] = src_used
-        
+
                             dt2, snippet2 = extract_published_from_detail(url, detail_html, source=source)
                             if dt2:
                                 dt = dt2
                             if snippet2:
                                 snippet = snippet2
-        
+
                 # If we still don't have a date, use detail page (bounded by caps)
                 if dt is None and src_cap > 0:
                     if global_detail_fetches >= GLOBAL_DETAIL_FETCH_CAP:

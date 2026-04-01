@@ -1,7 +1,11 @@
 # RegDashboard — Export
 
 Window: `2026-03-01T06:00:00Z` → `2026-04-01T04:59:59Z` (UTC)
+<<<<<<< HEAD
 Last updated: `2026-04-01T09:44:11-05:00` (CT) — `2026-04-01T14:44:11Z` (UTC)
+=======
+Last updated: `2026-04-01T14:10:20-05:00` (CT) — `2026-04-01T19:10:20Z` (UTC)
+>>>>>>> 0a4b04b (040122026 manual update)
 
 ## Claude Code source code accidentally leaked in NPM package
 - Source: BleepingComputer
@@ -11,6 +15,23 @@ Last updated: `2026-04-01T09:44:11-05:00` (CT) — `2026-04-01T14:44:11Z` (UTC)
 
 Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]
 
+<<<<<<< HEAD
+=======
+## OCC Releases CRA Performance Evaluations for 18 National Banks and Federal Savings Associations
+- Source: OCC
+- Category: Banking
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-23.html
+
+## Featured Publications View All Publications
+- Source: OCC
+- Category: Banking
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.occ.gov/publications-and-resources/publications/index-publications.html
+
+Publications
+
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Warren Calls out Trump's CFPB For Failing to Take Action on Zombie Mortgages
 - Source: Senate Banking
 - Category: Legislative
@@ -137,6 +158,7 @@ Anthropic says it accidentally leaked the source code for Claude Code, which is 
 - Published: 2026-04-01T00:00:00Z
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
 
+<<<<<<< HEAD
 ## Routine Access Is Powering Modern Intrusions, a New Threat Report Finds
 - Source: BleepingComputer
 - Category: IS
@@ -195,6 +217,108 @@ Identify, monitor, measure and control for risk in your financial institution wi
 - Published: 2026-04-01T00:00:00Z
 - URL: https://www.aba.com/banking-topics/commercial-banking
 
+=======
+## New EvilTokens service fuels Microsoft device code phishing attacks
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/
+
+## 'NoVoice' Android malware on Google Play infected 2.3 million devices
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/
+
+## The ChatOn AI app with GPT, Claude & Gemini is $60 off
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/offer/deals/the-chaton-ai-app-with-gpt-claude-and-gemini-is-60-off/
+
+## Routine Access Is Powering Modern Intrusions, a New Threat Report Finds
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/
+
+## FBI warns against using Chinese mobile apps due to privacy risks
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/
+
+## This ASUS 2-in-1 refurbished Chromebook is on sale for just $150
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/offer/deals/this-asus-2-in-1-refurbished-chromebook-is-on-sale-for-just-150/
+
+## Google fixes fourth Chrome zero-day exploited in attacks in 2026
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/
+
+## Google Drive ransomware detection now on by default for paying users
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/
+
+## New Windows 11 emergency update fixes preview update install issues
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/
+
+## Jump to Content
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.aba.com/news-research
+
+Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins.
+
+## Risk Management
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/risk-management
+
+Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA.
+
+## Consumer Lending
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/consumer-banking/consumer-lending
+
+Enhance your knowledge and understanding of consumer loans and issues that effect them.
+
+## Mortgage & Home Finance
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
+
+There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
+
+## Payments Overview
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/payments
+
+Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
+
+## Commercial Banking
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/commercial-banking
+
+>>>>>>> 0a4b04b (040122026 manual update)
 Find resources on commercial banking topics like Commercial and Industrial (C&I) loans, small business, Commercial Real Estate (CRE), agricultural banking and more.
 
 ## Commercial & Industrial Loans
@@ -229,6 +353,17 @@ Balance technological advancements and digital convenience with the security and
 
 Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
 
+<<<<<<< HEAD
+=======
+## Leadership
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/operations/leadership
+
+Resources and training for bank CEOs and Executives
+
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Workforce Excellence
 - Source: ABA
 - Category: Compliance Watch
@@ -237,6 +372,17 @@ Get news, tools, and training on the issues that affect your bank's bottom line,
 
 America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts.
 
+<<<<<<< HEAD
+=======
+## Economic Trends
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/operations/economic-trends
+
+The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
+
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Whistleblower Incentives and Protections
 - Source: Federal Register
 - Category: Federal Register
@@ -337,6 +483,7 @@ AI agent risk isn't equal, it scales with access to systems and level of autonom
 
 Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client with 100M+ weekly downloads, to deliver remote access trojans to Linux, Windows, and macOS systems. [...]
 
+<<<<<<< HEAD
 ## Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in
 - Source: BleepingComputer
 - Category: IS
@@ -345,6 +492,8 @@ Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client 
 
 ​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Wolters Kluwer inaugurates new Pune office, marking the next chapter of its technology growth journey in India
 - Source: Wolters Kluwer
 - Category: Compliance Watch
@@ -352,6 +501,7 @@ Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client 
 - URL: https://www.wolterskluwer.com/en/news/wolters-kluwer-inaugurates-its-new-pune-office-in-india
 
 New facility underscores Pune’s role as the company’s largest global engineering hub.
+<<<<<<< HEAD
 
 ## Hacker charged with stealing $53 million from Uranium crypto exchange
 - Source: BleepingComputer
@@ -360,6 +510,8 @@ New facility underscores Pune’s role as the company’s largest global enginee
 - URL: https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/
 
 U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 
 ## CVE-2026-23229 crypto: virtio - Add spinlock protection with virtqueue notification
 - Source: Microsoft MSRC
@@ -705,6 +857,7 @@ The Office of the Comptroller of the Currency (OCC) today announced a final rule
 - Published: 2026-03-31T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-10.html
 
+<<<<<<< HEAD
 ## Featured Publications View All Publications
 - Source: OCC
 - Category: Banking
@@ -713,6 +866,8 @@ The Office of the Comptroller of the Currency (OCC) today announced a final rule
 
 Publications
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## A ‘Chill Vibe’ Awaits Payments Attendees in San Diego
 - Source: NACHA
 - Category: Payments
@@ -725,18 +880,43 @@ Publications
 - Published: 2026-03-31T00:00:00Z
 - URL: https://www.nacha.org/news/first-party-fraud-challenge-all-parties
 
+<<<<<<< HEAD
+=======
+## ### Small businesses can soon enjoy new rewards with the Prime Business and Amazon Business Credit Cards March 31, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-03-31T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/march/small-businesses-can-soon-enjoy-new-rewards-with-the-prime-busin.html
+
+## ### Mastercard to acquire BVNK to connect on-chain payments and fiat rails March 17, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-03-31T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/march/Mastercard-to-acquire-BVNK-to-connect-on-chain-payments-and-fiat-rails.html
+
+>>>>>>> 0a4b04b (040122026 manual update)
 ## This $60 refurbished Lenovo Chromebook is an ideal backup device
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-03-31T00:00:00Z
 - URL: https://www.bleepingcomputer.com/offer/deals/this-60-refurbished-lenovo-chromebook-is-an-ideal-backup-device/
 
+<<<<<<< HEAD
+=======
+## Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-03-31T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/
+
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Get lifetime access to 90+ cybersecurity courses for just $53
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-03-31T00:00:00Z
 - URL: https://www.bleepingcomputer.com/offer/deals/get-lifetime-access-to-90-plus-cybersecurity-courses-for-just-53/
 
+<<<<<<< HEAD
 ## Dutch Finance Ministry takes treasury banking portal offline after breach
 - Source: BleepingComputer
 - Category: IS
@@ -749,6 +929,8 @@ Publications
 - Published: 2026-03-31T00:00:00Z
 - URL: https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Fundamentals Metro 2® Format Webinar Series
 - Source: CDIA
 - Category: Compliance Watch
@@ -771,6 +953,7 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 
 Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
 
+<<<<<<< HEAD
 ## Mortgage & Home Finance
 - Source: ABA
 - Category: Compliance Watch
@@ -779,6 +962,8 @@ Key areas of consideration for banking individual retail customers, including le
 
 There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Retail Banking
 - Source: ABA
 - Category: Compliance Watch
@@ -795,6 +980,7 @@ As retail branches evolve, banks are looking to increase customer engagement and
 
 Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices.
 
+<<<<<<< HEAD
 ## Leadership
 - Source: ABA
 - Category: Compliance Watch
@@ -811,6 +997,8 @@ Resources and training for bank CEOs and Executives
 
 The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Wolters Kluwer CCH® Tagetik named Market Leader for ninth consecutive year in BARC Score Financial Performance Management 2026
 - Source: Wolters Kluwer
 - Category: Compliance Watch
@@ -869,12 +1057,15 @@ Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Netw
 - Published: 2026-03-30T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260330
 
+<<<<<<< HEAD
 ## OCC Reports Mortgage Performance for Fourth Quarter of 2025
 - Source: OCC
 - Category: Banking
 - Published: 2026-03-30T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-20.html
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## MPF Announcement Summary 2026-S04
 - Source: FHLB MPF
 - Category: Mortgage
@@ -911,6 +1102,7 @@ Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Netw
 - Published: 2026-03-30T00:00:00Z
 - URL: https://www.nacha.org/news/phixius-nacha-adds-advanced-fraud-solutions-fourth-data-responder
 
+<<<<<<< HEAD
 ## FASB Names Four New Members to Its Investor Advisory Committee
 - Source: FASB
 - Category: Compliance Watch
@@ -923,6 +1115,8 @@ Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Netw
 - Published: 2026-03-30T00:00:00Z
 - URL: https://www.fasb.org/news-and-meetings/in-the-news/sec-accepts-2026-fasb-taxonomies-423913
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Anti-Money Laundering
 - Source: ABA
 - Category: Compliance Watch
@@ -931,6 +1125,7 @@ Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Netw
 
 ABA helps banks better identify and report money laundering and other illicit financial activity with information on new technologies and best practices.
 
+<<<<<<< HEAD
 ## Payments Overview
 - Source: ABA
 - Category: Compliance Watch
@@ -939,6 +1134,8 @@ ABA helps banks better identify and report money laundering and other illicit fi
 
 Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Artificial Intelligence
 - Source: ABA
 - Category: Compliance Watch
@@ -2467,6 +2664,7 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-03-26T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-named-leader-gartnerr-magic-quadranttm-banking-payment-hub
 
+<<<<<<< HEAD
 ## Consumer Lending
 - Source: ABA
 - Category: Compliance Watch
@@ -2475,6 +2673,8 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 
 Enhance your knowledge and understanding of consumer loans and issues that effect them.
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Inclusive Banking
 - Source: ABA
 - Category: Compliance Watch
@@ -2927,6 +3127,17 @@ Corrected CVE title. This is an informational change only.
 - Published: 2026-03-24T00:00:00Z
 - URL: https://ir.jackhenry.com/news-releases/news-release-details/fm-bank-and-quoin-financial-bank-select-jack-henry-elevate
 
+<<<<<<< HEAD
+=======
+## Wolters Kluwer research: Danish SMEs lead Europe in AI‑driven cost savings
+- Source: Wolters Kluwer
+- Category: Compliance Watch
+- Published: 2026-03-24T00:00:00Z
+- URL: https://www.wolterskluwer.com/en/news/danish-smes-lead-europe-in-ai-driven-cost-savings
+
+High regulatory readiness and pragmatic technology adoption help businesses deliver returns, even as financing constraints grow
+
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Presidential Message on the Anniversary of Patrick Henry’s “Give Me Liberty, Or Give Me Death!” Speech
 - Source: White House
 - Category: Executive
@@ -4015,12 +4226,15 @@ Comptroller of the Currency Jonathan V. Gould issued the following statement tod
 - Published: 2026-03-19T00:00:00Z
 - URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-tap2localtm-named-small-business-payments-solution
 
+<<<<<<< HEAD
 ## Private Company Council Publishes 2025 Annual Report
 - Source: FASB
 - Category: Compliance Watch
 - Published: 2026-03-19T00:00:00Z
 - URL: https://www.fasb.org/news-and-meetings/in-the-news/private-company-council-publishes-2025-annual-report-423878
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Publication or Submission of Quotations Without Specified Information
 - Source: Federal Register
 - Category: Federal Register
@@ -4303,6 +4517,15 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Published: 2026-03-17T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-and-western-alliance-bank-form-strategic-alliance-power
 
+<<<<<<< HEAD
+=======
+## ### Mastercard advances its agentic AI strategy with Virtual C-Suite, bringing executive level intelligence to small businesses March 10, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-03-17T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/march/Mastercard-Virtual-C-Suite-bringing-executive-level-intelligence-to-small-businesses.html
+
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Amendment Reinstating “Grandfather” Exceptions to Restrictions on Private Transfer Fee Covenants
 - Source: Federal Register
 - Category: Federal Register
@@ -4739,12 +4962,15 @@ ABA represents the banking industry on policy issues related to accounting and a
 - Published: 2026-03-13T19:26:19Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-removes-regulatory-barriers-to-affordable-home-construction/
 
+<<<<<<< HEAD
 ## Fact Sheet: President Donald J. Trump Promotes Access to Mortgage Credit
 - Source: White House
 - Category: Executive
 - Published: 2026-03-13T19:26:01Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-promotes-access-to-mortgage-credit/
 
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Presidential Message on National K-9 Veterans Day
 - Source: White House
 - Category: Executive
@@ -5961,6 +6187,7 @@ Information published.
 - Published: 2026-03-10T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-present-upcoming-conference-25
 
+<<<<<<< HEAD
 ## FASB Appoints New Member to Its Emerging Issues Task Force
 - Source: FASB
 - Category: Compliance Watch
@@ -5972,6 +6199,13 @@ Information published.
 - Category: Compliance Watch
 - Published: 2026-03-10T00:00:00Z
 - URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-new-members-to-its-not-for-profit-advisory-committee-423697
+=======
+## ### Mastercard reinforces commitment to Canadian small business owners as the Mastercard Small Business Fund opens for 2026 applicants March 3, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-03-10T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/march/mastercard-reinforces-commitment-to-canadian-small-business-owne.html
+>>>>>>> 0a4b04b (040122026 manual update)
 
 ## Federal Reserve Board announces approval of notice by CBS Banc-Corp.
 - Source: FRB
@@ -6823,6 +7057,21 @@ Information published.
 - Published: 2026-03-03T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/february-sales-stabilize-higher-ticket-sizes-offset-weather
 
+<<<<<<< HEAD
+=======
+## ### SoFi and Mastercard partner to enable SoFiUSD settlement across Mastercard’s global payments network March 3, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-03-03T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/march/sofi-and-mastercard-partner-to-enable-sofiusd-settlement-across-.html
+
+## ### Rogers Bank introduces Canada’s first-ever World Legend Mastercard March 2, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-03-03T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/march/rogers-bank-introduces-canada-s-first-ever-world-legend-masterca.html
+
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Holding Foreign Insiders Accountable Act Disclosure
 - Source: Federal Register
 - Category: Federal Register
@@ -6872,6 +7121,7 @@ The Securities and Exchange Commission ("Commission") is adopting final amendmen
 - Category: OFAC
 - Published: 2026-03-02T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260302
+<<<<<<< HEAD
 
 ## IRS published schedule taxpayers will use to claim deductions on no tax on tips, no tax on overtime, no tax on car loans, no tax on seniors
 - Source: IRS
@@ -6913,6 +7163,55 @@ Fannie Mae announced the results of its fixed-price cash tender offers for certa
 - Published: 2026-03-02T00:00:00Z
 - URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-executives-set-speak-upcoming-investor-conferences
 
+=======
+
+## IRS published schedule taxpayers will use to claim deductions on no tax on tips, no tax on overtime, no tax on car loans, no tax on seniors
+- Source: IRS
+- Category: IRS
+- Published: 2026-03-02T00:00:00Z
+- URL: https://www.irs.gov/newsroom/irs-published-schedule-taxpayers-will-use-to-claim-deductions-on-no-tax-on-tips-no-tax-on-overtime-no-tax-on-car-loans-no-tax-on-seniors
+
+IR-2026-28, March 2, 2026 – The Internal Revenue Service published, for tax year 2025, a new schedule that taxpayers will use to realize important tax benefits of the One, Big, Beautiful Bill, including no tax on tips, no tax on overtime, no tax on car loans, and no tax on seniors.
+
+## Fannie Mae Announces Results of Tender Offer for Any and All of Certain CAS Notes
+- Source: Fannie Mae
+- Category: Mortgage
+- Published: 2026-03-02T00:00:00Z
+- URL: https://www.fanniemae.com/newsroom/fannie-mae-news/tender-offer-results-any-all-certain-cas-notes-feb-2026
+
+Fannie Mae announced the results of its fixed-price cash tender offers for certain of its Connecticut Avenue Securities® (CAS) Notes.
+
+## The Facts: The 21st Century ROAD to Housing Act Cuts Red Tape, Builds More Homes, and Restores Accountability
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-03-02T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/majority/the-facts-the-21st-century-road-to-housing-act-cuts-red-tape-builds-more-homes-and-restores-accountability
+
+## Chairman Scott, Ranking Member Warren Release Bill Text Ahead of Senate Consideration of the 21st Century ROAD to Housing Act
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-03-02T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/majority/chairman-scott-ranking-member-warren-release-bill-text-ahead-of-senate-consideration-of-the-21st-century-road-to-housing-act
+
+## Scott, Warren Release 21st Century ROAD to Housing Act Legislative Package to Boost Housing Supply and Bring Down Costs
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-03-02T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/scott-warren-release-21st-century-road-to-housing-act-legislative-package-to-boost-housing-supply-and-bring-down-costs
+
+## Jack Henry Executives Set to Speak at Upcoming Investor Conferences
+- Source: Jack Henry
+- Category: Fintech Watch
+- Published: 2026-03-02T00:00:00Z
+- URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-executives-set-speak-upcoming-investor-conferences
+
+## ### Ericsson and Mastercard enhance global digital money movement and accelerate digital financial inclusion February 18, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-03-02T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/february/Ericsson-Mastercard-enhance-global-digital-money-movement-accelerate-digital-financial-inclusion.html
+
+>>>>>>> 0a4b04b (040122026 manual update)
 ## Commercial Real Estate
 - Source: ABA
 - Category: Compliance Watch

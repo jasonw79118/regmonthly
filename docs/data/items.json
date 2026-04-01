@@ -1,8 +1,13 @@
 {
   "window_start": "2026-03-01T06:00:00Z",
   "window_end": "2026-04-01T04:59:59Z",
+<<<<<<< HEAD
   "generated_at_utc": "2026-04-01T14:44:11Z",
   "generated_at_ct": "2026-04-01T09:44:11-05:00",
+=======
+  "generated_at_utc": "2026-04-01T19:10:20Z",
+  "generated_at_ct": "2026-04-01T14:10:20-05:00",
+>>>>>>> 0a4b04b (040122026 manual update)
   "items": [
     {
       "category": "IS",
@@ -11,6 +16,80 @@
       "published_at": "2026-04-01T00:32:25Z",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
       "summary": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]"
+    },
+    {
+<<<<<<< HEAD
+      "category": "Legislative",
+      "source": "Senate Banking",
+      "title": "Warren Calls out Trump's CFPB For Failing to Take Action on Zombie Mortgages",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-calls-out-trumps-cfpb-for-failing-to-take-action-on-zombie-mortgages",
+      "summary": ""
+    },
+    {
+      "category": "Legislative",
+      "source": "Senate Banking",
+      "title": "Warren, Whitehouse, Waters Lead Probe into Elon Musk’s Potential Involvement in Gutting Bipartisan National Security Law",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-whitehouse-waters-lead-probe-into-elon-musks-potential-involvement-in-gutting-bipartisan-national-security-law",
+      "summary": ""
+    },
+    {
+      "category": "Legislative",
+      "source": "Senate Banking",
+      "title": "Warren Presses SEC Chair Atkins on Enforcement Chief's Sudden Resignation, Lack of Enforcement Data",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-presses-sec-chair-atkins-on-enforcement-chiefs-sudden-resignation-lack-of-enforcement-data",
+      "summary": ""
+    },
+    {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Abrigo Now a Nacha Preferred Partner for ACH Experience/Compliance/Risk and Fraud Prevention",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.nacha.org/news/abrigo-now-nacha-preferred-partner-ach-experiencecompliancerisk-and-fraud-prevention",
+      "summary": ""
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Visa Unveils New Services to Modernize Dispute Resolution Process",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22261.html",
+      "summary": ""
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Visa, Street Soccer USA and Bank of America to Bring Visa Street Soccer Parks to Every FIFA World Cup 2026™ Host City in the U.S.",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22256.html",
+      "summary": ""
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+      "title": "Visa Launches Enhanced Subscription Manager, Giving Consumers Greater Control Over Recurring Payments",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22236.html",
+      "summary": ""
+    },
+    {
+=======
+      "category": "Banking",
+      "source": "OCC",
+      "title": "OCC Releases CRA Performance Evaluations for 18 National Banks and Federal Savings Associations",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-23.html",
+      "summary": ""
+    },
+    {
+      "category": "Banking",
+      "source": "OCC",
+      "title": "Featured Publications View All Publications",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.occ.gov/publications-and-resources/publications/index-publications.html",
+      "summary": "Publications"
     },
     {
       "category": "Legislative",
@@ -69,6 +148,7 @@
       "summary": ""
     },
     {
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Payment Card Networks",
       "source": "Visa",
       "title": "Visa to Bring Privacy-Preserving Payments to Canton Network",
@@ -183,6 +263,33 @@
     {
       "category": "IS",
       "source": "BleepingComputer",
+<<<<<<< HEAD
+=======
+      "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+      "summary": ""
+    },
+    {
+      "category": "IS",
+      "source": "BleepingComputer",
+      "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
+      "summary": ""
+    },
+    {
+      "category": "IS",
+      "source": "BleepingComputer",
+      "title": "The ChatOn AI app with GPT, Claude & Gemini is $60 off",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/offer/deals/the-chaton-ai-app-with-gpt-claude-and-gemini-is-60-off/",
+      "summary": ""
+    },
+    {
+      "category": "IS",
+      "source": "BleepingComputer",
+>>>>>>> 0a4b04b (040122026 manual update)
       "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
       "published_at": "2026-04-01T00:00:00Z",
       "url": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
@@ -247,6 +354,33 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+<<<<<<< HEAD
+=======
+      "title": "Consumer Lending",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/consumer-banking/consumer-lending",
+      "summary": "Enhance your knowledge and understanding of consumer loans and issues that effect them."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Mortgage & Home Finance",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance",
+      "summary": "There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Payments Overview",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/payments",
+      "summary": "Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+>>>>>>> 0a4b04b (040122026 manual update)
       "title": "Commercial Banking",
       "published_at": "2026-04-01T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/commercial-banking",
@@ -287,12 +421,34 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+<<<<<<< HEAD
+=======
+      "title": "Leadership",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/operations/leadership",
+      "summary": "Resources and training for bank CEOs and Executives"
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+>>>>>>> 0a4b04b (040122026 manual update)
       "title": "Workforce Excellence",
       "published_at": "2026-04-01T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/operations/workforce-excellence",
       "summary": "America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts."
     },
     {
+<<<<<<< HEAD
+=======
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Economic Trends",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/operations/economic-trends",
+      "summary": "The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector."
+    },
+    {
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Whistleblower Incentives and Protections",
@@ -421,6 +577,7 @@
       "summary": "Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client with 100M+ weekly downloads, to deliver remote access trojans to Linux, Windows, and macOS systems. [...]"
     },
     {
+<<<<<<< HEAD
       "category": "IS",
       "source": "BleepingComputer",
       "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
@@ -429,12 +586,15 @@
       "summary": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]"
     },
     {
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Compliance Watch",
       "source": "Wolters Kluwer",
       "title": "Wolters Kluwer inaugurates new Pune office, marking the next chapter of its technology growth journey in India",
       "published_at": "2026-03-31T10:00:00Z",
       "url": "https://www.wolterskluwer.com/en/news/wolters-kluwer-inaugurates-its-new-pune-office-in-india",
       "summary": "New facility underscores Pune’s role as the company’s largest global engineering hub."
+<<<<<<< HEAD
     },
     {
       "category": "IS",
@@ -443,6 +603,8 @@
       "published_at": "2026-03-31T09:15:45Z",
       "url": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
       "summary": "U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]"
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
     },
     {
       "category": "IS",
@@ -797,6 +959,7 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
       "category": "Banking",
       "source": "OCC",
       "title": "Featured Publications View All Publications",
@@ -805,6 +968,8 @@
       "summary": "Publications"
     },
     {
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Payments",
       "source": "NACHA",
       "title": "A ‘Chill Vibe’ Awaits Payments Attendees in San Diego",
@@ -821,6 +986,25 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
+=======
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Small businesses can soon enjoy new rewards with the Prime Business and Amazon Business Credit Cards March 31, 2026",
+      "published_at": "2026-03-31T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/march/small-businesses-can-soon-enjoy-new-rewards-with-the-prime-busin.html",
+      "summary": ""
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Mastercard to acquire BVNK to connect on-chain payments and fiat rails March 17, 2026",
+      "published_at": "2026-03-31T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/march/Mastercard-to-acquire-BVNK-to-connect-on-chain-payments-and-fiat-rails.html",
+      "summary": ""
+    },
+    {
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "IS",
       "source": "BleepingComputer",
       "title": "This $60 refurbished Lenovo Chromebook is an ideal backup device",
@@ -831,12 +1015,24 @@
     {
       "category": "IS",
       "source": "BleepingComputer",
+<<<<<<< HEAD
+=======
+      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
+      "published_at": "2026-03-31T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
+      "summary": ""
+    },
+    {
+      "category": "IS",
+      "source": "BleepingComputer",
+>>>>>>> 0a4b04b (040122026 manual update)
       "title": "Get lifetime access to 90+ cybersecurity courses for just $53",
       "published_at": "2026-03-31T00:00:00Z",
       "url": "https://www.bleepingcomputer.com/offer/deals/get-lifetime-access-to-90-plus-cybersecurity-courses-for-just-53/",
       "summary": ""
     },
     {
+<<<<<<< HEAD
       "category": "IS",
       "source": "BleepingComputer",
       "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
@@ -853,6 +1049,8 @@
       "summary": ""
     },
     {
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Compliance Watch",
       "source": "CDIA",
       "title": "Fundamentals Metro 2® Format Webinar Series",
@@ -879,6 +1077,7 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+<<<<<<< HEAD
       "title": "Mortgage & Home Finance",
       "published_at": "2026-03-31T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance",
@@ -887,6 +1086,8 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "title": "Retail Banking",
       "published_at": "2026-03-31T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/retail-banking",
@@ -902,6 +1103,7 @@
     },
     {
       "category": "Compliance Watch",
+<<<<<<< HEAD
       "source": "ABA",
       "title": "Leadership",
       "published_at": "2026-03-31T00:00:00Z",
@@ -918,6 +1120,8 @@
     },
     {
       "category": "Compliance Watch",
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "source": "Wolters Kluwer",
       "title": "Wolters Kluwer CCH® Tagetik named Market Leader for ninth consecutive year in BARC Score Financial Performance Management 2026",
       "published_at": "2026-03-31T00:00:00Z",
@@ -999,6 +1203,7 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
       "category": "Banking",
       "source": "OCC",
       "title": "OCC Reports Mortgage Performance for Fourth Quarter of 2025",
@@ -1007,6 +1212,8 @@
       "summary": ""
     },
     {
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Mortgage",
       "source": "FHLB MPF",
       "title": "MPF Announcement Summary 2026-S04",
@@ -1056,6 +1263,7 @@
     },
     {
       "category": "Compliance Watch",
+<<<<<<< HEAD
       "source": "FASB",
       "title": "FASB Names Four New Members to Its Investor Advisory Committee",
       "published_at": "2026-03-30T00:00:00Z",
@@ -1072,6 +1280,8 @@
     },
     {
       "category": "Compliance Watch",
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "source": "ABA",
       "title": "Anti-Money Laundering",
       "published_at": "2026-03-30T00:00:00Z",
@@ -1081,6 +1291,7 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+<<<<<<< HEAD
       "title": "Payments Overview",
       "published_at": "2026-03-30T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/payments",
@@ -1089,6 +1300,8 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "title": "Artificial Intelligence",
       "published_at": "2026-03-30T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/technology/artificial-intelligence",
@@ -2741,6 +2954,7 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+<<<<<<< HEAD
       "title": "Consumer Lending",
       "published_at": "2026-03-26T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/consumer-lending",
@@ -2749,6 +2963,8 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "title": "Inclusive Banking",
       "published_at": "2026-03-26T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/inclusive-banking",
@@ -3257,6 +3473,17 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
+=======
+      "category": "Compliance Watch",
+      "source": "Wolters Kluwer",
+      "title": "Wolters Kluwer research: Danish SMEs lead Europe in AI‑driven cost savings",
+      "published_at": "2026-03-24T00:00:00Z",
+      "url": "https://www.wolterskluwer.com/en/news/danish-smes-lead-europe-in-ai-driven-cost-savings",
+      "summary": "High regulatory readiness and pragmatic technology adoption help businesses deliver returns, even as financing constraints grow"
+    },
+    {
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Executive",
       "source": "White House",
       "title": "Presidential Message on the Anniversary of Patrick Henry’s “Give Me Liberty, Or Give Me Death!” Speech",
@@ -4465,6 +4692,7 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
       "category": "Compliance Watch",
       "source": "FASB",
       "title": "Private Company Council Publishes 2025 Annual Report",
@@ -4473,6 +4701,8 @@
       "summary": ""
     },
     {
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Publication or Submission of Quotations Without Specified Information",
@@ -4807,6 +5037,17 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
+=======
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Mastercard advances its agentic AI strategy with Virtual C-Suite, bringing executive level intelligence to small businesses March 10, 2026",
+      "published_at": "2026-03-17T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/march/Mastercard-Virtual-C-Suite-bringing-executive-level-intelligence-to-small-businesses.html",
+      "summary": ""
+    },
+    {
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Amendment Reinstating “Grandfather” Exceptions to Restrictions on Private Transfer Fee Covenants",
@@ -5287,6 +5528,7 @@
     {
       "category": "Executive",
       "source": "White House",
+<<<<<<< HEAD
       "title": "Fact Sheet: President Donald J. Trump Promotes Access to Mortgage Credit",
       "published_at": "2026-03-13T19:26:01Z",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-promotes-access-to-mortgage-credit/",
@@ -5295,6 +5537,8 @@
     {
       "category": "Executive",
       "source": "White House",
+=======
+>>>>>>> 0a4b04b (040122026 manual update)
       "title": "Presidential Message on National K-9 Veterans Day",
       "published_at": "2026-03-13T16:47:00Z",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-national-k-9-veterans-day/",
@@ -6593,6 +6837,7 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
       "category": "Compliance Watch",
       "source": "FASB",
       "title": "FASB Appoints New Member to Its Emerging Issues Task Force",
@@ -6606,6 +6851,13 @@
       "title": "FASB Names New Members to Its Not-for-Profit Advisory Committee",
       "published_at": "2026-03-10T00:00:00Z",
       "url": "https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-new-members-to-its-not-for-profit-advisory-committee-423697",
+=======
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Mastercard reinforces commitment to Canadian small business owners as the Mastercard Small Business Fund opens for 2026 applicants March 3, 2026",
+      "published_at": "2026-03-10T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/march/mastercard-reinforces-commitment-to-canadian-small-business-owne.html",
+>>>>>>> 0a4b04b (040122026 manual update)
       "summary": ""
     },
     {
@@ -7609,6 +7861,25 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
+=======
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### SoFi and Mastercard partner to enable SoFiUSD settlement across Mastercard’s global payments network March 3, 2026",
+      "published_at": "2026-03-03T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/march/sofi-and-mastercard-partner-to-enable-sofiusd-settlement-across-.html",
+      "summary": ""
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Rogers Bank introduces Canada’s first-ever World Legend Mastercard March 2, 2026",
+      "published_at": "2026-03-03T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/march/rogers-bank-introduces-canada-s-first-ever-world-legend-masterca.html",
+      "summary": ""
+    },
+    {
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Holding Foreign Insiders Accountable Act Disclosure",
@@ -7699,6 +7970,7 @@
       "title": "The Facts: The 21st Century ROAD to Housing Act Cuts Red Tape, Builds More Homes, and Restores Accountability",
       "published_at": "2026-03-02T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/majority/the-facts-the-21st-century-road-to-housing-act-cuts-red-tape-builds-more-homes-and-restores-accountability",
+<<<<<<< HEAD
       "summary": ""
     },
     {
@@ -7726,6 +7998,43 @@
       "summary": ""
     },
     {
+=======
+      "summary": ""
+    },
+    {
+      "category": "Legislative",
+      "source": "Senate Banking",
+      "title": "Chairman Scott, Ranking Member Warren Release Bill Text Ahead of Senate Consideration of the 21st Century ROAD to Housing Act",
+      "published_at": "2026-03-02T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/majority/chairman-scott-ranking-member-warren-release-bill-text-ahead-of-senate-consideration-of-the-21st-century-road-to-housing-act",
+      "summary": ""
+    },
+    {
+      "category": "Legislative",
+      "source": "Senate Banking",
+      "title": "Scott, Warren Release 21st Century ROAD to Housing Act Legislative Package to Boost Housing Supply and Bring Down Costs",
+      "published_at": "2026-03-02T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/minority/scott-warren-release-21st-century-road-to-housing-act-legislative-package-to-boost-housing-supply-and-bring-down-costs",
+      "summary": ""
+    },
+    {
+      "category": "Fintech Watch",
+      "source": "Jack Henry",
+      "title": "Jack Henry Executives Set to Speak at Upcoming Investor Conferences",
+      "published_at": "2026-03-02T00:00:00Z",
+      "url": "https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-executives-set-speak-upcoming-investor-conferences",
+      "summary": ""
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "### Ericsson and Mastercard enhance global digital money movement and accelerate digital financial inclusion February 18, 2026",
+      "published_at": "2026-03-02T00:00:00Z",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/february/Ericsson-Mastercard-enhance-global-digital-money-movement-accelerate-digital-financial-inclusion.html",
+      "summary": ""
+    },
+    {
+>>>>>>> 0a4b04b (040122026 manual update)
       "category": "Compliance Watch",
       "source": "ABA",
       "title": "Commercial Real Estate",
