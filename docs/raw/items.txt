@@ -1,12 +1,9 @@
-IS
-BleepingComputer
-2026-04-01T00:32:25Z
-Claude Code source code accidentally leaked in NPM package
-https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/
-Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]
+OFAC
+OFAC
+2026-04-01T00:00:00Z
+Venezuela-related Designation Removal
+https://ofac.treasury.gov/recent-actions/20260401
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 Banking
 OCC
 2026-04-01T00:00:00Z
@@ -20,7 +17,6 @@ Featured Publications View All Publications
 https://www.occ.gov/publications-and-resources/publications/index-publications.html
 Publications
 ------------------------------------------------------------
->>>>>>> 0a4b04b (040122026 manual update)
 Legislative
 Senate Banking
 2026-04-01T00:00:00Z
@@ -45,168 +41,57 @@ NACHA
 Abrigo Now a Nacha Preferred Partner for ACH Experience/Compliance/Risk and Fraud Prevention
 https://www.nacha.org/news/abrigo-now-nacha-preferred-partner-ach-experiencecompliancerisk-and-fraud-prevention
 ------------------------------------------------------------
-Payment Card Networks
-Visa
+IS
+BleepingComputer
 2026-04-01T00:00:00Z
-Visa Unveils New Services to Modernize Dispute Resolution Process
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22261.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa, Street Soccer USA and Bank of America to Bring Visa Street Soccer Parks to Every FIFA World Cup 2026™ Host City in the U.S.
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22256.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa Launches Enhanced Subscription Manager, Giving Consumers Greater Control Over Recurring Payments
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22236.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa to Bring Privacy-Preserving Payments to Canton Network
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22231.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa and Bridge Expand Collaboration, with Plans to Bring Stablecoin-Linked Cards to Over 100 Countries
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22206.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa Completes Acquisition of Prisma and Newpay
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22186.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa to Acquire Prisma Medios de Pago and Newpay in Argentina
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22176.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa Renews Partnership Across Red Bull Formula One Teams
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22171.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Italy Sees Economic Boost From the Opening Weekend of the Olympic Winter Games Milano Cortina 2026
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22146.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa to Participate in Upcoming Investor Conferences
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22126.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa Introduces Visa & Main, A New Platform to Accelerate Small Business Growth Across the U.S.
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22121.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa Direct and UnionPay International Will Extend Global Money Movement Network to Billions of Cards in Chinese Mainland
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22101.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa Fiscal First Quarter 2026 Financial Results
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22086.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa Spending Study Shows How Americans Will Use AI to Plan, Book and Spend on Winter Sports
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22026.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa Debuts Milano Cortina 2026 Campaign Starring Record‑Breaking Athletes Mikaela Shiffrin and Oksana Masters
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22021.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa to Announce Fiscal First Quarter 2026 Financial Results on January 29, 2026
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22011.html
-------------------------------------------------------------
-Payment Card Networks
-Visa
-2026-04-01T00:00:00Z
-Visa 2026 Global Economic Outlook: AI Adoption and Shifting Trade Patterns Drive Economic Transformation Beneath Steady Growth
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
+New CrystalRAT malware adds RAT, stealer and prankware features
+https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-04-01T00:00:00Z
-<<<<<<< HEAD
-Routine Access Is Powering Modern Intrusions, a New Threat Report Finds
-https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/
-=======
+Apple expands iOS 18 updates to more iPhones to block DarkSword attacks
+https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/
+------------------------------------------------------------
+IS
+BleepingComputer
+2026-04-01T00:00:00Z
+Hackers exploit TrueConf zero-day to push malicious software updates
+https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/
+------------------------------------------------------------
+IS
+BleepingComputer
+2026-04-01T00:00:00Z
 New EvilTokens service fuels Microsoft device code phishing attacks
 https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-04-01T00:00:00Z
-<<<<<<< HEAD
-FBI warns against using Chinese mobile apps due to privacy risks
-https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/
-=======
 'NoVoice' Android malware on Google Play infected 2.3 million devices
 https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-04-01T00:00:00Z
-<<<<<<< HEAD
-This ASUS 2-in-1 refurbished Chromebook is on sale for just $150
-https://www.bleepingcomputer.com/offer/deals/this-asus-2-in-1-refurbished-chromebook-is-on-sale-for-just-150/
-=======
 The ChatOn AI app with GPT, Claude & Gemini is $60 off
 https://www.bleepingcomputer.com/offer/deals/the-chaton-ai-app-with-gpt-claude-and-gemini-is-60-off/
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-04-01T00:00:00Z
-<<<<<<< HEAD
-Google fixes fourth Chrome zero-day exploited in attacks in 2026
-https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/
-=======
 Routine Access Is Powering Modern Intrusions, a New Threat Report Finds
 https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-04-01T00:00:00Z
-<<<<<<< HEAD
-Google Drive ransomware detection now on by default for paying users
-https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/
-=======
 FBI warns against using Chinese mobile apps due to privacy risks
 https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-04-01T00:00:00Z
-<<<<<<< HEAD
-=======
 This ASUS 2-in-1 refurbished Chromebook is on sale for just $150
 https://www.bleepingcomputer.com/offer/deals/this-asus-2-in-1-refurbished-chromebook-is-on-sale-for-just-150/
 ------------------------------------------------------------
@@ -225,29 +110,24 @@ https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection
 IS
 BleepingComputer
 2026-04-01T00:00:00Z
->>>>>>> 0a4b04b (040122026 manual update)
 New Windows 11 emergency update fixes preview update install issues
 https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/
 ------------------------------------------------------------
 Compliance Watch
-ABA
+CDIA
 2026-04-01T00:00:00Z
-Jump to Content
-https://www.aba.com/news-research
-Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins.
+Education Services
+https://www.cdiaonline.org/education-services/
+------------------------------------------------------------
+Compliance Watch
+CDIA
+2026-04-01T00:00:00Z
+New Speakers Announced for CDIA Connect 2026!
+https://www.cdiaonline.org/events/2026/04/01/new-speakers-announced-for-cdia-connect-2026/
 ------------------------------------------------------------
 Compliance Watch
 ABA
 2026-04-01T00:00:00Z
-Risk Management
-https://www.aba.com/banking-topics/risk-management
-Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-01T00:00:00Z
-<<<<<<< HEAD
-=======
 Consumer Lending
 https://www.aba.com/banking-topics/consumer-banking/consumer-lending
 Enhance your knowledge and understanding of consumer loans and issues that effect them.
@@ -262,14 +142,6 @@ There are many paths to owning a home, and banks are prepared to help customers 
 Compliance Watch
 ABA
 2026-04-01T00:00:00Z
-Payments Overview
-https://www.aba.com/banking-topics/payments
-Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-01T00:00:00Z
->>>>>>> 0a4b04b (040122026 manual update)
 Commercial Banking
 https://www.aba.com/banking-topics/commercial-banking
 Find resources on commercial banking topics like Commercial and Industrial (C&I) loans, small business, Commercial Real Estate (CRE), agricultural banking and more.
@@ -291,22 +163,6 @@ Banks and small businesses need each other to stay healthy. The banking industry
 Compliance Watch
 ABA
 2026-04-01T00:00:00Z
-Technology
-https://www.aba.com/banking-topics/technology
-Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-01T00:00:00Z
-Leadership & Operations
-https://www.aba.com/banking-topics/operations
-Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-01T00:00:00Z
-<<<<<<< HEAD
-=======
 Leadership
 https://www.aba.com/banking-topics/operations/leadership
 Resources and training for bank CEOs and Executives
@@ -314,21 +170,10 @@ Resources and training for bank CEOs and Executives
 Compliance Watch
 ABA
 2026-04-01T00:00:00Z
->>>>>>> 0a4b04b (040122026 manual update)
-Workforce Excellence
-https://www.aba.com/banking-topics/operations/workforce-excellence
-America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts.
-------------------------------------------------------------
-<<<<<<< HEAD
-=======
-Compliance Watch
-ABA
-2026-04-01T00:00:00Z
 Economic Trends
 https://www.aba.com/banking-topics/operations/economic-trends
 The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
 ------------------------------------------------------------
->>>>>>> 0a4b04b (040122026 manual update)
 Federal Register
 Federal Register
 2026-04-01T00:00:00Z
@@ -350,27 +195,6 @@ Removal of Regulatory Overreach and Federal Crop Insurance Policy Provisions
 https://www.federalregister.gov/documents/2026/04/01/2026-06277/removal-of-regulatory-overreach-and-federal-crop-insurance-policy-provisions
 The Federal Crop Insurance Corporation (FCIC) is amending its regulations regarding final agency determinations and interpretations of the Federal Crop Insurance Act and its associated regulations. This action is necessary to align agency procedures with Supreme Court precedent and the Administrative Procedure Act, ensuring that interpretive determinations are not improperly c…
 ------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T23:13:56Z
-Google now allows you to change your @gmail.com address
-https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/
-Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T22:42:07Z
-Proton launches new "Meet" privacy-focused conferencing platform
-https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/
-Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T22:28:02Z
-GIGABYTE Control Center vulnerable to arbitrary file write flaw
-https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/
-The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]
-------------------------------------------------------------
 Executive
 White House
 2026-03-31T22:06:12Z
@@ -383,20 +207,6 @@ White House
 Ensuring Citizenship Verification and Integrity in Federal Elections
 https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/
 ------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T21:45:14Z
-Claude AI finds Vim, Emacs RCE bugs that trigger on file open
-https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/
-Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T17:53:04Z
-Cisco source code stolen in Trivy-linked dev environment breach
-https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/
-Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers. [...]
-------------------------------------------------------------
 Banking
 FDIC
 2026-03-31T14:02:50Z
@@ -404,46 +214,12 @@ Financial Institution Letter: FDIC Consumer Compliance Supervisory Highlights
 https://content.govdelivery.com/accounts/USFDIC/bulletins/4101448
 FINANCIAL INSTITUTION LETTER | MARCH 31, 2026 FDIC Consumer Compliance Supervisory Highlights Summary: The FDIC’s Consumer Compliance Supervisory Highlights is an annual publication. Its purpose is to enhance transparency regarding the FDIC’s consumer compliance supervisory activities and provide a high-level overview of consumer compliance issues identified in 2025 through th…
 ------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T14:00:10Z
-How to Categorize AI Agents and Prioritize Risk
-https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/
-AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first. [...]
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T13:53:43Z
-Hackers compromise Axios npm package to drop cross-platform malware
-https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/
-Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client with 100M+ weekly downloads, to deliver remote access trojans to Linux, Windows, and macOS systems. [...]
-------------------------------------------------------------
-<<<<<<< HEAD
-IS
-BleepingComputer
-2026-03-31T12:04:15Z
-Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in
-https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/
-​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]
-------------------------------------------------------------
-=======
->>>>>>> 0a4b04b (040122026 manual update)
 Compliance Watch
 Wolters Kluwer
 2026-03-31T10:00:00Z
 Wolters Kluwer inaugurates new Pune office, marking the next chapter of its technology growth journey in India
 https://www.wolterskluwer.com/en/news/wolters-kluwer-inaugurates-its-new-pune-office-in-india
 New facility underscores Pune’s role as the company’s largest global engineering hub.
-<<<<<<< HEAD
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T09:15:45Z
-Hacker charged with stealing $53 million from Uranium crypto exchange
-https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/
-U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]
-=======
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -748,16 +524,6 @@ OCC
 2026-03-31T00:00:00Z
 OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches: Final Guidelines
 https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-10.html
-<<<<<<< HEAD
-------------------------------------------------------------
-Banking
-OCC
-2026-03-31T00:00:00Z
-Featured Publications View All Publications
-https://www.occ.gov/publications-and-resources/publications/index-publications.html
-Publications
-=======
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Payments
 NACHA
@@ -771,8 +537,6 @@ NACHA
 First-Party Fraud: A Challenge to All Parties
 https://www.nacha.org/news/first-party-fraud-challenge-all-parties
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 Payment Card Networks
 Mastercard
 2026-03-31T00:00:00Z
@@ -785,43 +549,6 @@ Mastercard
 ### Mastercard to acquire BVNK to connect on-chain payments and fiat rails March 17, 2026
 https://www.mastercard.com/us/en/news-and-trends/press/2026/march/Mastercard-to-acquire-BVNK-to-connect-on-chain-payments-and-fiat-rails.html
 ------------------------------------------------------------
->>>>>>> 0a4b04b (040122026 manual update)
-IS
-BleepingComputer
-2026-03-31T00:00:00Z
-This $60 refurbished Lenovo Chromebook is an ideal backup device
-https://www.bleepingcomputer.com/offer/deals/this-60-refurbished-lenovo-chromebook-is-an-ideal-backup-device/
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T00:00:00Z
-<<<<<<< HEAD
-Get lifetime access to 90+ cybersecurity courses for just $53
-https://www.bleepingcomputer.com/offer/deals/get-lifetime-access-to-90-plus-cybersecurity-courses-for-just-53/
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T00:00:00Z
-Dutch Finance Ministry takes treasury banking portal offline after breach
-https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T00:00:00Z
-CISA orders feds to patch actively exploited Citrix flaw by Thursday
-https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/
-------------------------------------------------------------
-=======
-Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in
-https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-03-31T00:00:00Z
-Get lifetime access to 90+ cybersecurity courses for just $53
-https://www.bleepingcomputer.com/offer/deals/get-lifetime-access-to-90-plus-cybersecurity-courses-for-just-53/
-------------------------------------------------------------
->>>>>>> 0a4b04b (040122026 manual update)
 Compliance Watch
 CDIA
 2026-03-31T00:00:00Z
@@ -838,52 +565,11 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 Compliance Watch
 ABA
 2026-03-31T00:00:00Z
-Consumer Banking
-https://www.aba.com/banking-topics/consumer-banking
-Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-03-31T00:00:00Z
-<<<<<<< HEAD
-Mortgage & Home Finance
-https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
-There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-03-31T00:00:00Z
-=======
->>>>>>> 0a4b04b (040122026 manual update)
-Retail Banking
-https://www.aba.com/banking-topics/consumer-banking/retail-banking
-As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-03-31T00:00:00Z
 Wealth Management
 https://www.aba.com/banking-topics/wealth-management
 Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices.
 ------------------------------------------------------------
 Compliance Watch
-<<<<<<< HEAD
-ABA
-2026-03-31T00:00:00Z
-Leadership
-https://www.aba.com/banking-topics/operations/leadership
-Resources and training for bank CEOs and Executives
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-03-31T00:00:00Z
-Economic Trends
-https://www.aba.com/banking-topics/operations/economic-trends
-The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
-------------------------------------------------------------
-Compliance Watch
-=======
->>>>>>> 0a4b04b (040122026 manual update)
 Wolters Kluwer
 2026-03-31T00:00:00Z
 Wolters Kluwer CCH® Tagetik named Market Leader for ninth consecutive year in BARC Score Financial Performance Management 2026
@@ -935,15 +621,6 @@ OFAC
 2026-03-30T00:00:00Z
 Issuance of Amended Russia-related General License; Publication of Amended Russia-related Frequently Asked Questions
 https://ofac.treasury.gov/recent-actions/20260330
-<<<<<<< HEAD
-------------------------------------------------------------
-Banking
-OCC
-2026-03-30T00:00:00Z
-OCC Reports Mortgage Performance for Fourth Quarter of 2025
-https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-20.html
-=======
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Mortgage
 FHLB MPF
@@ -982,7 +659,6 @@ Phixius by Nacha Adds Advanced Fraud Solutions as Fourth Data Responder
 https://www.nacha.org/news/phixius-nacha-adds-advanced-fraud-solutions-fourth-data-responder
 ------------------------------------------------------------
 Compliance Watch
-<<<<<<< HEAD
 FASB
 2026-03-30T00:00:00Z
 FASB Names Four New Members to Its Investor Advisory Committee
@@ -1004,32 +680,9 @@ ABA helps banks better identify and report money laundering and other illicit fi
 Compliance Watch
 ABA
 2026-03-30T00:00:00Z
-Payments Overview
-https://www.aba.com/banking-topics/payments
-Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
-------------------------------------------------------------
-Compliance Watch
-=======
-ABA
-2026-03-30T00:00:00Z
-Anti-Money Laundering
-https://www.aba.com/banking-topics/risk-management/money-laundering
-ABA helps banks better identify and report money laundering and other illicit financial activity with information on new technologies and best practices.
-------------------------------------------------------------
-Compliance Watch
->>>>>>> 0a4b04b (040122026 manual update)
-ABA
-2026-03-30T00:00:00Z
 Artificial Intelligence
 https://www.aba.com/banking-topics/technology/artificial-intelligence
 Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-03-30T00:00:00Z
-Cybersecurity
-https://www.aba.com/banking-topics/technology/cybersecurity
-ABA offers resources to help banks protect their customers' accounts and personal information.
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -1183,6 +836,13 @@ White House
 2026-03-29T00:00:00Z
 Education and Sharing Day, U.S.A., 2026
 https://www.whitehouse.gov/briefings-statements/2026/03/education-and-sharing-day-u-s-a-2026/
+------------------------------------------------------------
+Payment Card Networks
+Visa
+2026-03-28T11:00:00Z
+Visa, Street Soccer USA and Bank of America to Bring Visa Street Soccer Parks to Every FIFA World Cup 2026™ Host City in the U.S.
+https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22256.html
+With 75 days to go until the FIFA World Cup 2026™, Visa and partners expand community investment—bringing additional access to sport, education and opportunity to communities across the U.S. SAN FRANCISCO & CHARLOTTE, N.C. --(BUSINESS WIRE)--Mar. 28, 2026-- Visa, the Official Payment Technology
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -1825,6 +1485,13 @@ Treasury
 URIF Announces First Investment, Strengthening Ukraine’s Security and Unlocking New Emerging Technology for the United States and Allies
 https://home.treasury.gov/news/press-releases/sb0424
 ------------------------------------------------------------
+Payment Card Networks
+Visa
+2026-03-26T11:00:00Z
+Visa Launches Enhanced Subscription Manager, Giving Consumers Greater Control Over Recurring Payments
+https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22236.html
+New value-added service brings subscription switching, cancellation, alerts, and insights into one seamless, in-app experience As global subscriptions approach 12 billion by 2030 1, consumers demand greater transparency and financial control Collaboration with providers like Pinwheel expands the
+------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-03-26T08:39:38Z
@@ -2306,7 +1973,6 @@ OFAC
 2026-03-26T00:00:00Z
 Belarus Designations Removals; Issuance of Belarus General License; Rescission of Belarus Directive 1
 https://ofac.treasury.gov/recent-actions/20260326
-<<<<<<< HEAD
 ------------------------------------------------------------
 IRS
 IRS
@@ -2321,12 +1987,6 @@ Fannie Mae
 Fannie Mae Releases February 2026 Monthly Summary
 https://www.fanniemae.com/newsroom/fannie-mae-news/fannie-mae-releases-february-2026-monthly-summary
 The monthly summary report contains information about Fannie Mae’s monthly and year-to-date activities.
-------------------------------------------------------------
-Mortgage
-Freddie Mac
-2026-03-26T00:00:00Z
-Mortgage Rates Average 6.38%
-https://www.globenewswire.com/news-release/2026/03/26/3263250/0/en/Mortgage-Rates-Average-6-38.html
 ------------------------------------------------------------
 Legislative
 Senate Banking
@@ -2339,33 +1999,10 @@ Senate Banking
 2026-03-26T00:00:00Z
 Warren Statement on Trump Financial Regulators' Giveaway to Morgan Stanley
 https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-financial-regulators-giveaway-to-morgan-stanley
-=======
-------------------------------------------------------------
-IRS
-IRS
-2026-03-26T00:00:00Z
-Tax Time Guide: Steps taxpayers can take now to resolve tax issues and stay on track
-https://www.irs.gov/newsroom/tax-time-guide-steps-taxpayers-can-take-now-to-resolve-tax-issues-and-stay-on-track
-IR-2026-41, March 26, 2026 — Taxpayers who owe taxes or have not yet filed can benefit from acting early.
-------------------------------------------------------------
-Mortgage
-Fannie Mae
-2026-03-26T00:00:00Z
-Fannie Mae Releases February 2026 Monthly Summary
-https://www.fanniemae.com/newsroom/fannie-mae-news/fannie-mae-releases-february-2026-monthly-summary
-The monthly summary report contains information about Fannie Mae’s monthly and year-to-date activities.
-------------------------------------------------------------
-Mortgage
-Freddie Mac
-2026-03-26T00:00:00Z
-Mortgage Rates Average 6.38%
-https://www.globenewswire.com/news-release/2026/03/26/3263250/0/en/Mortgage-Rates-Average-6-38.html
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Legislative
 Senate Banking
 2026-03-26T00:00:00Z
-<<<<<<< HEAD
 Warren Seeks Answers from Trump's Fed Chair Nominee Warsh on His Record Prioritizing Wall Street Over American Families
 https://www.banking.senate.gov/newsroom/minority/warren-seeks-answers-from-trumps-fed-chair-nominee-warsh-on-his-record-prioritizing-wall-street-over-american-families
 ------------------------------------------------------------
@@ -2380,27 +2017,10 @@ House Financial Services
 2026-03-26T00:00:00Z
 Flood: We Need to Abate the Flooding Risk
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411075
-=======
-Chairman Scott Pushes for EXIM Bank Reauthorization to Strengthen American Competitiveness, Counter Chinese Economic Aggression
-https://www.banking.senate.gov/newsroom/majority/chairman-scott-pushes-for-exim-bank-reauthorization-to-strengthen-american-competitiveness-counter-chinese-economic-aggression
-------------------------------------------------------------
-Legislative
-Senate Banking
-2026-03-26T00:00:00Z
-Warren Statement on Trump Financial Regulators' Giveaway to Morgan Stanley
-https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-financial-regulators-giveaway-to-morgan-stanley
-------------------------------------------------------------
-Legislative
-Senate Banking
-2026-03-26T00:00:00Z
-Warren Seeks Answers from Trump's Fed Chair Nominee Warsh on His Record Prioritizing Wall Street Over American Families
-https://www.banking.senate.gov/newsroom/minority/warren-seeks-answers-from-trumps-fed-chair-nominee-warsh-on-his-record-prioritizing-wall-street-over-american-families
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Legislative
 House Financial Services
 2026-03-26T00:00:00Z
-<<<<<<< HEAD
 Digital Assets, Financial Technology, and Artificial Intelligence Subcommittee Reviews Regulators’ Efforts to Keep Pace with Financial Innovation
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411076
 ------------------------------------------------------------
@@ -2409,13 +2029,6 @@ FIS
 2026-03-26T00:00:00Z
 FIS Named a Leader in Gartner® Magic Quadrant™ for Banking Payment Hub Platforms
 https://www.investor.fisglobal.com/news-releases/news-release-details/fis-named-leader-gartnerr-magic-quadranttm-banking-payment-hub
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-03-26T00:00:00Z
-Consumer Lending
-https://www.aba.com/banking-topics/consumer-banking/consumer-lending
-Enhance your knowledge and understanding of consumer loans and issues that effect them.
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -2430,53 +2043,17 @@ Wolters Kluwer
 Wolters Kluwer and FairPlay AI announce strategic partnership to deliver AI-driven fair lending optimization capabilities
 https://www.wolterskluwer.com/en/news/wolters-kluwer-and-fairplay-ai-announce-strategic-partnership
 Wolters Kluwer Financial & Corporate Compliance announced a strategic partnership with FairPlay AI, a leader in algorithmic fairness and model optimization technology.
-=======
-Steil: Regulators Must Evolve as Quickly as the Technologies They Oversee
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411073
-------------------------------------------------------------
-Legislative
-House Financial Services
-2026-03-26T00:00:00Z
-Flood: We Need to Abate the Flooding Risk
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411075
-------------------------------------------------------------
-Legislative
-House Financial Services
-2026-03-26T00:00:00Z
-Digital Assets, Financial Technology, and Artificial Intelligence Subcommittee Reviews Regulators’ Efforts to Keep Pace with Financial Innovation
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411076
-------------------------------------------------------------
-Fintech Watch
-FIS
-2026-03-26T00:00:00Z
-FIS Named a Leader in Gartner® Magic Quadrant™ for Banking Payment Hub Platforms
-https://www.investor.fisglobal.com/news-releases/news-release-details/fis-named-leader-gartnerr-magic-quadranttm-banking-payment-hub
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-03-26T00:00:00Z
-Inclusive Banking
-https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
-Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Compliance Watch
 Wolters Kluwer
 2026-03-26T00:00:00Z
-<<<<<<< HEAD
 Wolters Kluwer CCH Tagetik is named a Leading Vendor in the BARC Financial Consolidation & Group Accounting Survey 26
 https://www.wolterskluwer.com/en/news/cch-tagetik-leading-vendor-barc-financial-consolidation-group-accounting
 CCH Tagetik has been recognized as a Leading Vendor in the BARC Financial Consolidation & Group Accounting Survey 26.
-=======
-Wolters Kluwer and FairPlay AI announce strategic partnership to deliver AI-driven fair lending optimization capabilities
-https://www.wolterskluwer.com/en/news/wolters-kluwer-and-fairplay-ai-announce-strategic-partnership
-Wolters Kluwer Financial & Corporate Compliance announced a strategic partnership with FairPlay AI, a leader in algorithmic fairness and model optimization technology.
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Compliance Watch
 Wolters Kluwer
 2026-03-26T00:00:00Z
-<<<<<<< HEAD
 Wolters Kluwer completes Eastern European rollout of Libra legal AI workspace with four-country launch
 https://www.wolterskluwer.com/en/news/wolters-kluwer-completes-eastern-european-rollout-of-libra-legal-ai
 Libra by Wolters Kluwer now live in Czech Republic, Slovakia, Hungary and Romania, expanding European footprint
@@ -2493,41 +2070,16 @@ Treasury
 2026-03-25T19:03:00Z
 Readouts
 https://home.treasury.gov/news/press-releases/readouts
-=======
-Wolters Kluwer CCH Tagetik is named a Leading Vendor in the BARC Financial Consolidation & Group Accounting Survey 26
-https://www.wolterskluwer.com/en/news/cch-tagetik-leading-vendor-barc-financial-consolidation-group-accounting
-CCH Tagetik has been recognized as a Leading Vendor in the BARC Financial Consolidation & Group Accounting Survey 26.
-------------------------------------------------------------
-Compliance Watch
-Wolters Kluwer
-2026-03-26T00:00:00Z
-Wolters Kluwer completes Eastern European rollout of Libra legal AI workspace with four-country launch
-https://www.wolterskluwer.com/en/news/wolters-kluwer-completes-eastern-european-rollout-of-libra-legal-ai
-Libra by Wolters Kluwer now live in Czech Republic, Slovakia, Hungary and Romania, expanding European footprint
-------------------------------------------------------------
-Federal Register
-Federal Register
-2026-03-26T00:00:00Z
-Agency Information Collection Activities: Proposed Collection Renewal; Comment Request
-https://www.federalregister.gov/documents/2026/03/26/2026-05836/agency-information-collection-activities-proposed-collection-renewal-comment-request
-The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0139). The notices of proposed renewal for these information collections were previously published in the Fede…
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 OFAC
 Treasury
 2026-03-25T19:03:00Z
-<<<<<<< HEAD
 READOUT: Financial Stability Oversight Council Meeting on March 25, 2026
 https://home.treasury.gov/news/press-releases/sb0423
-=======
-Readouts
-https://home.treasury.gov/news/press-releases/readouts
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 OFAC
 Treasury
 2026-03-25T19:03:00Z
-<<<<<<< HEAD
 Financial Stability Oversight Council Issues Proposed Guidance on Nonbank Financial Company Designations
 https://home.treasury.gov/news/press-releases/sb0422
 ------------------------------------------------------------
@@ -2543,6 +2095,13 @@ FRB
 Federal Reserve Board releases annual audited financial statements
 https://www.federalreserve.gov/newsevents/pressreleases/other20260325a.htm
 Federal Reserve Board releases annual audited financial statements
+------------------------------------------------------------
+Payment Card Networks
+Visa
+2026-03-25T16:00:00Z
+Visa to Bring Privacy-Preserving Payments to Canton Network
+https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22231.html
+Visa is the first payments company selected to become a Super Validator on the Canton Network, where it will help banks and financial institutions bring new payment flows onchain SAN FRANCISCO --(BUSINESS WIRE)--Mar. 25, 2026-- Visa (NYSE:V), a global leader in digital payments, today announced it
 ------------------------------------------------------------
 Compliance Watch
 CDIA
@@ -2563,333 +2122,164 @@ Microsoft MSRC
 2026-03-25T08:36:26Z
 CVE-2026-0716 Libsoup: out-of-bounds read in libsoup websocket frame processing
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-0716
-=======
-READOUT: Financial Stability Oversight Council Meeting on March 25, 2026
-https://home.treasury.gov/news/press-releases/sb0423
-------------------------------------------------------------
-OFAC
-Treasury
-2026-03-25T19:03:00Z
-Financial Stability Oversight Council Issues Proposed Guidance on Nonbank Financial Company Designations
-https://home.treasury.gov/news/press-releases/sb0422
-------------------------------------------------------------
-Executive
-White House
-2026-03-25T17:23:04Z
-First Lady Melania Trump Convenes Record 45 Nations at the White House and Introduces American-Built Humanoid
-https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-convenes-record-45-nations-at-the-white-house-and-introduces-american-built-humanoid/
-------------------------------------------------------------
-Banking
-FRB
-2026-03-25T16:00:00Z
-Federal Reserve Board releases annual audited financial statements
-https://www.federalreserve.gov/newsevents/pressreleases/other20260325a.htm
-Federal Reserve Board releases annual audited financial statements
-------------------------------------------------------------
-Compliance Watch
-CDIA
-2026-03-25T10:00:47Z
-🌸 Spring Into Savings on Metro 2® Training! 🌸
-https://www.cdiaonline.org/events/2026/03/25/%f0%9f%8c%b8-spring-into-savings-on-metro-2-training-%f0%9f%8c%b8/
-Save $100 on CDIA’s Metro 2® Format Fundamentals Webinar Series with code SPRINGFWS100—now through March 31! This live, instructor-led 3-part series is perfect for beginners, new team members,... The post 🌸 Spring Into Savings on Metro 2® Training! 🌸 appeared first on CDIA .
-------------------------------------------------------------
-IS
-Microsoft MSRC
-2026-03-25T08:36:34Z
-CVE-2026-2443 Libsoup: out-of-bounds read in libsoup handle_partial_get() leading to heap information disclosure
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-2443
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:36:16Z
 CVE-2025-58160 Tracing logging user input may result in poisoning logs with ANSI escape sequences
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-58160
-=======
-2026-03-25T08:36:26Z
-CVE-2026-0716 Libsoup: out-of-bounds read in libsoup websocket frame processing
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-0716
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:05:42Z
 CVE-2026-27623 Valkey has Pre-Authentication DOS from malformed RESP request
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-27623
-=======
-2026-03-25T08:36:16Z
-CVE-2025-58160 Tracing logging user input may result in poisoning logs with ANSI escape sequences
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-58160
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:05:25Z
 CVE-2025-13462 tarfile: Skip DIRTYPE normalization during GNU LONGNAME/LONGLINK handling
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-13462
-=======
-2026-03-25T08:05:42Z
-CVE-2026-27623 Valkey has Pre-Authentication DOS from malformed RESP request
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-27623
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:04:59Z
 CVE-2025-69720
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-69720
-=======
-2026-03-25T08:05:25Z
-CVE-2025-13462 tarfile: Skip DIRTYPE normalization during GNU LONGNAME/LONGLINK handling
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-13462
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:04:51Z
 CVE-2026-2646 Heap buffer overflow in session parsing with wolfSSL_d2i_SSL_SESSION() function
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-2646
-=======
-2026-03-25T08:04:59Z
-CVE-2025-69720
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-69720
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:04:35Z
 CVE-2026-2645 Acceptance of CertificateVerify Message before ClientKeyExchange in TLS 1.2
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-2645
-=======
-2026-03-25T08:04:51Z
-CVE-2026-2646 Heap buffer overflow in session parsing with wolfSSL_d2i_SSL_SESSION() function
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-2646
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:04:11Z
 CVE-2026-3503 Fault injection attack with ML-DSA and ML-KEM on ARM
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3503
-=======
-2026-03-25T08:04:35Z
-CVE-2026-2645 Acceptance of CertificateVerify Message before ClientKeyExchange in TLS 1.2
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-2645
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:04:03Z
 CVE-2026-3230 Improper key_share validation in TLS 1.3 HelloRetryRequest
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3230
-=======
-2026-03-25T08:04:11Z
-CVE-2026-3503 Fault injection attack with ML-DSA and ML-KEM on ARM
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3503
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:03:54Z
 CVE-2026-3229 Integer Overflow in Certificate Chain Allocation
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3229
-=======
-2026-03-25T08:04:03Z
-CVE-2026-3230 Improper key_share validation in TLS 1.3 HelloRetryRequest
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3230
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:03:47Z
 CVE-2026-1005 Integer underflow leads to out-of-bounds access in sniffer AES-GCM/CCM/ARIA-GCM decrypt path
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1005
-=======
-2026-03-25T08:03:54Z
-CVE-2026-3229 Integer Overflow in Certificate Chain Allocation
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3229
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:03:39Z
 CVE-2026-3579 Non-constant time multiplication subroutine __muldi3 on RISC-V RV32I
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3579
-=======
-2026-03-25T08:03:47Z
-CVE-2026-1005 Integer underflow leads to out-of-bounds access in sniffer AES-GCM/CCM/ARIA-GCM decrypt path
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-1005
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:03:31Z
 CVE-2026-3849 Buffer Overflow in HPKE via Oversized ECH Config
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3849
-=======
-2026-03-25T08:03:39Z
-CVE-2026-3579 Non-constant time multiplication subroutine __muldi3 on RISC-V RV32I
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3579
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:03:22Z
 CVE-2026-4395 Heap-based buffer overflow in wc_ecc_import_x963_ex KCAPI path
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4395
-=======
-2026-03-25T08:03:31Z
-CVE-2026-3849 Buffer Overflow in HPKE via Oversized ECH Config
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3849
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:03:14Z
 CVE-2026-3580 Compiler-induced timing leak in sp_256_get_entry_256_9 on RISC-V
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3580
-=======
-2026-03-25T08:03:22Z
-CVE-2026-4395 Heap-based buffer overflow in wc_ecc_import_x963_ex KCAPI path
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4395
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:03:06Z
 CVE-2026-4159 wc_PKCS7_DecodeEnvelopedData 1 byte out-of-bounds read
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4159
-=======
-2026-03-25T08:03:14Z
-CVE-2026-3580 Compiler-induced timing leak in sp_256_get_entry_256_9 on RISC-V
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3580
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:02:58Z
 CVE-2026-0819 Stack buffer overflow in PKCS7 SignedData encoding with custom signed attributes
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-0819
-=======
-2026-03-25T08:03:06Z
-CVE-2026-4159 wc_PKCS7_DecodeEnvelopedData 1 byte out-of-bounds read
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4159
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:02:43Z
 CVE-2026-3099 Libsoup: libsoup: authentication bypass via digest authentication replay attack
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3099
-=======
-2026-03-25T08:02:58Z
-CVE-2026-0819 Stack buffer overflow in PKCS7 SignedData encoding with custom signed attributes
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-0819
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:02:34Z
 CVE-2026-4424 Libarchive: libarchive: information disclosure via heap out-of-bounds read in rar archive processing
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4424
-=======
-2026-03-25T08:02:43Z
-CVE-2026-3099 Libsoup: libsoup: authentication bypass via digest authentication replay attack
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3099
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:02:26Z
 CVE-2026-4426 Libarchive: libarchive: denial of service via malformed iso file processing
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4426
-=======
-2026-03-25T08:02:34Z
-CVE-2026-4424 Libarchive: libarchive: information disclosure via heap out-of-bounds read in rar archive processing
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4424
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:02:18Z
 CVE-2026-33055 tar-rs incorrectly ignores PAX size headers if header size is nonzero
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33055
-=======
-2026-03-25T08:02:26Z
-CVE-2026-4426 Libarchive: libarchive: denial of service via malformed iso file processing
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4426
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:01:52Z
 CVE-2026-33056 tar-rs: unpack_in can chmod arbitrary directories by following symlinks
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33056
-=======
-2026-03-25T08:02:18Z
-CVE-2026-33055 tar-rs incorrectly ignores PAX size headers if header size is nonzero
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33055
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:01:20Z
 CVE-2026-4438 gethostbyaddr and gethostbyaddr_r return invalid DNS hostnames
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4438
-=======
-2026-03-25T08:01:52Z
-CVE-2026-33056 tar-rs: unpack_in can chmod arbitrary directories by following symlinks
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33056
->>>>>>> 0a4b04b (040122026 manual update)
 Information published.
 ------------------------------------------------------------
 IS
 Microsoft MSRC
-<<<<<<< HEAD
 2026-03-25T08:01:14Z
 CVE-2026-4437 gethostbyaddr and gethostbyaddr_r may incorrectly handle DNS response
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4437
@@ -2915,63 +2305,16 @@ OCC
 Comptroller Gould Issues Statement at Financial Stability Oversight Council Meeting
 https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-19.html
 Comptroller of the Currency Jonathan V. Gould today issued a statement at the Financial Stability Oversight Council (FSOC) meeting about the Office of the Comptroller of the Currency's (OCC) actions to ensure the federal banking system remains relevant over time.
-------------------------------------------------------------
-Mortgage
-Freddie Mac
-2026-03-25T00:00:00Z
-Freddie Mac Issues Monthly Volume Summary for February 2026
-https://www.globenewswire.com/news-release/2026/03/25/3262615/0/en/Freddie-Mac-Issues-Monthly-Volume-Summary-for-February-2026.html
 ------------------------------------------------------------
 Legislative
 Senate Banking
 2026-03-25T00:00:00Z
 Warren Statement on Financial Stability Oversight Council Meeting
 https://www.banking.senate.gov/newsroom/minority/warren-statement-on-financial-stability-oversight-council-meeting
-=======
-2026-03-25T08:01:20Z
-CVE-2026-4438 gethostbyaddr and gethostbyaddr_r return invalid DNS hostnames
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4438
-Information published.
-------------------------------------------------------------
-IS
-Microsoft MSRC
-2026-03-25T08:01:14Z
-CVE-2026-4437 gethostbyaddr and gethostbyaddr_r may incorrectly handle DNS response
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4437
-Information published.
-------------------------------------------------------------
-Compliance Watch
-TBA
-2026-03-25T06:30:00Z
-Federal Reserve updates penny policy
-https://www.texasbankers.com/federal-reserve-updates-penny-policy/
-In an update to last year’s decision to end production of the penny, the Federal Reserve announced that a subset of coin distribution locations that previously stopped fulfilling penny orders will once again begin fulfilling orders due to increased deposit activity. The update reads: “On March 23, a subset of coin distribution locations that previously stopped […] The post Fed…
-------------------------------------------------------------
-IRS
-IRS
-2026-03-25T00:00:00Z
-IRS announces special Saturday hours at Taxpayer Assistance Centers across the nation to provide face-to-face help
-https://www.irs.gov/newsroom/irs-announces-special-saturday-hours-at-taxpayer-assistance-centers-across-the-nation-to-provide-face-to-face-help
-IR-2026-40, March 25, 2026 — The Internal Revenue Service announced that special Saturday hours will be available over the next few months at select Taxpayer Assistance Centers across the country.
-------------------------------------------------------------
-Banking
-OCC
-2026-03-25T00:00:00Z
-Comptroller Gould Issues Statement at Financial Stability Oversight Council Meeting
-https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-19.html
-Comptroller of the Currency Jonathan V. Gould today issued a statement at the Financial Stability Oversight Council (FSOC) meeting about the Office of the Comptroller of the Currency's (OCC) actions to ensure the federal banking system remains relevant over time.
-------------------------------------------------------------
-Mortgage
-Freddie Mac
-2026-03-25T00:00:00Z
-Freddie Mac Issues Monthly Volume Summary for February 2026
-https://www.globenewswire.com/news-release/2026/03/25/3262615/0/en/Freddie-Mac-Issues-Monthly-Volume-Summary-for-February-2026.html
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Legislative
 Senate Banking
 2026-03-25T00:00:00Z
-<<<<<<< HEAD
 Ranking Member Warren Probes Potential Conflict of Interests of Big Bank Lawyer Who Now Runs Fed's Supervision and Regulation Division
 https://www.banking.senate.gov/newsroom/minority/ranking-member-warren-probes-potential-conflict-of-interests-of-big-bank-lawyer-who-now-runs-feds-supervision-and-regulation-division
 ------------------------------------------------------------
@@ -2980,43 +2323,22 @@ House Financial Services
 2026-03-25T00:00:00Z
 Chairman Hill: Today’s Discussion is Vital to Shaping the Future of Our Capital Markets
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411069
-=======
-Warren Statement on Financial Stability Oversight Council Meeting
-https://www.banking.senate.gov/newsroom/minority/warren-statement-on-financial-stability-oversight-council-meeting
-------------------------------------------------------------
-Legislative
-Senate Banking
-2026-03-25T00:00:00Z
-Ranking Member Warren Probes Potential Conflict of Interests of Big Bank Lawyer Who Now Runs Fed's Supervision and Regulation Division
-https://www.banking.senate.gov/newsroom/minority/ranking-member-warren-probes-potential-conflict-of-interests-of-big-bank-lawyer-who-now-runs-feds-supervision-and-regulation-division
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Legislative
 House Financial Services
 2026-03-25T00:00:00Z
-<<<<<<< HEAD
 Committee Republicans Introduce Proposals to Reform Deposit Insurance
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411070
-=======
-Chairman Hill: Today’s Discussion is Vital to Shaping the Future of Our Capital Markets
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411069
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Legislative
 House Financial Services
 2026-03-25T00:00:00Z
-<<<<<<< HEAD
 Chairman Hill Statement on FSOC Guidance on Nonbank Financial Company Designations
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411071
-=======
-Committee Republicans Introduce Proposals to Reform Deposit Insurance
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411070
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Legislative
 House Financial Services
 2026-03-25T00:00:00Z
-<<<<<<< HEAD
 Full Committee Evaluates the Role Tokenization Plays in Our Capital Markets
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411074
 ------------------------------------------------------------
@@ -3031,12 +2353,6 @@ Fiserv
 2026-03-25T00:00:00Z
 Fiserv Named One of America’s Most Innovative Companies by Fortune for Fourth Consecutive Year
 https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-one-americas-most-innovative-companies-fortune-0
-------------------------------------------------------------
-Compliance Watch
-CDIA
-2026-03-25T00:00:00Z
-Education Services
-https://www.cdiaonline.org/education-services/
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -3097,119 +2413,11 @@ CVE-2026-23669 RPC Runtime Library Remote Code Execution Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23669
 Corrected CVE title. This is an informational change only.
 ------------------------------------------------------------
-=======
-Chairman Hill Statement on FSOC Guidance on Nonbank Financial Company Designations
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411071
-------------------------------------------------------------
-Legislative
-House Financial Services
-2026-03-25T00:00:00Z
-Full Committee Evaluates the Role Tokenization Plays in Our Capital Markets
-https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411074
-------------------------------------------------------------
-Payments
-NACHA
-2026-03-25T00:00:00Z
-With New Nacha Rules Effective This Year, a 2026 Rulebook is a Must
-https://www.nacha.org/news/new-nacha-rules-effective-year-2026-rulebook-must
-------------------------------------------------------------
-Fintech Watch
-Fiserv
-2026-03-25T00:00:00Z
-Fiserv Named One of America’s Most Innovative Companies by Fortune for Fourth Consecutive Year
-https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-one-americas-most-innovative-companies-fortune-0
-------------------------------------------------------------
-Compliance Watch
-CDIA
-2026-03-25T00:00:00Z
-Education Services
-https://www.cdiaonline.org/education-services/
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-03-25T00:00:00Z
-Debit Cards
-https://www.aba.com/banking-topics/payments/debit-cards
-Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-03-25T00:00:00Z
-Health Savings Accounts
-https://www.aba.com/banking-topics/wealth-management/health-savings-accounts
-An HSA is a tax-free savings account that's paired with a high deductible health insurance plan to pay for routine medical expenses. The ABA's Health Savings Account (HSA) Council supports expansion of account-based health care solutions for all Americans.
-------------------------------------------------------------
-Federal Register
-Federal Register
-2026-03-25T00:00:00Z
-Third-Party Servicing of Indirect Vehicle Loans
-https://www.federalregister.gov/documents/2026/03/25/2026-05797/third-party-servicing-of-indirect-vehicle-loans
-The NCUA Board (Board) is seeking comment on a proposed rule that would remove the NCUA's unnecessarily prescriptive regulation regarding third-party servicing of indirect vehicle loans. This action would reduce regulatory burden and provide credit unions with greater operational flexibility, consistent with a principles-based supervisory approach. The intent is to reduce admi…
-------------------------------------------------------------
-Executive
-White House
-2026-03-24T23:13:33Z
-Further Continuance of the Federal Emergency Management Agency Review Council
-https://www.whitehouse.gov/presidential-actions/2026/03/further-continuance-of-the-federal-emergency-management-agency-review-council/
-------------------------------------------------------------
-Executive
-White House
-2026-03-24T23:08:35Z
-Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026
-https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/
-------------------------------------------------------------
-Executive
-White House
-2026-03-24T23:05:06Z
-National Agriculture Day, 2026
-https://www.whitehouse.gov/presidential-actions/2026/03/national-agriculture-day-2026/
-------------------------------------------------------------
-Compliance Watch
-CDIA
-2026-03-24T16:48:08Z
-Calling all data furnishers: explore the sessions designed just for you at CDIA Connect 2026!
-https://www.cdiaonline.org/events/2026/03/24/calling-all-data-furnishers-explore-the-sessions-designed-just-for-you-at-cdia-connect-2026/
-Here’s what you can expect for this year’s Data Furnisher Track: Credit Integrity Under Fire: Combatting Washing, Disputes, and Fraud Hear from... The post Calling all data furnishers: explore the sessions designed just for you at CDIA Connect 2026! appeared first on CDIA .
-------------------------------------------------------------
-Executive
-White House
-2026-03-24T16:21:59Z
-First Lady Melania Trump Launches Fostering the Future Together, 45 Member Nations Attend the Inaugural Coalition Summit
-https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-launches-fostering-the-future-together-45-member-nations-attend-the-inaugural-coalition-summit/
-------------------------------------------------------------
-IS
-Microsoft MSRC
-2026-03-24T14:00:00Z
-CVE-2026-23669 RPC Runtime Library Remote Code Execution Vulnerability
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23669
-Corrected CVE title. This is an informational change only.
-------------------------------------------------------------
->>>>>>> 0a4b04b (040122026 manual update)
 OFAC
 OFAC
 2026-03-24T00:00:00Z
 Issuance of Venezuela-related General License
 https://ofac.treasury.gov/recent-actions/20260324
-<<<<<<< HEAD
-------------------------------------------------------------
-Legislative
-Senate Banking
-2026-03-24T00:00:00Z
-Senators Banks and Warren Urge Commerce Secretary Lutnick to Suspend or Reconsider NVIDIA Export Licenses Amid Supermicro Chip Diversion Indictment
-https://www.banking.senate.gov/newsroom/minority/senators-banks-and-warren-urge-commerce-secretary-lutnick-to-suspend-or-reconsider-nvidia-export-licenses-amid-supermicro-chip-diversion-indictment
-------------------------------------------------------------
-Fintech Watch
-FIS
-2026-03-24T00:00:00Z
-FIS Launches New Cleared Derivatives Solution for Prediction Markets
-https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-cleared-derivatives-solution-prediction-markets
-------------------------------------------------------------
-Fintech Watch
-Jack Henry
-2026-03-24T00:00:00Z
-FM BANK and Quoin Financial Bank Select Jack Henry to Elevate Service
-https://ir.jackhenry.com/news-releases/news-release-details/fm-bank-and-quoin-financial-bank-select-jack-henry-elevate
-=======
 ------------------------------------------------------------
 Legislative
 Senate Banking
@@ -3235,7 +2443,6 @@ Wolters Kluwer
 Wolters Kluwer research: Danish SMEs lead Europe in AI‑driven cost savings
 https://www.wolterskluwer.com/en/news/danish-smes-lead-europe-in-ai-driven-cost-savings
 High regulatory readiness and pragmatic technology adoption help businesses deliver returns, even as financing constraints grow
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Executive
 White House
@@ -4143,13 +3350,6 @@ https://ofac.treasury.gov/recent-actions/20260319
 Banking
 OCC
 2026-03-19T00:00:00Z
-Comptroller Gould Statement on Notice of Proposed Rulemakings to Modernize Regulatory Capital Framework
-https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-17.html
-Comptroller of the Currency Jonathan V. Gould issued the following statement today at the Federal Deposit Insurance Corporation's (FDIC) board meeting about two proposals to modernize the regulatory capital framework for banking organizations of all sizes.
-------------------------------------------------------------
-Banking
-OCC
-2026-03-19T00:00:00Z
 Regulatory Capital: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations
 https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-9.html
 ------------------------------------------------------------
@@ -4158,12 +3358,6 @@ OCC
 2026-03-19T00:00:00Z
 Regulatory Capital: Standardized Approach for Risk-Weighted Assets
 https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-8.html
-------------------------------------------------------------
-Mortgage
-Freddie Mac
-2026-03-19T00:00:00Z
-Average 30-Year Fixed-Rate Mortgage at 6.22%
-https://www.globenewswire.com/news-release/2026/03/19/3259296/0/en/Average-30-Year-Fixed-Rate-Mortgage-at-6-22.html
 ------------------------------------------------------------
 Legislative
 Senate Banking
@@ -4213,15 +3407,12 @@ Jack Henry
 Jack Henry Tap2Local™ Named "Small Business Payments Solution of the Year" in 2026 FinTech Breakthrough Awards Program
 https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-tap2localtm-named-small-business-payments-solution
 ------------------------------------------------------------
-<<<<<<< HEAD
 Compliance Watch
 FASB
 2026-03-19T00:00:00Z
 Private Company Council Publishes 2025 Annual Report
 https://www.fasb.org/news-and-meetings/in-the-news/private-company-council-publishes-2025-annual-report-423878
 ------------------------------------------------------------
-=======
->>>>>>> 0a4b04b (040122026 manual update)
 Federal Register
 Federal Register
 2026-03-19T00:00:00Z
@@ -4480,15 +3671,12 @@ Fiserv
 Fiserv and Western Alliance Bank Form Strategic Alliance to Power High-Impact Commerce Experiences for Clients
 https://investors.fiserv.com/news-releases/news-release-details/fiserv-and-western-alliance-bank-form-strategic-alliance-power
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 Payment Card Networks
 Mastercard
 2026-03-17T00:00:00Z
 ### Mastercard advances its agentic AI strategy with Virtual C-Suite, bringing executive level intelligence to small businesses March 10, 2026
 https://www.mastercard.com/us/en/news-and-trends/press/2026/march/Mastercard-Virtual-C-Suite-bringing-executive-level-intelligence-to-small-businesses.html
 ------------------------------------------------------------
->>>>>>> 0a4b04b (040122026 manual update)
 Federal Register
 Federal Register
 2026-03-17T00:00:00Z
@@ -4883,7 +4071,6 @@ https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-tru
 ------------------------------------------------------------
 Executive
 White House
-<<<<<<< HEAD
 2026-03-13T19:26:01Z
 Fact Sheet: President Donald J. Trump Promotes Access to Mortgage Credit
 https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-promotes-access-to-mortgage-credit/
@@ -4894,12 +4081,6 @@ White House
 Presidential Message on National K-9 Veterans Day
 https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-national-k-9-veterans-day/
 ------------------------------------------------------------
-=======
-2026-03-13T16:47:00Z
-Presidential Message on National K-9 Veterans Day
-https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-national-k-9-veterans-day/
-------------------------------------------------------------
->>>>>>> 0a4b04b (040122026 manual update)
 Banking
 FRB
 2026-03-13T15:00:00Z
@@ -5144,12 +4325,6 @@ IRS
 Updated Tax Withholding Estimator lets millions of taxpayers take One, Big, Beautiful Bill changes into account when calculating their withholding
 https://www.irs.gov/newsroom/updated-tax-withholding-estimator-lets-millions-of-taxpayers-take-one-big-beautiful-bill-changes-into-account-when-calculating-their-withholding
 IR-2026-35, March 12, 2026 — The Internal Revenue Service recently unveiled enhancements to the IRS Tax Withholding Estimator to reflect changes to credits and deductions under the One, Big, Beautiful Bill, including no tax on tips, no tax on overtime, and other tax benefits.
-------------------------------------------------------------
-Mortgage
-Freddie Mac
-2026-03-12T00:00:00Z
-Mortgage Rates Inch Higher as Housing Activity Picks Up
-https://www.globenewswire.com/news-release/2026/03/12/3254941/0/en/Mortgage-Rates-Inch-Higher-as-Housing-Activity-Picks-Up.html
 ------------------------------------------------------------
 Legislative
 Senate Banking
@@ -5985,7 +5160,12 @@ FIS
 FIS to Present at Upcoming Conference
 https://www.investor.fisglobal.com/news-releases/news-release-details/fis-present-upcoming-conference-25
 ------------------------------------------------------------
-<<<<<<< HEAD
+Payment Card Networks
+Mastercard
+2026-03-10T00:00:00Z
+### Mastercard reinforces commitment to Canadian small business owners as the Mastercard Small Business Fund opens for 2026 applicants March 3, 2026
+https://www.mastercard.com/us/en/news-and-trends/press/2026/march/mastercard-reinforces-commitment-to-canadian-small-business-owne.html
+------------------------------------------------------------
 Compliance Watch
 FASB
 2026-03-10T00:00:00Z
@@ -5997,13 +5177,6 @@ FASB
 2026-03-10T00:00:00Z
 FASB Names New Members to Its Not-for-Profit Advisory Committee
 https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-new-members-to-its-not-for-profit-advisory-committee-423697
-=======
-Payment Card Networks
-Mastercard
-2026-03-10T00:00:00Z
-### Mastercard reinforces commitment to Canadian small business owners as the Mastercard Small Business Fund opens for 2026 applicants March 3, 2026
-https://www.mastercard.com/us/en/news-and-trends/press/2026/march/mastercard-reinforces-commitment-to-canadian-small-business-owne.html
->>>>>>> 0a4b04b (040122026 manual update)
 ------------------------------------------------------------
 Banking
 FRB
@@ -6448,12 +5621,6 @@ Treasury, IRS issue proposed regulations to make it easier for digital asset bro
 https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-to-make-it-easier-for-digital-asset-brokers-to-provide-1099-da-statements-electronically
 IR-2026-29, March 5, 2026 — The Department of the Treasury and the Internal Revenue Service today issued proposed regulations to make it easier for digital asset brokers to provide statements electronically to customers, rather than sending paper copies.
 ------------------------------------------------------------
-Mortgage
-Freddie Mac
-2026-03-05T00:00:00Z
-Mortgage Rates Hold Steady
-https://www.globenewswire.com/news-release/2026/03/05/3250506/0/en/Mortgage-Rates-Hold-Steady.html
-------------------------------------------------------------
 Legislative
 Senate Banking
 2026-03-05T00:00:00Z
@@ -6627,6 +5794,13 @@ Finastra
 DAMA International elects Finastra’s Peter Vennel as Vice President
 https://www.finastra.com/press-media/dama-international-elects-finastras-peter-vennel-vice-president
 ------------------------------------------------------------
+Payment Card Networks
+Visa
+2026-03-03T12:00:00Z
+Visa and Bridge Expand Collaboration, with Plans to Bring Stablecoin-Linked Cards to Over 100 Countries
+https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22206.html
+Collaboration deepens as Bridge’s stablecoin-linked card program gains global momentum SAN FRANCISCO --(BUSINESS WIRE)--Mar. 3, 2026-- Visa (NYSE:V), a global leader in digital payments, and Bridge, a leading stablecoin infrastructure platform and a Stripe company, today announced an expansion of
+------------------------------------------------------------
 IS
 Microsoft MSRC
 2026-03-03T09:39:16Z
@@ -6778,8 +5952,6 @@ Fiserv
 February Sales Stabilize as Higher Ticket Sizes Offset Weather Driven Foot Traffic Declines
 https://investors.fiserv.com/news-releases/news-release-details/february-sales-stabilize-higher-ticket-sizes-offset-weather
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 Payment Card Networks
 Mastercard
 2026-03-03T00:00:00Z
@@ -6792,7 +5964,6 @@ Mastercard
 ### Rogers Bank introduces Canada’s first-ever World Legend Mastercard March 2, 2026
 https://www.mastercard.com/us/en/news-and-trends/press/2026/march/rogers-bank-introduces-canada-s-first-ever-world-legend-masterca.html
 ------------------------------------------------------------
->>>>>>> 0a4b04b (040122026 manual update)
 Federal Register
 Federal Register
 2026-03-03T00:00:00Z
@@ -6842,13 +6013,6 @@ OFAC
 Democratic Republic of the Congo-related Designations; Issuance of Associated General License
 https://ofac.treasury.gov/recent-actions/20260302
 ------------------------------------------------------------
-IRS
-IRS
-2026-03-02T00:00:00Z
-IRS published schedule taxpayers will use to claim deductions on no tax on tips, no tax on overtime, no tax on car loans, no tax on seniors
-https://www.irs.gov/newsroom/irs-published-schedule-taxpayers-will-use-to-claim-deductions-on-no-tax-on-tips-no-tax-on-overtime-no-tax-on-car-loans-no-tax-on-seniors
-IR-2026-28, March 2, 2026 – The Internal Revenue Service published, for tax year 2025, a new schedule that taxpayers will use to realize important tax benefits of the One, Big, Beautiful Bill, including no tax on tips, no tax on overtime, no tax on car loans, and no tax on seniors.
-------------------------------------------------------------
 Mortgage
 Fannie Mae
 2026-03-02T00:00:00Z
@@ -6880,15 +6044,12 @@ Jack Henry
 Jack Henry Executives Set to Speak at Upcoming Investor Conferences
 https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-executives-set-speak-upcoming-investor-conferences
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 Payment Card Networks
 Mastercard
 2026-03-02T00:00:00Z
 ### Ericsson and Mastercard enhance global digital money movement and accelerate digital financial inclusion February 18, 2026
 https://www.mastercard.com/us/en/news-and-trends/press/2026/february/Ericsson-Mastercard-enhance-global-digital-money-movement-accelerate-digital-financial-inclusion.html
 ------------------------------------------------------------
->>>>>>> 0a4b04b (040122026 manual update)
 Compliance Watch
 ABA
 2026-03-02T00:00:00Z
