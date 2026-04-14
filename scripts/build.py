@@ -33,6 +33,7 @@ RAW_HTML_PATH = f"{RAW_DIR}/index.html"
 RAW_MD_PATH = f"{RAW_DIR}/items.md"
 RAW_TXT_PATH = f"{RAW_DIR}/items.txt"
 RAW_NDJSON_PATH = f"{RAW_DIR}/items.ndjson"
+RAW_ARRAY_JSON_PATH = f"{RAW_DIR}/items-array.json"
 RAW_ROBOTS_PATH = f"{RAW_DIR}/robots.txt"
 RAW_SITEMAP_PATH = f"{RAW_DIR}/sitemap.xml"
 
@@ -4297,6 +4298,7 @@ def render_raw_html(payload: Dict[str, Any]) -> str:
       <a href="./items.md">items.md</a>
       <a href="./items.txt">items.txt</a>
       <a href="./items.ndjson">items.ndjson</a>
+      <a href="./items-array.json">items-array.json</a>
       <a href="../">Back to app</a>
     </div>
   </header>
@@ -4427,6 +4429,7 @@ def write_raw_aux_files() -> None:
   <url><loc>{raw_base}/items.md</loc></url>
   <url><loc>{raw_base}/items.txt</loc></url>
   <url><loc>{raw_base}/items.ndjson</loc></url>
+  <url><loc>{raw_base}/items-array.json</loc></url>
   <url><loc>{print_base}/items.html</loc></url>
 </urlset>
 """
@@ -4657,6 +4660,9 @@ def build() -> None:
     with open(RAW_NDJSON_PATH, "w", encoding="utf-8") as f:
         for it in payload.get("items", []):
             f.write(json.dumps(it, ensure_ascii=False) + "\n")
+
+    with open(RAW_ARRAY_JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(payload.get("items", []), f, ensure_ascii=False, indent=2)
         
     with open(PRINT_HTML_PATH, "w", encoding="utf-8") as f:
         f.write(render_print_html(payload))
@@ -4665,7 +4671,7 @@ def build() -> None:
         
     print(
         f"\n[ok] wrote {OUT_PATH} with {len(items)} items | detail fetches: {global_detail_fetches}\n"
-        f"[ok] wrote raw exports: {RAW_HTML_PATH}, {RAW_MD_PATH}, {RAW_TXT_PATH}, {RAW_NDJSON_PATH}\n"
+        f"[ok] wrote raw exports: {RAW_HTML_PATH}, {RAW_MD_PATH}, {RAW_TXT_PATH}, {RAW_NDJSON_PATH}, {RAW_ARRAY_JSON_PATH}\n"
         f"[ok] wrote print export: {PRINT_HTML_PATH}\n"
         f"[ok] wrote crawler hints: {RAW_ROBOTS_PATH}, {RAW_SITEMAP_PATH}",
         flush=True,
