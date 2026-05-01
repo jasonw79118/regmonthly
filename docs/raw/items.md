@@ -1,13 +1,37 @@
 # RegDashboard — Export
 
 Window: `2026-04-01T05:00:00Z` → `2026-05-01T04:59:59Z` (UTC)
-Last updated: `2026-05-01T09:21:27-05:00` (CT) — `2026-05-01T14:21:27Z` (UTC)
+Last updated: `2026-05-01T11:02:23-05:00` (CT) — `2026-05-01T16:02:23Z` (UTC)
+
+## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
+- Source: OFAC
+- Category: OFAC
+- Published: 2026-05-01T00:00:00Z
+- URL: https://ofac.treasury.gov/recent-actions/20260501
+
+## Agencies Issue Host State Loan-to-Deposit Ratios
+- Source: OCC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-33.html
+
+## Prohibition Against Interstate Deposits: Annual Host State Loan-to-Deposit Ratios
+- Source: OCC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-19.html
 
 ## MPF Announcement 2026-24
 - Source: FHLB MPF
 - Category: Mortgage
 - Published: 2026-05-01T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-24
+
+## Fiserv Named a Charter Member of the x402 Foundation
+- Source: Fiserv
+- Category: Fintech Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-charter-member-x402-foundation
 
 ## Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations
 - Source: BleepingComputer
@@ -2963,11 +2987,11 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-04-28T00:00:00Z
 - URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henrys-annual-survey-financial-institutions-highlights
 
-## Visa Announces Global Expansion of Agentic Ready Program
+## Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement
 - Source: Visa
 - Category: Payment Card Networks
 - Published: 2026-04-28T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html
 
 ## Visa Fiscal Second Quarter 2026 Financial Results
 - Source: Visa
@@ -4435,12 +4459,6 @@ IR-2026-56, April 24, 2026 — During National Volunteer Week, the Internal Reve
 - Published: 2026-04-24T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-17.html
 
-## Notice of Proposed Rulemaking: Streamlining Regulations Concerning Public Welfare Investments, Open Market Collateralized Loan Obligations, and Federal Savings Association Nondiscrimination Requirements
-- Source: OCC
-- Category: Banking
-- Published: 2026-04-24T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-16.html
-
 ## Chairman Scott Welcomes Federal Reserve Inspector General Review of Cost Overruns
 - Source: Senate Banking
 - Category: Legislative
@@ -4464,6 +4482,18 @@ IR-2026-56, April 24, 2026 — During National Volunteer Week, the Internal Reve
 - Category: Legislative
 - Published: 2026-04-24T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411109
+
+## The Trust for the Americas and the Organization of American States present the 2025 Corporate Citizen of the Americas Award to Mastercard April 24, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-04-24T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/april/the-trust-for-the-americas-and-the-organization-of-american-stat.html
+
+## Mastercard brings tools, mentorship and connections directly to small businesses April 21, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-04-24T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/april/mastercard-brings-tools--mentorship-and-connections-directly-to-.html
 
 ## ACH Transactions
 - Source: ABA
@@ -4937,6 +4967,18 @@ The federal bank regulatory agencies today jointly finalized a rule to modify th
 - Published: 2026-04-23T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411108
 
+## FASB Announces Winner of 2026 Emerging Scholar Award
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-23T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-announces-winner-of-2026-emerging-scholar-award-424149
+
+## Registration Opens for May 4 FASB Webinar for Private Companies and Not-for-Profit Organizations
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-23T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/registration-opens-for-may-4-fasb-webinar-for-private-companies-and-not-for-profit-organizations-424045
+
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
 - Category: Federal Register
@@ -5254,6 +5296,12 @@ Acknowledgement added. This is an informational change only.
 - Category: Fintech Watch
 - Published: 2026-04-21T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-levels-playing-field-new-trading-platform-gives-firms-wall
+
+## Small businesses can soon enjoy new rewards with the Prime Business and Amazon Business Credit Cards March 31, 2026
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-04-21T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/march/small-businesses-can-soon-enjoy-new-rewards-with-the-prime-busin.html
 
 ## Wealth and Trust Schools
 - Source: ABA
@@ -9843,6 +9891,12 @@ Information published.
 
 Information published.
 
+## FASB Chair Adds Research Project on Current Trends and Emerging Issues—Data Infrastructure Investments and Non-Traditional Lending to Be Covered
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-07T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-chair-adds-research-project-on-current-trends-and-emerging-issuesdata-infrastructure-investments-and-non-traditional-lending-to-be-covered-424037
+
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
 - Category: Federal Register
@@ -9900,6 +9954,12 @@ IR-2026-46, April 6, 2026 — The IRS today announced a major expansion of its B
 - URL: https://www.occ.gov/publications-and-resources/publications/community-affairs/financial-literacy-digest/financial-literacy-digest-spring-2026.html
 
 A quarterly e-newsletter that lists events, initiatives, and other resources offered by the OCC and other government agencies and organizations that support financial literacy and capability.
+
+## FASB Names Four New Members to Its Investor Advisory Committee
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-06T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-four-new-members-to-its-investor-advisory-committee-424012
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
