@@ -73,7 +73,7 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
     "FDIC": 25,
     "FRB": 30,
     "FRB Payments": 30,
-    "NACHA": 25,
+    "NACHA": 80,
     "White House": 220,
     "Federal Register": 0,  # API only
     "BleepingComputer": 0,  # feed-only
@@ -843,6 +843,16 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                 "Accept-Language": "en-US,en;q=0.9",
                 "Referer": "https://usa.visa.com/",
+                "User-Agent": browser_ua,
+                "Cache-Control": "no-cache",
+                "Pragma": "no-cache",
+            }
+
+        if h in {"www.nacha.org", "nacha.org"}:
+            headers = {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Referer": "https://www.nacha.org/news",
                 "User-Agent": browser_ua,
                 "Cache-Control": "no-cache",
                 "Pragma": "no-cache",
@@ -2147,6 +2157,10 @@ def _next_page_url_source_fallback(source: str, cur_url: str, cur_html: str, pag
     if source == "White House" and ("whitehouse.gov/news" in u or "whitehouse.gov/presidential-actions" in u):
         # page_i is zero-based loop counter; next page number starts at 2
         return _append_path_page(u, page_i + 2)
+
+    # NACHA news listing supports Drupal-style ?page=N pagination; the bare /news page is page 0.
+    if source == "NACHA" and "nacha.org/news" in u:
+        return _bump_query_page_from_zero(u, "page")
 
     # Senate Banking: pagination is often query-based and 1-based.
     if source == "Senate Banking" and "banking.senate.gov/newsroom" in u:
@@ -4002,6 +4016,85 @@ def fasb_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[dateti
 
     return links
 
+
+# ============================
+# NACHA NEWS LISTING EXTRACTOR
+# ============================
+
+def nacha_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    """Extract real Nacha news cards from /news.
+
+    Nacha's listing often uses a blank image/card anchor that contains the real
+    href, with the headline and date as nearby sibling text. The generic extractor
+    can miss those cards because the href anchor has no visible title text.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    strip_nav_like(container)
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    for a in container.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#"):
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("NACHA", url):
+            continue
+
+        up = urlparse(url)
+        pth = (up.path or "").rstrip("/")
+        if pth == "/news" or not pth.startswith("/news/"):
+            continue
+
+        if up.query:
+            non_utm = [k for k in parse_qs(up.query).keys() if not k.lower().startswith("utm_")]
+            if non_utm:
+                continue
+
+        if url in seen:
+            continue
+
+        raw_title = (a.get_text(" ", strip=True) or "").strip()
+        card = a.find_parent(["article", "li", "div", "section"]) or a.parent
+
+        if (not raw_title) or raw_title.strip().lower() in {"read more", "learn more", "more", "details"}:
+            if card:
+                h = card.find(["h1", "h2", "h3", "h4"])
+                if h:
+                    raw_title = (h.get_text(" ", strip=True) or "").strip()
+
+        title = clean_text(raw_title, 220)
+        if not title or len(title) < 8:
+            continue
+        if title.lower() in {"read more", "learn more", "more", "details"}:
+            continue
+        if is_probably_nav_link("NACHA", title, url):
+            continue
+
+        dt = None
+        if card:
+            dt = extract_any_date(clean_text(card.get_text(" ", strip=True), 900), source="NACHA")
+        if dt is None:
+            dt = find_time_near_anchor(a, "NACHA")
+
+        seen.add(url)
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    links.sort(key=lambda t: (t[2] is None, t[2] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
+    return links[:MAX_LISTING_LINKS]
+
+
+def nacha_links(page_url: str, html: str, window_start: Optional[datetime]) -> List[Tuple[str, str, Optional[datetime]]]:
+    return _paginate_listing("NACHA", page_url, html, window_start, nacha_links_single)
+
 # ============================
 # MAIN CONTENT LINK ROUTER
 # ============================
@@ -4032,6 +4125,8 @@ def main_content_links(source: str, page_url: str, html: str, window_start: date
         return cdia_links(page_url, html)
     if source == "FASB":
         return fasb_links(page_url, html)
+    if source == "NACHA":
+        return nacha_links(page_url, html, window_start)
 
     if source == "FHLB MPF":
         return fhlbmpf_links(page_url, html)
