@@ -1,13 +1,21 @@
 # RegDashboard — Export
 
 Window: `2026-04-01T05:00:00Z` → `2026-05-01T04:59:59Z` (UTC)
-Last updated: `2026-05-01T11:02:23-05:00` (CT) — `2026-05-01T16:02:23Z` (UTC)
+Last updated: `2026-05-01T14:26:11-05:00` (CT) — `2026-05-01T19:26:11Z` (UTC)
 
 ## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 - Source: OFAC
 - Category: OFAC
 - Published: 2026-05-01T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260501
+
+## IRS seeking applications for Tax Counseling for the Elderly and Volunteer Income Tax Assistance program grants
+- Source: IRS
+- Category: IRS
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.irs.gov/newsroom/irs-seeking-applications-for-tax-counseling-for-the-elderly-and-volunteer-income-tax-assistance-program-grants-0
+
+IR-2026-60 May 1, 2026 — The Internal Revenue Service is now accepting applications for the Tax Counseling for the Elderly and Volunteer Income Tax Assistance grants.
 
 ## Agencies Issue Host State Loan-to-Deposit Ratios
 - Source: OCC
@@ -32,6 +40,12 @@ Last updated: `2026-05-01T11:02:23-05:00` (CT) — `2026-05-01T16:02:23Z` (UTC)
 - Category: Fintech Watch
 - Published: 2026-05-01T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-charter-member-x402-foundation
+
+## 15-year-old detained over French govt agency data breach
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/
 
 ## Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations
 - Source: BleepingComputer
@@ -85,6 +99,14 @@ Stay current on banking issues with daily news, podcasts, research, data analysi
 
 Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA.
 
+## Consumer Banking
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/consumer-banking
+
+Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
+
 ## Mortgage & Home Finance
 - Source: ABA
 - Category: Compliance Watch
@@ -92,6 +114,30 @@ Identify, monitor, measure and control for risk in your financial institution wi
 - URL: https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
 
 There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
+
+## Payments Overview
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/payments
+
+Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
+
+## Credit Cards
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/payments/credit-cards
+
+New credit card laws have fundamentally changed the industry.
+
+## Debit Cards
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/payments/debit-cards
+
+Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
 
 ## Commercial Banking
 - Source: ABA
@@ -140,6 +186,14 @@ Find sample materials, training, and best practices to help you communicate with
 - URL: https://www.aba.com/banking-topics/operations
 
 Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
+
+## Leadership
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/operations/leadership
+
+Resources and training for bank CEOs and Executives
 
 ## Workforce Excellence
 - Source: ABA
@@ -1869,14 +1923,6 @@ IR-2026-59, April 30, 2026 — The Department of the Treasury and the Internal R
 - Published: 2026-04-30T00:00:00Z
 - URL: https://www.bleepingcomputer.com/offer/deals/this-multi-model-ai-workspace-deal-does-the-comparing-for-you/
 
-## Consumer Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking
-
-Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
-
 ## Retail Banking
 - Source: ABA
 - Category: Compliance Watch
@@ -1901,14 +1947,6 @@ Understand how to safely deploy artificial intelligence at your bank with resour
 
 Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices.
 
-## Leadership
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/leadership
-
-Resources and training for bank CEOs and Executives
-
 ## Office of the Chief Administrative Hearing Officer, Chief Administrative Law Judge
 - Source: Federal Register
 - Category: Federal Register
@@ -1930,22 +1968,6 @@ On October 7, 2020, the Department of Justice ("Department") published an interi
 - URL: https://www.federalregister.gov/documents/2026/04/30/2026-08406/home-investment-partnerships-program-further-program-updates-and-streamlining
 
 This supplemental notice of proposed rulemaking re-opens public comment for certain topics and provisions that were addressed in HUD's May 29, 2024, proposed rule entitled "HOME Investment Partnerships Program: Program Updates and Streamlining." Among other changes, this supplemental notice of proposed rulemaking proposes to revise or revoke previously-proposed tenant protecti…
-
-## Official SAP npm packages compromised to steal credentials
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-29T22:43:44Z
-- URL: https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/
-
-Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]
-
-## Popular WordPress redirect plugin hid dormant backdoor for years
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-29T22:13:15Z
-- URL: https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/
-
-The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]
 
 ## America 250: Presidential Message on the Anniversary of the First Landing and the Raising of the Cape Henry Cross
 - Source: White House
@@ -2753,29 +2775,29 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Published: 2026-04-29T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411112
 
-## FIS Launches New Platform Giving Banks Control Over Digital Money
-- Source: FIS
-- Category: Fintech Watch
-- Published: 2026-04-29T00:00:00Z
-- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
-
 ## M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
 - Source: FIS
 - Category: Fintech Watch
 - Published: 2026-04-29T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
 
-## Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining
-- Source: BleepingComputer
-- Category: IS
+## FIS Launches New Platform Giving Banks Control Over Digital Money
+- Source: FIS
+- Category: Fintech Watch
 - Published: 2026-04-29T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/
+- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
 
-## Hackers arrested for hijacking and selling 610,000 Roblox accounts
+## Official SAP npm packages compromised to steal credentials
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-04-29T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/
+- URL: https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/
+
+## Popular WordPress redirect plugin hid dormant backdoor for years
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-04-29T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/
 
 ## Education Services
 - Source: CDIA
@@ -3147,22 +3169,6 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 
 Enhance your knowledge and understanding of consumer loans and issues that effect them.
 
-## Payments Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments
-
-Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
-
-## Credit Cards
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments/credit-cards
-
-New credit card laws have fundamentally changed the industry.
-
 ## Health Savings Accounts
 - Source: ABA
 - Category: Compliance Watch
@@ -3250,12 +3256,6 @@ With the issuance of this final rule, which constitutes a final order, the Actin
 - Category: Executive
 - Published: 2026-04-27T20:35:53Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/04/nominations-and-withdrawals-sent-to-the-senate-d935/
-
-## Presidential Message on National Apprenticeship Week
-- Source: White House
-- Category: Executive
-- Published: 2026-04-27T20:33:57Z
-- URL: https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/
 
 ## Readouts
 - Source: Treasury
@@ -3362,14 +3362,6 @@ ABA helps banks better identify and report money laundering and other illicit fi
 - URL: https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
 
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-
-## Debit Cards
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-27T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments/debit-cards
-
-Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
 
 ## Commercial & Industrial Loans
 - Source: ABA

@@ -4,6 +4,13 @@ OFAC
 Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 https://ofac.treasury.gov/recent-actions/20260501
 ------------------------------------------------------------
+IRS
+IRS
+2026-05-01T00:00:00Z
+IRS seeking applications for Tax Counseling for the Elderly and Volunteer Income Tax Assistance program grants
+https://www.irs.gov/newsroom/irs-seeking-applications-for-tax-counseling-for-the-elderly-and-volunteer-income-tax-assistance-program-grants-0
+IR-2026-60 May 1, 2026 — The Internal Revenue Service is now accepting applications for the Tax Counseling for the Elderly and Volunteer Income Tax Assistance grants.
+------------------------------------------------------------
 Banking
 OCC
 2026-05-01T00:00:00Z
@@ -27,6 +34,12 @@ Fiserv
 2026-05-01T00:00:00Z
 Fiserv Named a Charter Member of the x402 Foundation
 https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-charter-member-x402-foundation
+------------------------------------------------------------
+IS
+BleepingComputer
+2026-05-01T00:00:00Z
+15-year-old detained over French govt agency data breach
+https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/
 ------------------------------------------------------------
 IS
 BleepingComputer
@@ -81,9 +94,37 @@ Identify, monitor, measure and control for risk in your financial institution wi
 Compliance Watch
 ABA
 2026-05-01T00:00:00Z
+Consumer Banking
+https://www.aba.com/banking-topics/consumer-banking
+Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-05-01T00:00:00Z
 Mortgage & Home Finance
 https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
 There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-05-01T00:00:00Z
+Payments Overview
+https://www.aba.com/banking-topics/payments
+Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-05-01T00:00:00Z
+Credit Cards
+https://www.aba.com/banking-topics/payments/credit-cards
+New credit card laws have fundamentally changed the industry.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-05-01T00:00:00Z
+Debit Cards
+https://www.aba.com/banking-topics/payments/debit-cards
+Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -126,6 +167,13 @@ ABA
 Leadership & Operations
 https://www.aba.com/banking-topics/operations
 Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-05-01T00:00:00Z
+Leadership
+https://www.aba.com/banking-topics/operations/leadership
+Resources and training for bank CEOs and Executives
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -1666,13 +1714,6 @@ https://www.bleepingcomputer.com/offer/deals/this-multi-model-ai-workspace-deal-
 Compliance Watch
 ABA
 2026-04-30T00:00:00Z
-Consumer Banking
-https://www.aba.com/banking-topics/consumer-banking
-Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-30T00:00:00Z
 Retail Banking
 https://www.aba.com/banking-topics/consumer-banking/retail-banking
 As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
@@ -1690,13 +1731,6 @@ ABA
 Wealth Management
 https://www.aba.com/banking-topics/wealth-management
 Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-30T00:00:00Z
-Leadership
-https://www.aba.com/banking-topics/operations/leadership
-Resources and training for bank CEOs and Executives
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -1717,20 +1751,6 @@ Federal Register
 HOME Investment Partnerships Program: Further Program Updates and Streamlining
 https://www.federalregister.gov/documents/2026/04/30/2026-08406/home-investment-partnerships-program-further-program-updates-and-streamlining
 This supplemental notice of proposed rulemaking re-opens public comment for certain topics and provisions that were addressed in HUD's May 29, 2024, proposed rule entitled "HOME Investment Partnerships Program: Program Updates and Streamlining." Among other changes, this supplemental notice of proposed rulemaking proposes to revise or revoke previously-proposed tenant protecti…
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-04-29T22:43:44Z
-Official SAP npm packages compromised to steal credentials
-https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/
-Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-04-29T22:13:15Z
-Popular WordPress redirect plugin hid dormant backdoor for years
-https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/
-The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]
 ------------------------------------------------------------
 Executive
 White House
@@ -2447,26 +2467,26 @@ https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411112
 Fintech Watch
 FIS
 2026-04-29T00:00:00Z
-FIS Launches New Platform Giving Banks Control Over Digital Money
-https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
+M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
+https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
 ------------------------------------------------------------
 Fintech Watch
 FIS
 2026-04-29T00:00:00Z
-M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
-https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
+FIS Launches New Platform Giving Banks Control Over Digital Money
+https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-04-29T00:00:00Z
-Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining
-https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/
+Official SAP npm packages compromised to steal credentials
+https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-04-29T00:00:00Z
-Hackers arrested for hijacking and selling 610,000 Roblox accounts
-https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/
+Popular WordPress redirect plugin hid dormant backdoor for years
+https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/
 ------------------------------------------------------------
 Compliance Watch
 CDIA
@@ -2824,20 +2844,6 @@ Enhance your knowledge and understanding of consumer loans and issues that effec
 Compliance Watch
 ABA
 2026-04-28T00:00:00Z
-Payments Overview
-https://www.aba.com/banking-topics/payments
-Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-28T00:00:00Z
-Credit Cards
-https://www.aba.com/banking-topics/payments/credit-cards
-New credit card laws have fundamentally changed the industry.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-28T00:00:00Z
 Health Savings Accounts
 https://www.aba.com/banking-topics/wealth-management/health-savings-accounts
 An HSA is a tax-free savings account that's paired with a high deductible health insurance plan to pay for routine medical expenses. The ABA's Health Savings Account (HSA) Council supports expansion of account-based health care solutions for all Americans.
@@ -2914,12 +2920,6 @@ White House
 2026-04-27T20:35:53Z
 Nominations and Withdrawals Sent to the Senate
 https://www.whitehouse.gov/presidential-actions/2026/04/nominations-and-withdrawals-sent-to-the-senate-d935/
-------------------------------------------------------------
-Executive
-White House
-2026-04-27T20:33:57Z
-Presidential Message on National Apprenticeship Week
-https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/
 ------------------------------------------------------------
 OFAC
 Treasury
@@ -3021,13 +3021,6 @@ ABA
 Inclusive Banking
 https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-27T00:00:00Z
-Debit Cards
-https://www.aba.com/banking-topics/payments/debit-cards
-Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
 ------------------------------------------------------------
 Compliance Watch
 ABA

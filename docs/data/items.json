@@ -1,8 +1,8 @@
 {
   "window_start": "2026-04-01T05:00:00Z",
   "window_end": "2026-05-01T04:59:59Z",
-  "generated_at_utc": "2026-05-01T16:02:23Z",
-  "generated_at_ct": "2026-05-01T11:02:23-05:00",
+  "generated_at_utc": "2026-05-01T19:26:11Z",
+  "generated_at_ct": "2026-05-01T14:26:11-05:00",
   "items": [
     {
       "category": "OFAC",
@@ -11,6 +11,14 @@
       "published_at": "2026-05-01T00:00:00Z",
       "url": "https://ofac.treasury.gov/recent-actions/20260501",
       "summary": ""
+    },
+    {
+      "category": "IRS",
+      "source": "IRS",
+      "title": "IRS seeking applications for Tax Counseling for the Elderly and Volunteer Income Tax Assistance program grants",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.irs.gov/newsroom/irs-seeking-applications-for-tax-counseling-for-the-elderly-and-volunteer-income-tax-assistance-program-grants-0",
+      "summary": "IR-2026-60 May 1, 2026 — The Internal Revenue Service is now accepting applications for the Tax Counseling for the Elderly and Volunteer Income Tax Assistance grants."
     },
     {
       "category": "Banking",
@@ -42,6 +50,14 @@
       "title": "Fiserv Named a Charter Member of the x402 Foundation",
       "published_at": "2026-05-01T00:00:00Z",
       "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-charter-member-x402-foundation",
+      "summary": ""
+    },
+    {
+      "category": "IS",
+      "source": "BleepingComputer",
+      "title": "15-year-old detained over French govt agency data breach",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
       "summary": ""
     },
     {
@@ -111,10 +127,42 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+      "title": "Consumer Banking",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/consumer-banking",
+      "summary": "Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
       "title": "Mortgage & Home Finance",
       "published_at": "2026-05-01T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance",
       "summary": "There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Payments Overview",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/payments",
+      "summary": "Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Credit Cards",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/payments/credit-cards",
+      "summary": "New credit card laws have fundamentally changed the industry."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Debit Cards",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/payments/debit-cards",
+      "summary": "Debit cards are a preferred payment method for consumers, and are now synonymous with banking."
     },
     {
       "category": "Compliance Watch",
@@ -163,6 +211,14 @@
       "published_at": "2026-05-01T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/operations",
       "summary": "Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Leadership",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/operations/leadership",
+      "summary": "Resources and training for bank CEOs and Executives"
     },
     {
       "category": "Compliance Watch",
@@ -1990,14 +2046,6 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
-      "title": "Consumer Banking",
-      "published_at": "2026-04-30T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/consumer-banking",
-      "summary": "Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
       "title": "Retail Banking",
       "published_at": "2026-04-30T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/retail-banking",
@@ -2018,14 +2066,6 @@
       "published_at": "2026-04-30T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/wealth-management",
       "summary": "Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Leadership",
-      "published_at": "2026-04-30T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations/leadership",
-      "summary": "Resources and training for bank CEOs and Executives"
     },
     {
       "category": "Federal Register",
@@ -2066,22 +2106,6 @@
         "filter:manufactured-home"
       ],
       "fedreg_document_number": "2026-08406"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Official SAP npm packages compromised to steal credentials",
-      "published_at": "2026-04-29T22:43:44Z",
-      "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-      "summary": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-      "published_at": "2026-04-29T22:13:15Z",
-      "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-      "summary": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]"
     },
     {
       "category": "Executive",
@@ -2910,33 +2934,33 @@
     {
       "category": "Fintech Watch",
       "source": "FIS",
-      "title": "FIS Launches New Platform Giving Banks Control Over Digital Money",
-      "published_at": "2026-04-29T00:00:00Z",
-      "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital",
-      "summary": ""
-    },
-    {
-      "category": "Fintech Watch",
-      "source": "FIS",
       "title": "M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting",
       "published_at": "2026-04-29T00:00:00Z",
       "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy",
       "summary": ""
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
+      "category": "Fintech Watch",
+      "source": "FIS",
+      "title": "FIS Launches New Platform Giving Banks Control Over Digital Money",
       "published_at": "2026-04-29T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
+      "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital",
       "summary": ""
     },
     {
       "category": "IS",
       "source": "BleepingComputer",
-      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
+      "title": "Official SAP npm packages compromised to steal credentials",
       "published_at": "2026-04-29T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
+      "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
+      "summary": ""
+    },
+    {
+      "category": "IS",
+      "source": "BleepingComputer",
+      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
+      "published_at": "2026-04-29T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
       "summary": ""
     },
     {
@@ -3436,22 +3460,6 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
-      "title": "Payments Overview",
-      "published_at": "2026-04-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/payments",
-      "summary": "Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Credit Cards",
-      "published_at": "2026-04-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/payments/credit-cards",
-      "summary": "New credit card laws have fundamentally changed the industry."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
       "title": "Health Savings Accounts",
       "published_at": "2026-04-28T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/wealth-management/health-savings-accounts",
@@ -3594,14 +3602,6 @@
       "summary": ""
     },
     {
-      "category": "Executive",
-      "source": "White House",
-      "title": "Presidential Message on National Apprenticeship Week",
-      "published_at": "2026-04-27T20:33:57Z",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/",
-      "summary": ""
-    },
-    {
       "category": "OFAC",
       "source": "Treasury",
       "title": "Readouts",
@@ -3728,14 +3728,6 @@
       "published_at": "2026-04-27T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/inclusive-banking",
       "summary": "Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Debit Cards",
-      "published_at": "2026-04-27T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/payments/debit-cards",
-      "summary": "Debit cards are a preferred payment method for consumers, and are now synonymous with banking."
     },
     {
       "category": "Compliance Watch",
