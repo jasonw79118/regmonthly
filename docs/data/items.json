@@ -1,8 +1,8 @@
 {
-  "window_start": "2026-04-01T05:00:00Z",
-  "window_end": "2026-05-01T04:59:59Z",
-  "generated_at_utc": "2026-05-01T21:45:27Z",
-  "generated_at_ct": "2026-05-01T16:45:27-05:00",
+  "window_start": "2026-03-31T05:00:00Z",
+  "window_end": "2026-05-01T05:00:00Z",
+  "generated_at_utc": "2026-05-05T14:52:55Z",
+  "generated_at_ct": "2026-05-05T09:52:55-05:00",
   "items": [
     {
       "category": "OFAC",
@@ -38,6 +38,174 @@
     },
     {
       "category": "Banking",
+      "source": "OCC",
+      "title": "Featured Publications View All Publications",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.occ.gov/publications-and-resources/publications/index-publications.html",
+      "summary": "Publications"
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Issues List of Banks Examined for CRA Compliance",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-3",
+      "summary": "The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). May 2026"
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "Anchor Bank Assumes Insured Deposits of Community Bank and Trust - West Georgia, LaGrange, Georgia",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/anchor-bank-assumes-insured-deposits-community-bank-and-trust-west-georgia",
+      "summary": "Community Bank and Trust - West Georgia of LaGrange, Georgia was closed today by the Georgia Department of Banking and Finance, which appointed the FDIC."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "Agencies Issue Host State Loan-to-Deposit Ratios",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-host-state-loan-deposit-ratios",
+      "summary": "Federal bank regulatory agencies today jointly issued updated host state loan-to-deposit ratios, as required by law."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Publishes March Enforcement Actions",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-publishes-march-enforcement-actions",
+      "summary": "(FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in March 2026."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "Agencies Finalize Changes to Community Bank Leverage Ratio",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/agencies-finalize-changes-community-bank-leverage-ratio",
+      "summary": "The federal bank regulatory agencies today jointly finalized a rule to modify the community bank leverage ratio consistent with existing statutory authority."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "Agencies Issue Revised Model Risk Guidance",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-revised-model-risk-guidance",
+      "summary": "The agencies issued revised model risk management guidance and rescinded existing model risk management guidance."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "Principals of U.S., European Banking Union, and U.K. Financial Authorities To Meet for Regular Coordination Exercise on Cross-Border Resolution Planning",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/principals-us-european-banking-union-and-uk-financial-authorities-meet",
+      "summary": "Trilateral Principal Level Exercise (TPLE) on Saturday, April 18, 2026."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Announces Four Senior Leadership Appointments",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-announces-four-senior-leadership-appointments",
+      "summary": "The Federal Deposit Insurance Corporation (FDIC) today announced the appointment of the following personnel to serve in senior leadership positions"
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "Agencies Issue Final Rule to Prohibit Use of Reputation Risk by Regulators",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-final-rule-prohibit-use-reputation-risk-regulators",
+      "summary": "The OCC and the FDIC (the agencies) today jointly issued a final rule that codifies the elimination of reputation risk from their supervisory programs."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "Agencies Request Comment on Anti-Money Laundering/Countering the Financing of Terrorism Proposed Rule",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/agencies-request-comment-anti-money-launderingcountering-financing",
+      "summary": "The agencies today invite public comment on a proposed rule for anti-money laundering and countering the financing of terrorism."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Approves Proposal to Implement GENIUS Act Requirements and Standards",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-approves-proposal-implement-genius-act-requirements-and-standards",
+      "summary": "The FDIC Board of Directors today approved a notice of proposed rulemaking that would implement certain requirements and standards under the GENIUS Act."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Issues List of Banks Examined for CRA Compliance",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-2",
+      "summary": "The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA)."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Issues 2026 Consumer Compliance Supervisory Highlights",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-issues-2026-consumer-compliance-supervisory-highlights",
+      "summary": "The Federal Deposit Insurance Corporation (FDIC) today issued the 2026 edition of the Consumer Compliance Supervisory Highlights."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Publishes February Enforcement Actions",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-publishes-february-enforcement-actions",
+      "summary": "FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in February 2026"
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Board of Directors Rescinds Statement of Policy on Qualifications for Failed Bank Acquisitions",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-rescinds-statement-policy-qualifications-failed-bank",
+      "summary": "The FDIC Board of Directors approved today the rescission of the Statement of Policy on Qualifications for Failed Bank Acquisitions"
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "Agencies Request Comment on Proposals to Modernize the Regulatory Capital Framework And Maintain the Strength of the Banking System",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/agencies-request-comment-proposals-modernize-regulatory-capital-framework",
+      "summary": "The federal bank regulatory agencies today requested comment on three proposals to modernize the regulatory capital framework for banks of all sizes."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "Agencies Clarify the Capital Treatment of Tokenized Securities",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/agencies-clarify-capital-treatment-tokenized-securities",
+      "summary": "The federal bank regulatory agencies today jointly issued answers to frequently asked questions to clarify the capital treatment of tokenized securities."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Issues List of Banks Examined for CRA Compliance",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-1",
+      "summary": "(FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA) March 2026"
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-approves-deposit-insurance-application-edward-jones-bank-salt-lake",
+      "summary": "The Board of Directors (FDIC) announced the approval of a deposit insurance application submitted by the Jones Financial Companies, L.L.L.P."
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "FDIC Issues CRA Examination Schedules for Second Quarter 2026 and Third Quarter 2026",
+      "published_at": "2026-05-01T00:00:00Z",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-issues-cra-examination-schedules-second-quarter-2026-and-third",
+      "summary": "The FDIC today issued the lists of institutions scheduled for a CRA examination during the second quarter 2026 and third quarter 2026."
+    },
+    {
+      "category": "Banking",
       "source": "FRB",
       "title": "Regulatory Reform",
       "published_at": "2026-05-01T00:00:00Z",
@@ -61,116 +229,12 @@
       "summary": ""
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "15-year-old detained over French govt agency data breach",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "This $49 AI tool helps you go from idea to written book, fast",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/offer/deals/this-49-ai-tool-helps-you-go-from-idea-to-written-book-fast/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
-      "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Jump to Content",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/news-research",
-      "summary": "Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Risk Management",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/risk-management",
-      "summary": "Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Consumer Banking",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/consumer-banking",
-      "summary": "Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Consumer Lending",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/consumer-banking/consumer-lending",
-      "summary": "Enhance your knowledge and understanding of consumer loans and issues that effect them."
-    },
-    {
       "category": "Compliance Watch",
       "source": "ABA",
       "title": "Mortgage & Home Finance",
       "published_at": "2026-05-01T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance",
       "summary": "There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Retail Banking",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/consumer-banking/retail-banking",
-      "summary": "As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Payments Overview",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/payments",
-      "summary": "Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions."
     },
     {
       "category": "Compliance Watch",
@@ -199,50 +263,10 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
-      "title": "Agricultural Banking",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/commercial-banking/agricultural-banking",
-      "summary": "Find the most relevant ag banking information, resources and research from our team of experts."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Commercial & Industrial Loans",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans",
-      "summary": "ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
       "title": "Small Business",
       "published_at": "2026-05-01T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/commercial-banking/small-business",
       "summary": "Banks and small businesses need each other to stay healthy. The banking industry has a long history of providing the capital that small businesses need to survive and thrive."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Technology",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/technology",
-      "summary": "Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Artificial Intelligence",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/technology/artificial-intelligence",
-      "summary": "Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Cybersecurity",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/technology/cybersecurity",
-      "summary": "ABA offers resources to help banks protect their customers' accounts and personal information."
     },
     {
       "category": "Compliance Watch",
@@ -255,34 +279,10 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
-      "title": "Leadership & Operations",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations",
-      "summary": "Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
       "title": "Leadership",
       "published_at": "2026-05-01T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/operations/leadership",
       "summary": "Resources and training for bank CEOs and Executives"
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Workforce Excellence",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations/workforce-excellence",
-      "summary": "America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Economic Trends",
-      "published_at": "2026-05-01T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations/economic-trends",
-      "summary": "The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector."
     },
     {
       "category": "Federal Register",
@@ -444,14 +444,6 @@
       "summary": ""
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
-      "published_at": "2026-04-30T18:58:50Z",
-      "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
-      "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]"
-    },
-    {
       "category": "OFAC",
       "source": "Treasury",
       "title": "Remarks by Secretary of the Treasury Scott Bessent Before the EXIM Annual Conference",
@@ -476,30 +468,6 @@
       "summary": ""
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Romanian leader of online swatting ring gets 4 years in prison",
-      "published_at": "2026-04-30T17:45:12Z",
-      "url": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
-      "summary": "A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
-      "published_at": "2026-04-30T16:32:18Z",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "April KB5083769 Windows 11 update causes backup software failures",
-      "published_at": "2026-04-30T15:23:03Z",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
-      "summary": "The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]"
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "First Lady Melania Trump’s Elegant State Dinner and Groundbreaking VR Educational Experience Create a Historic State Visit for Their Majesties King Charles III and Queen Camilla",
@@ -509,43 +477,11 @@
     },
     {
       "category": "IS",
-      "source": "BleepingComputer",
-      "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
-      "published_at": "2026-04-30T14:02:12Z",
-      "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
-      "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]"
-    },
-    {
-      "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2026-33825 Microsoft Defender Elevation of Privilege Vulnerability",
       "published_at": "2026-04-30T14:00:00Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33825",
       "summary": "Added FAQ information. This is an informational change only."
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
-      "published_at": "2026-04-30T13:54:47Z",
-      "url": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-      "summary": "An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
-      "published_at": "2026-04-30T11:40:31Z",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
-      "summary": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
-      "published_at": "2026-04-30T11:21:02Z",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
-      "summary": "A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]"
     },
     {
       "category": "IS",
@@ -1998,6 +1934,14 @@
     {
       "category": "Legislative",
       "source": "Senate Banking",
+      "title": "ICYMI: Chairman Scott Highlights Importance of Kevin Warsh Leading Federal Reserve, Momentum for CLARITY Act on Fox Business’ Mornings with Maria",
+      "published_at": "2026-04-30T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/majority/chairman-scott-highlights-importance-of-kevin-warsh-leading-federal-reserve-momentum-for-clarity-act-on-fox-business-mornings-with-maria",
+      "summary": ""
+    },
+    {
+      "category": "Legislative",
+      "source": "Senate Banking",
       "title": "Warren Continues Probe of Credit Card Junk Fees on Sports Bets, Requesting Data From Major Credit Card Companies",
       "published_at": "2026-04-30T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/warren-continues-probe-of-credit-card-junk-fees-on-sports-bets-requesting-data-from-major-credit-card-companies",
@@ -2014,9 +1958,9 @@
     {
       "category": "Legislative",
       "source": "Senate Banking",
-      "title": "ICYMI: Chairman Scott Highlights Importance of Kevin Warsh Leading Federal Reserve, Momentum for CLARITY Act on Fox Business’ Mornings with Maria",
+      "title": "Warren Presses Bessent on Lowering Costs Following Comments that Americans “Feel Good” Amid Affordability Crisis and Consumer Sentiment Hitting Record Lows",
       "published_at": "2026-04-30T00:00:00Z",
-      "url": "https://www.banking.senate.gov/newsroom/majority/chairman-scott-highlights-importance-of-kevin-warsh-leading-federal-reserve-momentum-for-clarity-act-on-fox-business-mornings-with-maria",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-presses-bessent-on-lowering-costs-following-comments-that-americans-feel-good-amid-affordability-crisis-and-consumer-sentiment-hitting-record-lows",
       "summary": ""
     },
     {
@@ -2052,11 +1996,11 @@
       "summary": ""
     },
     {
-      "category": "Fintech Watch",
-      "source": "FIS",
-      "title": "FIS Announces Quarterly Dividend",
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Same Day ACH: No Change to the Amount of the Same Day ACH Fee",
       "published_at": "2026-04-30T00:00:00Z",
-      "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-announces-quarterly-dividend-52",
+      "url": "https://www.nacha.org/news/same-day-ach-no-change-amount-same-day-ach-fee",
       "summary": ""
     },
     {
@@ -2076,19 +2020,11 @@
       "summary": ""
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Learn 41 different languages with this $90 app (MSRP $300)",
+      "category": "Payment Card Networks",
+      "source": "Mastercard",
+      "title": "What is a passkey? Here’s everything you need to know August, 2024",
       "published_at": "2026-04-30T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/offer/deals/learn-41-different-languages-with-this-90-app-msrp-300/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "This multi-model AI workspace deal does the comparing for you",
-      "published_at": "2026-04-30T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/offer/deals/this-multi-model-ai-workspace-deal-does-the-comparing-for-you/",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2024/august/everything-you-need-to-know-about-payment-passkeys.html",
       "summary": ""
     },
     {
@@ -2980,22 +2916,6 @@
       "summary": ""
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Official SAP npm packages compromised to steal credentials",
-      "published_at": "2026-04-29T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-      "summary": ""
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-      "published_at": "2026-04-29T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-      "summary": ""
-    },
-    {
       "category": "Compliance Watch",
       "source": "CDIA",
       "title": "Education Services",
@@ -3268,6 +3188,14 @@
     {
       "category": "Fintech Watch",
       "source": "Jack Henry",
+      "title": "Jack Henry Announces Fiscal 2026 Third Quarter Deconversion Revenue Results",
+      "published_at": "2026-04-28T00:00:00Z",
+      "url": "https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-announces-fiscal-2026-third-quarter-deconversion",
+      "summary": ""
+    },
+    {
+      "category": "Fintech Watch",
+      "source": "Jack Henry",
       "title": "Jack Henry's Annual Survey of Financial Institutions Highlights Priorities Amid Economic Uncertainty and a New Hybrid Monetary Era",
       "published_at": "2026-04-28T00:00:00Z",
       "url": "https://ir.jackhenry.com/news-releases/news-release-details/jack-henrys-annual-survey-financial-institutions-highlights",
@@ -3276,9 +3204,9 @@
     {
       "category": "Payment Card Networks",
       "source": "Visa",
-      "title": "Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement",
+      "title": "Visa Announces Global Expansion of Agentic Ready Program",
       "published_at": "2026-04-28T00:00:00Z",
-      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html",
       "summary": ""
     },
     {
@@ -3464,14 +3392,6 @@
       "published_at": "2026-04-28T00:00:00Z",
       "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html",
       "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Incident Response",
-      "published_at": "2026-04-28T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/risk-management/incident-response",
-      "summary": "Resources to help you prepare for and respond to a physical or cyber incident."
     },
     {
       "category": "Compliance Watch",
@@ -3738,12 +3658,36 @@
       "summary": ""
     },
     {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Illicit Finance",
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Jubilee Media Founder Jason Y. Lee Flipped the Script on His Life. You Can, Too",
       "published_at": "2026-04-27T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/risk-management/money-laundering",
-      "summary": "ABA helps banks better identify and report money laundering and other illicit financial activity with information on new technologies and best practices."
+      "url": "https://www.nacha.org/news/jubilee-media-founder-jason-y-lee-flipped-script-his-life-you-can-too",
+      "summary": ""
+    },
+    {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "The Onion Founder Scott Dikkers: ‘Practice Professional Stupidity’",
+      "published_at": "2026-04-27T00:00:00Z",
+      "url": "https://www.nacha.org/news/onion-founder-scott-dikkers-practice-professional-stupidity",
+      "summary": ""
+    },
+    {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Raising the Limit to $10 Million Reflects the Demand for Same Day ACH",
+      "published_at": "2026-04-27T00:00:00Z",
+      "url": "https://www.nacha.org/news/raising-limit-10-million-reflects-demand-same-day-ach",
+      "summary": ""
+    },
+    {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Same Day ACH Per Payment Limit to Increase to $10 Million",
+      "published_at": "2026-04-27T00:00:00Z",
+      "url": "https://www.nacha.org/news/same-day-ach-payment-limit-increase-10-million",
+      "summary": ""
     },
     {
       "category": "Compliance Watch",
@@ -5654,14 +5598,6 @@
       "summary": "Information published."
     },
     {
-      "category": "Banking",
-      "source": "OCC",
-      "title": "Featured Publications View All Publications",
-      "published_at": "2026-04-22T00:00:00Z",
-      "url": "https://www.occ.gov/publications-and-resources/publications/index-publications.html",
-      "summary": "Publications"
-    },
-    {
       "category": "Mortgage",
       "source": "Fannie Mae",
       "title": "Fannie Mae Announces Credit Score Model Updates to Advance Credit Score Modernization",
@@ -5740,30 +5676,6 @@
       "published_at": "2026-04-22T00:00:00Z",
       "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411107",
       "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "Wolters Kluwer",
-      "title": "Wolters Kluwer introduces Expert AI‑powered Search Insights and AI-assisted Filing to transform lien due diligence and UCC filing workflows",
-      "published_at": "2026-04-22T00:00:00Z",
-      "url": "https://www.wolterskluwer.com/en/news/wolters-kluwer-introduces-expert-ai-powered-search-insights-and-ai-assisted-filing",
-      "summary": "Wolters Kluwer announced two new AI-powered enhancements to its Financial & Corporate Compliance portfolio: iLien Search Insights Report and iLien Filing Assistant powered by Expert AI."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "Wolters Kluwer",
-      "title": "Wolters Kluwer CCH Tagetik recognized with two Globee Awards for Excellence",
-      "published_at": "2026-04-22T00:00:00Z",
-      "url": "https://www.wolterskluwer.com/en/news/pr-globee-awards-for-excellence",
-      "summary": "Honored for advancing financial performance and ESG reporting through AI-enabled, enterprise-grade solutions."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "Wolters Kluwer",
-      "title": "Wolters Kluwer Enablon Recognized with Globee® Award for Excellence",
-      "published_at": "2026-04-22T00:00:00Z",
-      "url": "https://www.wolterskluwer.com/en/news/wolters-kluwer-enablon-recognized-with-globee-award-for-excellence",
-      "summary": "Enablon received a Globee® Award for Excellence for its Process Hazard Analysis tool, recognizing its contribution to strengthening process safety."
     },
     {
       "category": "Federal Register",
@@ -5938,14 +5850,6 @@
       "published_at": "2026-04-21T00:00:00Z",
       "url": "https://www.aba.com/training-events/schools/trust-schools",
       "summary": "The best trust schools in the industry offered by national trust experts."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "Wolters Kluwer",
-      "title": "Wolters Kluwer CCH Tagetik kicks off Global inTouch 2026 series showcasing Expert AI in action for the office of CFO",
-      "published_at": "2026-04-21T00:00:00Z",
-      "url": "https://www.wolterskluwer.com/en/news/pr-cch-tagetik-kicks-off-global-intouch-2026-showcasing-expert-ai-for-cfo",
-      "summary": "Global inTouch launches a global event series demonstrating how CCH Tagetik with Expert AI is transforming the way finance works with AI-enabled capabilities."
     },
     {
       "category": "Federal Register",
@@ -6141,6 +6045,14 @@
       "title": "Warren Presses SEC Chair Atkins to Investigate Suspicious Activity Involving Defense Secretary Hegseth Ahead of U.S.-Israel Iran Strikes",
       "published_at": "2026-04-20T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/warren-presses-sec-chair-atkins-to-investigate-suspicious-activity-involving-defense-secretary-hegseth-ahead-of-us-israel-iran-strikes",
+      "summary": ""
+    },
+    {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Same Day ACH Gains Lead to First Quarter ACH Network Growth",
+      "published_at": "2026-04-20T00:00:00Z",
+      "url": "https://www.nacha.org/news/same-day-ach-gains-lead-first-quarter-ach-network-growth",
       "summary": ""
     },
     {
@@ -6366,17 +6278,17 @@
     {
       "category": "OFAC",
       "source": "Treasury",
-      "title": "Treasury Sanctions Recruitment Network Enabling War in Sudan, Calls for Humanitarian Truce",
+      "title": "Economic Fury Targets Iran-Backed Iraqi Militia Commanders",
       "published_at": "2026-04-17T18:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0457",
+      "url": "https://home.treasury.gov/news/press-releases/sb0458",
       "summary": ""
     },
     {
       "category": "OFAC",
       "source": "Treasury",
-      "title": "Economic Fury Targets Iran-Backed Iraqi Militia Commanders",
+      "title": "Treasury Sanctions Recruitment Network Enabling War in Sudan, Calls for Humanitarian Truce",
       "published_at": "2026-04-17T18:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0458",
+      "url": "https://home.treasury.gov/news/press-releases/sb0457",
       "summary": ""
     },
     {
@@ -6996,6 +6908,14 @@
       "title": "All Banking Committee Democrats Call for Delay of Warsh Hearing As Trump Attempts to Take Over Fed",
       "published_at": "2026-04-16T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/all-banking-committee-democrats-call-for-delay-of-warsh-hearing-as-trump-attempts-to-take-over-fed",
+      "summary": ""
+    },
+    {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Sharing Information is Key to Fighting Fraud",
+      "published_at": "2026-04-16T00:00:00Z",
+      "url": "https://www.nacha.org/news/sharing-information-key-fighting-fraud",
       "summary": ""
     },
     {
@@ -7675,20 +7595,12 @@
       "summary": ""
     },
     {
-      "category": "Fintech Watch",
-      "source": "Fiserv",
-      "title": "Finxact Named Best SaaS Platform at 2026 FinTech Awards",
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Nacha Announces Prometeo is a Nacha Preferred Partner for Account Validation/Open Banking",
       "published_at": "2026-04-15T00:00:00Z",
-      "url": "https://investors.fiserv.com/news-releases/news-release-details/finxact-named-best-saas-platform-2026-fintech-awards",
+      "url": "https://www.nacha.org/news/nacha-announces-prometeo-nacha-preferred-partner-account-validationopen-banking",
       "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Elder Financial Exploitation",
-      "published_at": "2026-04-15T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/risk-management/elder-financial-exploitation",
-      "summary": "This webpage provides resources to help bankers better understand elder financial exploitation (EFE)."
     },
     {
       "category": "Federal Register",
@@ -9338,6 +9250,30 @@
       "summary": ""
     },
     {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Rising to the Challenge of First-party Fraud",
+      "published_at": "2026-04-14T00:00:00Z",
+      "url": "https://www.nacha.org/news/rising-challenge-first-party-fraud",
+      "summary": ""
+    },
+    {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "How is Quantum Computing Used in Everyday Life?",
+      "published_at": "2026-04-14T00:00:00Z",
+      "url": "https://www.nacha.org/news/how-quantum-computing-used-everyday-life",
+      "summary": ""
+    },
+    {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "How Can Your Organization Build a Quantum-Safe Payments Readiness Plan?",
+      "published_at": "2026-04-14T00:00:00Z",
+      "url": "https://www.nacha.org/news/how-can-your-organization-build-quantum-safe-payments-readiness-plan",
+      "summary": ""
+    },
+    {
       "category": "Fintech Watch",
       "source": "FIS",
       "title": "Barclays and FIS Extend Partnership Supporting Bank's Online Deposits Growth",
@@ -9415,6 +9351,14 @@
       "title": "MPF Announcement 2026-17",
       "published_at": "2026-04-13T00:00:00Z",
       "url": "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-17",
+      "summary": ""
+    },
+    {
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "AI is Real, but it’s Not Coming for Your Job",
+      "published_at": "2026-04-13T00:00:00Z",
+      "url": "https://www.nacha.org/news/ai-real-its-not-coming-your-job",
       "summary": ""
     },
     {
@@ -11198,12 +11142,12 @@
       "summary": "IR-2026-46, April 6, 2026 — The IRS today announced a major expansion of its Business Tax Account, making the online self-service platform available to partnerships, federal, state, and local governments, Indian tribal governments, and tax-exempt organizations."
     },
     {
-      "category": "Banking",
-      "source": "OCC",
-      "title": "Financial Literacy Digest: Spring 2026",
+      "category": "Payments",
+      "source": "NACHA",
+      "title": "Time to ‘Stop Apologizing for Fraud Protection’",
       "published_at": "2026-04-06T00:00:00Z",
-      "url": "https://www.occ.gov/publications-and-resources/publications/community-affairs/financial-literacy-digest/financial-literacy-digest-spring-2026.html",
-      "summary": "A quarterly e-newsletter that lists events, initiatives, and other resources offered by the OCC and other government agencies and organizations that support financial literacy and capability."
+      "url": "https://www.nacha.org/news/time-stop-apologizing-fraud-protection",
+      "summary": ""
     },
     {
       "category": "Compliance Watch",
@@ -11486,14 +11430,6 @@
       "summary": ""
     },
     {
-      "category": "IRS",
-      "source": "IRS",
-      "title": "Act now to file, pay, or request an extension",
-      "published_at": "2026-04-03T00:00:00Z",
-      "url": "https://www.irs.gov/newsroom/act-now-to-file-pay-or-request-an-extension",
-      "summary": "IR-2026-44, April 3, 2026 — With the April 15 tax deadline fast approaching, the Internal Revenue Service reminds taxpayers that there is still time to file their federal income tax return electronically and request direct deposit for any refund due."
-    },
-    {
       "category": "Legislative",
       "source": "Senate Banking",
       "title": "Senator Warren Statement on March 2026 Jobs Report",
@@ -11774,35 +11710,11 @@
       "summary": ""
     },
     {
-      "category": "IRS",
-      "source": "IRS",
-      "title": "Tax filing season progressing smoothly with timely refund processing and a high use of electronic filing",
-      "published_at": "2026-04-02T00:00:00Z",
-      "url": "https://www.irs.gov/newsroom/tax-filing-season-progressing-smoothly-with-timely-refund-processing-and-a-high-use-of-electronic-filing",
-      "summary": "IR-2026-43, April 2, 2026 — The Internal Revenue Service continues to deliver excellent service to taxpayers during the 2026 filing season with the rise in tax refunds, the smooth pace at which taxpayers are getting their refunds and the high use of electronic filing."
-    },
-    {
-      "category": "Mortgage",
-      "source": "Freddie Mac",
-      "title": "The 30-Year Fixed-Rate Mortgage Averages 6.46%",
-      "published_at": "2026-04-02T00:00:00Z",
-      "url": "https://www.globenewswire.com/news-release/2026/04/02/3267659/0/en/the-30-year-fixed-rate-mortgage-averages-6-46.html",
-      "summary": ""
-    },
-    {
       "category": "Legislative",
       "source": "Senate Banking",
       "title": "Warren, Merkley Question Bessent Over Plan to Add Trump Signature on U.S. Currency Amid Affordability Crisis",
       "published_at": "2026-04-02T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/warren-merkley-question-bessent-over-plan-to-add-trump-signature-on-us-currency-amid-affordability-crisis",
-      "summary": ""
-    },
-    {
-      "category": "Fintech Watch",
-      "source": "Fiserv",
-      "title": "Small Business Sales Grew Steadily in March as Higher Ticket Sizes Offset Softer Foot Traffic, Fiserv Data Shows",
-      "published_at": "2026-04-02T00:00:00Z",
-      "url": "https://investors.fiserv.com/news-releases/news-release-details/small-business-sales-grew-steadily-march-higher-ticket-sizes",
       "summary": ""
     },
     {
@@ -11968,6 +11880,353 @@
       "published_at": "2026-04-01T08:20:03Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21711",
       "summary": "Information published."
+    },
+    {
+      "category": "OFAC",
+      "source": "OFAC",
+      "title": "Venezuela-related Designation Removal",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://ofac.treasury.gov/recent-actions/20260401",
+      "summary": ""
+    },
+    {
+      "category": "Legislative",
+      "source": "Senate Banking",
+      "title": "Warren Calls out Trump's CFPB For Failing to Take Action on Zombie Mortgages",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-calls-out-trumps-cfpb-for-failing-to-take-action-on-zombie-mortgages",
+      "summary": ""
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Rescission of OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06281/rescission-of-occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured",
+      "summary": "The OCC is amending its regulations by rescinding \"OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches.\"",
+      "fr_tags": [
+        "agency:comptroller-of-the-currency",
+        "agency:treasury-department",
+        "topic:national-banks"
+      ],
+      "fedreg_document_number": "2026-06281"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Whistleblower Incentives and Protections",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06271/whistleblower-incentives-and-protections",
+      "summary": "FinCEN is proposing a rule to establish a whistleblower program that offers incentives and protections to encourage individuals who have information about potential violations of the Bank Secrecy Act (BSA), International Emergency Economic Powers Act (IEEPA), Trading With the Enemy Act of 1917 (TWEA), and Foreign Narcotics Kingpin Designation Act (Kingpin Act) to voluntarily r…",
+      "fr_tags": [
+        "agency:financial-crimes-enforcement-network",
+        "agency:treasury-department",
+        "filter:government-sponsored-enterprise",
+        "topic:currency",
+        "topic:holding-companies",
+        "topic:investment-companies",
+        "topic:securities"
+      ],
+      "fedreg_document_number": "2026-06271"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Removal of Regulatory Overreach and Federal Crop Insurance Policy Provisions",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06277/removal-of-regulatory-overreach-and-federal-crop-insurance-policy-provisions",
+      "summary": "The Federal Crop Insurance Corporation (FCIC) is amending its regulations regarding final agency determinations and interpretations of the Federal Crop Insurance Act and its associated regulations. This action is necessary to align agency procedures with Supreme Court precedent and the Administrative Procedure Act, ensuring that interpretive determinations are not improperly c…",
+      "fr_tags": [
+        "agency:agriculture-department",
+        "agency:federal-crop-insurance-corporation",
+        "topic:income-taxes"
+      ],
+      "fedreg_document_number": "2026-06277"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Registering Emergency Medical Services Agencies Under the Protecting Patient Access to Emergency Medications Act of 2017",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/C1-2026-02288/registering-emergency-medical-services-agencies-under-the-protecting-patient-access-to-emergency",
+      "summary": "",
+      "fr_tags": [
+        "agency:drug-enforcement-administration",
+        "agency:justice-department",
+        "filter:justice-department"
+      ],
+      "fedreg_document_number": "C1-2026-02288"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Title-Voice of Customer Survey",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06312/agency-information-collection-activities-proposed-ecollection-ecomments-requested-title-voice-of",
+      "summary": "The Federal Bureau of Investigation, Office of Private Sector, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "fr_tags": [
+        "agency:justice-department",
+        "filter:justice-department"
+      ],
+      "fedreg_document_number": "2026-06312"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Importer of Controlled Substances Application: Research Triangle Institute",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06311/importer-of-controlled-substances-application-research-triangle-institute",
+      "summary": "Research Triangle Institute has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to SUPPLEMENTARY INFORMATION listed below for further drug information.",
+      "fr_tags": [
+        "agency:drug-enforcement-administration",
+        "agency:justice-department",
+        "filter:justice-department"
+      ],
+      "fedreg_document_number": "2026-06311"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Bulk Manufacturer of Controlled Substances Application: Pharmaron Manufacturing Services (US) LLC",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06261/bulk-manufacturer-of-controlled-substances-application-pharmaron-manufacturing-services-us-llc",
+      "summary": "Pharmaron Manufacturing Services (US) LLC has applied to be registered as a bulk manufacturer of basic class(es) of controlled substance(s). Refer to SUPPLEMENTARY INFORMATION listed below for further drug information.",
+      "fr_tags": [
+        "agency:drug-enforcement-administration",
+        "agency:justice-department",
+        "filter:justice-department"
+      ],
+      "fedreg_document_number": "2026-06261"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Importer of Controlled Substances Application: Sterling Wisconsin, LLC",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06260/importer-of-controlled-substances-application-sterling-wisconsin-llc",
+      "summary": "Sterling Wisconsin, LLC has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+      "fr_tags": [
+        "agency:drug-enforcement-administration",
+        "agency:justice-department",
+        "filter:justice-department"
+      ],
+      "fedreg_document_number": "2026-06260"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Importer of Controlled Substances Application: Indivior Manufacturing LLC",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06259/importer-of-controlled-substances-application-indivior-manufacturing-llc",
+      "summary": "Indivior Manufacturing LLC has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+      "fr_tags": [
+        "agency:drug-enforcement-administration",
+        "agency:justice-department",
+        "filter:justice-department"
+      ],
+      "fedreg_document_number": "2026-06259"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Importer of Controlled Substances Application: Fisher Clinical Services, Inc.",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06258/importer-of-controlled-substances-application-fisher-clinical-services-inc",
+      "summary": "Fisher Clinical Services, Inc. has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+      "fr_tags": [
+        "agency:drug-enforcement-administration",
+        "agency:justice-department",
+        "filter:justice-department"
+      ],
+      "fedreg_document_number": "2026-06258"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Importer of Controlled Substances Application: Fisher Clinical Services, Inc.",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06257/importer-of-controlled-substances-application-fisher-clinical-services-inc",
+      "summary": "Fisher Clinical Services, Inc. has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+      "fr_tags": [
+        "agency:drug-enforcement-administration",
+        "agency:justice-department",
+        "filter:justice-department"
+      ],
+      "fedreg_document_number": "2026-06257"
+    },
+    {
+      "category": "Federal Register",
+      "source": "Federal Register",
+      "title": "Bulk Manufacturer of Controlled Substances Application: Royal Emerald Pharmaceuticals",
+      "published_at": "2026-04-01T00:00:00Z",
+      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06256/bulk-manufacturer-of-controlled-substances-application-royal-emerald-pharmaceuticals",
+      "summary": "Royal Emerald Pharmaceuticals has applied to be registered as a bulk manufacturer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+      "fr_tags": [
+        "agency:drug-enforcement-administration",
+        "agency:justice-department",
+        "filter:justice-department"
+      ],
+      "fedreg_document_number": "2026-06256"
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Ensures Citizenship Verification and Voter Eligibility in Federal Elections",
+      "published_at": "2026-03-31T22:06:12Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-ensures-citizenship-verification-and-voter-eligibility-in-federal-elections/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Ensuring Citizenship Verification and Integrity in Federal Elections",
+      "published_at": "2026-03-31T21:52:58Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/",
+      "summary": ""
+    },
+    {
+      "category": "Banking",
+      "source": "FDIC",
+      "title": "Financial Institution Letter: FDIC Consumer Compliance Supervisory Highlights",
+      "published_at": "2026-03-31T14:02:50Z",
+      "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4101448",
+      "summary": "FINANCIAL INSTITUTION LETTER | MARCH 31, 2026 FDIC Consumer Compliance Supervisory Highlights Summary: The FDIC’s Consumer Compliance Supervisory Highlights is an annual publication. Its purpose is to enhance transparency regarding the FDIC’s consumer compliance supervisory activities and provide a high-level overview of consumer compliance issues identified in 2025 through th…"
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2026-23229 crypto: virtio - Add spinlock protection with virtqueue notification",
+      "published_at": "2026-03-31T08:40:25Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23229",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2026-23228 smb: server: fix leak of active_num_conn in ksmbd_tcp_new_connection()",
+      "published_at": "2026-03-31T08:40:18Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23228",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2026-23222 crypto: omap - Allocate OMAP_CRYPTO_FORCE_COPY scatterlists correctly",
+      "published_at": "2026-03-31T08:40:12Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23222",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2026-23169 mptcp: fix race in mptcp_pm_nl_flush_addrs_doit()",
+      "published_at": "2026-03-31T08:40:05Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23169",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2025-71237 nilfs2: Fix potential block overflow that cause system hang",
+      "published_at": "2026-03-31T08:39:58Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71237",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2025-71236 scsi: qla2xxx: Validate sp before freeing associated memory",
+      "published_at": "2026-03-31T08:39:52Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71236",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2025-71235 scsi: qla2xxx: Delay module unload while fabric scan in progress",
+      "published_at": "2026-03-31T08:39:45Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71235",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2025-71232 scsi: qla2xxx: Free sp in error path to fix system crash",
+      "published_at": "2026-03-31T08:39:38Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71232",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2026-23238 romfs: check sb_set_blocksize() return value",
+      "published_at": "2026-03-31T08:38:52Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23238",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2026-25645 Requests has Insecure Temp File Reuse in its extract_zipped_paths() utility function",
+      "published_at": "2026-03-31T08:38:46Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-25645",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2026-23237 platform/x86: classmate-laptop: Add missing NULL pointer checks",
+      "published_at": "2026-03-31T08:38:44Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23237",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2025-71238 scsi: qla2xxx: Fix bsg_done() causing double free",
+      "published_at": "2026-03-31T08:38:12Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71238",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2026-23236 fbdev: smscufx: properly copy ioctl memory to kernelspace",
+      "published_at": "2026-03-31T08:38:02Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23236",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2025-68358 btrfs: fix racy bitfield write in btrfs_clear_space_info_full()",
+      "published_at": "2026-03-31T08:37:52Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-68358",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2025-71233 PCI: endpoint: Avoid creating sub-groups asynchronously",
+      "published_at": "2026-03-31T08:37:39Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71233",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "CVE-2026-23221 bus: fsl-mc: fix use-after-free in driver_override_show()",
+      "published_at": "2026-03-31T08:37:29Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23221",
+      "summary": "Information published."
+    },
+    {
+      "category": "IS",
+      "source": "Microsoft MSRC",
+      "title": "Chromium: CVE-2026-4676 Use after free in Dawn",
+      "published_at": "2026-03-31T07:35:15Z",
+      "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4676",
+      "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information."
     }
   ]
 }

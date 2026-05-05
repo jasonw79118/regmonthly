@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
-Window: `2026-04-01T05:00:00Z` → `2026-05-01T04:59:59Z` (UTC)
-Last updated: `2026-05-01T16:45:27-05:00` (CT) — `2026-05-01T21:45:27Z` (UTC)
+Window: `2026-03-31T05:00:00Z` → `2026-05-01T05:00:00Z` (UTC)
+Last updated: `2026-05-05T09:52:55-05:00` (CT) — `2026-05-05T14:52:55Z` (UTC)
 
 ## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 - Source: OFAC
@@ -29,6 +29,174 @@ IR-2026-60 May 1, 2026 — The Internal Revenue Service is now accepting applica
 - Published: 2026-05-01T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-19.html
 
+## Featured Publications View All Publications
+- Source: OCC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.occ.gov/publications-and-resources/publications/index-publications.html
+
+Publications
+
+## FDIC Issues List of Banks Examined for CRA Compliance
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-3
+
+The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). May 2026
+
+## Anchor Bank Assumes Insured Deposits of Community Bank and Trust - West Georgia, LaGrange, Georgia
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/anchor-bank-assumes-insured-deposits-community-bank-and-trust-west-georgia
+
+Community Bank and Trust - West Georgia of LaGrange, Georgia was closed today by the Georgia Department of Banking and Finance, which appointed the FDIC.
+
+## Agencies Issue Host State Loan-to-Deposit Ratios
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-issue-host-state-loan-deposit-ratios
+
+Federal bank regulatory agencies today jointly issued updated host state loan-to-deposit ratios, as required by law.
+
+## FDIC Publishes March Enforcement Actions
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-publishes-march-enforcement-actions
+
+(FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in March 2026.
+
+## Agencies Finalize Changes to Community Bank Leverage Ratio
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-finalize-changes-community-bank-leverage-ratio
+
+The federal bank regulatory agencies today jointly finalized a rule to modify the community bank leverage ratio consistent with existing statutory authority.
+
+## Agencies Issue Revised Model Risk Guidance
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-issue-revised-model-risk-guidance
+
+The agencies issued revised model risk management guidance and rescinded existing model risk management guidance.
+
+## Principals of U.S., European Banking Union, and U.K. Financial Authorities To Meet for Regular Coordination Exercise on Cross-Border Resolution Planning
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/principals-us-european-banking-union-and-uk-financial-authorities-meet
+
+Trilateral Principal Level Exercise (TPLE) on Saturday, April 18, 2026.
+
+## FDIC Announces Four Senior Leadership Appointments
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-announces-four-senior-leadership-appointments
+
+The Federal Deposit Insurance Corporation (FDIC) today announced the appointment of the following personnel to serve in senior leadership positions
+
+## Agencies Issue Final Rule to Prohibit Use of Reputation Risk by Regulators
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-issue-final-rule-prohibit-use-reputation-risk-regulators
+
+The OCC and the FDIC (the agencies) today jointly issued a final rule that codifies the elimination of reputation risk from their supervisory programs.
+
+## Agencies Request Comment on Anti-Money Laundering/Countering the Financing of Terrorism Proposed Rule
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-request-comment-anti-money-launderingcountering-financing
+
+The agencies today invite public comment on a proposed rule for anti-money laundering and countering the financing of terrorism.
+
+## FDIC Approves Proposal to Implement GENIUS Act Requirements and Standards
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-approves-proposal-implement-genius-act-requirements-and-standards
+
+The FDIC Board of Directors today approved a notice of proposed rulemaking that would implement certain requirements and standards under the GENIUS Act.
+
+## FDIC Issues List of Banks Examined for CRA Compliance
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-2
+
+The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA).
+
+## FDIC Issues 2026 Consumer Compliance Supervisory Highlights
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-2026-consumer-compliance-supervisory-highlights
+
+The Federal Deposit Insurance Corporation (FDIC) today issued the 2026 edition of the Consumer Compliance Supervisory Highlights.
+
+## FDIC Publishes February Enforcement Actions
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-publishes-february-enforcement-actions
+
+FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in February 2026
+
+## FDIC Board of Directors Rescinds Statement of Policy on Qualifications for Failed Bank Acquisitions
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-rescinds-statement-policy-qualifications-failed-bank
+
+The FDIC Board of Directors approved today the rescission of the Statement of Policy on Qualifications for Failed Bank Acquisitions
+
+## Agencies Request Comment on Proposals to Modernize the Regulatory Capital Framework And Maintain the Strength of the Banking System
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-request-comment-proposals-modernize-regulatory-capital-framework
+
+The federal bank regulatory agencies today requested comment on three proposals to modernize the regulatory capital framework for banks of all sizes.
+
+## Agencies Clarify the Capital Treatment of Tokenized Securities
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-clarify-capital-treatment-tokenized-securities
+
+The federal bank regulatory agencies today jointly issued answers to frequently asked questions to clarify the capital treatment of tokenized securities.
+
+## FDIC Issues List of Banks Examined for CRA Compliance
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-1
+
+(FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA) March 2026
+
+## FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-approves-deposit-insurance-application-edward-jones-bank-salt-lake
+
+The Board of Directors (FDIC) announced the approval of a deposit insurance application submitted by the Jones Financial Companies, L.L.L.P.
+
+## FDIC Issues CRA Examination Schedules for Second Quarter 2026 and Third Quarter 2026
+- Source: FDIC
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-cra-examination-schedules-second-quarter-2026-and-third
+
+The FDIC today issued the lists of institutions scheduled for a CRA examination during the second quarter 2026 and third quarter 2026.
+
 ## Regulatory Reform
 - Source: FRB
 - Category: Banking
@@ -49,80 +217,6 @@ The Federal Reserve Board of Governors in Washington DC.
 - Published: 2026-05-01T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-charter-member-x402-foundation
 
-## 15-year-old detained over French govt agency data breach
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/
-
-## Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/
-
-## Microsoft fixes Remote Desktop warnings displaying incorrectly
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/
-
-## This $49 AI tool helps you go from idea to written book, fast
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/this-49-ai-tool-helps-you-go-from-idea-to-written-book-fast/
-
-## Microsoft now lets admins choose pre-installed Store apps to uninstall
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/
-
-## Windows 11 KB5083631 update released with 34 changes and fixes
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/
-
-## US ransomware negotiators get 4 years in prison over BlackCat attacks
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/
-
-## Jump to Content
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/news-research
-
-Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins.
-
-## Risk Management
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management
-
-Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA.
-
-## Consumer Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking
-
-Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
-
-## Consumer Lending
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/consumer-lending
-
-Enhance your knowledge and understanding of consumer loans and issues that effect them.
-
 ## Mortgage & Home Finance
 - Source: ABA
 - Category: Compliance Watch
@@ -130,22 +224,6 @@ Enhance your knowledge and understanding of consumer loans and issues that effec
 - URL: https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
 
 There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
-
-## Retail Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/retail-banking
-
-As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
-
-## Payments Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments
-
-Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
 
 ## Credit Cards
 - Source: ABA
@@ -171,22 +249,6 @@ Debit cards are a preferred payment method for consumers, and are now synonymous
 
 Find resources on commercial banking topics like Commercial and Industrial (C&I) loans, small business, Commercial Real Estate (CRE), agricultural banking and more.
 
-## Agricultural Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/commercial-banking/agricultural-banking
-
-Find the most relevant ag banking information, resources and research from our team of experts.
-
-## Commercial & Industrial Loans
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans
-
-ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments.
-
 ## Small Business
 - Source: ABA
 - Category: Compliance Watch
@@ -194,30 +256,6 @@ ABA's Center for Commercial Lending & Business Banking provides information, edu
 - URL: https://www.aba.com/banking-topics/commercial-banking/small-business
 
 Banks and small businesses need each other to stay healthy. The banking industry has a long history of providing the capital that small businesses need to survive and thrive.
-
-## Technology
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology
-
-Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution.
-
-## Artificial Intelligence
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology/artificial-intelligence
-
-Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.
-
-## Cybersecurity
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology/cybersecurity
-
-ABA offers resources to help banks protect their customers' accounts and personal information.
 
 ## Marketing & Communications
 - Source: ABA
@@ -227,14 +265,6 @@ ABA offers resources to help banks protect their customers' accounts and persona
 
 Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
 
-## Leadership & Operations
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations
-
-Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
-
 ## Leadership
 - Source: ABA
 - Category: Compliance Watch
@@ -242,22 +272,6 @@ Get news, tools, and training on the issues that affect your bank's bottom line,
 - URL: https://www.aba.com/banking-topics/operations/leadership
 
 Resources and training for bank CEOs and Executives
-
-## Workforce Excellence
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/workforce-excellence
-
-America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts.
-
-## Economic Trends
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/economic-trends
-
-The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
 
 ## Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)
 - Source: Federal Register
@@ -361,14 +375,6 @@ With the issuance of this final rule, the Drug Enforcement Administration places
 - Published: 2026-04-30T19:55:15Z
 - URL: https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients-e966/
 
-## New Bluekit phishing service includes an AI assistant, 40 templates
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-30T18:58:50Z
-- URL: https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/
-
-A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]
-
 ## Remarks by Secretary of the Treasury Scott Bessent Before the EXIM Annual Conference
 - Source: Treasury
 - Category: OFAC
@@ -389,43 +395,11 @@ Texas Bankers Association and MDI Rio Bank filed the original legal challenge to
 - Published: 2026-04-30T18:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0480
 
-## Romanian leader of online swatting ring gets 4 years in prison
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-30T17:45:12Z
-- URL: https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/
-
-A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]
-
-## FBI links cybercriminals to sharp surge in cargo theft attacks
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-30T16:32:18Z
-- URL: https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/
-
-The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]
-
-## April KB5083769 Windows 11 update causes backup software failures
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-30T15:23:03Z
-- URL: https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/
-
-The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]
-
 ## First Lady Melania Trump’s Elegant State Dinner and Groundbreaking VR Educational Experience Create a Historic State Visit for Their Majesties King Charles III and Queen Camilla
 - Source: White House
 - Category: Executive
 - Published: 2026-04-30T15:07:45Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trumps-elegant-state-dinner-and-groundbreaking-vr-educational-experience-create-a-historic-state-visit-for-their-majesties-king-charles-iii-and-queen-camilla/
-
-## What Happens in the First 24 Hours After a New Asset Goes Live
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-30T14:02:12Z
-- URL: https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/
-
-When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]
 
 ## CVE-2026-33825 Microsoft Defender Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
@@ -434,30 +408,6 @@ When a new asset goes live, attackers start scanning within minutes. Sprocket Se
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33825
 
 Added FAQ information. This is an informational change only.
-
-## New Linux ‘Copy Fail’ flaw gives hackers root on major distros
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-30T13:54:47Z
-- URL: https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/
-
-An exploit has been published for a local privilege escalation vulnerability dubbed "Copy Fail" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]
-
-## Critical cPanel and WHM bug exploited as a zero-day, PoC now available
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-30T11:40:31Z
-- URL: https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/
-
-The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]
-
-## Police dismantles 9 crypto scam centers, arrests 276 suspects
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-30T11:21:02Z
-- URL: https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/
-
-A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]
 
 ## CVE-2026-24051 OpenTelemetry-Go Affected by Arbitrary Code Execution via PATH Hijacking
 - Source: Microsoft MSRC
@@ -1899,6 +1849,12 @@ IR-2026-59, April 30, 2026 — The Department of the Treasury and the Internal R
 - Published: 2026-04-30T00:00:00Z
 - URL: https://www.globenewswire.com/news-release/2026/04/30/3284826/0/en/freddie-mac-announces-first-quarter-2026-financial-results.html
 
+## ICYMI: Chairman Scott Highlights Importance of Kevin Warsh Leading Federal Reserve, Momentum for CLARITY Act on Fox Business’ Mornings with Maria
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-04-30T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/majority/chairman-scott-highlights-importance-of-kevin-warsh-leading-federal-reserve-momentum-for-clarity-act-on-fox-business-mornings-with-maria
+
 ## Warren Continues Probe of Credit Card Junk Fees on Sports Bets, Requesting Data From Major Credit Card Companies
 - Source: Senate Banking
 - Category: Legislative
@@ -1911,11 +1867,11 @@ IR-2026-59, April 30, 2026 — The Department of the Treasury and the Internal R
 - Published: 2026-04-30T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-leads-senate-democrats-calling-on-hud-to-withdraw-proposal-to-rollback-housing-civil-rights-protections
 
-## ICYMI: Chairman Scott Highlights Importance of Kevin Warsh Leading Federal Reserve, Momentum for CLARITY Act on Fox Business’ Mornings with Maria
+## Warren Presses Bessent on Lowering Costs Following Comments that Americans “Feel Good” Amid Affordability Crisis and Consumer Sentiment Hitting Record Lows
 - Source: Senate Banking
 - Category: Legislative
 - Published: 2026-04-30T00:00:00Z
-- URL: https://www.banking.senate.gov/newsroom/majority/chairman-scott-highlights-importance-of-kevin-warsh-leading-federal-reserve-momentum-for-clarity-act-on-fox-business-mornings-with-maria
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-presses-bessent-on-lowering-costs-following-comments-that-americans-feel-good-amid-affordability-crisis-and-consumer-sentiment-hitting-record-lows
 
 ## Warren, Wyden Probe National Security Risks Surrounding Reported Lutnick-Tether Loan
 - Source: Senate Banking
@@ -1941,11 +1897,11 @@ IR-2026-59, April 30, 2026 — The Department of the Treasury and the Internal R
 - Published: 2026-04-30T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411115
 
-## FIS Announces Quarterly Dividend
-- Source: FIS
-- Category: Fintech Watch
+## Same Day ACH: No Change to the Amount of the Same Day ACH Fee
+- Source: NACHA
+- Category: Payments
 - Published: 2026-04-30T00:00:00Z
-- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-announces-quarterly-dividend-52
+- URL: https://www.nacha.org/news/same-day-ach-no-change-amount-same-day-ach-fee
 
 ## FIS and Leading Financial Institutions to Build Their Own Digital Tokenized Money Network
 - Source: FIS
@@ -1959,17 +1915,11 @@ IR-2026-59, April 30, 2026 — The Department of the Treasury and the Internal R
 - Published: 2026-04-30T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/yakima-federal-helps-small-businesses-manage-cash-flow-more
 
-## Learn 41 different languages with this $90 app (MSRP $300)
-- Source: BleepingComputer
-- Category: IS
+## What is a passkey? Here’s everything you need to know August, 2024
+- Source: Mastercard
+- Category: Payment Card Networks
 - Published: 2026-04-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/learn-41-different-languages-with-this-90-app-msrp-300/
-
-## This multi-model AI workspace deal does the comparing for you
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/this-multi-model-ai-workspace-deal-does-the-comparing-for-you/
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2024/august/everything-you-need-to-know-about-payment-passkeys.html
 
 ## Wealth Management
 - Source: ABA
@@ -2819,18 +2769,6 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Published: 2026-04-29T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
 
-## Official SAP npm packages compromised to steal credentials
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-29T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/
-
-## Popular WordPress redirect plugin hid dormant backdoor for years
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-04-29T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/
-
 ## Education Services
 - Source: CDIA
 - Category: Compliance Watch
@@ -3027,17 +2965,23 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-04-28T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411110
 
+## Jack Henry Announces Fiscal 2026 Third Quarter Deconversion Revenue Results
+- Source: Jack Henry
+- Category: Fintech Watch
+- Published: 2026-04-28T00:00:00Z
+- URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-announces-fiscal-2026-third-quarter-deconversion
+
 ## Jack Henry's Annual Survey of Financial Institutions Highlights Priorities Amid Economic Uncertainty and a New Hybrid Monetary Era
 - Source: Jack Henry
 - Category: Fintech Watch
 - Published: 2026-04-28T00:00:00Z
 - URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henrys-annual-survey-financial-institutions-highlights
 
-## Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement
+## Visa Announces Global Expansion of Agentic Ready Program
 - Source: Visa
 - Category: Payment Card Networks
 - Published: 2026-04-28T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html
 
 ## Visa Fiscal Second Quarter 2026 Financial Results
 - Source: Visa
@@ -3176,14 +3120,6 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Category: Payment Card Networks
 - Published: 2026-04-28T00:00:00Z
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
-
-## Incident Response
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management/incident-response
-
-Resources to help you prepare for and respond to a physical or cyber incident.
 
 ## Health Savings Accounts
 - Source: ABA
@@ -3369,13 +3305,29 @@ IR-2026-58, April 27, 2026 — The Internal Revenue Service today announced a ne
 - Published: 2026-04-27T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/as-trump-administration-abandons-disaster-stricken-communities-warren-colleagues-renew-push-to-support-survivors-of-disasters
 
-## Illicit Finance
-- Source: ABA
-- Category: Compliance Watch
+## Jubilee Media Founder Jason Y. Lee Flipped the Script on His Life. You Can, Too
+- Source: NACHA
+- Category: Payments
 - Published: 2026-04-27T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management/money-laundering
+- URL: https://www.nacha.org/news/jubilee-media-founder-jason-y-lee-flipped-script-his-life-you-can-too
 
-ABA helps banks better identify and report money laundering and other illicit financial activity with information on new technologies and best practices.
+## The Onion Founder Scott Dikkers: ‘Practice Professional Stupidity’
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-27T00:00:00Z
+- URL: https://www.nacha.org/news/onion-founder-scott-dikkers-practice-professional-stupidity
+
+## Raising the Limit to $10 Million Reflects the Demand for Same Day ACH
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-27T00:00:00Z
+- URL: https://www.nacha.org/news/raising-limit-10-million-reflects-demand-same-day-ach
+
+## Same Day ACH Per Payment Limit to Increase to $10 Million
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-27T00:00:00Z
+- URL: https://www.nacha.org/news/same-day-ach-payment-limit-increase-10-million
 
 ## Inclusive Banking
 - Source: ABA
@@ -5105,14 +5057,6 @@ Information published.
 
 Information published.
 
-## Featured Publications View All Publications
-- Source: OCC
-- Category: Banking
-- Published: 2026-04-22T00:00:00Z
-- URL: https://www.occ.gov/publications-and-resources/publications/index-publications.html
-
-Publications
-
 ## Fannie Mae Announces Credit Score Model Updates to Advance Credit Score Modernization
 - Source: Fannie Mae
 - Category: Mortgage
@@ -5174,30 +5118,6 @@ Fannie Mae announced upcoming updates to its Selling Guide to allow for the use 
 - Category: Legislative
 - Published: 2026-04-22T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411107
-
-## Wolters Kluwer introduces Expert AI‑powered Search Insights and AI-assisted Filing to transform lien due diligence and UCC filing workflows
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-04-22T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/wolters-kluwer-introduces-expert-ai-powered-search-insights-and-ai-assisted-filing
-
-Wolters Kluwer announced two new AI-powered enhancements to its Financial & Corporate Compliance portfolio: iLien Search Insights Report and iLien Filing Assistant powered by Expert AI.
-
-## Wolters Kluwer CCH Tagetik recognized with two Globee Awards for Excellence
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-04-22T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/pr-globee-awards-for-excellence
-
-Honored for advancing financial performance and ESG reporting through AI-enabled, enterprise-grade solutions.
-
-## Wolters Kluwer Enablon Recognized with Globee® Award for Excellence
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-04-22T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/wolters-kluwer-enablon-recognized-with-globee-award-for-excellence
-
-Enablon received a Globee® Award for Excellence for its Process Hazard Analysis tool, recognizing its contribution to strengthening process safety.
 
 ## Equal Credit Opportunity Act (Regulation B)
 - Source: Federal Register
@@ -5316,14 +5236,6 @@ Acknowledgement added. This is an informational change only.
 - URL: https://www.aba.com/training-events/schools/trust-schools
 
 The best trust schools in the industry offered by national trust experts.
-
-## Wolters Kluwer CCH Tagetik kicks off Global inTouch 2026 series showcasing Expert AI in action for the office of CFO
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-04-21T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/pr-cch-tagetik-kicks-off-global-intouch-2026-showcasing-expert-ai-for-cfo
-
-Global inTouch launches a global event series demonstrating how CCH Tagetik with Expert AI is transforming the way finance works with AI-enabled capabilities.
 
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
@@ -5464,6 +5376,12 @@ IR-2026-55, April 20, 2026 – The Internal Revenue Service today updated freque
 - Category: Legislative
 - Published: 2026-04-20T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-presses-sec-chair-atkins-to-investigate-suspicious-activity-involving-defense-secretary-hegseth-ahead-of-us-israel-iran-strikes
+
+## Same Day ACH Gains Lead to First Quarter ACH Network Growth
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-20T00:00:00Z
+- URL: https://www.nacha.org/news/same-day-ach-gains-lead-first-quarter-ach-network-growth
 
 ## Fiserv to Present at Upcoming Investor Conferences
 - Source: Fiserv
@@ -5609,17 +5527,17 @@ PRESS RELEASE | APRIL 17, 2026 Agencies Issue Revised Model Risk Guidance WASHIN
 - Published: 2026-04-17T19:32:49Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/
 
-## Treasury Sanctions Recruitment Network Enabling War in Sudan, Calls for Humanitarian Truce
-- Source: Treasury
-- Category: OFAC
-- Published: 2026-04-17T18:30:00Z
-- URL: https://home.treasury.gov/news/press-releases/sb0457
-
 ## Economic Fury Targets Iran-Backed Iraqi Militia Commanders
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-04-17T18:30:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0458
+
+## Treasury Sanctions Recruitment Network Enabling War in Sudan, Calls for Humanitarian Truce
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-04-17T18:30:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0457
 
 ## Chromium: CVE-2026-6307 Type Confusion in Turbofan
 - Source: Microsoft MSRC
@@ -6152,6 +6070,12 @@ IR-2026-53, April 16, 2026 — The Internal Revenue Service today announced a ne
 - Category: Legislative
 - Published: 2026-04-16T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/all-banking-committee-democrats-call-for-delay-of-warsh-hearing-as-trump-attempts-to-take-over-fed
+
+## Sharing Information is Key to Fighting Fraud
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-16T00:00:00Z
+- URL: https://www.nacha.org/news/sharing-information-key-fighting-fraud
 
 ## FIS Leads Core Banking Modernization for Second Straight Year, Everest Group Core Banking Report Finds
 - Source: FIS
@@ -6755,19 +6679,11 @@ Fannie Mae’s market intelligence helps you understand changes in the housing a
 - Published: 2026-04-15T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-raises-national-security-concerns-with-nvidias-acquisition-of-critical-software-used-in-supercomputing-systems
 
-## Finxact Named Best SaaS Platform at 2026 FinTech Awards
-- Source: Fiserv
-- Category: Fintech Watch
+## Nacha Announces Prometeo is a Nacha Preferred Partner for Account Validation/Open Banking
+- Source: NACHA
+- Category: Payments
 - Published: 2026-04-15T00:00:00Z
-- URL: https://investors.fiserv.com/news-releases/news-release-details/finxact-named-best-saas-platform-2026-fintech-awards
-
-## Elder Financial Exploitation
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-15T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management/elder-financial-exploitation
-
-This webpage provides resources to help bankers better understand elder financial exploitation (EFE).
+- URL: https://www.nacha.org/news/nacha-announces-prometeo-nacha-preferred-partner-account-validationopen-banking
 
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
@@ -8385,6 +8301,24 @@ IR-2026-52, April 14, 2026 — As the end of filing season approaches, the Inter
 - Published: 2026-04-14T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/statement-by-ranking-member-warren-on-fed-chair-nominee-hearing
 
+## Rising to the Challenge of First-party Fraud
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/rising-challenge-first-party-fraud
+
+## How is Quantum Computing Used in Everyday Life?
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/how-quantum-computing-used-everyday-life
+
+## How Can Your Organization Build a Quantum-Safe Payments Readiness Plan?
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/how-can-your-organization-build-quantum-safe-payments-readiness-plan
+
 ## Barclays and FIS Extend Partnership Supporting Bank's Online Deposits Growth
 - Source: FIS
 - Category: Fintech Watch
@@ -8450,6 +8384,12 @@ The Federal Reserve Board of Governors in Washington DC.
 - Category: Mortgage
 - Published: 2026-04-13T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-17
+
+## AI is Real, but it’s Not Coming for Your Job
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-13T00:00:00Z
+- URL: https://www.nacha.org/news/ai-real-its-not-coming-your-job
 
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
@@ -9953,13 +9893,11 @@ The Bureau of Justice Statistics (BJS), Department of Justice (DOJ) will be subm
 
 IR-2026-46, April 6, 2026 — The IRS today announced a major expansion of its Business Tax Account, making the online self-service platform available to partnerships, federal, state, and local governments, Indian tribal governments, and tax-exempt organizations.
 
-## Financial Literacy Digest: Spring 2026
-- Source: OCC
-- Category: Banking
+## Time to ‘Stop Apologizing for Fraud Protection’
+- Source: NACHA
+- Category: Payments
 - Published: 2026-04-06T00:00:00Z
-- URL: https://www.occ.gov/publications-and-resources/publications/community-affairs/financial-literacy-digest/financial-literacy-digest-spring-2026.html
-
-A quarterly e-newsletter that lists events, initiatives, and other resources offered by the OCC and other government agencies and organizations that support financial literacy and capability.
+- URL: https://www.nacha.org/news/time-stop-apologizing-fraud-protection
 
 ## FASB Names Four New Members to Its Investor Advisory Committee
 - Source: FASB
@@ -10205,14 +10143,6 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Published: 2026-04-03T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260403
 
-## Act now to file, pay, or request an extension
-- Source: IRS
-- Category: IRS
-- Published: 2026-04-03T00:00:00Z
-- URL: https://www.irs.gov/newsroom/act-now-to-file-pay-or-request-an-extension
-
-IR-2026-44, April 3, 2026 — With the April 15 tax deadline fast approaching, the Internal Revenue Service reminds taxpayers that there is still time to file their federal income tax return electronically and request direct deposit for any refund due.
-
 ## Senator Warren Statement on March 2026 Jobs Report
 - Source: Senate Banking
 - Category: Legislative
@@ -10431,31 +10361,11 @@ Information published.
 - Published: 2026-04-02T00:19:24Z
 - URL: https://home.treasury.gov/news/press-releases/sb0431
 
-## Tax filing season progressing smoothly with timely refund processing and a high use of electronic filing
-- Source: IRS
-- Category: IRS
-- Published: 2026-04-02T00:00:00Z
-- URL: https://www.irs.gov/newsroom/tax-filing-season-progressing-smoothly-with-timely-refund-processing-and-a-high-use-of-electronic-filing
-
-IR-2026-43, April 2, 2026 — The Internal Revenue Service continues to deliver excellent service to taxpayers during the 2026 filing season with the rise in tax refunds, the smooth pace at which taxpayers are getting their refunds and the high use of electronic filing.
-
-## The 30-Year Fixed-Rate Mortgage Averages 6.46%
-- Source: Freddie Mac
-- Category: Mortgage
-- Published: 2026-04-02T00:00:00Z
-- URL: https://www.globenewswire.com/news-release/2026/04/02/3267659/0/en/the-30-year-fixed-rate-mortgage-averages-6-46.html
-
 ## Warren, Merkley Question Bessent Over Plan to Add Trump Signature on U.S. Currency Amid Affordability Crisis
 - Source: Senate Banking
 - Category: Legislative
 - Published: 2026-04-02T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-merkley-question-bessent-over-plan-to-add-trump-signature-on-us-currency-amid-affordability-crisis
-
-## Small Business Sales Grew Steadily in March as Higher Ticket Sizes Offset Softer Foot Traffic, Fiserv Data Shows
-- Source: Fiserv
-- Category: Fintech Watch
-- Published: 2026-04-02T00:00:00Z
-- URL: https://investors.fiserv.com/news-releases/news-release-details/small-business-sales-grew-steadily-march-higher-ticket-sizes
 
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
@@ -10588,3 +10498,265 @@ Information published.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21711
 
 Information published.
+
+## Venezuela-related Designation Removal
+- Source: OFAC
+- Category: OFAC
+- Published: 2026-04-01T00:00:00Z
+- URL: https://ofac.treasury.gov/recent-actions/20260401
+
+## Warren Calls out Trump's CFPB For Failing to Take Action on Zombie Mortgages
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-calls-out-trumps-cfpb-for-failing-to-take-action-on-zombie-mortgages
+
+## Rescission of OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06281/rescission-of-occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured
+
+The OCC is amending its regulations by rescinding "OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches."
+
+## Whistleblower Incentives and Protections
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06271/whistleblower-incentives-and-protections
+
+FinCEN is proposing a rule to establish a whistleblower program that offers incentives and protections to encourage individuals who have information about potential violations of the Bank Secrecy Act (BSA), International Emergency Economic Powers Act (IEEPA), Trading With the Enemy Act of 1917 (TWEA), and Foreign Narcotics Kingpin Designation Act (Kingpin Act) to voluntarily r…
+
+## Removal of Regulatory Overreach and Federal Crop Insurance Policy Provisions
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06277/removal-of-regulatory-overreach-and-federal-crop-insurance-policy-provisions
+
+The Federal Crop Insurance Corporation (FCIC) is amending its regulations regarding final agency determinations and interpretations of the Federal Crop Insurance Act and its associated regulations. This action is necessary to align agency procedures with Supreme Court precedent and the Administrative Procedure Act, ensuring that interpretive determinations are not improperly c…
+
+## Registering Emergency Medical Services Agencies Under the Protecting Patient Access to Emergency Medications Act of 2017
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/C1-2026-02288/registering-emergency-medical-services-agencies-under-the-protecting-patient-access-to-emergency
+
+## Agency Information Collection Activities; Proposed eCollection eComments Requested; Title-Voice of Customer Survey
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06312/agency-information-collection-activities-proposed-ecollection-ecomments-requested-title-voice-of
+
+The Federal Bureau of Investigation, Office of Private Sector, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
+
+## Importer of Controlled Substances Application: Research Triangle Institute
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06311/importer-of-controlled-substances-application-research-triangle-institute
+
+Research Triangle Institute has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to SUPPLEMENTARY INFORMATION listed below for further drug information.
+
+## Bulk Manufacturer of Controlled Substances Application: Pharmaron Manufacturing Services (US) LLC
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06261/bulk-manufacturer-of-controlled-substances-application-pharmaron-manufacturing-services-us-llc
+
+Pharmaron Manufacturing Services (US) LLC has applied to be registered as a bulk manufacturer of basic class(es) of controlled substance(s). Refer to SUPPLEMENTARY INFORMATION listed below for further drug information.
+
+## Importer of Controlled Substances Application: Sterling Wisconsin, LLC
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06260/importer-of-controlled-substances-application-sterling-wisconsin-llc
+
+Sterling Wisconsin, LLC has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.
+
+## Importer of Controlled Substances Application: Indivior Manufacturing LLC
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06259/importer-of-controlled-substances-application-indivior-manufacturing-llc
+
+Indivior Manufacturing LLC has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.
+
+## Importer of Controlled Substances Application: Fisher Clinical Services, Inc.
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06258/importer-of-controlled-substances-application-fisher-clinical-services-inc
+
+Fisher Clinical Services, Inc. has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.
+
+## Importer of Controlled Substances Application: Fisher Clinical Services, Inc.
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06257/importer-of-controlled-substances-application-fisher-clinical-services-inc
+
+Fisher Clinical Services, Inc. has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.
+
+## Bulk Manufacturer of Controlled Substances Application: Royal Emerald Pharmaceuticals
+- Source: Federal Register
+- Category: Federal Register
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.federalregister.gov/documents/2026/04/01/2026-06256/bulk-manufacturer-of-controlled-substances-application-royal-emerald-pharmaceuticals
+
+Royal Emerald Pharmaceuticals has applied to be registered as a bulk manufacturer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.
+
+## Fact Sheet: President Donald J. Trump Ensures Citizenship Verification and Voter Eligibility in Federal Elections
+- Source: White House
+- Category: Executive
+- Published: 2026-03-31T22:06:12Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-ensures-citizenship-verification-and-voter-eligibility-in-federal-elections/
+
+## Ensuring Citizenship Verification and Integrity in Federal Elections
+- Source: White House
+- Category: Executive
+- Published: 2026-03-31T21:52:58Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/
+
+## Financial Institution Letter: FDIC Consumer Compliance Supervisory Highlights
+- Source: FDIC
+- Category: Banking
+- Published: 2026-03-31T14:02:50Z
+- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/4101448
+
+FINANCIAL INSTITUTION LETTER | MARCH 31, 2026 FDIC Consumer Compliance Supervisory Highlights Summary: The FDIC’s Consumer Compliance Supervisory Highlights is an annual publication. Its purpose is to enhance transparency regarding the FDIC’s consumer compliance supervisory activities and provide a high-level overview of consumer compliance issues identified in 2025 through th…
+
+## CVE-2026-23229 crypto: virtio - Add spinlock protection with virtqueue notification
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:40:25Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23229
+
+Information published.
+
+## CVE-2026-23228 smb: server: fix leak of active_num_conn in ksmbd_tcp_new_connection()
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:40:18Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23228
+
+Information published.
+
+## CVE-2026-23222 crypto: omap - Allocate OMAP_CRYPTO_FORCE_COPY scatterlists correctly
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:40:12Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23222
+
+Information published.
+
+## CVE-2026-23169 mptcp: fix race in mptcp_pm_nl_flush_addrs_doit()
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:40:05Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23169
+
+Information published.
+
+## CVE-2025-71237 nilfs2: Fix potential block overflow that cause system hang
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:39:58Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71237
+
+Information published.
+
+## CVE-2025-71236 scsi: qla2xxx: Validate sp before freeing associated memory
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:39:52Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71236
+
+Information published.
+
+## CVE-2025-71235 scsi: qla2xxx: Delay module unload while fabric scan in progress
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:39:45Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71235
+
+Information published.
+
+## CVE-2025-71232 scsi: qla2xxx: Free sp in error path to fix system crash
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:39:38Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71232
+
+Information published.
+
+## CVE-2026-23238 romfs: check sb_set_blocksize() return value
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:38:52Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23238
+
+Information published.
+
+## CVE-2026-25645 Requests has Insecure Temp File Reuse in its extract_zipped_paths() utility function
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:38:46Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-25645
+
+Information published.
+
+## CVE-2026-23237 platform/x86: classmate-laptop: Add missing NULL pointer checks
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:38:44Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23237
+
+Information published.
+
+## CVE-2025-71238 scsi: qla2xxx: Fix bsg_done() causing double free
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:38:12Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71238
+
+Information published.
+
+## CVE-2026-23236 fbdev: smscufx: properly copy ioctl memory to kernelspace
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:38:02Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23236
+
+Information published.
+
+## CVE-2025-68358 btrfs: fix racy bitfield write in btrfs_clear_space_info_full()
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:37:52Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-68358
+
+Information published.
+
+## CVE-2025-71233 PCI: endpoint: Avoid creating sub-groups asynchronously
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:37:39Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-71233
+
+Information published.
+
+## CVE-2026-23221 bus: fsl-mc: fix use-after-free in driver_override_show()
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T08:37:29Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-23221
+
+Information published.
+
+## Chromium: CVE-2026-4676 Use after free in Dawn
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-03-31T07:35:15Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4676
+
+This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.
