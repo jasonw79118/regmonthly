@@ -1698,12 +1698,6 @@ Fiserv
 Yakima Federal Helps Small Businesses Manage Cash Flow More Efficiently
 https://investors.fiserv.com/news-releases/news-release-details/yakima-federal-helps-small-businesses-manage-cash-flow-more
 ------------------------------------------------------------
-Payment Card Networks
-Mastercard
-2026-04-30T00:00:00Z
-What is a passkey? Here’s everything you need to know August, 2024
-https://www.mastercard.com/us/en/news-and-trends/press/2024/august/everything-you-need-to-know-about-payment-passkeys.html
-------------------------------------------------------------
 Compliance Watch
 ABA
 2026-04-30T00:00:00Z
@@ -2462,13 +2456,6 @@ Education Services
 https://www.cdiaonline.org/education-services/
 ------------------------------------------------------------
 Compliance Watch
-ABA
-2026-04-29T00:00:00Z
-Accounting
-https://www.aba.com/banking-topics/operations/accounting
-ABA represents the banking industry on policy issues related to accounting and auditing.
-------------------------------------------------------------
-Compliance Watch
 Wolters Kluwer
 2026-04-29T00:00:00Z
 Wolters Kluwer expands CompliEditor Suite to help financial institutions accelerate disclosure updates
@@ -2652,8 +2639,8 @@ https://ir.jackhenry.com/news-releases/news-release-details/jack-henrys-annual-s
 Payment Card Networks
 Visa
 2026-04-28T00:00:00Z
-Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html
+Visa Announces Global Expansion of Agentic Ready Program
+https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html
 ------------------------------------------------------------
 Payment Card Networks
 Visa
@@ -4679,6 +4666,13 @@ Mastercard
 2026-04-21T00:00:00Z
 Small businesses can soon enjoy new rewards with the Prime Business and Amazon Business Credit Cards March 31, 2026
 https://www.mastercard.com/us/en/news-and-trends/press/2026/march/small-businesses-can-soon-enjoy-new-rewards-with-the-prime-busin.html
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-04-21T00:00:00Z
+New survey: consumers wary of government price controls on credit cards See the results
+https://www.aba.com/news-research/analysis-guides/consumer-views-on-credit-card-marketplace
+A March 2026 survey conducted by Morning Consult on behalf of the American Bankers Association shows that consumers view the credit card marketplace as important and highly competitive, and they are wary of government price controls on credit cards.
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -7442,12 +7436,6 @@ NACHA
 2026-04-14T00:00:00Z
 How is Quantum Computing Used in Everyday Life?
 https://www.nacha.org/news/how-quantum-computing-used-everyday-life
-------------------------------------------------------------
-Payments
-NACHA
-2026-04-14T00:00:00Z
-How Can Your Organization Build a Quantum-Safe Payments Readiness Plan?
-https://www.nacha.org/news/how-can-your-organization-build-quantum-safe-payments-readiness-plan
 ------------------------------------------------------------
 Fintech Watch
 FIS

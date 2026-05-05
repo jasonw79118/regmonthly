@@ -2015,14 +2015,6 @@
     "summary": ""
   },
   {
-    "category": "Payment Card Networks",
-    "source": "Mastercard",
-    "title": "What is a passkey? Here’s everything you need to know August, 2024",
-    "published_at": "2026-04-30T00:00:00Z",
-    "url": "https://www.mastercard.com/us/en/news-and-trends/press/2024/august/everything-you-need-to-know-about-payment-passkeys.html",
-    "summary": ""
-  },
-  {
     "category": "Compliance Watch",
     "source": "ABA",
     "title": "Wealth Management",
@@ -2920,14 +2912,6 @@
   },
   {
     "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Accounting",
-    "published_at": "2026-04-29T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/operations/accounting",
-    "summary": "ABA represents the banking industry on policy issues related to accounting and auditing."
-  },
-  {
-    "category": "Compliance Watch",
     "source": "Wolters Kluwer",
     "title": "Wolters Kluwer expands CompliEditor Suite to help financial institutions accelerate disclosure updates",
     "published_at": "2026-04-29T00:00:00Z",
@@ -3199,9 +3183,9 @@
   {
     "category": "Payment Card Networks",
     "source": "Visa",
-    "title": "Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement",
+    "title": "Visa Announces Global Expansion of Agentic Ready Program",
     "published_at": "2026-04-28T00:00:00Z",
-    "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html",
+    "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html",
     "summary": ""
   },
   {
@@ -5813,6 +5797,14 @@
     "published_at": "2026-04-21T00:00:00Z",
     "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/march/small-businesses-can-soon-enjoy-new-rewards-with-the-prime-busin.html",
     "summary": ""
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "New survey: consumers wary of government price controls on credit cards See the results",
+    "published_at": "2026-04-21T00:00:00Z",
+    "url": "https://www.aba.com/news-research/analysis-guides/consumer-views-on-credit-card-marketplace",
+    "summary": "A March 2026 survey conducted by Morning Consult on behalf of the American Bankers Association shows that consumers view the credit card marketplace as important and highly competitive, and they are wary of government price controls on credit cards."
   },
   {
     "category": "Compliance Watch",
@@ -9234,14 +9226,6 @@
     "title": "How is Quantum Computing Used in Everyday Life?",
     "published_at": "2026-04-14T00:00:00Z",
     "url": "https://www.nacha.org/news/how-quantum-computing-used-everyday-life",
-    "summary": ""
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "How Can Your Organization Build a Quantum-Safe Payments Readiness Plan?",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/how-can-your-organization-build-quantum-safe-payments-readiness-plan",
     "summary": ""
   },
   {

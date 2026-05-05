@@ -1,0 +1,60 @@
+RegMonthly Smart 100 Index Update
+=================================
+
+Files in this package
+---------------------
+1. scripts/build.py
+2. REGMONTHLY_SMART_100_INDEX_UPDATE_NOTES.txt
+
+What changed
+------------
+The Smart 100 Power Automate export now adds a stable index number to each item in:
+
+docs/raw/items-smart-100.json
+
+The added field is:
+
+smart_index
+
+It is a 1-based sequence number assigned after the Smart 100 sorting/filtering step.
+Example:
+
+[
+  { "smart_index": 1, "title": "..." },
+  { "smart_index": 2, "title": "..." },
+  { "smart_index": 3, "title": "..." }
+]
+
+Purpose
+-------
+Power Automate can sometimes reorder articles after executive-agent or wait steps. The
+smart_index field gives the flow a stable sequence number to use when preserving or
+re-sorting the Smart 100 articles.
+
+Important behavior retained
+---------------------------
+- The full site dataset remains unchanged except for prior approved global filters.
+- The main raw endpoint remains:
+  docs/raw/items-array.json
+- The filtered Power Automate endpoint remains:
+  docs/raw/items-smart-100.json
+- The Smart 100 file stays as a JSON array so Power Automate can read it the same way as items-array.json.
+- Enforcement action articles remain in the full site data but are excluded from the Smart 100 endpoint.
+- Quarterly articles continue to be filtered out globally per prior instruction.
+- The buffered monthly pull window remains active.
+
+Power Automate use
+------------------
+Use smart_index as the ordering key if the flow needs to re-sort or preserve order after
+an agent/wait step.
+
+Replacement instructions
+------------------------
+Replace the repo file:
+
+scripts/build.py
+
+Then run the monthly build normally when you are ready to regenerate the monthly outputs.
+After the build, verify this URL exists and contains a JSON array with smart_index fields:
+
+https://jasonw79118.github.io/regmonthly/raw/items-smart-100.json

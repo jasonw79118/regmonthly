@@ -4565,8 +4565,8 @@ SMART_KEYWORD_WEIGHTS: Dict[str, int] = {
     "ffiec": 24, "federal register": 18, "capital": 16, "liquidity": 18,
     "model risk": 22, "third-party risk": 22, "third party risk": 22,
     "cybersecurity": 20, "information security": 18, "privacy": 16,
-    "consumer compliance": 22, "enforcement action": 24, "civil money penalty": 24,
-    "consent order": 24, "guidance": 12, "rulemaking": 16, "final rule": 18,
+    "consumer compliance": 22,
+    "guidance": 12, "rulemaking": 16, "final rule": 18,
     "proposed rule": 18, "supervisory": 16, "examination": 16, "risk management": 18,
 }
 
@@ -4577,7 +4577,22 @@ SMART_NOISE_WEIGHTS: Dict[str, int] = {
     "appointment": -22, "conference": -18, "webinar": -12, "award": -25,
     "sponsorship": -24, "charity": -24, "philanthropy": -24,
     "podcast": -16, "survey": -10,
+    "enforcement action": -999, "enforcement actions": -999,
+    "civil money penalty": -999, "consent order": -999,
+    "cease and desist": -999, "prohibition order": -999,
 }
+
+
+SMART_ENFORCEMENT_TERMS = (
+    "enforcement action",
+    "enforcement actions",
+    "civil money penalty",
+    "consent order",
+    "cease and desist",
+    "prohibition order",
+    "formal agreement",
+    "settlement agreement",
+)
 
 
 def _smart_text(item: Dict[str, Any]) -> str:
@@ -4590,6 +4605,25 @@ def _smart_text(item: Dict[str, Any]) -> str:
 def exclude_quarterly(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """Remove quarterly items from every output, including the main site dataset."""
     return [it for it in items if "quarterly" not in _smart_text(it)]
+
+
+def is_smart_enforcement_action(item: Dict[str, Any]) -> bool:
+    """Identify enforcement-action articles for exclusion from the Power Automate smart feed only."""
+    text = _smart_text(item)
+    if any(term in text for term in SMART_ENFORCEMENT_TERMS):
+        return True
+
+    category = str(item.get("category", "") or "").lower()
+    title = str(item.get("title", "") or "").lower()
+    source = str(item.get("source", "") or "").lower()
+
+    # Catch regulator pages that categorize enforcement releases without using the exact phrase.
+    if "enforcement" in category and any(reg in source for reg in ["occ", "fdic", "federal reserve", "cfpb", "fincen", "ofac"]):
+        return True
+    if title.startswith("enforcement actions") or title.startswith("enforcement action"):
+        return True
+
+    return False
 
 
 def smart_relevance_score(item: Dict[str, Any]) -> int:
@@ -4612,21 +4646,33 @@ def smart_relevance_score(item: Dict[str, Any]) -> int:
         if term in text:
             score += weight
 
-    # Regulatory/legal verbs tend to be more useful for bank compliance teams.
-    if any(term in text for term in ["rule", "guidance", "bulletin", "advisory", "order", "penalty", "settlement", "supervisory", "examination"]):
+    # Regulatory/legal verbs tend to be more useful for bank compliance teams,
+    # but enforcement-specific articles are removed from the smart feed before ranking.
+    if any(term in text for term in ["rule", "guidance", "bulletin", "advisory", "supervisory", "examination"]):
         score += 12
 
     return score
 
 
 def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -> List[Dict[str, Any]]:
-    """Return the best items for Power Automate in the exact same array-item format."""
+    """Return the best non-enforcement items for Power Automate in the same array-item format.
+
+    Adds a stable 1-based smart_index after ranking so Power Automate can preserve
+    the intended order even if later agent/wait steps reorder array objects.
+    """
+    smart_pool = [it for it in items if not is_smart_enforcement_action(it)]
     ranked = sorted(
-        items,
+        smart_pool,
         key=lambda it: (smart_relevance_score(it), str(it.get("published_at", ""))),
         reverse=True,
     )
-    return ranked[:limit]
+
+    indexed: List[Dict[str, Any]] = []
+    for idx, it in enumerate(ranked[:limit], start=1):
+        item_copy = dict(it)
+        item_copy["smart_index"] = idx
+        indexed.append(item_copy)
+    return indexed
 
 
 def write_raw_aux_files() -> None:
@@ -4884,7 +4930,8 @@ def build() -> None:
         json.dump(payload.get("items", []), f, ensure_ascii=False, indent=2)
 
     # Power Automate smart feed: same JSON array format as items-array.json,
-    # but ranked and limited to the 100 most bank/fintech-relevant items.
+    # ranked and limited to the 100 most bank/fintech-relevant items. Each
+    # object includes smart_index so flows can preserve the intended sequence.
     with open(RAW_SMART_100_ARRAY_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(smart_items, f, ensure_ascii=False, indent=2)
         

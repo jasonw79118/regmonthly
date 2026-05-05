@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-03-31T05:00:00Z` → `2026-05-01T05:00:00Z` (UTC)
-Last updated: `2026-05-05T10:59:52-05:00` (CT) — `2026-05-05T15:59:52Z` (UTC)
+Last updated: `2026-05-05T13:33:01-05:00` (CT) — `2026-05-05T18:33:01Z` (UTC)
 
 ## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 - Source: OFAC
@@ -1915,12 +1915,6 @@ IR-2026-59, April 30, 2026 — The Department of the Treasury and the Internal R
 - Published: 2026-04-30T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/yakima-federal-helps-small-businesses-manage-cash-flow-more
 
-## What is a passkey? Here’s everything you need to know August, 2024
-- Source: Mastercard
-- Category: Payment Card Networks
-- Published: 2026-04-30T00:00:00Z
-- URL: https://www.mastercard.com/us/en/news-and-trends/press/2024/august/everything-you-need-to-know-about-payment-passkeys.html
-
 ## Wealth Management
 - Source: ABA
 - Category: Compliance Watch
@@ -2775,14 +2769,6 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Published: 2026-04-29T00:00:00Z
 - URL: https://www.cdiaonline.org/education-services/
 
-## Accounting
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-29T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/accounting
-
-ABA represents the banking industry on policy issues related to accounting and auditing.
-
 ## Wolters Kluwer expands CompliEditor Suite to help financial institutions accelerate disclosure updates
 - Source: Wolters Kluwer
 - Category: Compliance Watch
@@ -2977,11 +2963,11 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-04-28T00:00:00Z
 - URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henrys-annual-survey-financial-institutions-highlights
 
-## Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement
+## Visa Announces Global Expansion of Agentic Ready Program
 - Source: Visa
 - Category: Payment Card Networks
 - Published: 2026-04-28T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html
 
 ## Visa Fiscal Second Quarter 2026 Financial Results
 - Source: Visa
@@ -5208,6 +5194,14 @@ Acknowledgement added. This is an informational change only.
 - Category: Payment Card Networks
 - Published: 2026-04-21T00:00:00Z
 - URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/march/small-businesses-can-soon-enjoy-new-rewards-with-the-prime-busin.html
+
+## New survey: consumers wary of government price controls on credit cards See the results
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-04-21T00:00:00Z
+- URL: https://www.aba.com/news-research/analysis-guides/consumer-views-on-credit-card-marketplace
+
+A March 2026 survey conducted by Morning Consult on behalf of the American Bankers Association shows that consumers view the credit card marketplace as important and highly competitive, and they are wary of government price controls on credit cards.
 
 ## Wealth and Trust Schools
 - Source: ABA
@@ -8292,12 +8286,6 @@ IR-2026-52, April 14, 2026 — As the end of filing season approaches, the Inter
 - Category: Payments
 - Published: 2026-04-14T00:00:00Z
 - URL: https://www.nacha.org/news/how-quantum-computing-used-everyday-life
-
-## How Can Your Organization Build a Quantum-Safe Payments Readiness Plan?
-- Source: NACHA
-- Category: Payments
-- Published: 2026-04-14T00:00:00Z
-- URL: https://www.nacha.org/news/how-can-your-organization-build-quantum-safe-payments-readiness-plan
 
 ## Barclays and FIS Extend Partnership Supporting Bank's Online Deposits Growth
 - Source: FIS

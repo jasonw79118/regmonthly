@@ -5,26 +5,31 @@ Files changed:
 - scripts/build.py
 
 What changed:
-1. Monthly pull window now includes a one-day buffer on both sides of the prior month.
+1. Monthly pull window includes a one-day buffer on both sides of the prior month.
    Example: the April monthly run pulls 2026-03-31 through 2026-05-01.
    IRS monthly archive URLs still use the actual target month, so April still points to the April IRS archive.
 
 2. Quarterly filter remains in the build pipeline.
    Any article with the word "quarterly" in title, summary, content, category, source, or URL is removed before output files are written.
 
-3. New Power Automate smart endpoint added:
+3. Power Automate smart endpoint remains:
    docs/raw/items-smart-100.json
 
-4. The new smart endpoint uses the same JSON array format as:
+4. The smart endpoint uses the same JSON array format as:
    docs/raw/items-array.json
 
 5. The main site/data still receives the full post-scrape dataset after the quarterly exclusion.
    The smart top-100 bank/fintech relevance filter is applied only to docs/raw/items-smart-100.json.
 
-6. The smart endpoint ranks articles by bank/fintech relevance using source weight, regulatory keywords, bank/fintech keywords, and noise penalties.
-   It does not add scoring fields to the JSON objects so Power Automate sees the same object format as items-array.json.
+6. Enforcement action articles are now excluded from the Smart 100 endpoint only.
+   They are not removed from the main site dataset unless they also contain the separate excluded word "quarterly."
 
-7. docs/raw/index.html and docs/raw/sitemap.xml generation now include a link/reference to items-smart-100.json.
+7. Enforcement-action exclusion terms include:
+   enforcement action, enforcement actions, civil money penalty, consent order,
+   cease and desist, prohibition order, formal agreement, and settlement agreement.
+
+8. The smart endpoint ranks the remaining articles by bank/fintech relevance using source weight, regulatory keywords, bank/fintech keywords, and noise penalties.
+   It does not add scoring fields to the JSON objects so Power Automate sees the same object format as items-array.json.
 
 Power Automate URL after push/build:
 https://jasonw79118.github.io/regmonthly/raw/items-smart-100.json
