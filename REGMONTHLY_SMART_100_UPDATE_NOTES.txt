@@ -1,0 +1,39 @@
+RegMonthly Smart 100 Update Notes
+Version/date: 2026-05-05
+
+Files changed:
+- scripts/build.py
+
+What changed:
+1. Monthly pull window now includes a one-day buffer on both sides of the prior month.
+   Example: the April monthly run pulls 2026-03-31 through 2026-05-01.
+   IRS monthly archive URLs still use the actual target month, so April still points to the April IRS archive.
+
+2. Quarterly filter remains in the build pipeline.
+   Any article with the word "quarterly" in title, summary, content, category, source, or URL is removed before output files are written.
+
+3. New Power Automate smart endpoint added:
+   docs/raw/items-smart-100.json
+
+4. The new smart endpoint uses the same JSON array format as:
+   docs/raw/items-array.json
+
+5. The main site/data still receives the full post-scrape dataset after the quarterly exclusion.
+   The smart top-100 bank/fintech relevance filter is applied only to docs/raw/items-smart-100.json.
+
+6. The smart endpoint ranks articles by bank/fintech relevance using source weight, regulatory keywords, bank/fintech keywords, and noise penalties.
+   It does not add scoring fields to the JSON objects so Power Automate sees the same object format as items-array.json.
+
+7. docs/raw/index.html and docs/raw/sitemap.xml generation now include a link/reference to items-smart-100.json.
+
+Power Automate URL after push/build:
+https://jasonw79118.github.io/regmonthly/raw/items-smart-100.json
+
+Suggested replacement instructions:
+- Copy scripts/build.py into the repo at scripts/build.py and overwrite the existing file.
+- Remove any old update notes TXT files from prior fix packs if you do not want them committed.
+- Commit and push.
+- Let the normal monthly build generate docs/raw/items-smart-100.json, or run build.py intentionally only when you are ready for the monthly dataset to regenerate.
+
+Important caution:
+- Running scripts/build.py will regenerate the monthly article outputs. If you want to preserve the already-captured monthly dataset, only commit the build.py change and wait for the scheduled monthly run.

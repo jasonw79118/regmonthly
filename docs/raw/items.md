@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-03-31T05:00:00Z` → `2026-05-01T05:00:00Z` (UTC)
-Last updated: `2026-05-05T09:52:55-05:00` (CT) — `2026-05-05T14:52:55Z` (UTC)
+Last updated: `2026-05-05T10:59:52-05:00` (CT) — `2026-05-05T15:59:52Z` (UTC)
 
 ## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 - Source: OFAC
@@ -2977,11 +2977,11 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-04-28T00:00:00Z
 - URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henrys-annual-survey-financial-institutions-highlights
 
-## Visa Announces Global Expansion of Agentic Ready Program
+## Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement
 - Source: Visa
 - Category: Payment Card Networks
 - Published: 2026-04-28T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html
 
 ## Visa Fiscal Second Quarter 2026 Financial Results
 - Source: Visa
@@ -4461,14 +4461,6 @@ IR-2026-56, April 24, 2026 — During National Volunteer Week, the Internal Reve
 
 Banks that originate ACH transactions will be responsible for working with their clients to determine if certain payments meet the IAT definition.
 
-## Wolters Kluwer Enablon recognized as a 2026 Environment+Energy Leader Awards winner
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-04-24T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/wolters-kluwer-enablon-recognized-as-a-2026-environment-energy-leader-awards-winner
-
-Wolters Kluwer Enablon has been named a winner in the Software & Cloud category of the 2026 Environment+Energy Leader Awards.
-
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
 - Category: Federal Register
@@ -4924,18 +4916,6 @@ The federal bank regulatory agencies today jointly finalized a rule to modify th
 - Category: Legislative
 - Published: 2026-04-23T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411108
-
-## FASB Announces Winner of 2026 Emerging Scholar Award
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-23T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-announces-winner-of-2026-emerging-scholar-award-424149
-
-## Registration Opens for May 4 FASB Webinar for Private Companies and Not-for-Profit Organizations
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-23T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/registration-opens-for-may-4-fasb-webinar-for-private-companies-and-not-for-profit-organizations-424045
 
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
@@ -9837,12 +9817,6 @@ Information published.
 
 Information published.
 
-## FASB Chair Adds Research Project on Current Trends and Emerging Issues—Data Infrastructure Investments and Non-Traditional Lending to Be Covered
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-07T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-chair-adds-research-project-on-current-trends-and-emerging-issuesdata-infrastructure-investments-and-non-traditional-lending-to-be-covered-424037
-
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
 - Category: Federal Register
@@ -9898,12 +9872,6 @@ IR-2026-46, April 6, 2026 — The IRS today announced a major expansion of its B
 - Category: Payments
 - Published: 2026-04-06T00:00:00Z
 - URL: https://www.nacha.org/news/time-stop-apologizing-fraud-protection
-
-## FASB Names Four New Members to Its Investor Advisory Committee
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-06T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-four-new-members-to-its-investor-advisory-committee-424012
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register

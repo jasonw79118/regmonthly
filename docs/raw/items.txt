@@ -2652,8 +2652,8 @@ https://ir.jackhenry.com/news-releases/news-release-details/jack-henrys-annual-s
 Payment Card Networks
 Visa
 2026-04-28T00:00:00Z
-Visa Announces Global Expansion of Agentic Ready Program
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html
+Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement
+https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html
 ------------------------------------------------------------
 Payment Card Networks
 Visa
@@ -3994,13 +3994,6 @@ ACH Transactions
 https://www.aba.com/banking-topics/payments/ach-transactions
 Banks that originate ACH transactions will be responsible for working with their clients to determine if certain payments meet the IAT definition.
 ------------------------------------------------------------
-Compliance Watch
-Wolters Kluwer
-2026-04-24T00:00:00Z
-Wolters Kluwer Enablon recognized as a 2026 Environment+Energy Leader Awards winner
-https://www.wolterskluwer.com/en/news/wolters-kluwer-enablon-recognized-as-a-2026-environment-energy-leader-awards-winner
-Wolters Kluwer Enablon has been named a winner in the Software & Cloud category of the 2026 Environment+Energy Leader Awards.
-------------------------------------------------------------
 Federal Register
 Federal Register
 2026-04-24T00:00:00Z
@@ -4411,18 +4404,6 @@ House Financial Services
 2026-04-23T00:00:00Z
 Housing and Insurance Subcommittee Reviews Reinsurance and Credit Risk Transfers
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411108
-------------------------------------------------------------
-Compliance Watch
-FASB
-2026-04-23T00:00:00Z
-FASB Announces Winner of 2026 Emerging Scholar Award
-https://www.fasb.org/news-and-meetings/in-the-news/fasb-announces-winner-of-2026-emerging-scholar-award-424149
-------------------------------------------------------------
-Compliance Watch
-FASB
-2026-04-23T00:00:00Z
-Registration Opens for May 4 FASB Webinar for Private Companies and Not-for-Profit Organizations
-https://www.fasb.org/news-and-meetings/in-the-news/registration-opens-for-may-4-fasb-webinar-for-private-companies-and-not-for-profit-organizations-424045
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -8830,12 +8811,6 @@ CVE-2026-31407 netfilter: conntrack: add missing netlink policy validations
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-31407
 Information published.
 ------------------------------------------------------------
-Compliance Watch
-FASB
-2026-04-07T00:00:00Z
-FASB Chair Adds Research Project on Current Trends and Emerging Issues—Data Infrastructure Investments and Non-Traditional Lending to Be Covered
-https://www.fasb.org/news-and-meetings/in-the-news/fasb-chair-adds-research-project-on-current-trends-and-emerging-issuesdata-infrastructure-investments-and-non-traditional-lending-to-be-covered-424037
-------------------------------------------------------------
 Federal Register
 Federal Register
 2026-04-07T00:00:00Z
@@ -8887,12 +8862,6 @@ NACHA
 2026-04-06T00:00:00Z
 Time to ‘Stop Apologizing for Fraud Protection’
 https://www.nacha.org/news/time-stop-apologizing-fraud-protection
-------------------------------------------------------------
-Compliance Watch
-FASB
-2026-04-06T00:00:00Z
-FASB Names Four New Members to Its Investor Advisory Committee
-https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-four-new-members-to-its-investor-advisory-committee-424012
 ------------------------------------------------------------
 Federal Register
 Federal Register

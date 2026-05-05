@@ -34,6 +34,7 @@ RAW_MD_PATH = f"{RAW_DIR}/items.md"
 RAW_TXT_PATH = f"{RAW_DIR}/items.txt"
 RAW_NDJSON_PATH = f"{RAW_DIR}/items.ndjson"
 RAW_ARRAY_JSON_PATH = f"{RAW_DIR}/items-array.json"
+RAW_SMART_100_ARRAY_JSON_PATH = f"{RAW_DIR}/items-smart-100.json"
 RAW_ROBOTS_PATH = f"{RAW_DIR}/robots.txt"
 RAW_SITEMAP_PATH = f"{RAW_DIR}/sitemap.xml"
 
@@ -1168,22 +1169,20 @@ def fetch_json_status(
 def monthly_window_utc(now_utc: datetime) -> Tuple[datetime, datetime, datetime]:
     """
     Returns (window_start_utc, window_end_utc, target_month_start_ct)
-    for the previous calendar month in Central Time, with a source-wide buffer.
+    for the previous calendar month in Central Time.
 
-    The collection window starts on the last day of the month before the target
-    month and ends at the first day after the target month. Example: an April
-    monthly run captures 03/31/2026 00:00 CT through 05/01/2026 00:00 CT.
-    This catches items issued late in the day that otherwise escape source feeds
-    or listing pages. The returned target_month_start_ct is still the first day
-    of the target month, so source-specific month URLs such as IRS continue to
-    point at the intended month.
+    RegMonthly intentionally uses a one-day buffer on both sides of the
+    prior-month pull so late-posted items are not missed. Example: a May 1 run
+    for April uses March 31 00:00 CT through May 1 00:00 CT.
+
+    The third return value remains the actual target month start so source
+    URLs that need a calendar month, such as IRS monthly archives, still point
+    to the intended month rather than the buffer day.
     """
     now_ct = now_utc.astimezone(CENTRAL_TZ)
 
     first_of_this_month_ct = now_ct.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
-    target_month_start_ct = (first_of_this_month_ct - timedelta(days=1)).replace(
-        day=1, hour=0, minute=0, second=0, microsecond=0
-    )
+    target_month_start_ct = (first_of_this_month_ct - timedelta(days=1)).replace(day=1, hour=0, minute=0, second=0, microsecond=0)
     buffered_start_ct = target_month_start_ct - timedelta(days=1)
     buffered_end_ct = first_of_this_month_ct
 
@@ -1199,31 +1198,6 @@ def irs_news_releases_for_month_url(window_start_ct: datetime) -> str:
     year = window_start_ct.year
     return f"https://www.irs.gov/newsroom/news-releases-for-{month}-{year}"
 
-
-
-def contains_quarterly_text(item: Dict[str, Any]) -> bool:
-    """Return True when an item contains the word quarterly in searchable text."""
-    searchable_parts = [
-        str(item.get("title") or ""),
-        str(item.get("summary") or ""),
-        str(item.get("content") or ""),
-        str(item.get("description") or ""),
-    ]
-    return "quarterly" in " ".join(searchable_parts).lower()
-
-
-def exclude_quarterly_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Remove quarterly items globally before final output files are written."""
-    kept: List[Dict[str, Any]] = []
-    removed_count = 0
-    for item in items:
-        if contains_quarterly_text(item):
-            removed_count += 1
-            continue
-        kept.append(item)
-    if removed_count:
-        print(f"[filter] removed {removed_count} item(s) containing 'quarterly'", flush=True)
-    return kept
 
 
 # ============================
@@ -4430,6 +4404,7 @@ def render_raw_html(payload: Dict[str, Any]) -> str:
       <a href="./items.txt">items.txt</a>
       <a href="./items.ndjson">items.ndjson</a>
       <a href="./items-array.json">items-array.json</a>
+      <a href="./items-smart-100.json">items-smart-100.json</a>
       <a href="../">Back to app</a>
     </div>
   </header>
@@ -4544,6 +4519,116 @@ def render_print_html(payload: Dict[str, Any]) -> str:
     return "\n".join(parts)
         
         
+
+# ============================
+# POWER AUTOMATE SMART EXPORT FILTERS
+# ============================
+
+SMART_100_LIMIT = 100
+
+SMART_SOURCE_WEIGHTS: Dict[str, int] = {
+    "CFPB": 38,
+    "OCC": 38,
+    "FDIC": 38,
+    "Federal Reserve": 38,
+    "FRB": 38,
+    "FFIEC": 38,
+    "FinCEN": 38,
+    "OFAC": 38,
+    "Federal Register": 35,
+    "NACHA": 32,
+    "Treasury": 30,
+    "Fannie Mae": 24,
+    "Freddie Mac": 24,
+    "FHLB MPF": 24,
+    "Visa": 16,
+    "Mastercard": 16,
+    "FIS": 12,
+    "Fiserv": 12,
+    "Jack Henry": 12,
+    "Finastra": 12,
+    "Temenos": 12,
+    "Mambu": 12,
+    "TCS": 10,
+}
+
+SMART_KEYWORD_WEIGHTS: Dict[str, int] = {
+    "bank": 18, "banking": 18, "national bank": 24, "community bank": 22,
+    "credit union": 18, "fintech": 18, "payments": 18, "payment": 14,
+    "ach": 20, "nacha": 20, "wire transfer": 18, "debit": 12, "credit card": 16,
+    "card network": 14, "mortgage": 18, "lending": 18, "loan": 16,
+    "deposit": 16, "bsa": 22, "aml": 22, "ofac": 24, "sanctions": 22,
+    "fincen": 22, "cra": 20, "udaap": 24, "fair lending": 24,
+    "ecoa": 20, "regulation b": 22, "regulation z": 22, "reg z": 22,
+    "tila": 20, "regulation x": 22, "reg x": 22, "respa": 20,
+    "cfpb": 24, "occ": 24, "fdic": 24, "federal reserve": 24,
+    "ffiec": 24, "federal register": 18, "capital": 16, "liquidity": 18,
+    "model risk": 22, "third-party risk": 22, "third party risk": 22,
+    "cybersecurity": 20, "information security": 18, "privacy": 16,
+    "consumer compliance": 22, "enforcement action": 24, "civil money penalty": 24,
+    "consent order": 24, "guidance": 12, "rulemaking": 16, "final rule": 18,
+    "proposed rule": 18, "supervisory": 16, "examination": 16, "risk management": 18,
+}
+
+SMART_NOISE_WEIGHTS: Dict[str, int] = {
+    "quarterly": -999,
+    "earnings": -40, "investor relations": -45, "shareholder": -35,
+    "stock repurchase": -45, "dividend": -40, "appoints": -22,
+    "appointment": -22, "conference": -18, "webinar": -12, "award": -25,
+    "sponsorship": -24, "charity": -24, "philanthropy": -24,
+    "podcast": -16, "survey": -10,
+}
+
+
+def _smart_text(item: Dict[str, Any]) -> str:
+    return " ".join(
+        str(item.get(k, "") or "")
+        for k in ("title", "summary", "content", "category", "source", "url")
+    ).lower()
+
+
+def exclude_quarterly(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Remove quarterly items from every output, including the main site dataset."""
+    return [it for it in items if "quarterly" not in _smart_text(it)]
+
+
+def smart_relevance_score(item: Dict[str, Any]) -> int:
+    """Score an item for bank/fintech relevance without changing the item shape."""
+    text = _smart_text(item)
+    score = 0
+
+    source = str(item.get("source") or item.get("category") or "")
+    category = str(item.get("category") or "")
+    source_blob = f"{source} {category}"
+    for name, weight in SMART_SOURCE_WEIGHTS.items():
+        if name.lower() in source_blob.lower():
+            score += weight
+
+    for term, weight in SMART_KEYWORD_WEIGHTS.items():
+        if term in text:
+            score += weight
+
+    for term, weight in SMART_NOISE_WEIGHTS.items():
+        if term in text:
+            score += weight
+
+    # Regulatory/legal verbs tend to be more useful for bank compliance teams.
+    if any(term in text for term in ["rule", "guidance", "bulletin", "advisory", "order", "penalty", "settlement", "supervisory", "examination"]):
+        score += 12
+
+    return score
+
+
+def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -> List[Dict[str, Any]]:
+    """Return the best items for Power Automate in the exact same array-item format."""
+    ranked = sorted(
+        items,
+        key=lambda it: (smart_relevance_score(it), str(it.get("published_at", ""))),
+        reverse=True,
+    )
+    return ranked[:limit]
+
+
 def write_raw_aux_files() -> None:
     base = PUBLIC_BASE.rstrip("/")
     raw_base = f"{base}/raw"
@@ -4561,6 +4646,7 @@ def write_raw_aux_files() -> None:
   <url><loc>{raw_base}/items.txt</loc></url>
   <url><loc>{raw_base}/items.ndjson</loc></url>
   <url><loc>{raw_base}/items-array.json</loc></url>
+  <url><loc>{raw_base}/items-smart-100.json</loc></url>
   <url><loc>{print_base}/items.html</loc></url>
 </urlset>
 """
@@ -4762,8 +4848,9 @@ def build() -> None:
             continue
         
     items = list(dedup.values())
-    items = exclude_quarterly_items(items)
+    items = exclude_quarterly(items)
     items.sort(key=lambda x: x["published_at"], reverse=True)
+    smart_items = smart_top_items(items, SMART_100_LIMIT)
         
     payload = {
         "window_start": iso_z(window_start),
@@ -4795,6 +4882,11 @@ def build() -> None:
 
     with open(RAW_ARRAY_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(payload.get("items", []), f, ensure_ascii=False, indent=2)
+
+    # Power Automate smart feed: same JSON array format as items-array.json,
+    # but ranked and limited to the 100 most bank/fintech-relevant items.
+    with open(RAW_SMART_100_ARRAY_JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(smart_items, f, ensure_ascii=False, indent=2)
         
     with open(PRINT_HTML_PATH, "w", encoding="utf-8") as f:
         f.write(render_print_html(payload))
@@ -4803,7 +4895,7 @@ def build() -> None:
         
     print(
         f"\n[ok] wrote {OUT_PATH} with {len(items)} items | detail fetches: {global_detail_fetches}\n"
-        f"[ok] wrote raw exports: {RAW_HTML_PATH}, {RAW_MD_PATH}, {RAW_TXT_PATH}, {RAW_NDJSON_PATH}, {RAW_ARRAY_JSON_PATH}\n"
+        f"[ok] wrote raw exports: {RAW_HTML_PATH}, {RAW_MD_PATH}, {RAW_TXT_PATH}, {RAW_NDJSON_PATH}, {RAW_ARRAY_JSON_PATH}, {RAW_SMART_100_ARRAY_JSON_PATH}\n"
         f"[ok] wrote print export: {PRINT_HTML_PATH}\n"
         f"[ok] wrote crawler hints: {RAW_ROBOTS_PATH}, {RAW_SITEMAP_PATH}",
         flush=True,
