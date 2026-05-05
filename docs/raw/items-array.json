@@ -32,6 +32,14 @@
     "summary": ""
   },
   {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Regulatory Reform",
+    "published_at": "2026-05-01T00:00:00Z",
+    "url": "https://www.federalreserve.gov/reform.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC."
+  },
+  {
     "category": "Mortgage",
     "source": "FHLB MPF",
     "title": "MPF Announcement 2026-24",
@@ -130,10 +138,26 @@
   {
     "category": "Compliance Watch",
     "source": "ABA",
+    "title": "Consumer Lending",
+    "published_at": "2026-05-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/consumer-banking/consumer-lending",
+    "summary": "Enhance your knowledge and understanding of consumer loans and issues that effect them."
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
     "title": "Mortgage & Home Finance",
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance",
     "summary": "There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs."
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Retail Banking",
+    "published_at": "2026-05-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/consumer-banking/retail-banking",
+    "summary": "As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies."
   },
   {
     "category": "Compliance Watch",
@@ -178,6 +202,14 @@
   {
     "category": "Compliance Watch",
     "source": "ABA",
+    "title": "Commercial & Industrial Loans",
+    "published_at": "2026-05-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans",
+    "summary": "ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments."
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
     "title": "Small Business",
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/commercial-banking/small-business",
@@ -190,6 +222,22 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/technology",
     "summary": "Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution."
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Artificial Intelligence",
+    "published_at": "2026-05-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/technology/artificial-intelligence",
+    "summary": "Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI."
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Cybersecurity",
+    "published_at": "2026-05-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/technology/cybersecurity",
+    "summary": "ABA offers resources to help banks protect their customers' accounts and personal information."
   },
   {
     "category": "Compliance Watch",
@@ -2041,22 +2089,6 @@
   {
     "category": "Compliance Watch",
     "source": "ABA",
-    "title": "Retail Banking",
-    "published_at": "2026-04-30T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/consumer-banking/retail-banking",
-    "summary": "As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Artificial Intelligence",
-    "published_at": "2026-04-30T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/technology/artificial-intelligence",
-    "summary": "Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
     "title": "Wealth Management",
     "published_at": "2026-04-30T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/wealth-management",
@@ -2969,14 +3001,6 @@
   {
     "category": "Compliance Watch",
     "source": "ABA",
-    "title": "Cybersecurity",
-    "published_at": "2026-04-29T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/technology/cybersecurity",
-    "summary": "ABA offers resources to help banks protect their customers' accounts and personal information."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
     "title": "Accounting",
     "published_at": "2026-04-29T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/operations/accounting",
@@ -3447,14 +3471,6 @@
   {
     "category": "Compliance Watch",
     "source": "ABA",
-    "title": "Consumer Lending",
-    "published_at": "2026-04-28T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/consumer-banking/consumer-lending",
-    "summary": "Enhance your knowledge and understanding of consumer loans and issues that effect them."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
     "title": "Health Savings Accounts",
     "published_at": "2026-04-28T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/wealth-management/health-savings-accounts",
@@ -3597,6 +3613,14 @@
     "summary": ""
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Message on National Apprenticeship Week",
+    "published_at": "2026-04-27T20:33:57Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/",
+    "summary": ""
+  },
+  {
     "category": "OFAC",
     "source": "Treasury",
     "title": "Readouts",
@@ -3723,14 +3747,6 @@
     "published_at": "2026-04-27T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/consumer-banking/inclusive-banking",
     "summary": "Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Commercial & Industrial Loans",
-    "published_at": "2026-04-27T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans",
-    "summary": "ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments."
   },
   {
     "category": "Compliance Watch",

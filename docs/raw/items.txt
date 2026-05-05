@@ -23,6 +23,13 @@ OCC
 Prohibition Against Interstate Deposits: Annual Host State Loan-to-Deposit Ratios
 https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-19.html
 ------------------------------------------------------------
+Banking
+FRB
+2026-05-01T00:00:00Z
+Regulatory Reform
+https://www.federalreserve.gov/reform.htm
+The Federal Reserve Board of Governors in Washington DC.
+------------------------------------------------------------
 Mortgage
 FHLB MPF
 2026-05-01T00:00:00Z
@@ -101,9 +108,23 @@ Key areas of consideration for banking individual retail customers, including le
 Compliance Watch
 ABA
 2026-05-01T00:00:00Z
+Consumer Lending
+https://www.aba.com/banking-topics/consumer-banking/consumer-lending
+Enhance your knowledge and understanding of consumer loans and issues that effect them.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-05-01T00:00:00Z
 Mortgage & Home Finance
 https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
 There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-05-01T00:00:00Z
+Retail Banking
+https://www.aba.com/banking-topics/consumer-banking/retail-banking
+As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -143,6 +164,13 @@ Find the most relevant ag banking information, resources and research from our t
 Compliance Watch
 ABA
 2026-05-01T00:00:00Z
+Commercial & Industrial Loans
+https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans
+ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-05-01T00:00:00Z
 Small Business
 https://www.aba.com/banking-topics/commercial-banking/small-business
 Banks and small businesses need each other to stay healthy. The banking industry has a long history of providing the capital that small businesses need to survive and thrive.
@@ -153,6 +181,20 @@ ABA
 Technology
 https://www.aba.com/banking-topics/technology
 Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-05-01T00:00:00Z
+Artificial Intelligence
+https://www.aba.com/banking-topics/technology/artificial-intelligence
+Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-05-01T00:00:00Z
+Cybersecurity
+https://www.aba.com/banking-topics/technology/cybersecurity
+ABA offers resources to help banks protect their customers' accounts and personal information.
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -1714,20 +1756,6 @@ https://www.bleepingcomputer.com/offer/deals/this-multi-model-ai-workspace-deal-
 Compliance Watch
 ABA
 2026-04-30T00:00:00Z
-Retail Banking
-https://www.aba.com/banking-topics/consumer-banking/retail-banking
-As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-30T00:00:00Z
-Artificial Intelligence
-https://www.aba.com/banking-topics/technology/artificial-intelligence
-Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-30T00:00:00Z
 Wealth Management
 https://www.aba.com/banking-topics/wealth-management
 Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices.
@@ -2497,13 +2525,6 @@ https://www.cdiaonline.org/education-services/
 Compliance Watch
 ABA
 2026-04-29T00:00:00Z
-Cybersecurity
-https://www.aba.com/banking-topics/technology/cybersecurity
-ABA offers resources to help banks protect their customers' accounts and personal information.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-29T00:00:00Z
 Accounting
 https://www.aba.com/banking-topics/operations/accounting
 ABA represents the banking industry on policy issues related to accounting and auditing.
@@ -2837,13 +2858,6 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 Compliance Watch
 ABA
 2026-04-28T00:00:00Z
-Consumer Lending
-https://www.aba.com/banking-topics/consumer-banking/consumer-lending
-Enhance your knowledge and understanding of consumer loans and issues that effect them.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-28T00:00:00Z
 Health Savings Accounts
 https://www.aba.com/banking-topics/wealth-management/health-savings-accounts
 An HSA is a tax-free savings account that's paired with a high deductible health insurance plan to pay for routine medical expenses. The ABA's Health Savings Account (HSA) Council supports expansion of account-based health care solutions for all Americans.
@@ -2920,6 +2934,12 @@ White House
 2026-04-27T20:35:53Z
 Nominations and Withdrawals Sent to the Senate
 https://www.whitehouse.gov/presidential-actions/2026/04/nominations-and-withdrawals-sent-to-the-senate-d935/
+------------------------------------------------------------
+Executive
+White House
+2026-04-27T20:33:57Z
+Presidential Message on National Apprenticeship Week
+https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/
 ------------------------------------------------------------
 OFAC
 Treasury
@@ -3021,13 +3041,6 @@ ABA
 Inclusive Banking
 https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-04-27T00:00:00Z
-Commercial & Industrial Loans
-https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans
-ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments.
 ------------------------------------------------------------
 Compliance Watch
 Wolters Kluwer

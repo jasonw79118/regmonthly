@@ -1,0 +1,29 @@
+RegMonthly update notes - 2026-05-05
+
+Files changed:
+- scripts/build.py
+
+Changes made:
+1. Monthly source window now includes a one-day buffer before and after the target month.
+   Example: the April monthly pull now uses 03/31/2026 00:00 CT through 05/01/2026 00:00 CT.
+   This is intended to catch articles issued late on the last day of the previous month or picked up late by feeds/listing pages.
+
+2. IRS monthly URL handling was preserved.
+   The IRS monthly news page still points to the target month, not the buffer date.
+   Example: April still uses the April IRS page even though the pull window starts 03/31.
+
+3. Added a global post-scrape filter for the word "quarterly".
+   The filter is case-insensitive and checks title, summary, content, and description fields when present.
+   Items containing "quarterly" are removed before final JSON/raw/print outputs are written.
+
+Prior file removal / replacement instructions:
+- Replace the existing scripts/build.py with the updated scripts/build.py from this package.
+- Add/keep this notes file only for handoff/reference; it does not need to be deployed to GitHub Pages.
+- No existing docs/data or docs/raw output files need to be manually removed unless you intentionally want to regenerate monthly output.
+- If you do regenerate output, review docs/data/items.json and docs/raw/items-array.json before pushing because the monthly capture can change when build.py runs again.
+
+Suggested git commands from the repository root:
+  git status
+  git add scripts/build.py regmonthly_update_notes_2026-05-05.txt
+  git commit -m "Update monthly window buffer and quarterly filter"
+  git push origin main

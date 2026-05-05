@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-04-01T05:00:00Z` → `2026-05-01T04:59:59Z` (UTC)
-Last updated: `2026-05-01T14:26:11-05:00` (CT) — `2026-05-01T19:26:11Z` (UTC)
+Last updated: `2026-05-01T16:45:27-05:00` (CT) — `2026-05-01T21:45:27Z` (UTC)
 
 ## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 - Source: OFAC
@@ -28,6 +28,14 @@ IR-2026-60 May 1, 2026 — The Internal Revenue Service is now accepting applica
 - Category: Banking
 - Published: 2026-05-01T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-19.html
+
+## Regulatory Reform
+- Source: FRB
+- Category: Banking
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.federalreserve.gov/reform.htm
+
+The Federal Reserve Board of Governors in Washington DC.
 
 ## MPF Announcement 2026-24
 - Source: FHLB MPF
@@ -107,6 +115,14 @@ Identify, monitor, measure and control for risk in your financial institution wi
 
 Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
 
+## Consumer Lending
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/consumer-banking/consumer-lending
+
+Enhance your knowledge and understanding of consumer loans and issues that effect them.
+
 ## Mortgage & Home Finance
 - Source: ABA
 - Category: Compliance Watch
@@ -114,6 +130,14 @@ Key areas of consideration for banking individual retail customers, including le
 - URL: https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
 
 There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
+
+## Retail Banking
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/consumer-banking/retail-banking
+
+As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
 
 ## Payments Overview
 - Source: ABA
@@ -155,6 +179,14 @@ Find resources on commercial banking topics like Commercial and Industrial (C&I)
 
 Find the most relevant ag banking information, resources and research from our team of experts.
 
+## Commercial & Industrial Loans
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans
+
+ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments.
+
 ## Small Business
 - Source: ABA
 - Category: Compliance Watch
@@ -170,6 +202,22 @@ Banks and small businesses need each other to stay healthy. The banking industry
 - URL: https://www.aba.com/banking-topics/technology
 
 Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution.
+
+## Artificial Intelligence
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/technology/artificial-intelligence
+
+Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.
+
+## Cybersecurity
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-05-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/technology/cybersecurity
+
+ABA offers resources to help banks protect their customers' accounts and personal information.
 
 ## Marketing & Communications
 - Source: ABA
@@ -1923,22 +1971,6 @@ IR-2026-59, April 30, 2026 — The Department of the Treasury and the Internal R
 - Published: 2026-04-30T00:00:00Z
 - URL: https://www.bleepingcomputer.com/offer/deals/this-multi-model-ai-workspace-deal-does-the-comparing-for-you/
 
-## Retail Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/retail-banking
-
-As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
-
-## Artificial Intelligence
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology/artificial-intelligence
-
-Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.
-
 ## Wealth Management
 - Source: ABA
 - Category: Compliance Watch
@@ -2805,14 +2837,6 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Published: 2026-04-29T00:00:00Z
 - URL: https://www.cdiaonline.org/education-services/
 
-## Cybersecurity
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-29T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology/cybersecurity
-
-ABA offers resources to help banks protect their customers' accounts and personal information.
-
 ## Accounting
 - Source: ABA
 - Category: Compliance Watch
@@ -3161,14 +3185,6 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 
 Resources to help you prepare for and respond to a physical or cyber incident.
 
-## Consumer Lending
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/consumer-lending
-
-Enhance your knowledge and understanding of consumer loans and issues that effect them.
-
 ## Health Savings Accounts
 - Source: ABA
 - Category: Compliance Watch
@@ -3256,6 +3272,12 @@ With the issuance of this final rule, which constitutes a final order, the Actin
 - Category: Executive
 - Published: 2026-04-27T20:35:53Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/04/nominations-and-withdrawals-sent-to-the-senate-d935/
+
+## Presidential Message on National Apprenticeship Week
+- Source: White House
+- Category: Executive
+- Published: 2026-04-27T20:33:57Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/
 
 ## Readouts
 - Source: Treasury
@@ -3362,14 +3384,6 @@ ABA helps banks better identify and report money laundering and other illicit fi
 - URL: https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
 
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-
-## Commercial & Industrial Loans
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-27T00:00:00Z
-- URL: https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans
-
-ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments.
 
 ## From Idea to Application: Wolters Kluwer’s GovTech Prompt-a-thon 2026 Demonstrates How Artificial Intelligence Is Advancing Public Administration
 - Source: Wolters Kluwer

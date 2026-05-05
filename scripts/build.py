@@ -1167,19 +1167,30 @@ def fetch_json_status(
 
 def monthly_window_utc(now_utc: datetime) -> Tuple[datetime, datetime, datetime]:
     """
-    Returns (window_start_utc, window_end_utc, window_start_ct)
-    for the previous calendar month in Central Time.
+    Returns (window_start_utc, window_end_utc, target_month_start_ct)
+    for the previous calendar month in Central Time, with a source-wide buffer.
+
+    The collection window starts on the last day of the month before the target
+    month and ends at the first day after the target month. Example: an April
+    monthly run captures 03/31/2026 00:00 CT through 05/01/2026 00:00 CT.
+    This catches items issued late in the day that otherwise escape source feeds
+    or listing pages. The returned target_month_start_ct is still the first day
+    of the target month, so source-specific month URLs such as IRS continue to
+    point at the intended month.
     """
     now_ct = now_utc.astimezone(CENTRAL_TZ)
 
     first_of_this_month_ct = now_ct.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
-    end_prev_month_ct = first_of_this_month_ct - timedelta(seconds=1)
-    start_prev_month_ct = end_prev_month_ct.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
+    target_month_start_ct = (first_of_this_month_ct - timedelta(days=1)).replace(
+        day=1, hour=0, minute=0, second=0, microsecond=0
+    )
+    buffered_start_ct = target_month_start_ct - timedelta(days=1)
+    buffered_end_ct = first_of_this_month_ct
 
     return (
-        start_prev_month_ct.astimezone(timezone.utc),
-        end_prev_month_ct.astimezone(timezone.utc),
-        start_prev_month_ct,
+        buffered_start_ct.astimezone(timezone.utc),
+        buffered_end_ct.astimezone(timezone.utc),
+        target_month_start_ct,
     )
 
 
@@ -1188,6 +1199,31 @@ def irs_news_releases_for_month_url(window_start_ct: datetime) -> str:
     year = window_start_ct.year
     return f"https://www.irs.gov/newsroom/news-releases-for-{month}-{year}"
 
+
+
+def contains_quarterly_text(item: Dict[str, Any]) -> bool:
+    """Return True when an item contains the word quarterly in searchable text."""
+    searchable_parts = [
+        str(item.get("title") or ""),
+        str(item.get("summary") or ""),
+        str(item.get("content") or ""),
+        str(item.get("description") or ""),
+    ]
+    return "quarterly" in " ".join(searchable_parts).lower()
+
+
+def exclude_quarterly_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Remove quarterly items globally before final output files are written."""
+    kept: List[Dict[str, Any]] = []
+    removed_count = 0
+    for item in items:
+        if contains_quarterly_text(item):
+            removed_count += 1
+            continue
+        kept.append(item)
+    if removed_count:
+        print(f"[filter] removed {removed_count} item(s) containing 'quarterly'", flush=True)
+    return kept
 
 
 # ============================
@@ -4726,6 +4762,7 @@ def build() -> None:
             continue
         
     items = list(dedup.values())
+    items = exclude_quarterly_items(items)
     items.sort(key=lambda x: x["published_at"], reverse=True)
         
     payload = {
