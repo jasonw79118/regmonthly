@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-03-31T05:00:00Z` → `2026-05-01T05:00:00Z` (UTC)
-Last updated: `2026-05-05T16:00:19-05:00` (CT) — `2026-05-05T21:00:19Z` (UTC)
+Last updated: `2026-05-06T13:31:26-05:00` (CT) — `2026-05-06T18:31:26Z` (UTC)
 
 ## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 - Source: OFAC
@@ -328,6 +328,12 @@ With the issuance of this final rule, the Drug Enforcement Administration places
 - Category: Executive
 - Published: 2026-04-30T20:06:03Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-month-2026/
+
+## Fact Sheet: President Donald J. Trump Promotes Efficiency, Accountability, and Performance in Federal Contracting
+- Source: White House
+- Category: Executive
+- Published: 2026-04-30T20:05:03Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-promotes-efficiency-accountability-and-performance-in-federal-contracting/
 
 ## Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov
 - Source: White House
@@ -2735,31 +2741,23 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Published: 2026-04-29T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411112
 
-## FIS Launches New Platform Giving Banks Control Over Digital Money
-- Source: FIS
-- Category: Fintech Watch
-- Published: 2026-04-29T00:00:00Z
-- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
-
 ## M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
 - Source: FIS
 - Category: Fintech Watch
 - Published: 2026-04-29T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
 
+## FIS Launches New Platform Giving Banks Control Over Digital Money
+- Source: FIS
+- Category: Fintech Watch
+- Published: 2026-04-29T00:00:00Z
+- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
+
 ## Education Services
 - Source: CDIA
 - Category: Compliance Watch
 - Published: 2026-04-29T00:00:00Z
 - URL: https://www.cdiaonline.org/education-services/
-
-## Wolters Kluwer expands CompliEditor Suite to help financial institutions accelerate disclosure updates
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-04-29T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/complieditor-suite-to-help-financial-institutions-accelerate-disclosure-updates
-
-Wolters Kluwer announced updates to its Wolters Kluwer® CompliEditor Suite, expanding capabilities that help financial institutions modernize and accelerate the disclosure creation and update process.
 
 ## Regulatory Capital Rule: Community Bank Leverage Ratio Framework
 - Source: Federal Register
@@ -3113,14 +3111,6 @@ An HSA is a tax-free savings account that's paired with a high deductible health
 
 Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture.
 
-## Workplace safety leaders are adopting AI, but warn guardrails are needed
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-04-28T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/workplace-safety-leaders-are-adopting-ai-but-warn-guardrails-are-needed
-
-A recent Wolters Kluwer Enablon and National Safety Council survey found that safety professionals are ready to adopt AI, but also report concerns.
-
 ## Notice of Proposals To Engage in or To Acquire Companies Engaged in Permissible Nonbanking Activities
 - Source: Federal Register
 - Category: Federal Register
@@ -3312,14 +3302,6 @@ IR-2026-58, April 27, 2026 — The Internal Revenue Service today announced a ne
 - URL: https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
 
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-
-## From Idea to Application: Wolters Kluwer’s GovTech Prompt-a-thon 2026 Demonstrates How Artificial Intelligence Is Advancing Public Administration
-- Source: Wolters Kluwer
-- Category: Compliance Watch
-- Published: 2026-04-27T00:00:00Z
-- URL: https://www.wolterskluwer.com/en/news/how-artificial-intelligence-is-advancing-public-administration
-
-Wolters Kluwer invites participants to its third GovTech Prompt-a-thon, focusing on responsible AI, citizen-centric services, and intelligent, AI-enabled administrative processes.
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
@@ -4893,6 +4875,18 @@ The federal bank regulatory agencies today jointly finalized a rule to modify th
 - Published: 2026-04-23T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411108
 
+## FASB Announces Winner of 2026 Emerging Scholar Award
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-23T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-announces-winner-of-2026-emerging-scholar-award-424149
+
+## Registration Opens for May 4 FASB Webinar for Private Companies and Not-for-Profit Organizations
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-23T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/registration-opens-for-may-4-fasb-webinar-for-private-companies-and-not-for-profit-organizations-424045
+
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
 - Category: Federal Register
@@ -5491,17 +5485,17 @@ PRESS RELEASE | APRIL 17, 2026 Agencies Issue Revised Model Risk Guidance WASHIN
 - Published: 2026-04-17T19:32:49Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/
 
-## Economic Fury Targets Iran-Backed Iraqi Militia Commanders
-- Source: Treasury
-- Category: OFAC
-- Published: 2026-04-17T18:30:00Z
-- URL: https://home.treasury.gov/news/press-releases/sb0458
-
 ## Treasury Sanctions Recruitment Network Enabling War in Sudan, Calls for Humanitarian Truce
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-04-17T18:30:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0457
+
+## Economic Fury Targets Iran-Backed Iraqi Militia Commanders
+- Source: Treasury
+- Category: OFAC
+- Published: 2026-04-17T18:30:00Z
+- URL: https://home.treasury.gov/news/press-releases/sb0458
 
 ## Chromium: CVE-2026-6307 Type Confusion in Turbofan
 - Source: Microsoft MSRC
@@ -8271,12 +8265,6 @@ IR-2026-52, April 14, 2026 — As the end of filing season approaches, the Inter
 - Published: 2026-04-14T00:00:00Z
 - URL: https://www.nacha.org/news/rising-challenge-first-party-fraud
 
-## How is Quantum Computing Used in Everyday Life?
-- Source: NACHA
-- Category: Payments
-- Published: 2026-04-14T00:00:00Z
-- URL: https://www.nacha.org/news/how-quantum-computing-used-everyday-life
-
 ## Barclays and FIS Extend Partnership Supporting Bank's Online Deposits Growth
 - Source: FIS
 - Category: Fintech Watch
@@ -9795,6 +9783,12 @@ Information published.
 
 Information published.
 
+## FASB Chair Adds Research Project on Current Trends and Emerging Issues—Data Infrastructure Investments and Non-Traditional Lending to Be Covered
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-07T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-chair-adds-research-project-on-current-trends-and-emerging-issuesdata-infrastructure-investments-and-non-traditional-lending-to-be-covered-424037
+
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
 - Category: Federal Register
@@ -9850,6 +9844,12 @@ IR-2026-46, April 6, 2026 — The IRS today announced a major expansion of its B
 - Category: Payments
 - Published: 2026-04-06T00:00:00Z
 - URL: https://www.nacha.org/news/time-stop-apologizing-fraud-protection
+
+## FASB Names Four New Members to Its Investor Advisory Committee
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-06T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-four-new-members-to-its-investor-advisory-committee-424012
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register

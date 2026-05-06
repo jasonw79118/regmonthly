@@ -4582,6 +4582,7 @@ SMART_NOISE_WEIGHTS: Dict[str, int] = {
     "cease and desist": -999, "prohibition order": -999,
     "banks examined": -999, "list of banks examined": -999,
     "cra examination schedule": -999, "performance evaluations": -80,
+    "supervisory highlights": -999, "supervisory highlight": -999,
 }
 
 
@@ -4607,6 +4608,13 @@ SMART_BANK_EXAM_LIST_TERMS = (
     "cra performance evaluations",
     "performance evaluations of financial institutions",
     "examined for cra compliance",
+)
+
+SMART_SUPERVISORY_HIGHLIGHTS_TERMS = (
+    "supervisory highlights",
+    "supervisory highlight",
+    "cfpb supervisory highlights",
+    "supervision highlights",
 )
 
 
@@ -4659,6 +4667,23 @@ def is_smart_bank_exam_list(item: Dict[str, Any]) -> bool:
     return False
 
 
+def is_smart_supervisory_highlights(item: Dict[str, Any]) -> bool:
+    """Identify Supervisory Highlights publications for smart-feed exclusion only."""
+    text = _smart_text(item)
+    title = str(item.get("title", "") or "").lower()
+    source = str(item.get("source", "") or "").lower()
+    url = str(item.get("url", "") or "").lower()
+
+    if any(term in text for term in SMART_SUPERVISORY_HIGHLIGHTS_TERMS):
+        return True
+
+    # Catch CFPB URL patterns for Supervisory Highlights even when the title changes.
+    if "cfpb" in source and "supervisory-highlights" in url:
+        return True
+
+    return False
+
+
 def smart_relevance_score(item: Dict[str, Any]) -> int:
     """Score an item for bank/fintech relevance without changing the item shape."""
     text = _smart_text(item)
@@ -4688,7 +4713,7 @@ def smart_relevance_score(item: Dict[str, Any]) -> int:
 
 
 def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -> List[Dict[str, Any]]:
-    """Return the best non-enforcement, non-bank-exam-list items for Power Automate in the same array-item format.
+    """Return the best non-enforcement, non-bank-exam-list, non-supervisory-highlights items for Power Automate in the same array-item format.
 
     Adds a stable 1-based smart_index after ranking so Power Automate can preserve
     the intended order even if later agent/wait steps reorder array objects.
@@ -4697,6 +4722,7 @@ def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -
         it for it in items
         if not is_smart_enforcement_action(it)
         and not is_smart_bank_exam_list(it)
+        and not is_smart_supervisory_highlights(it)
     ]
     ranked = sorted(
         smart_pool,

@@ -1,0 +1,38 @@
+RegMonthly Smart 100 Update - Supervisory Highlights Filter
+
+Files included:
+- scripts/build.py
+- REGMONTHLY_SMART_100_SUPERVISORY_HIGHLIGHTS_FILTER_NOTES.txt
+
+What changed in this update:
+1. Keeps the main RegMonthly site/full dataset unchanged except for the already-added global quarterly filter.
+2. Keeps the Power Automate Smart 100 endpoint:
+   - docs/raw/items-smart-100.json
+3. The Smart 100 endpoint remains the same JSON array format as docs/raw/items-array.json so Power Automate can parse it.
+4. Each Smart 100 item still includes smart_index after sorting.
+5. Smart 100 now excludes:
+   - enforcement action articles
+   - bank examination/list-style CRA evaluation articles
+   - Supervisory Highlights publications/articles
+
+New smart-only exclusion terms include:
+- supervisory highlights
+- supervisory highlight
+- cfpb supervisory highlights
+- supervision highlights
+- CFPB URL patterns containing supervisory-highlights
+
+Important:
+- This exclusion applies only to docs/raw/items-smart-100.json.
+- The full site feed and standard raw exports should still receive the regular monthly article set.
+
+Replacement instructions:
+1. Replace your existing scripts/build.py with the included scripts/build.py.
+2. Commit and push the change.
+3. Let the next monthly run generate docs/raw/items-smart-100.json.
+4. Point Power Automate to:
+   https://jasonw79118.github.io/regmonthly/raw/items-smart-100.json
+
+Power Automate ordering reminder:
+- Use smart_index as a numeric sort key.
+- If using Execute agent and wait with parallelism, carry smart_index through every step and rebuild final email/file from a sorted results array at the end.

@@ -295,6 +295,12 @@ https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-mon
 ------------------------------------------------------------
 Executive
 White House
+2026-04-30T20:05:03Z
+Fact Sheet: President Donald J. Trump Promotes Efficiency, Accountability, and Performance in Federal Contracting
+https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-promotes-efficiency-accountability-and-performance-in-federal-contracting/
+------------------------------------------------------------
+Executive
+White House
 2026-04-30T20:02:23Z
 Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov
 https://www.whitehouse.gov/presidential-actions/2026/04/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpira-gov/
@@ -2426,27 +2432,20 @@ https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411112
 Fintech Watch
 FIS
 2026-04-29T00:00:00Z
-FIS Launches New Platform Giving Banks Control Over Digital Money
-https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
+M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
+https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
 ------------------------------------------------------------
 Fintech Watch
 FIS
 2026-04-29T00:00:00Z
-M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
-https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
+FIS Launches New Platform Giving Banks Control Over Digital Money
+https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
 ------------------------------------------------------------
 Compliance Watch
 CDIA
 2026-04-29T00:00:00Z
 Education Services
 https://www.cdiaonline.org/education-services/
-------------------------------------------------------------
-Compliance Watch
-Wolters Kluwer
-2026-04-29T00:00:00Z
-Wolters Kluwer expands CompliEditor Suite to help financial institutions accelerate disclosure updates
-https://www.wolterskluwer.com/en/news/complieditor-suite-to-help-financial-institutions-accelerate-disclosure-updates
-Wolters Kluwer announced updates to its Wolters Kluwer® CompliEditor Suite, expanding capabilities that help financial institutions modernize and accelerate the disclosure creation and update process.
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -2786,13 +2785,6 @@ Human Resources
 https://www.aba.com/banking-topics/operations/human-resources
 Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture.
 ------------------------------------------------------------
-Compliance Watch
-Wolters Kluwer
-2026-04-28T00:00:00Z
-Workplace safety leaders are adopting AI, but warn guardrails are needed
-https://www.wolterskluwer.com/en/news/workplace-safety-leaders-are-adopting-ai-but-warn-guardrails-are-needed
-A recent Wolters Kluwer Enablon and National Safety Council survey found that safety professionals are ready to adopt AI, but also report concerns.
-------------------------------------------------------------
 Federal Register
 Federal Register
 2026-04-28T00:00:00Z
@@ -2975,13 +2967,6 @@ ABA
 Inclusive Banking
 https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-------------------------------------------------------------
-Compliance Watch
-Wolters Kluwer
-2026-04-27T00:00:00Z
-From Idea to Application: Wolters Kluwer’s GovTech Prompt-a-thon 2026 Demonstrates How Artificial Intelligence Is Advancing Public Administration
-https://www.wolterskluwer.com/en/news/how-artificial-intelligence-is-advancing-public-administration
-Wolters Kluwer invites participants to its third GovTech Prompt-a-thon, focusing on responsible AI, citizen-centric services, and intelligent, AI-enabled administrative processes.
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -4384,6 +4369,18 @@ House Financial Services
 Housing and Insurance Subcommittee Reviews Reinsurance and Credit Risk Transfers
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411108
 ------------------------------------------------------------
+Compliance Watch
+FASB
+2026-04-23T00:00:00Z
+FASB Announces Winner of 2026 Emerging Scholar Award
+https://www.fasb.org/news-and-meetings/in-the-news/fasb-announces-winner-of-2026-emerging-scholar-award-424149
+------------------------------------------------------------
+Compliance Watch
+FASB
+2026-04-23T00:00:00Z
+Registration Opens for May 4 FASB Webinar for Private Companies and Not-for-Profit Organizations
+https://www.fasb.org/news-and-meetings/in-the-news/registration-opens-for-may-4-fasb-webinar-for-private-companies-and-not-for-profit-organizations-424045
+------------------------------------------------------------
 Federal Register
 Federal Register
 2026-04-23T00:00:00Z
@@ -4950,14 +4947,14 @@ https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-com
 OFAC
 Treasury
 2026-04-17T18:30:00Z
-Economic Fury Targets Iran-Backed Iraqi Militia Commanders
-https://home.treasury.gov/news/press-releases/sb0458
+Treasury Sanctions Recruitment Network Enabling War in Sudan, Calls for Humanitarian Truce
+https://home.treasury.gov/news/press-releases/sb0457
 ------------------------------------------------------------
 OFAC
 Treasury
 2026-04-17T18:30:00Z
-Treasury Sanctions Recruitment Network Enabling War in Sudan, Calls for Humanitarian Truce
-https://home.treasury.gov/news/press-releases/sb0457
+Economic Fury Targets Iran-Backed Iraqi Militia Commanders
+https://home.treasury.gov/news/press-releases/sb0458
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -7423,12 +7420,6 @@ NACHA
 Rising to the Challenge of First-party Fraud
 https://www.nacha.org/news/rising-challenge-first-party-fraud
 ------------------------------------------------------------
-Payments
-NACHA
-2026-04-14T00:00:00Z
-How is Quantum Computing Used in Everyday Life?
-https://www.nacha.org/news/how-quantum-computing-used-everyday-life
-------------------------------------------------------------
 Fintech Watch
 FIS
 2026-04-14T00:00:00Z
@@ -8791,6 +8782,12 @@ CVE-2026-31407 netfilter: conntrack: add missing netlink policy validations
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-31407
 Information published.
 ------------------------------------------------------------
+Compliance Watch
+FASB
+2026-04-07T00:00:00Z
+FASB Chair Adds Research Project on Current Trends and Emerging Issues—Data Infrastructure Investments and Non-Traditional Lending to Be Covered
+https://www.fasb.org/news-and-meetings/in-the-news/fasb-chair-adds-research-project-on-current-trends-and-emerging-issuesdata-infrastructure-investments-and-non-traditional-lending-to-be-covered-424037
+------------------------------------------------------------
 Federal Register
 Federal Register
 2026-04-07T00:00:00Z
@@ -8842,6 +8839,12 @@ NACHA
 2026-04-06T00:00:00Z
 Time to ‘Stop Apologizing for Fraud Protection’
 https://www.nacha.org/news/time-stop-apologizing-fraud-protection
+------------------------------------------------------------
+Compliance Watch
+FASB
+2026-04-06T00:00:00Z
+FASB Names Four New Members to Its Investor Advisory Committee
+https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-four-new-members-to-its-investor-advisory-committee-424012
 ------------------------------------------------------------
 Federal Register
 Federal Register

@@ -1,8 +1,8 @@
 {
   "window_start": "2026-03-31T05:00:00Z",
   "window_end": "2026-05-01T05:00:00Z",
-  "generated_at_utc": "2026-05-05T21:00:19Z",
-  "generated_at_ct": "2026-05-05T16:00:19-05:00",
+  "generated_at_utc": "2026-05-06T18:31:26Z",
+  "generated_at_ct": "2026-05-06T13:31:26-05:00",
   "items": [
     {
       "category": "OFAC",
@@ -385,6 +385,14 @@
       "title": "National Foster Care Month, 2026",
       "published_at": "2026-04-30T20:06:03Z",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-month-2026/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Promotes Efficiency, Accountability, and Performance in Federal Contracting",
+      "published_at": "2026-04-30T20:05:03Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-promotes-efficiency-accountability-and-performance-in-federal-contracting/",
       "summary": ""
     },
     {
@@ -2878,17 +2886,17 @@
     {
       "category": "Fintech Watch",
       "source": "FIS",
-      "title": "FIS Launches New Platform Giving Banks Control Over Digital Money",
+      "title": "M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting",
       "published_at": "2026-04-29T00:00:00Z",
-      "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital",
+      "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy",
       "summary": ""
     },
     {
       "category": "Fintech Watch",
       "source": "FIS",
-      "title": "M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting",
+      "title": "FIS Launches New Platform Giving Banks Control Over Digital Money",
       "published_at": "2026-04-29T00:00:00Z",
-      "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy",
+      "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital",
       "summary": ""
     },
     {
@@ -2898,14 +2906,6 @@
       "published_at": "2026-04-29T00:00:00Z",
       "url": "https://www.cdiaonline.org/education-services/",
       "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "Wolters Kluwer",
-      "title": "Wolters Kluwer expands CompliEditor Suite to help financial institutions accelerate disclosure updates",
-      "published_at": "2026-04-29T00:00:00Z",
-      "url": "https://www.wolterskluwer.com/en/news/complieditor-suite-to-help-financial-institutions-accelerate-disclosure-updates",
-      "summary": "Wolters Kluwer announced updates to its Wolters Kluwer® CompliEditor Suite, expanding capabilities that help financial institutions modernize and accelerate the disclosure creation and update process."
     },
     {
       "category": "Federal Register",
@@ -3386,14 +3386,6 @@
       "summary": "Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture."
     },
     {
-      "category": "Compliance Watch",
-      "source": "Wolters Kluwer",
-      "title": "Workplace safety leaders are adopting AI, but warn guardrails are needed",
-      "published_at": "2026-04-28T00:00:00Z",
-      "url": "https://www.wolterskluwer.com/en/news/workplace-safety-leaders-are-adopting-ai-but-warn-guardrails-are-needed",
-      "summary": "A recent Wolters Kluwer Enablon and National Safety Council survey found that safety professionals are ready to adopt AI, but also report concerns."
-    },
-    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Notice of Proposals To Engage in or To Acquire Companies Engaged in Permissible Nonbanking Activities",
@@ -3672,14 +3664,6 @@
       "published_at": "2026-04-27T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/inclusive-banking",
       "summary": "Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "Wolters Kluwer",
-      "title": "From Idea to Application: Wolters Kluwer’s GovTech Prompt-a-thon 2026 Demonstrates How Artificial Intelligence Is Advancing Public Administration",
-      "published_at": "2026-04-27T00:00:00Z",
-      "url": "https://www.wolterskluwer.com/en/news/how-artificial-intelligence-is-advancing-public-administration",
-      "summary": "Wolters Kluwer invites participants to its third GovTech Prompt-a-thon, focusing on responsible AI, citizen-centric services, and intelligent, AI-enabled administrative processes."
     },
     {
       "category": "Federal Register",
@@ -5376,6 +5360,22 @@
       "summary": ""
     },
     {
+      "category": "Compliance Watch",
+      "source": "FASB",
+      "title": "FASB Announces Winner of 2026 Emerging Scholar Award",
+      "published_at": "2026-04-23T00:00:00Z",
+      "url": "https://www.fasb.org/news-and-meetings/in-the-news/fasb-announces-winner-of-2026-emerging-scholar-award-424149",
+      "summary": ""
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "FASB",
+      "title": "Registration Opens for May 4 FASB Webinar for Private Companies and Not-for-Profit Organizations",
+      "published_at": "2026-04-23T00:00:00Z",
+      "url": "https://www.fasb.org/news-and-meetings/in-the-news/registration-opens-for-may-4-fasb-webinar-for-private-companies-and-not-for-profit-organizations-424045",
+      "summary": ""
+    },
+    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
@@ -6238,17 +6238,17 @@
     {
       "category": "OFAC",
       "source": "Treasury",
-      "title": "Economic Fury Targets Iran-Backed Iraqi Militia Commanders",
+      "title": "Treasury Sanctions Recruitment Network Enabling War in Sudan, Calls for Humanitarian Truce",
       "published_at": "2026-04-17T18:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0458",
+      "url": "https://home.treasury.gov/news/press-releases/sb0457",
       "summary": ""
     },
     {
       "category": "OFAC",
       "source": "Treasury",
-      "title": "Treasury Sanctions Recruitment Network Enabling War in Sudan, Calls for Humanitarian Truce",
+      "title": "Economic Fury Targets Iran-Backed Iraqi Militia Commanders",
       "published_at": "2026-04-17T18:30:00Z",
-      "url": "https://home.treasury.gov/news/press-releases/sb0457",
+      "url": "https://home.treasury.gov/news/press-releases/sb0458",
       "summary": ""
     },
     {
@@ -9218,14 +9218,6 @@
       "summary": ""
     },
     {
-      "category": "Payments",
-      "source": "NACHA",
-      "title": "How is Quantum Computing Used in Everyday Life?",
-      "published_at": "2026-04-14T00:00:00Z",
-      "url": "https://www.nacha.org/news/how-quantum-computing-used-everyday-life",
-      "summary": ""
-    },
-    {
       "category": "Fintech Watch",
       "source": "FIS",
       "title": "Barclays and FIS Extend Partnership Supporting Bank's Online Deposits Growth",
@@ -11014,6 +11006,14 @@
       "summary": "Information published."
     },
     {
+      "category": "Compliance Watch",
+      "source": "FASB",
+      "title": "FASB Chair Adds Research Project on Current Trends and Emerging Issues—Data Infrastructure Investments and Non-Traditional Lending to Be Covered",
+      "published_at": "2026-04-07T00:00:00Z",
+      "url": "https://www.fasb.org/news-and-meetings/in-the-news/fasb-chair-adds-research-project-on-current-trends-and-emerging-issuesdata-infrastructure-investments-and-non-traditional-lending-to-be-covered-424037",
+      "summary": ""
+    },
+    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
@@ -11091,6 +11091,14 @@
       "title": "Time to ‘Stop Apologizing for Fraud Protection’",
       "published_at": "2026-04-06T00:00:00Z",
       "url": "https://www.nacha.org/news/time-stop-apologizing-fraud-protection",
+      "summary": ""
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "FASB",
+      "title": "FASB Names Four New Members to Its Investor Advisory Committee",
+      "published_at": "2026-04-06T00:00:00Z",
+      "url": "https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-four-new-members-to-its-investor-advisory-committee-424012",
       "summary": ""
     },
     {
