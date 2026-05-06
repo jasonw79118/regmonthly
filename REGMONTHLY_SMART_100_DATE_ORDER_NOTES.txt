@@ -1,0 +1,25 @@
+RegMonthly Smart 100 Date Order Update
+
+Files included:
+- scripts/build.py
+
+What changed:
+1. The main monthly site/feed remains unchanged except for prior updates already in this build.py.
+2. The Smart 100 endpoint still selects the best 100 bank/fintech-relevant articles after the smart exclusions:
+   - enforcement actions
+   - banks examined / CRA list-style exam articles
+   - Supervisory Highlights
+   - quarterly items
+3. After selecting the best 100 by relevance, the Smart 100 output is now re-sorted by published_at newest-to-oldest.
+4. smart_index is now assigned after the final date sort.
+
+Power Automate usage:
+- Continue using docs/raw/items-smart-100.json.
+- Sort by smart_index ascending in Power Automate if the flow/agent step changes order.
+- smart_index = 1 now means newest article among the selected Smart 100 articles.
+
+Replacement instructions:
+- Replace your repository's scripts/build.py with the included scripts/build.py.
+- Commit and push.
+- Let the GitHub Action/monthly build regenerate docs/raw/items-smart-100.json.
+- Verify the live JSON has smart_index 1, 2, 3... in published_at descending order.

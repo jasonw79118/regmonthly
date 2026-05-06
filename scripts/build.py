@@ -4712,11 +4712,21 @@ def smart_relevance_score(item: Dict[str, Any]) -> int:
     return score
 
 
-def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -> List[Dict[str, Any]]:
-    """Return the best non-enforcement, non-bank-exam-list, non-supervisory-highlights items for Power Automate in the same array-item format.
+def _smart_published_sort_value(item: Dict[str, Any]) -> datetime:
+    """Return a safe UTC datetime for Smart 100 final date ordering."""
+    dt = parse_date(str(item.get("published_at", "") or ""))
+    if dt is None:
+        return datetime.min.replace(tzinfo=timezone.utc)
+    return dt
 
-    Adds a stable 1-based smart_index after ranking so Power Automate can preserve
-    the intended order even if later agent/wait steps reorder array objects.
+
+def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -> List[Dict[str, Any]]:
+    """Return the best filtered Smart 100 items, then publish them in newest-first date order.
+
+    Selection still uses the bank/fintech relevance score so the endpoint contains
+    the best 100 articles. Final output order and smart_index are based on
+    published_at descending so Power Automate can sort/display by smart_index and
+    preserve date order.
     """
     smart_pool = [
         it for it in items
@@ -4724,14 +4734,23 @@ def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -
         and not is_smart_bank_exam_list(it)
         and not is_smart_supervisory_highlights(it)
     ]
-    ranked = sorted(
+
+    # First choose the best 100 by relevance.
+    ranked_by_relevance = sorted(
         smart_pool,
-        key=lambda it: (smart_relevance_score(it), str(it.get("published_at", ""))),
+        key=lambda it: (smart_relevance_score(it), _smart_published_sort_value(it)),
+        reverse=True,
+    )[:limit]
+
+    # Then publish those selected articles in strict newest-first date order.
+    final_order = sorted(
+        ranked_by_relevance,
+        key=lambda it: (_smart_published_sort_value(it), smart_relevance_score(it)),
         reverse=True,
     )
 
     indexed: List[Dict[str, Any]] = []
-    for idx, it in enumerate(ranked[:limit], start=1):
+    for idx, it in enumerate(final_order, start=1):
         item_copy = dict(it)
         item_copy["smart_index"] = idx
         indexed.append(item_copy)

@@ -1,8 +1,8 @@
 {
   "window_start": "2026-03-31T05:00:00Z",
   "window_end": "2026-05-01T05:00:00Z",
-  "generated_at_utc": "2026-05-06T18:31:26Z",
-  "generated_at_ct": "2026-05-06T13:31:26-05:00",
+  "generated_at_utc": "2026-05-06T20:30:26Z",
+  "generated_at_ct": "2026-05-06T15:30:26-05:00",
   "items": [
     {
       "category": "OFAC",
@@ -3595,14 +3595,6 @@
     },
     {
       "category": "Mortgage",
-      "source": "Fannie Mae",
-      "title": "News & Commentaries",
-      "published_at": "2026-04-27T00:00:00Z",
-      "url": "https://capitalmarkets.fanniemae.com/news-commentaries",
-      "summary": ""
-    },
-    {
-      "category": "Mortgage",
       "source": "Freddie Mac",
       "title": "Freddie Mac Issues Monthly Volume Summary for March 2026",
       "published_at": "2026-04-27T00:00:00Z",
@@ -5357,22 +5349,6 @@
       "title": "Housing and Insurance Subcommittee Reviews Reinsurance and Credit Risk Transfers",
       "published_at": "2026-04-23T00:00:00Z",
       "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411108",
-      "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "FASB",
-      "title": "FASB Announces Winner of 2026 Emerging Scholar Award",
-      "published_at": "2026-04-23T00:00:00Z",
-      "url": "https://www.fasb.org/news-and-meetings/in-the-news/fasb-announces-winner-of-2026-emerging-scholar-award-424149",
-      "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "FASB",
-      "title": "Registration Opens for May 4 FASB Webinar for Private Companies and Not-for-Profit Organizations",
-      "published_at": "2026-04-23T00:00:00Z",
-      "url": "https://www.fasb.org/news-and-meetings/in-the-news/registration-opens-for-may-4-fasb-webinar-for-private-companies-and-not-for-profit-organizations-424045",
       "summary": ""
     },
     {
@@ -11006,14 +10982,6 @@
       "summary": "Information published."
     },
     {
-      "category": "Compliance Watch",
-      "source": "FASB",
-      "title": "FASB Chair Adds Research Project on Current Trends and Emerging Issues—Data Infrastructure Investments and Non-Traditional Lending to Be Covered",
-      "published_at": "2026-04-07T00:00:00Z",
-      "url": "https://www.fasb.org/news-and-meetings/in-the-news/fasb-chair-adds-research-project-on-current-trends-and-emerging-issuesdata-infrastructure-investments-and-non-traditional-lending-to-be-covered-424037",
-      "summary": ""
-    },
-    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
@@ -11091,14 +11059,6 @@
       "title": "Time to ‘Stop Apologizing for Fraud Protection’",
       "published_at": "2026-04-06T00:00:00Z",
       "url": "https://www.nacha.org/news/time-stop-apologizing-fraud-protection",
-      "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "FASB",
-      "title": "FASB Names Four New Members to Its Investor Advisory Committee",
-      "published_at": "2026-04-06T00:00:00Z",
-      "url": "https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-four-new-members-to-its-investor-advisory-committee-424012",
       "summary": ""
     },
     {

@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-03-31T05:00:00Z` → `2026-05-01T05:00:00Z` (UTC)
-Last updated: `2026-05-06T13:31:26-05:00` (CT) — `2026-05-06T18:31:26Z` (UTC)
+Last updated: `2026-05-06T15:30:26-05:00` (CT) — `2026-05-06T20:30:26Z` (UTC)
 
 ## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 - Source: OFAC
@@ -3247,12 +3247,6 @@ IR-2026-58, April 27, 2026 — The Internal Revenue Service today announced a ne
 - Published: 2026-04-27T00:00:00Z
 - URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-22
 
-## News & Commentaries
-- Source: Fannie Mae
-- Category: Mortgage
-- Published: 2026-04-27T00:00:00Z
-- URL: https://capitalmarkets.fanniemae.com/news-commentaries
-
 ## Freddie Mac Issues Monthly Volume Summary for March 2026
 - Source: Freddie Mac
 - Category: Mortgage
@@ -4874,18 +4868,6 @@ The federal bank regulatory agencies today jointly finalized a rule to modify th
 - Category: Legislative
 - Published: 2026-04-23T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411108
-
-## FASB Announces Winner of 2026 Emerging Scholar Award
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-23T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-announces-winner-of-2026-emerging-scholar-award-424149
-
-## Registration Opens for May 4 FASB Webinar for Private Companies and Not-for-Profit Organizations
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-23T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/registration-opens-for-may-4-fasb-webinar-for-private-companies-and-not-for-profit-organizations-424045
 
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
@@ -9783,12 +9765,6 @@ Information published.
 
 Information published.
 
-## FASB Chair Adds Research Project on Current Trends and Emerging Issues—Data Infrastructure Investments and Non-Traditional Lending to Be Covered
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-07T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-chair-adds-research-project-on-current-trends-and-emerging-issuesdata-infrastructure-investments-and-non-traditional-lending-to-be-covered-424037
-
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
 - Category: Federal Register
@@ -9844,12 +9820,6 @@ IR-2026-46, April 6, 2026 — The IRS today announced a major expansion of its B
 - Category: Payments
 - Published: 2026-04-06T00:00:00Z
 - URL: https://www.nacha.org/news/time-stop-apologizing-fraud-protection
-
-## FASB Names Four New Members to Its Investor Advisory Committee
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-06T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-four-new-members-to-its-investor-advisory-committee-424012
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
