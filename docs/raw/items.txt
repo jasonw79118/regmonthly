@@ -192,13 +192,6 @@ https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-cha
 Compliance Watch
 ABA
 2026-05-01T00:00:00Z
-Mortgage & Home Finance
-https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
-There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-05-01T00:00:00Z
 Credit Cards
 https://www.aba.com/banking-topics/payments/credit-cards
 New credit card laws have fundamentally changed the industry.
@@ -230,13 +223,6 @@ ABA
 Marketing & Communications
 https://www.aba.com/banking-topics/communications
 Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-05-01T00:00:00Z
-Leadership
-https://www.aba.com/banking-topics/operations/leadership
-Resources and training for bank CEOs and Executives
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -306,12 +292,6 @@ White House
 2026-04-30T20:06:03Z
 National Foster Care Month, 2026
 https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-month-2026/
-------------------------------------------------------------
-Executive
-White House
-2026-04-30T20:05:03Z
-Fact Sheet: President Donald J. Trump Promotes Efficiency, Accountability, and Performance in Federal Contracting
-https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-promotes-efficiency-accountability-and-performance-in-federal-contracting/
 ------------------------------------------------------------
 Executive
 White House
@@ -1698,6 +1678,12 @@ Fiserv
 Yakima Federal Helps Small Businesses Manage Cash Flow More Efficiently
 https://investors.fiserv.com/news-releases/news-release-details/yakima-federal-helps-small-businesses-manage-cash-flow-more
 ------------------------------------------------------------
+Payment Card Networks
+Mastercard
+2026-04-30T00:00:00Z
+What is a passkey? Here’s everything you need to know August, 2024
+https://www.mastercard.com/us/en/news-and-trends/press/2024/august/everything-you-need-to-know-about-payment-passkeys.html
+------------------------------------------------------------
 Compliance Watch
 ABA
 2026-04-30T00:00:00Z
@@ -2440,14 +2426,14 @@ https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411112
 Fintech Watch
 FIS
 2026-04-29T00:00:00Z
-M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
-https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
+FIS Launches New Platform Giving Banks Control Over Digital Money
+https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
 ------------------------------------------------------------
 Fintech Watch
 FIS
 2026-04-29T00:00:00Z
-FIS Launches New Platform Giving Banks Control Over Digital Money
-https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
+M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
+https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
 ------------------------------------------------------------
 Compliance Watch
 CDIA
@@ -2639,8 +2625,14 @@ https://ir.jackhenry.com/news-releases/news-release-details/jack-henrys-annual-s
 Payment Card Networks
 Visa
 2026-04-28T00:00:00Z
-Visa Announces Global Expansion of Agentic Ready Program
-https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html
+Visa to Participate in Upcoming Investor Conferences
+https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22376.html
+------------------------------------------------------------
+Payment Card Networks
+Visa
+2026-04-28T00:00:00Z
+Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement
+https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html
 ------------------------------------------------------------
 Payment Card Networks
 Visa

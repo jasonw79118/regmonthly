@@ -226,14 +226,6 @@
   {
     "category": "Compliance Watch",
     "source": "ABA",
-    "title": "Mortgage & Home Finance",
-    "published_at": "2026-05-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance",
-    "summary": "There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
     "title": "Credit Cards",
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/payments/credit-cards",
@@ -270,14 +262,6 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/communications",
     "summary": "Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Leadership",
-    "published_at": "2026-05-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/operations/leadership",
-    "summary": "Resources and training for bank CEOs and Executives"
   },
   {
     "category": "Federal Register",
@@ -396,14 +380,6 @@
     "title": "National Foster Care Month, 2026",
     "published_at": "2026-04-30T20:06:03Z",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-month-2026/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Fact Sheet: President Donald J. Trump Promotes Efficiency, Accountability, and Performance in Federal Contracting",
-    "published_at": "2026-04-30T20:05:03Z",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-promotes-efficiency-accountability-and-performance-in-federal-contracting/",
     "summary": ""
   },
   {
@@ -2015,6 +1991,14 @@
     "summary": ""
   },
   {
+    "category": "Payment Card Networks",
+    "source": "Mastercard",
+    "title": "What is a passkey? Here’s everything you need to know August, 2024",
+    "published_at": "2026-04-30T00:00:00Z",
+    "url": "https://www.mastercard.com/us/en/news-and-trends/press/2024/august/everything-you-need-to-know-about-payment-passkeys.html",
+    "summary": ""
+  },
+  {
     "category": "Compliance Watch",
     "source": "ABA",
     "title": "Wealth Management",
@@ -2889,17 +2873,17 @@
   {
     "category": "Fintech Watch",
     "source": "FIS",
-    "title": "M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting",
+    "title": "FIS Launches New Platform Giving Banks Control Over Digital Money",
     "published_at": "2026-04-29T00:00:00Z",
-    "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy",
+    "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital",
     "summary": ""
   },
   {
     "category": "Fintech Watch",
     "source": "FIS",
-    "title": "FIS Launches New Platform Giving Banks Control Over Digital Money",
+    "title": "M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting",
     "published_at": "2026-04-29T00:00:00Z",
-    "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital",
+    "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy",
     "summary": ""
   },
   {
@@ -3183,9 +3167,17 @@
   {
     "category": "Payment Card Networks",
     "source": "Visa",
-    "title": "Visa Announces Global Expansion of Agentic Ready Program",
+    "title": "Visa to Participate in Upcoming Investor Conferences",
     "published_at": "2026-04-28T00:00:00Z",
-    "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html",
+    "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22376.html",
+    "summary": ""
+  },
+  {
+    "category": "Payment Card Networks",
+    "source": "Visa",
+    "title": "Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement",
+    "published_at": "2026-04-28T00:00:00Z",
+    "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html",
     "summary": ""
   },
   {

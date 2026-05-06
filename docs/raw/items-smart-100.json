@@ -245,29 +245,11 @@
   {
     "category": "Banking",
     "source": "FDIC",
-    "title": "FDIC Issues CRA Examination Schedules for Second Quarter 2026 and Third Quarter 2026",
-    "published_at": "2026-05-01T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-issues-cra-examination-schedules-second-quarter-2026-and-third",
-    "summary": "The FDIC today issued the lists of institutions scheduled for a CRA examination during the second quarter 2026 and third quarter 2026.",
-    "smart_index": 20
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: FDIC Issues List of Banks Examined for CRA Compliance",
-    "published_at": "2026-04-03T14:05:47Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/40f0c1a",
-    "summary": "PRESS RELEASE | APRIL 3, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in January 2026. The CRA is a 1977…",
-    "smart_index": 21
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
     "title": "FDIC Approves Proposal to Implement GENIUS Act Requirements and Standards",
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-approves-proposal-implement-genius-act-requirements-and-standards",
     "summary": "The FDIC Board of Directors today approved a notice of proposed rulemaking that would implement certain requirements and standards under the GENIUS Act.",
-    "smart_index": 22
+    "smart_index": 20
   },
   {
     "category": "Banking",
@@ -276,7 +258,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-19.html",
     "summary": "",
-    "smart_index": 23
+    "smart_index": 21
   },
   {
     "category": "Payments",
@@ -285,7 +267,7 @@
     "published_at": "2026-04-15T00:00:00Z",
     "url": "https://www.nacha.org/news/nacha-announces-prometeo-nacha-preferred-partner-account-validationopen-banking",
     "summary": "",
-    "smart_index": 24
+    "smart_index": 22
   },
   {
     "category": "OFAC",
@@ -294,7 +276,7 @@
     "published_at": "2026-04-01T16:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0428",
     "summary": "",
-    "smart_index": 25
+    "smart_index": 23
   },
   {
     "category": "Federal Register",
@@ -314,7 +296,7 @@
       "topic:savings-associations"
     ],
     "fedreg_document_number": "2026-08143",
-    "smart_index": 26
+    "smart_index": 24
   },
   {
     "category": "Federal Register",
@@ -328,7 +310,7 @@
       "filter:federal-deposit-insurance-corporation"
     ],
     "fedreg_document_number": "2026-06904",
-    "smart_index": 27
+    "smart_index": 25
   },
   {
     "category": "Federal Register",
@@ -342,7 +324,7 @@
       "filter:federal-deposit-insurance-corporation"
     ],
     "fedreg_document_number": "2026-06428",
-    "smart_index": 28
+    "smart_index": 26
   },
   {
     "category": "Banking",
@@ -351,7 +333,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/anchor-bank-assumes-insured-deposits-community-bank-and-trust-west-georgia",
     "summary": "Community Bank and Trust - West Georgia of LaGrange, Georgia was closed today by the Georgia Department of Banking and Finance, which appointed the FDIC.",
-    "smart_index": 29
+    "smart_index": 27
   },
   {
     "category": "OFAC",
@@ -360,7 +342,7 @@
     "published_at": "2026-04-30T18:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0480",
     "summary": "",
-    "smart_index": 30
+    "smart_index": 28
   },
   {
     "category": "Banking",
@@ -369,7 +351,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-finalize-changes-community-bank-leverage-ratio",
     "summary": "The federal bank regulatory agencies today jointly finalized a rule to modify the community bank leverage ratio consistent with existing statutory authority.",
-    "smart_index": 31
+    "smart_index": 29
   },
   {
     "category": "Banking",
@@ -378,7 +360,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-33.html",
     "summary": "",
-    "smart_index": 32
+    "smart_index": 30
   },
   {
     "category": "Banking",
@@ -387,7 +369,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-host-state-loan-deposit-ratios",
     "summary": "Federal bank regulatory agencies today jointly issued updated host state loan-to-deposit ratios, as required by law.",
-    "smart_index": 33
+    "smart_index": 31
   },
   {
     "category": "Compliance Watch",
@@ -396,7 +378,7 @@
     "published_at": "2026-04-30T18:24:35Z",
     "url": "https://www.texasbankers.com/statement-by-texas-bankers-association-ceo-chris-furlow-on-release-of-cfpbs-new-sec-1071-final-rule/",
     "summary": "Texas Bankers Association and MDI Rio Bank filed the original legal challenge to the “suffocating” Biden-Chopra Section 1071 Final Rule “Small business lending is the lifeblood of Texas community banking. The Biden-Chopra version of 1071 would have suffocated small business lending and burdened community banks with more unnecessary reporting requirements. From day one of our […",
-    "smart_index": 34
+    "smart_index": 32
   },
   {
     "category": "Banking",
@@ -405,7 +387,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-request-comment-anti-money-launderingcountering-financing",
     "summary": "The agencies today invite public comment on a proposed rule for anti-money laundering and countering the financing of terrorism.",
-    "smart_index": 35
+    "smart_index": 33
   },
   {
     "category": "OFAC",
@@ -414,7 +396,7 @@
     "published_at": "2026-04-28T18:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0477",
     "summary": "",
-    "smart_index": 36
+    "smart_index": 34
   },
   {
     "category": "Federal Register",
@@ -433,7 +415,7 @@
       "topic:securities"
     ],
     "fedreg_document_number": "2026-06271",
-    "smart_index": 37
+    "smart_index": 35
   },
   {
     "category": "OFAC",
@@ -442,7 +424,7 @@
     "published_at": "2026-04-15T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincens-rapid-response-program-interdicts-nearly-2-billion-behalf-us-cyber",
     "summary": "WASHINGTON—Since President Trump resumed office, the Financial Crimes Enforcement Network’s (FinCEN) Rapid Response Program (RRP) has facilitated the interdiction of over $268 million in stolen funds on behalf of U.S. victims, bringing the total to more than $1.8 billion since the program’s inception. The RRP is a partnership between FinCEN, U.S. law enforcement, and foreign p…",
-    "smart_index": 38
+    "smart_index": 36
   },
   {
     "category": "Federal Register",
@@ -456,7 +438,7 @@
       "filter:manufactured-home"
     ],
     "fedreg_document_number": "2026-08406",
-    "smart_index": 39
+    "smart_index": 37
   },
   {
     "category": "Federal Register",
@@ -471,34 +453,7 @@
       "topic:national-banks"
     ],
     "fedreg_document_number": "2026-06281",
-    "smart_index": 40
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "FDIC Issues List of Banks Examined for CRA Compliance",
-    "published_at": "2026-05-01T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-3",
-    "summary": "The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). May 2026",
-    "smart_index": 41
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "FDIC Issues List of Banks Examined for CRA Compliance",
-    "published_at": "2026-05-01T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-2",
-    "summary": "The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA).",
-    "smart_index": 42
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "FDIC Issues List of Banks Examined for CRA Compliance",
-    "published_at": "2026-05-01T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-1",
-    "summary": "(FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA) March 2026",
-    "smart_index": 43
+    "smart_index": 38
   },
   {
     "category": "Federal Register",
@@ -517,7 +472,7 @@
       "topic:national-banks"
     ],
     "fedreg_document_number": "2026-08494",
-    "smart_index": 44
+    "smart_index": 39
   },
   {
     "category": "OFAC",
@@ -526,7 +481,7 @@
     "published_at": "2026-04-23T22:22:38Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0471",
     "summary": "",
-    "smart_index": 45
+    "smart_index": 40
   },
   {
     "category": "OFAC",
@@ -535,7 +490,7 @@
     "published_at": "2026-04-08T17:59:11Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0436",
     "summary": "",
-    "smart_index": 46
+    "smart_index": 41
   },
   {
     "category": "Banking",
@@ -544,7 +499,7 @@
     "published_at": "2026-04-08T15:30:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm",
     "summary": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
-    "smart_index": 47
+    "smart_index": 42
   },
   {
     "category": "OFAC",
@@ -553,7 +508,7 @@
     "published_at": "2026-04-03T13:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0432",
     "summary": "",
-    "smart_index": 48
+    "smart_index": 43
   },
   {
     "category": "Federal Register",
@@ -572,7 +527,7 @@
       "topic:securities"
     ],
     "fedreg_document_number": "2026-06947",
-    "smart_index": 49
+    "smart_index": 44
   },
   {
     "category": "Banking",
@@ -581,7 +536,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-request-comment-proposals-modernize-regulatory-capital-framework",
     "summary": "The federal bank regulatory agencies today requested comment on three proposals to modernize the regulatory capital framework for banks of all sizes.",
-    "smart_index": 50
+    "smart_index": 45
   },
   {
     "category": "Banking",
@@ -590,7 +545,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-clarify-capital-treatment-tokenized-securities",
     "summary": "The federal bank regulatory agencies today jointly issued answers to frequently asked questions to clarify the capital treatment of tokenized securities.",
-    "smart_index": 51
+    "smart_index": 46
   },
   {
     "category": "Banking",
@@ -599,7 +554,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-approves-deposit-insurance-application-edward-jones-bank-salt-lake",
     "summary": "The Board of Directors (FDIC) announced the approval of a deposit insurance application submitted by the Jones Financial Companies, L.L.L.P.",
-    "smart_index": 52
+    "smart_index": 47
   },
   {
     "category": "OFAC",
@@ -608,7 +563,7 @@
     "published_at": "2026-04-28T18:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0476",
     "summary": "",
-    "smart_index": 53
+    "smart_index": 48
   },
   {
     "category": "OFAC",
@@ -617,7 +572,7 @@
     "published_at": "2026-04-23T15:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0469",
     "summary": "",
-    "smart_index": 54
+    "smart_index": 49
   },
   {
     "category": "OFAC",
@@ -626,7 +581,7 @@
     "published_at": "2026-04-23T15:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0468",
     "summary": "",
-    "smart_index": 55
+    "smart_index": 50
   },
   {
     "category": "OFAC",
@@ -635,7 +590,7 @@
     "published_at": "2026-04-17T18:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0457",
     "summary": "",
-    "smart_index": 56
+    "smart_index": 51
   },
   {
     "category": "OFAC",
@@ -644,7 +599,7 @@
     "published_at": "2026-04-16T18:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0451",
     "summary": "",
-    "smart_index": 57
+    "smart_index": 52
   },
   {
     "category": "OFAC",
@@ -653,7 +608,7 @@
     "published_at": "2026-04-14T14:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0440",
     "summary": "",
-    "smart_index": 58
+    "smart_index": 53
   },
   {
     "category": "OFAC",
@@ -662,7 +617,7 @@
     "published_at": "2026-04-16T20:16:25Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0454",
     "summary": "",
-    "smart_index": 59
+    "smart_index": 54
   },
   {
     "category": "OFAC",
@@ -671,7 +626,7 @@
     "published_at": "2026-04-09T15:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0437",
     "summary": "",
-    "smart_index": 60
+    "smart_index": 55
   },
   {
     "category": "Banking",
@@ -680,7 +635,7 @@
     "published_at": "2026-04-24T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-17.html",
     "summary": "",
-    "smart_index": 61
+    "smart_index": 56
   },
   {
     "category": "Banking",
@@ -689,7 +644,7 @@
     "published_at": "2026-04-14T15:01:18Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/412e141",
     "summary": "PRESS RELEASE | APRIL 14, 2026 Principals of U.S., European Banking Union, and U.K. Financial Authorities To Meet for Regular Coordination Exercise on Cross-Border Resolution Planning WASHINGTON – The heads of resolution and regulatory authorities, central banks, and finance ministries of the United States, the European Banking Union, and the United Kingdom are among leaders t…",
-    "smart_index": 62
+    "smart_index": 57
   },
   {
     "category": "Banking",
@@ -698,7 +653,7 @@
     "published_at": "2026-04-03T20:16:50Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/40edeed",
     "summary": "SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open session: Date and Time: Tuesday, April 7, 2026 | 1:00 p.m. ET Place: The Board meeting will be open to public observation by webcast . Members of the media should contact the Office of Communications by Monday, April 6, at MediaRequests@FDIC.gov to attend in person from FDIC Headquarters, 550 17th Str…",
-    "smart_index": 63
+    "smart_index": 58
   },
   {
     "category": "Federal Register",
@@ -712,7 +667,7 @@
       "filter:federal-deposit-insurance-corporation"
     ],
     "fedreg_document_number": "2026-07923",
-    "smart_index": 64
+    "smart_index": 59
   },
   {
     "category": "Federal Register",
@@ -726,7 +681,7 @@
       "filter:federal-reserve-system"
     ],
     "fedreg_document_number": "2026-06996",
-    "smart_index": 65
+    "smart_index": 60
   },
   {
     "category": "Federal Register",
@@ -740,7 +695,7 @@
       "topic:child-labor"
     ],
     "fedreg_document_number": "2026-06382",
-    "smart_index": 66
+    "smart_index": 61
   },
   {
     "category": "OFAC",
@@ -749,7 +704,7 @@
     "published_at": "2026-04-15T20:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0448",
     "summary": "",
-    "smart_index": 67
+    "smart_index": 62
   },
   {
     "category": "Federal Register",
@@ -763,7 +718,7 @@
       "filter:federal-deposit-insurance-corporation"
     ],
     "fedreg_document_number": "2026-06974",
-    "smart_index": 68
+    "smart_index": 63
   },
   {
     "category": "Payments",
@@ -772,7 +727,7 @@
     "published_at": "2026-04-30T00:00:00Z",
     "url": "https://www.nacha.org/news/same-day-ach-no-change-amount-same-day-ach-fee",
     "summary": "",
-    "smart_index": 69
+    "smart_index": 64
   },
   {
     "category": "Payments",
@@ -781,7 +736,7 @@
     "published_at": "2026-04-27T00:00:00Z",
     "url": "https://www.nacha.org/news/jubilee-media-founder-jason-y-lee-flipped-script-his-life-you-can-too",
     "summary": "",
-    "smart_index": 70
+    "smart_index": 65
   },
   {
     "category": "Payments",
@@ -790,7 +745,7 @@
     "published_at": "2026-04-27T00:00:00Z",
     "url": "https://www.nacha.org/news/onion-founder-scott-dikkers-practice-professional-stupidity",
     "summary": "",
-    "smart_index": 71
+    "smart_index": 66
   },
   {
     "category": "Payments",
@@ -799,7 +754,7 @@
     "published_at": "2026-04-27T00:00:00Z",
     "url": "https://www.nacha.org/news/raising-limit-10-million-reflects-demand-same-day-ach",
     "summary": "",
-    "smart_index": 72
+    "smart_index": 67
   },
   {
     "category": "Payments",
@@ -808,7 +763,7 @@
     "published_at": "2026-04-27T00:00:00Z",
     "url": "https://www.nacha.org/news/same-day-ach-payment-limit-increase-10-million",
     "summary": "",
-    "smart_index": 73
+    "smart_index": 68
   },
   {
     "category": "Payments",
@@ -817,7 +772,7 @@
     "published_at": "2026-04-20T00:00:00Z",
     "url": "https://www.nacha.org/news/same-day-ach-gains-lead-first-quarter-ach-network-growth",
     "summary": "",
-    "smart_index": 74
+    "smart_index": 69
   },
   {
     "category": "Payments",
@@ -826,7 +781,7 @@
     "published_at": "2026-04-16T00:00:00Z",
     "url": "https://www.nacha.org/news/sharing-information-key-fighting-fraud",
     "summary": "",
-    "smart_index": 75
+    "smart_index": 70
   },
   {
     "category": "Payments",
@@ -835,7 +790,7 @@
     "published_at": "2026-04-14T00:00:00Z",
     "url": "https://www.nacha.org/news/rising-challenge-first-party-fraud",
     "summary": "",
-    "smart_index": 76
+    "smart_index": 71
   },
   {
     "category": "Payments",
@@ -844,7 +799,7 @@
     "published_at": "2026-04-14T00:00:00Z",
     "url": "https://www.nacha.org/news/how-quantum-computing-used-everyday-life",
     "summary": "",
-    "smart_index": 77
+    "smart_index": 72
   },
   {
     "category": "Banking",
@@ -853,7 +808,7 @@
     "published_at": "2026-04-13T17:00:15Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/412bb4d",
     "summary": "PRESS RELEASE | APRIL 13, 2026 FDIC Announces Four Senior Leadership Appointments WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) today announced the appointment of the following personnel to serve in senior leadership positions: Benjamin Olson has been appointed Director of the FDIC’s Division of Depositor and Consumer Protection (DCP). Prior to his appointment,…",
-    "smart_index": 78
+    "smart_index": 73
   },
   {
     "category": "Payments",
@@ -862,7 +817,7 @@
     "published_at": "2026-04-13T00:00:00Z",
     "url": "https://www.nacha.org/news/ai-real-its-not-coming-your-job",
     "summary": "",
-    "smart_index": 79
+    "smart_index": 74
   },
   {
     "category": "OFAC",
@@ -871,7 +826,7 @@
     "published_at": "2026-04-08T16:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0435",
     "summary": "",
-    "smart_index": 80
+    "smart_index": 75
   },
   {
     "category": "Payments",
@@ -880,7 +835,7 @@
     "published_at": "2026-04-06T00:00:00Z",
     "url": "https://www.nacha.org/news/time-stop-apologizing-fraud-protection",
     "summary": "",
-    "smart_index": 81
+    "smart_index": 76
   },
   {
     "category": "Federal Register",
@@ -895,7 +850,7 @@
       "topic:income-taxes"
     ],
     "fedreg_document_number": "2026-07682",
-    "smart_index": 82
+    "smart_index": 77
   },
   {
     "category": "Federal Register",
@@ -910,7 +865,7 @@
       "topic:income-taxes"
     ],
     "fedreg_document_number": "2026-07681",
-    "smart_index": 83
+    "smart_index": 78
   },
   {
     "category": "Federal Register",
@@ -925,7 +880,7 @@
       "filter:justice-department"
     ],
     "fedreg_document_number": "2026-08178",
-    "smart_index": 84
+    "smart_index": 79
   },
   {
     "category": "Federal Register",
@@ -940,7 +895,7 @@
       "filter:justice-department"
     ],
     "fedreg_document_number": "2026-08177",
-    "smart_index": 85
+    "smart_index": 80
   },
   {
     "category": "Federal Register",
@@ -957,7 +912,7 @@
       "topic:mortgages"
     ],
     "fedreg_document_number": "2026-07618",
-    "smart_index": 86
+    "smart_index": 81
   },
   {
     "category": "Banking",
@@ -966,7 +921,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.occ.gov/publications-and-resources/publications/index-publications.html",
     "summary": "Publications",
-    "smart_index": 87
+    "smart_index": 82
   },
   {
     "category": "Banking",
@@ -975,7 +930,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/principals-us-european-banking-union-and-uk-financial-authorities-meet",
     "summary": "Trilateral Principal Level Exercise (TPLE) on Saturday, April 18, 2026.",
-    "smart_index": 88
+    "smart_index": 83
   },
   {
     "category": "Banking",
@@ -984,7 +939,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-rescinds-statement-policy-qualifications-failed-bank",
     "summary": "The FDIC Board of Directors approved today the rescission of the Statement of Policy on Qualifications for Failed Bank Acquisitions",
-    "smart_index": 89
+    "smart_index": 84
   },
   {
     "category": "Banking",
@@ -993,7 +948,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.federalreserve.gov/reform.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 90
+    "smart_index": 85
   },
   {
     "category": "Banking",
@@ -1002,7 +957,7 @@
     "published_at": "2026-04-29T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
     "summary": "Federal Reserve issues FOMC statement",
-    "smart_index": 91
+    "smart_index": 86
   },
   {
     "category": "Banking",
@@ -1011,7 +966,7 @@
     "published_at": "2026-04-29T00:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 92
+    "smart_index": 87
   },
   {
     "category": "Banking",
@@ -1020,7 +975,7 @@
     "published_at": "2026-04-29T00:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 93
+    "smart_index": 88
   },
   {
     "category": "Banking",
@@ -1029,7 +984,7 @@
     "published_at": "2026-04-24T20:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm",
     "summary": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.",
-    "smart_index": 94
+    "smart_index": 89
   },
   {
     "category": "Banking",
@@ -1038,7 +993,7 @@
     "published_at": "2026-04-24T20:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm",
     "summary": "Federal Reserve Board announces approval of application by Banco de Credito del Peru",
-    "smart_index": 95
+    "smart_index": 90
   },
   {
     "category": "Banking",
@@ -1047,7 +1002,7 @@
     "published_at": "2026-04-24T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-32.html",
     "summary": "",
-    "smart_index": 96
+    "smart_index": 91
   },
   {
     "category": "Banking",
@@ -1056,7 +1011,7 @@
     "published_at": "2026-04-13T00:00:00Z",
     "url": "https://www.federalreserve.gov/foia/about_foia.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 97
+    "smart_index": 92
   },
   {
     "category": "Banking",
@@ -1065,7 +1020,7 @@
     "published_at": "2026-04-10T20:15:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm",
     "summary": "Federal Reserve Board announces approval of application by Burke & Herbert Financial Services Corp.",
-    "smart_index": 98
+    "smart_index": 93
   },
   {
     "category": "Federal Register",
@@ -1079,7 +1034,7 @@
       "topic:employment"
     ],
     "fedreg_document_number": "2026-08333",
-    "smart_index": 99
+    "smart_index": 94
   },
   {
     "category": "Banking",
@@ -1088,6 +1043,60 @@
     "published_at": "2026-04-23T19:30:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm",
     "summary": "Agencies finalize changes to enhance community bank leverage ratio",
+    "smart_index": 95
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Joint Employer Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+    "published_at": "2026-04-23T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07959/joint-employer-status-under-the-fair-labor-standards-act-family-and-medical-leave-act-and-migrant",
+    "summary": "Since 2021, the Department has not provided any regulatory guidance addressing joint employer status under the Fair Labor Standards Act (FLSA or Act) for the benefit of workers, employers, or its enforcement personnel. In this rulemaking, the Department proposes to clarify how to determine joint employer status under the FLSA in Part 791 of Title 29, where its joint employer r…",
+    "fr_tags": [
+      "agency:labor-department",
+      "agency:wage-and-hour-division",
+      "topic:child-labor",
+      "topic:employment",
+      "topic:housing",
+      "topic:insurance"
+    ],
+    "fedreg_document_number": "2026-07959",
+    "smart_index": 96
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "FDIC Announces Four Senior Leadership Appointments",
+    "published_at": "2026-05-01T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-announces-four-senior-leadership-appointments",
+    "summary": "The Federal Deposit Insurance Corporation (FDIC) today announced the appointment of the following personnel to serve in senior leadership positions",
+    "smart_index": 97
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Report on Foreign Portfolio Holdings of U.S. Securities at End-June 2025",
+    "published_at": "2026-04-30T20:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0482",
+    "summary": "",
+    "smart_index": 98
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "United States Department of the Treasury Announces Key Nomination",
+    "published_at": "2026-04-28T23:33:07Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0478",
+    "summary": "",
+    "smart_index": 99
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "United States, Croatia Sign Protocol to Income Tax Treaty",
+    "published_at": "2026-04-28T16:17:07Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0475",
+    "summary": "",
     "smart_index": 100
   }
 ]

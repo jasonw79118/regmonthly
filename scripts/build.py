@@ -4580,6 +4580,8 @@ SMART_NOISE_WEIGHTS: Dict[str, int] = {
     "enforcement action": -999, "enforcement actions": -999,
     "civil money penalty": -999, "consent order": -999,
     "cease and desist": -999, "prohibition order": -999,
+    "banks examined": -999, "list of banks examined": -999,
+    "cra examination schedule": -999, "performance evaluations": -80,
 }
 
 
@@ -4592,6 +4594,19 @@ SMART_ENFORCEMENT_TERMS = (
     "prohibition order",
     "formal agreement",
     "settlement agreement",
+)
+
+SMART_BANK_EXAM_LIST_TERMS = (
+    "banks examined",
+    "list of banks examined",
+    "banks scheduled for examination",
+    "institutions examined",
+    "institutions scheduled for examination",
+    "cra examination schedule",
+    "community reinvestment act performance evaluations",
+    "cra performance evaluations",
+    "performance evaluations of financial institutions",
+    "examined for cra compliance",
 )
 
 
@@ -4626,6 +4641,24 @@ def is_smart_enforcement_action(item: Dict[str, Any]) -> bool:
     return False
 
 
+def is_smart_bank_exam_list(item: Dict[str, Any]) -> bool:
+    """Identify list-style bank examination / CRA evaluation articles for smart-feed exclusion only."""
+    text = _smart_text(item)
+    title = str(item.get("title", "") or "").lower()
+    source = str(item.get("source", "") or "").lower()
+
+    if any(term in text for term in SMART_BANK_EXAM_LIST_TERMS):
+        return True
+
+    # Target recurring regulator list pages, not substantive examination guidance.
+    if ("examined" in title or "performance evaluations" in title) and any(
+        reg in source for reg in ["occ", "fdic", "federal reserve", "frb"]
+    ):
+        return True
+
+    return False
+
+
 def smart_relevance_score(item: Dict[str, Any]) -> int:
     """Score an item for bank/fintech relevance without changing the item shape."""
     text = _smart_text(item)
@@ -4655,12 +4688,16 @@ def smart_relevance_score(item: Dict[str, Any]) -> int:
 
 
 def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -> List[Dict[str, Any]]:
-    """Return the best non-enforcement items for Power Automate in the same array-item format.
+    """Return the best non-enforcement, non-bank-exam-list items for Power Automate in the same array-item format.
 
     Adds a stable 1-based smart_index after ranking so Power Automate can preserve
     the intended order even if later agent/wait steps reorder array objects.
     """
-    smart_pool = [it for it in items if not is_smart_enforcement_action(it)]
+    smart_pool = [
+        it for it in items
+        if not is_smart_enforcement_action(it)
+        and not is_smart_bank_exam_list(it)
+    ]
     ranked = sorted(
         smart_pool,
         key=lambda it: (smart_relevance_score(it), str(it.get("published_at", ""))),

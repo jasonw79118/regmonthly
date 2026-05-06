@@ -1,0 +1,40 @@
+RegMonthly Smart 100 Bank Exam/List Filter Update
+================================================
+
+Files in this ZIP:
+- scripts/build.py
+- REGMONTHLY_SMART_100_BANK_EXAM_FILTER_NOTES.txt
+
+What changed:
+1. Keeps the full RegMonthly site/feed unchanged except for the prior global quarterly exclusion already added.
+2. Keeps docs/raw/items-array.json as the full JSON-array export for the site and any full-feed automations.
+3. Keeps docs/raw/items-smart-100.json as the Power Automate smart endpoint in the same JSON array format as items-array.json.
+4. Keeps smart_index on each Smart 100 article after the smart sort is complete.
+5. Smart 100 now excludes enforcement-action articles.
+6. Smart 100 now also excludes list-style bank examination / CRA evaluation articles, including terms such as:
+   - banks examined
+   - list of banks examined
+   - institutions examined
+   - banks scheduled for examination
+   - CRA examination schedule
+   - CRA performance evaluations
+   - Community Reinvestment Act performance evaluations
+   - performance evaluations of financial institutions
+   - examined for CRA compliance
+
+Important implementation detail:
+- This bank-exam/list exclusion applies only to docs/raw/items-smart-100.json.
+- The full site dataset and normal raw exports still receive everything else.
+- Power Automate should continue using docs/raw/items-smart-100.json if it only wants the filtered/ranked top 100.
+- Power Automate should sort or group using smart_index ascending.
+
+Replacement instructions:
+1. Copy scripts/build.py from this ZIP into your repo at scripts/build.py.
+2. Commit and push.
+3. Let the monthly build run normally, or run build.py only when you intentionally want to regenerate the month.
+4. Confirm these endpoints after deploy:
+   - /raw/items-array.json
+   - /raw/items-smart-100.json
+
+Power Automate endpoint:
+https://jasonw79118.github.io/regmonthly/raw/items-smart-100.json

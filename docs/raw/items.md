@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-03-31T05:00:00Z` → `2026-05-01T05:00:00Z` (UTC)
-Last updated: `2026-05-05T13:33:01-05:00` (CT) — `2026-05-05T18:33:01Z` (UTC)
+Last updated: `2026-05-05T16:00:19-05:00` (CT) — `2026-05-05T21:00:19Z` (UTC)
 
 ## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 - Source: OFAC
@@ -217,14 +217,6 @@ The Federal Reserve Board of Governors in Washington DC.
 - Published: 2026-05-01T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-charter-member-x402-foundation
 
-## Mortgage & Home Finance
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
-
-There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
-
 ## Credit Cards
 - Source: ABA
 - Category: Compliance Watch
@@ -264,14 +256,6 @@ Banks and small businesses need each other to stay healthy. The banking industry
 - URL: https://www.aba.com/banking-topics/communications
 
 Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
-
-## Leadership
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/leadership
-
-Resources and training for bank CEOs and Executives
 
 ## Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)
 - Source: Federal Register
@@ -344,12 +328,6 @@ With the issuance of this final rule, the Drug Enforcement Administration places
 - Category: Executive
 - Published: 2026-04-30T20:06:03Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-month-2026/
-
-## Fact Sheet: President Donald J. Trump Promotes Efficiency, Accountability, and Performance in Federal Contracting
-- Source: White House
-- Category: Executive
-- Published: 2026-04-30T20:05:03Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-promotes-efficiency-accountability-and-performance-in-federal-contracting/
 
 ## Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov
 - Source: White House
@@ -1915,6 +1893,12 @@ IR-2026-59, April 30, 2026 — The Department of the Treasury and the Internal R
 - Published: 2026-04-30T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/yakima-federal-helps-small-businesses-manage-cash-flow-more
 
+## What is a passkey? Here’s everything you need to know August, 2024
+- Source: Mastercard
+- Category: Payment Card Networks
+- Published: 2026-04-30T00:00:00Z
+- URL: https://www.mastercard.com/us/en/news-and-trends/press/2024/august/everything-you-need-to-know-about-payment-passkeys.html
+
 ## Wealth Management
 - Source: ABA
 - Category: Compliance Watch
@@ -2751,17 +2735,17 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Published: 2026-04-29T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411112
 
-## M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
-- Source: FIS
-- Category: Fintech Watch
-- Published: 2026-04-29T00:00:00Z
-- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
-
 ## FIS Launches New Platform Giving Banks Control Over Digital Money
 - Source: FIS
 - Category: Fintech Watch
 - Published: 2026-04-29T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
+
+## M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
+- Source: FIS
+- Category: Fintech Watch
+- Published: 2026-04-29T00:00:00Z
+- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
 
 ## Education Services
 - Source: CDIA
@@ -2963,11 +2947,17 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-04-28T00:00:00Z
 - URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henrys-annual-survey-financial-institutions-highlights
 
-## Visa Announces Global Expansion of Agentic Ready Program
+## Visa to Participate in Upcoming Investor Conferences
 - Source: Visa
 - Category: Payment Card Networks
 - Published: 2026-04-28T00:00:00Z
-- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22341.html
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22376.html
+
+## Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-04-28T00:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html
 
 ## Visa Fiscal Second Quarter 2026 Financial Results
 - Source: Visa
