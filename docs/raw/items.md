@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-03-31T05:00:00Z` → `2026-05-01T05:00:00Z` (UTC)
-Last updated: `2026-05-06T15:30:26-05:00` (CT) — `2026-05-06T20:30:26Z` (UTC)
+Last updated: `2026-05-06T16:31:36-05:00` (CT) — `2026-05-06T21:31:36Z` (UTC)
 
 ## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 - Source: OFAC
@@ -2741,17 +2741,17 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Published: 2026-04-29T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411112
 
-## M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
-- Source: FIS
-- Category: Fintech Watch
-- Published: 2026-04-29T00:00:00Z
-- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
-
 ## FIS Launches New Platform Giving Banks Control Over Digital Money
 - Source: FIS
 - Category: Fintech Watch
 - Published: 2026-04-29T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
+
+## M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
+- Source: FIS
+- Category: Fintech Watch
+- Published: 2026-04-29T00:00:00Z
+- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
 
 ## Education Services
 - Source: CDIA
@@ -4868,6 +4868,18 @@ The federal bank regulatory agencies today jointly finalized a rule to modify th
 - Category: Legislative
 - Published: 2026-04-23T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411108
+
+## FASB Announces Winner of 2026 Emerging Scholar Award
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-23T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-announces-winner-of-2026-emerging-scholar-award-424149
+
+## Registration Opens for May 4 FASB Webinar for Private Companies and Not-for-Profit Organizations
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-23T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/registration-opens-for-may-4-fasb-webinar-for-private-companies-and-not-for-profit-organizations-424045
 
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
@@ -9765,6 +9777,12 @@ Information published.
 
 Information published.
 
+## FASB Chair Adds Research Project on Current Trends and Emerging Issues—Data Infrastructure Investments and Non-Traditional Lending to Be Covered
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-07T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-chair-adds-research-project-on-current-trends-and-emerging-issuesdata-infrastructure-investments-and-non-traditional-lending-to-be-covered-424037
+
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
 - Category: Federal Register
@@ -9820,6 +9838,12 @@ IR-2026-46, April 6, 2026 — The IRS today announced a major expansion of its B
 - Category: Payments
 - Published: 2026-04-06T00:00:00Z
 - URL: https://www.nacha.org/news/time-stop-apologizing-fraud-protection
+
+## FASB Names Four New Members to Its Investor Advisory Committee
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-04-06T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-four-new-members-to-its-investor-advisory-committee-424012
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
