@@ -1,7 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-03-31T05:00:00Z` → `2026-05-01T05:00:00Z` (UTC)
-Last updated: `2026-05-06T16:31:36-05:00` (CT) — `2026-05-06T21:31:36Z` (UTC)
+Last updated: `2026-05-11T15:55:55-05:00` (CT) — `2026-05-11T20:55:55Z` (UTC)
 
 ## Iran-related Designations; Issuance of Iran-related General License and Frequently Asked Question; Publication of Iran-related OFAC Alert
 - Source: OFAC
@@ -17,33 +17,11 @@ Last updated: `2026-05-06T16:31:36-05:00` (CT) — `2026-05-06T21:31:36Z` (UTC)
 
 IR-2026-60 May 1, 2026 — The Internal Revenue Service is now accepting applications for the Tax Counseling for the Elderly and Volunteer Income Tax Assistance grants.
 
-## Agencies Issue Host State Loan-to-Deposit Ratios
-- Source: OCC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-33.html
-
 ## Prohibition Against Interstate Deposits: Annual Host State Loan-to-Deposit Ratios
 - Source: OCC
 - Category: Banking
 - Published: 2026-05-01T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-19.html
-
-## Featured Publications View All Publications
-- Source: OCC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.occ.gov/publications-and-resources/publications/index-publications.html
-
-Publications
-
-## FDIC Issues List of Banks Examined for CRA Compliance
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-3
-
-The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). May 2026
 
 ## Anchor Bank Assumes Insured Deposits of Community Bank and Trust - West Georgia, LaGrange, Georgia
 - Source: FDIC
@@ -60,142 +38,6 @@ Community Bank and Trust - West Georgia of LaGrange, Georgia was closed today by
 - URL: https://www.fdic.gov/news/press-releases/2026/agencies-issue-host-state-loan-deposit-ratios
 
 Federal bank regulatory agencies today jointly issued updated host state loan-to-deposit ratios, as required by law.
-
-## FDIC Publishes March Enforcement Actions
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-publishes-march-enforcement-actions
-
-(FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in March 2026.
-
-## Agencies Finalize Changes to Community Bank Leverage Ratio
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/agencies-finalize-changes-community-bank-leverage-ratio
-
-The federal bank regulatory agencies today jointly finalized a rule to modify the community bank leverage ratio consistent with existing statutory authority.
-
-## Agencies Issue Revised Model Risk Guidance
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/agencies-issue-revised-model-risk-guidance
-
-The agencies issued revised model risk management guidance and rescinded existing model risk management guidance.
-
-## Principals of U.S., European Banking Union, and U.K. Financial Authorities To Meet for Regular Coordination Exercise on Cross-Border Resolution Planning
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/principals-us-european-banking-union-and-uk-financial-authorities-meet
-
-Trilateral Principal Level Exercise (TPLE) on Saturday, April 18, 2026.
-
-## FDIC Announces Four Senior Leadership Appointments
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-announces-four-senior-leadership-appointments
-
-The Federal Deposit Insurance Corporation (FDIC) today announced the appointment of the following personnel to serve in senior leadership positions
-
-## Agencies Issue Final Rule to Prohibit Use of Reputation Risk by Regulators
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/agencies-issue-final-rule-prohibit-use-reputation-risk-regulators
-
-The OCC and the FDIC (the agencies) today jointly issued a final rule that codifies the elimination of reputation risk from their supervisory programs.
-
-## Agencies Request Comment on Anti-Money Laundering/Countering the Financing of Terrorism Proposed Rule
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/agencies-request-comment-anti-money-launderingcountering-financing
-
-The agencies today invite public comment on a proposed rule for anti-money laundering and countering the financing of terrorism.
-
-## FDIC Approves Proposal to Implement GENIUS Act Requirements and Standards
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-approves-proposal-implement-genius-act-requirements-and-standards
-
-The FDIC Board of Directors today approved a notice of proposed rulemaking that would implement certain requirements and standards under the GENIUS Act.
-
-## FDIC Issues List of Banks Examined for CRA Compliance
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-2
-
-The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA).
-
-## FDIC Issues 2026 Consumer Compliance Supervisory Highlights
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-2026-consumer-compliance-supervisory-highlights
-
-The Federal Deposit Insurance Corporation (FDIC) today issued the 2026 edition of the Consumer Compliance Supervisory Highlights.
-
-## FDIC Publishes February Enforcement Actions
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-publishes-february-enforcement-actions
-
-FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in February 2026
-
-## FDIC Board of Directors Rescinds Statement of Policy on Qualifications for Failed Bank Acquisitions
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-rescinds-statement-policy-qualifications-failed-bank
-
-The FDIC Board of Directors approved today the rescission of the Statement of Policy on Qualifications for Failed Bank Acquisitions
-
-## Agencies Request Comment on Proposals to Modernize the Regulatory Capital Framework And Maintain the Strength of the Banking System
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/agencies-request-comment-proposals-modernize-regulatory-capital-framework
-
-The federal bank regulatory agencies today requested comment on three proposals to modernize the regulatory capital framework for banks of all sizes.
-
-## Agencies Clarify the Capital Treatment of Tokenized Securities
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/agencies-clarify-capital-treatment-tokenized-securities
-
-The federal bank regulatory agencies today jointly issued answers to frequently asked questions to clarify the capital treatment of tokenized securities.
-
-## FDIC Issues List of Banks Examined for CRA Compliance
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-1
-
-(FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA) March 2026
-
-## FDIC Approves the Deposit Insurance Application for Edward Jones Bank, Salt Lake City, Utah
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-approves-deposit-insurance-application-edward-jones-bank-salt-lake
-
-The Board of Directors (FDIC) announced the approval of a deposit insurance application submitted by the Jones Financial Companies, L.L.L.P.
-
-## FDIC Issues CRA Examination Schedules for Second Quarter 2026 and Third Quarter 2026
-- Source: FDIC
-- Category: Banking
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-cra-examination-schedules-second-quarter-2026-and-third
-
-The FDIC today issued the lists of institutions scheduled for a CRA examination during the second quarter 2026 and third quarter 2026.
 
 ## Regulatory Reform
 - Source: FRB
@@ -217,22 +59,6 @@ The Federal Reserve Board of Governors in Washington DC.
 - Published: 2026-05-01T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-charter-member-x402-foundation
 
-## Credit Cards
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments/credit-cards
-
-New credit card laws have fundamentally changed the industry.
-
-## Debit Cards
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments/debit-cards
-
-Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
-
 ## Commercial Banking
 - Source: ABA
 - Category: Compliance Watch
@@ -248,14 +74,6 @@ Find resources on commercial banking topics like Commercial and Industrial (C&I)
 - URL: https://www.aba.com/banking-topics/commercial-banking/small-business
 
 Banks and small businesses need each other to stay healthy. The banking industry has a long history of providing the capital that small businesses need to survive and thrive.
-
-## Marketing & Communications
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/communications
-
-Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
 
 ## Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)
 - Source: Federal Register
@@ -1881,12 +1699,6 @@ IR-2026-59, April 30, 2026 — The Department of the Treasury and the Internal R
 - Published: 2026-04-30T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411115
 
-## Same Day ACH: No Change to the Amount of the Same Day ACH Fee
-- Source: NACHA
-- Category: Payments
-- Published: 2026-04-30T00:00:00Z
-- URL: https://www.nacha.org/news/same-day-ach-no-change-amount-same-day-ach-fee
-
 ## FIS and Leading Financial Institutions to Build Their Own Digital Tokenized Money Network
 - Source: FIS
 - Category: Fintech Watch
@@ -1904,14 +1716,6 @@ IR-2026-59, April 30, 2026 — The Department of the Treasury and the Internal R
 - Category: Payment Card Networks
 - Published: 2026-04-30T00:00:00Z
 - URL: https://www.mastercard.com/us/en/news-and-trends/press/2024/august/everything-you-need-to-know-about-payment-passkeys.html
-
-## Wealth Management
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/wealth-management
-
-Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices.
 
 ## Office of the Chief Administrative Hearing Officer, Chief Administrative Law Judge
 - Source: Federal Register
@@ -2741,17 +2545,17 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Published: 2026-04-29T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411112
 
-## FIS Launches New Platform Giving Banks Control Over Digital Money
-- Source: FIS
-- Category: Fintech Watch
-- Published: 2026-04-29T00:00:00Z
-- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
-
 ## M1 Selects FIS to Replace Legacy Infrastructure with Real-Time Proxy Voting
 - Source: FIS
 - Category: Fintech Watch
 - Published: 2026-04-29T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/m1-selects-fis-replace-legacy-infrastructure-real-time-proxy
+
+## FIS Launches New Platform Giving Banks Control Over Digital Money
+- Source: FIS
+- Category: Fintech Watch
+- Published: 2026-04-29T00:00:00Z
+- URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-new-platform-giving-banks-control-over-digital
 
 ## Education Services
 - Source: CDIA
@@ -2933,17 +2737,23 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-04-28T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411110
 
-## Jack Henry Announces Fiscal 2026 Third Quarter Deconversion Revenue Results
-- Source: Jack Henry
-- Category: Fintech Watch
-- Published: 2026-04-28T00:00:00Z
-- URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henry-announces-fiscal-2026-third-quarter-deconversion
-
 ## Jack Henry's Annual Survey of Financial Institutions Highlights Priorities Amid Economic Uncertainty and a New Hybrid Monetary Era
 - Source: Jack Henry
 - Category: Fintech Watch
 - Published: 2026-04-28T00:00:00Z
 - URL: https://ir.jackhenry.com/news-releases/news-release-details/jack-henrys-annual-survey-financial-institutions-highlights
+
+## Your Card, Your Security. Tap: A Safer Way to Verify Identity — Visa, Keyno, and Fidelity Bank (Bahamas) Lead the Transformation
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-04-28T00:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22406.html
+
+## Visa Announces Expiration and Results of Exchange Offer for Class B-1 and Class B-2 Common Stock
+- Source: Visa
+- Category: Payment Card Networks
+- Published: 2026-04-28T00:00:00Z
+- URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22386.html
 
 ## Visa to Participate in Upcoming Investor Conferences
 - Source: Visa
@@ -3102,14 +2912,6 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - URL: https://www.aba.com/banking-topics/wealth-management/health-savings-accounts
 
 An HSA is a tax-free savings account that's paired with a high deductible health insurance plan to pay for routine medical expenses. The ABA's Health Savings Account (HSA) Council supports expansion of account-based health care solutions for all Americans.
-
-## Human Resources
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/human-resources
-
-Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture.
 
 ## Notice of Proposals To Engage in or To Acquire Companies Engaged in Permissible Nonbanking Activities
 - Source: Federal Register
@@ -3282,20 +3084,6 @@ IR-2026-58, April 27, 2026 — The Internal Revenue Service today announced a ne
 - Category: Payments
 - Published: 2026-04-27T00:00:00Z
 - URL: https://www.nacha.org/news/raising-limit-10-million-reflects-demand-same-day-ach
-
-## Same Day ACH Per Payment Limit to Increase to $10 Million
-- Source: NACHA
-- Category: Payments
-- Published: 2026-04-27T00:00:00Z
-- URL: https://www.nacha.org/news/same-day-ach-payment-limit-increase-10-million
-
-## Inclusive Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-04-27T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
-
-Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
@@ -4351,12 +4139,6 @@ IR-2026-57, April 24, 2026 — The Taxpayer Advocacy Panel today released its 20
 
 IR-2026-56, April 24, 2026 — During National Volunteer Week, the Internal Revenue Service recognizes the tens of thousands of volunteers who donate their time to serve their communities and the nation by participating in the Volunteer Income Tax Assistance and Tax Counseling for the Elderly programs.
 
-## OCC Issues Two Interim Final Actions Clarifying Bank Powers under Federal Law and the Preemption of a Related State Law
-- Source: OCC
-- Category: Banking
-- Published: 2026-04-24T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-32.html
-
 ## National Bank Non-Interest Charges and Fees: Interim Final Rule
 - Source: OCC
 - Category: Banking
@@ -4368,6 +4150,14 @@ IR-2026-56, April 24, 2026 — During National Volunteer Week, the Internal Reve
 - Category: Banking
 - Published: 2026-04-24T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-17.html
+
+## FDIC Publishes March Enforcement Actions
+- Source: FDIC
+- Category: Banking
+- Published: 2026-04-24T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-publishes-march-enforcement-actions
+
+(FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in March 2026.
 
 ## Chairman Scott Welcomes Federal Reserve Inspector General Review of Cost Overruns
 - Source: Senate Banking
@@ -4827,6 +4617,14 @@ Comptroller of the Currency Jonathan V. Gould issued the following statement tod
 
 The federal bank regulatory agencies today jointly finalized a rule to modify the community bank leverage ratio consistent with existing statutory authority. This change will provide community banks with greater flexibility to use a simpler measure of capital adequacy and reduce regulatory burden.
 
+## Agencies Finalize Changes to Community Bank Leverage Ratio
+- Source: FDIC
+- Category: Banking
+- Published: 2026-04-23T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-finalize-changes-community-bank-leverage-ratio
+
+The federal bank regulatory agencies today jointly finalized a rule to modify the community bank leverage ratio consistent with existing statutory authority.
+
 ## MPF Selling Announcement 2026-S05
 - Source: FHLB MPF
 - Category: Mortgage
@@ -4868,18 +4666,6 @@ The federal bank regulatory agencies today jointly finalized a rule to modify th
 - Category: Legislative
 - Published: 2026-04-23T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411108
-
-## FASB Announces Winner of 2026 Emerging Scholar Award
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-23T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-announces-winner-of-2026-emerging-scholar-award-424149
-
-## Registration Opens for May 4 FASB Webinar for Private Companies and Not-for-Profit Organizations
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-23T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/registration-opens-for-may-4-fasb-webinar-for-private-companies-and-not-for-profit-organizations-424045
 
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
@@ -5825,13 +5611,13 @@ Information published.
 
 IR-2026-54, April 17, 2026 — The Internal Revenue Service today issued a Whistleblower Alert highlighting an area of concern about misuse, diversion or fraudulent use of federal funds by tax-exempt organizations, individuals and businesses, and urged the public to provide information.
 
-## OCC Issues Updated Model Risk Management Guidance
-- Source: OCC
+## Agencies Issue Revised Model Risk Guidance
+- Source: FDIC
 - Category: Banking
 - Published: 2026-04-17T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-29.html
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-issue-revised-model-risk-guidance
 
-The Office of the Comptroller of the Currency (OCC) today, in coordination with the Board of Governors of the Federal Reserve System (Federal Reserve Board) and the Federal Deposit Insurance Corporation (FDIC), issued updated model risk management guidance for OCC-supervised institutions. These actions build upon the OCC's ongoing efforts to tailor its supervisory framework to…
+The agencies issued revised model risk management guidance and rescinded existing model risk management guidance.
 
 ## MPF Announcement 2026-18
 - Source: FHLB MPF
@@ -6606,12 +6392,6 @@ Information published.
 - URL: https://www.fanniemae.com/data-and-insights
 
 Fannie Mae’s market intelligence helps you understand changes in the housing and economic environment today and what it might signal for tomorrow.
-
-## Freddie Mac Multifamily Announces Launch of Integrated Conventional Small Product for Loans Under $10 Million
-- Source: Freddie Mac
-- Category: Mortgage
-- Published: 2026-04-15T00:00:00Z
-- URL: https://www.globenewswire.com/news-release/2026/04/15/3274909/0/en/freddie-mac-multifamily-announces-launch-of-integrated-conventional-small-product-for-loans-under-10-million.html
 
 ## Warren Requests Fed Records on Warsh Role in 2008 Financial Crisis and Wall Street Bailouts Ahead of Senate Hearing
 - Source: Senate Banking
@@ -8235,6 +8015,14 @@ Information published.
 
 IR-2026-52, April 14, 2026 — As the end of filing season approaches, the Internal Revenue Service reminds taxpayers they can get an extension to file their federal income tax return until Oct. 15, 2026, but they must request the extension by April 15, 2026, in order to avoid penalties.
 
+## Principals of U.S., European Banking Union, and U.K. Financial Authorities To Meet for Regular Coordination Exercise on Cross-Border Resolution Planning
+- Source: FDIC
+- Category: Banking
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/principals-us-european-banking-union-and-uk-financial-authorities-meet
+
+Trilateral Principal Level Exercise (TPLE) on Saturday, April 18, 2026.
+
 ## ICYMI: Chairman Scott Previews Kevin Warsh Hearing, Emphasizes Fed Independence, and U.S. Leadership in Digital Assets on Fox Business
 - Source: Senate Banking
 - Category: Legislative
@@ -8258,6 +8046,54 @@ IR-2026-52, April 14, 2026 — As the end of filing season approaches, the Inter
 - Category: Payments
 - Published: 2026-04-14T00:00:00Z
 - URL: https://www.nacha.org/news/rising-challenge-first-party-fraud
+
+## How is Quantum Computing Used in Everyday Life?
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/how-quantum-computing-used-everyday-life
+
+## How Can Your Organization Build a Quantum-Safe Payments Readiness Plan?
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/how-can-your-organization-build-quantum-safe-payments-readiness-plan
+
+## What are the Steps for Conducting a Quantum-Safe Payments Risk Assessment?
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/what-are-steps-conducting-quantum-safe-payments-risk-assessment
+
+## Are Your Assets—and Their Weak Points—Ready for a Quantum Future?
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/are-your-assets-and-their-weak-points-ready-quantum-future
+
+## Why Should Payments Industry Stakeholders Begin Quantum-Safe Strategic Planning?
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/why-should-payments-industry-stakeholders-begin-quantum-safe-strategic-planning
+
+## How Can a Payments Industry Stakeholder Get Started with Becoming Quantum-Safe?
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/how-can-payments-industry-stakeholder-get-started-becoming-quantum-safe
+
+## Quantum Payments Myths: What’s Real, What’s Hype, and Why It Matters?
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/quantum-payments-myths-whats-real-whats-hype-and-why-it-matters
+
+## Nacha’s Payments Innovation Alliance Advances Quantum-Safe Payments Education for World Quantum Day
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-14T00:00:00Z
+- URL: https://www.nacha.org/news/nachas-payments-innovation-alliance-advances-quantum-safe-payments-education-world-quantum-day
 
 ## Barclays and FIS Extend Partnership Supporting Bank's Online Deposits Growth
 - Source: FIS
@@ -8310,6 +8146,14 @@ PRESS RELEASE | APRIL 13, 2026 FDIC Announces Four Senior Leadership Appointment
 - URL: https://www.irs.gov/newsroom/irs-hosting-free-webinar-to-share-last-minute-tips-for-the-filing-season
 
 IR-2026-51, April 13, 2026 — The IRS today announced it will be hosting a free 30-minute webinar for taxpayers and tax professionals to provide last-minute tips for filing season on Tuesday, April 14, at 1 p.m. Eastern time.
+
+## FDIC Announces Four Senior Leadership Appointments
+- Source: FDIC
+- Category: Banking
+- Published: 2026-04-13T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-announces-four-senior-leadership-appointments
+
+The Federal Deposit Insurance Corporation (FDIC) today announced the appointment of the following personnel to serve in senior leadership positions
 
 ## FOIA
 - Source: FRB
@@ -9031,30 +8875,6 @@ Acknowledgement added. This is an informational change only.
 
 Information published.
 
-## IRS announces special Saturday hours at Taxpayer Assistance Centers nationwide April 11 and April 25
-- Source: IRS
-- Category: IRS
-- Published: 2026-04-10T00:00:00Z
-- URL: https://www.irs.gov/newsroom/irs-announces-special-saturday-hours-at-taxpayer-assistance-centers-nationwide-april-11-and-april-25
-
-IR-2026-50, April 10, 2026 — The Internal Revenue Service announced special Saturday hours at select Taxpayer Assistance Centers across the country to provide in-person help for taxpayers.
-
-## Treasury, IRS issue final regulations listing occupations where workers customarily and regularly receive tips under the One, Big, Beautiful Bill
-- Source: IRS
-- Category: IRS
-- Published: 2026-04-10T00:00:00Z
-- URL: https://www.irs.gov/newsroom/treasury-irs-issue-final-regulations-listing-occupations-where-workers-customarily-and-regularly-receive-tips-under-the-one-big-beautiful-bill
-
-IR-2026-49, April 10, 2026 — The Department of the Treasury and the Internal Revenue Service today issued final regulations on the “No Tax on Tips” provision.
-
-## Treasury, IRS issue proposed regulations on the new remittance transfer tax established under the One, Big, Beautiful Bill
-- Source: IRS
-- Category: IRS
-- Published: 2026-04-10T00:00:00Z
-- URL: https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-on-the-new-remittance-transfer-tax-established-under-the-one-big-beautiful-bill
-
-IR-2026-48, April 10, 2026 — The Department of the Treasury and the Internal Revenue Service today issued proposed regulations that would provide rules and definitions related to the new excise tax imposed on certain remittance transfers, also referred to as the remittance transfer tax, under the One, Big, Beautiful Bill.
-
 ## Warren, Shaheen, Schumer Release Joint Statement Urging Trump Administration Not to Extend Sanctions Relief for Russian Oil
 - Source: Senate Banking
 - Category: Legislative
@@ -9423,20 +9243,6 @@ Information published.
 
 Information published.
 
-## Last-minute filing tips, resources to help taxpayers who still need to file
-- Source: IRS
-- Category: IRS
-- Published: 2026-04-09T00:00:00Z
-- URL: https://www.irs.gov/newsroom/last-minute-filing-tips-resources-to-help-taxpayers-who-still-need-to-file
-
-IR-2026-47, April 9, 2026 — The Internal Revenue Service reminds last-minute tax filers that the April 15 tax deadline is next week.
-
-## Mortgage Rates Inch Down
-- Source: Freddie Mac
-- Category: Mortgage
-- Published: 2026-04-09T00:00:00Z
-- URL: https://www.globenewswire.com/news-release/2026/04/09/3271258/0/en/mortgage-rates-inch-down.html
-
 ## Warren Releases New Report on “Trump Fees” Costing Americans More Than $86 Billion Every Year
 - Source: Senate Banking
 - Category: Legislative
@@ -9454,6 +9260,12 @@ IR-2026-47, April 9, 2026 — The Internal Revenue Service reminds last-minute t
 - Category: Legislative
 - Published: 2026-04-09T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-february-2026-pce
+
+## Bottomline Now a Nacha Preferred Partner for ACH Experience, Open Banking, and Risk and Fraud Prevention
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-09T00:00:00Z
+- URL: https://www.nacha.org/news/bottomline-now-nacha-preferred-partner-ach-experience-open-banking-and-risk-and-fraud
 
 ## Sunshine Act Meetings: Notice of Meeting Held With Less Than Seven Days' Advance Notice
 - Source: Federal Register
@@ -9607,13 +9419,11 @@ Information published.
 - Published: 2026-04-08T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260408
 
-## Treasury, IRS provide guidance to States for nominating census tracts as qualified opportunity zones under the One, Big, Beautiful Bill
-- Source: IRS
-- Category: IRS
+## Nacha Announces Walrus Security as a Preferred Partner for Account Validation, Fraud Monitoring, and Risk and Fraud Prevention
+- Source: NACHA
+- Category: Payments
 - Published: 2026-04-08T00:00:00Z
-- URL: https://www.irs.gov/newsroom/treasury-irs-provide-guidance-to-states-for-nominating-census-tracts-as-qualified-opportunity-zones-under-the-one-big-beautiful-bill
-
-IR-2026-45, April 6, 2026 — The Department of the Treasury and the Internal Revenue Service today issued guidance to the Chief Executive Officers of any State, the District of Columbia, and U.S. territories regarding the procedure for nominating population census tracts to be designated as qualified opportunity zones (QOZs) under the One, Big, Beautiful Bill.
+- URL: https://www.nacha.org/news/nacha-announces-walrus-security-preferred-partner-account-validation-fraud-monitoring-and-risk
 
 ## Real-Time Payments
 - Source: ABA
@@ -9777,11 +9587,35 @@ Information published.
 
 Information published.
 
-## FASB Chair Adds Research Project on Current Trends and Emerging Issues—Data Infrastructure Investments and Non-Traditional Lending to Be Covered
-- Source: FASB
-- Category: Compliance Watch
+## Agencies Issue Final Rule to Prohibit Use of Reputation Risk by Regulators
+- Source: FDIC
+- Category: Banking
 - Published: 2026-04-07T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-chair-adds-research-project-on-current-trends-and-emerging-issuesdata-infrastructure-investments-and-non-traditional-lending-to-be-covered-424037
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-issue-final-rule-prohibit-use-reputation-risk-regulators
+
+The OCC and the FDIC (the agencies) today jointly issued a final rule that codifies the elimination of reputation risk from their supervisory programs.
+
+## Agencies Request Comment on Anti-Money Laundering/Countering the Financing of Terrorism Proposed Rule
+- Source: FDIC
+- Category: Banking
+- Published: 2026-04-07T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/agencies-request-comment-anti-money-launderingcountering-financing
+
+The agencies today invite public comment on a proposed rule for anti-money laundering and countering the financing of terrorism.
+
+## FDIC Approves Proposal to Implement GENIUS Act Requirements and Standards
+- Source: FDIC
+- Category: Banking
+- Published: 2026-04-07T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-approves-proposal-implement-genius-act-requirements-and-standards
+
+The FDIC Board of Directors today approved a notice of proposed rulemaking that would implement certain requirements and standards under the GENIUS Act.
+
+## Stablecoins Are Moving Fast. ACH Is Keeping Them Grounded.
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-07T00:00:00Z
+- URL: https://www.nacha.org/news/stablecoins-are-moving-fast-ach-keeping-them-grounded
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
@@ -9825,25 +9659,11 @@ The Bureau of Justice Statistics (BJS), Department of Justice (DOJ) will be subm
 
 (AUSTIN, TX) — The Texas Bankers Foundation is proud to announce the recipients of its 2026 Future Banker Scholarship, recognizing outstanding students across Texas who have demonstrated strong academic achievement, completed banking or regulatory internships, and shown exceptional promise for a future career in banking. The Future Banker Scholarship was created to support und…
 
-## IRS expands Business Tax Account access to partnerships, government entities, and tax-exempt organizations
-- Source: IRS
-- Category: IRS
-- Published: 2026-04-06T00:00:00Z
-- URL: https://www.irs.gov/newsroom/irs-expands-business-tax-account-access-to-partnerships-government-entities-and-tax-exempt-organizations
-
-IR-2026-46, April 6, 2026 — The IRS today announced a major expansion of its Business Tax Account, making the online self-service platform available to partnerships, federal, state, and local governments, Indian tribal governments, and tax-exempt organizations.
-
 ## Time to ‘Stop Apologizing for Fraud Protection’
 - Source: NACHA
 - Category: Payments
 - Published: 2026-04-06T00:00:00Z
 - URL: https://www.nacha.org/news/time-stop-apologizing-fraud-protection
-
-## FASB Names Four New Members to Its Investor Advisory Committee
-- Source: FASB
-- Category: Compliance Watch
-- Published: 2026-04-06T00:00:00Z
-- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-names-four-new-members-to-its-investor-advisory-committee-424012
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
@@ -10083,11 +9903,25 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Published: 2026-04-03T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260403
 
+## FDIC Issues List of Banks Examined for CRA Compliance
+- Source: FDIC
+- Category: Banking
+- Published: 2026-04-03T00:00:00Z
+- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-2
+
+The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA).
+
 ## Senator Warren Statement on March 2026 Jobs Report
 - Source: Senate Banking
 - Category: Legislative
 - Published: 2026-04-03T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-march-2026-jobs-report
+
+## Next Steps for the New Nacha Risk Management Rules
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-03T00:00:00Z
+- URL: https://www.nacha.org/news/next-steps-new-nacha-risk-management-rules
 
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
@@ -10307,6 +10141,12 @@ Information published.
 - Published: 2026-04-02T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-merkley-question-bessent-over-plan-to-add-trump-signature-on-us-currency-amid-affordability-crisis
 
+## Nacha Welcomes 20 New Payments Innovation Alliance Members in First Quarter of 2026
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-02T00:00:00Z
+- URL: https://www.nacha.org/news/nacha-welcomes-20-new-payments-innovation-alliance-members-first-quarter-2026
+
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
 - Category: Federal Register
@@ -10450,6 +10290,12 @@ Information published.
 - Category: Legislative
 - Published: 2026-04-01T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-calls-out-trumps-cfpb-for-failing-to-take-action-on-zombie-mortgages
+
+## Abrigo Now a Nacha Preferred Partner for ACH Experience/Compliance/Risk and Fraud Prevention
+- Source: NACHA
+- Category: Payments
+- Published: 2026-04-01T00:00:00Z
+- URL: https://www.nacha.org/news/abrigo-now-nacha-preferred-partner-ach-experiencecompliancerisk-and-fraud-prevention
 
 ## Rescission of OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches
 - Source: Federal Register

@@ -1,0 +1,25 @@
+RegMonthly FDIC Date Fix Notes
+Date: 2026-05-11
+
+Purpose
+- Fix wrong published_at dates showing on FDIC press release articles.
+- Keep the change isolated to FDIC only.
+
+What changed
+- scripts/build.py now confirms FDIC article dates from the FDIC detail page instead of relying on the listing date.
+- Added an FDIC-only detail parser that prioritizes:
+  1. the written article date near the FDIC article title/body,
+  2. the FDIC "Last Updated" date,
+  3. FDIC metadata as a final fallback.
+- Other source date parsing logic was not changed.
+
+Why
+- FDIC pages can expose unrelated template/listing/sidebar dates before the real article date.
+- The prior generic parsing could grab those template dates and display the wrong date on the monthly site and smart JSON.
+
+Files changed
+- scripts/build.py
+
+After applying
+- Re-run the monthly build when ready.
+- Confirm FDIC examples show their real article date in docs/raw/items-array.json and docs/raw/items-smart-100.json.

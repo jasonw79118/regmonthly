@@ -1790,6 +1790,84 @@ def items_from_federal_register_topics(start: datetime, end: datetime) -> List[D
 # DETAIL PAGE EXTRACTION
 # ============================
 
+
+def extract_fdic_published_from_detail(detail_url: str, html: str) -> Optional[datetime]:
+    """FDIC-only detail date parser.
+
+    FDIC press-release pages can include unrelated listing/sidebar dates before
+    the real article date. Do not use the first arbitrary page date for FDIC.
+    Prefer the date in the article body near the H1/title, then the
+    "Last Updated" footer date, then conservative metadata fallbacks.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+
+    def _date_from_text(text: str) -> Optional[datetime]:
+        if not text:
+            return None
+        # Prefer full written dates like April 7, 2026. This avoids grabbing
+        # unrelated numeric/template dates from navigation or listing widgets.
+        for m in re.finditer(
+            r"\b(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|"
+            r"Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|"
+            r"Nov(?:ember)?|Dec(?:ember)?)\s+\d{1,2},\s+\d{4}\b",
+            text,
+            re.I,
+        ):
+            dt = parse_date(m.group(0))
+            if dt:
+                return dt
+        return None
+
+    # 1) Look in the main/article area near the H1/title.
+    main = soup.find("main") or soup.find("article") or soup
+    h1 = main.find("h1") if getattr(main, "find", None) else None
+    if h1:
+        chunks: List[str] = []
+        for sib in h1.find_all_next(limit=18):
+            if getattr(sib, "name", "") in {"script", "style", "nav", "footer"}:
+                continue
+            txt = clean_text(sib.get_text(" ", strip=True) if getattr(sib, "get_text", None) else "", 240)
+            if txt:
+                chunks.append(txt)
+            if len(" ".join(chunks)) > 1200:
+                break
+        dt = _date_from_text(" ".join(chunks))
+        if dt:
+            return dt
+
+    # 2) Look for explicit FDIC update label, which is usually the article date
+    # on FDIC detail pages when the body date is not available.
+    page_text = clean_text((main or soup).get_text(" ", strip=True), 8000)
+    m = re.search(
+        r"Last\s+Updated[:\s]+((?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|"
+        r"Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|"
+        r"Nov(?:ember)?|Dec(?:ember)?)\s+\d{1,2},\s+\d{4})",
+        page_text,
+        re.I,
+    )
+    if m:
+        dt = parse_date(m.group(1))
+        if dt:
+            return dt
+
+    # 3) Conservative metadata fallback for FDIC only. Avoid generic first-date
+    # page scanning because FDIC templates can expose unrelated dates first.
+    for k, v in [
+        ("property", "article:published_time"),
+        ("name", "article:published_time"),
+        ("name", "pubdate"),
+        ("name", "publish-date"),
+        ("name", "date"),
+        ("property", "og:updated_time"),
+    ]:
+        mtag = soup.find("meta", attrs={k: v})
+        if mtag and mtag.get("content"):
+            dt = parse_date(mtag.get("content"))
+            if dt:
+                return dt
+
+    return None
+
 def extract_published_from_detail(detail_url: str, html: str, source: str = "") -> Tuple[Optional[datetime], str]:
     soup = BeautifulSoup(html, "html.parser")
 
@@ -1797,6 +1875,11 @@ def extract_published_from_detail(detail_url: str, html: str, source: str = "") 
     meta_desc = soup.find("meta", attrs={"name": "description"})
     if meta_desc and meta_desc.get("content"):
         snippet = clean_text(meta_desc.get("content"), 380)
+
+    if source == "FDIC":
+        dt = extract_fdic_published_from_detail(detail_url, html)
+        if dt:
+            return dt, snippet
 
     t = soup.find("time")
     if t:
@@ -4876,6 +4959,23 @@ def build() -> None:
         
                 snippet = ""
         
+                # FDIC listing pages can expose template/sidebar dates that differ from
+                # the actual press-release date. Confirm FDIC dates from the detail page
+                # only; other sources keep their existing date behavior unchanged.
+                if source == "FDIC" and src_cap > 0:
+                    if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
+                        detail_html = polite_get(url)
+                        if detail_html:
+                            global_detail_fetches += 1
+                            src_used += 1
+                            per_source_detail_fetches[source] = src_used
+
+                            dt2, snippet2 = extract_published_from_detail(url, detail_html, source=source)
+                            if dt2:
+                                dt = dt2
+                            if snippet2:
+                                snippet = snippet2
+
                 # Visa listing dates can shift between DD/MM/YYYY and local renderings.
                 # Confirm Visa dates from the detail page whenever cap permits so the monthly
                 # window is based on the article date, not the listing-page text.
