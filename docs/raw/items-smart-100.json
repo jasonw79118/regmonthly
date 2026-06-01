@@ -1,12 +1,977 @@
 [
   {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Prohibition Against Interstate Deposits: Annual Host State Loan-to-Deposit Ratios",
-    "published_at": "2026-05-01T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-19.html",
-    "summary": "",
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Income of Foreign Governments and of International Organizations",
+    "published_at": "2026-06-01T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10841/income-of-foreign-governments-and-of-international-organizations",
+    "summary": "This document contains proposed regulations regarding the applicability dates of proposed rules relating to the taxation of the income of foreign governments from investment in the United States. This document also withdraws a portion of the proposed regulations published on December 15, 2025, relating to applicability dates.",
+    "fr_tags": [
+      "agency:internal-revenue-service",
+      "agency:treasury-department",
+      "topic:income-taxes"
+    ],
+    "fedreg_document_number": "2026-10841",
     "smart_index": 1
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Credit Cards",
+    "published_at": "2026-05-30T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/payments/credit-cards",
+    "summary": "New credit card laws have fundamentally changed the industry.",
+    "smart_index": 2
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military",
+    "published_at": "2026-05-29T20:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0515",
+    "summary": "",
+    "smart_index": 3
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Remarks by Treasury Secretary Scott Bessent before the 2026 Reagan National Economic Forum: While America Slept",
+    "published_at": "2026-05-29T18:50:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0514",
+    "summary": "",
+    "smart_index": 4
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Joint Statement by the U.S. Department of the Treasury and the State Bank of Viet Nam",
+    "published_at": "2026-05-29T15:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0513",
+    "summary": "",
+    "smart_index": 5
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Treasury, IRS Issue Section 892 Proposed Regulations to Provide Grandfathering Protection and Transitional Relief to Sovereign Investors",
+    "published_at": "2026-05-29T13:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0512",
+    "summary": "",
+    "smart_index": 6
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Zero-Based Regulating",
+    "published_at": "2026-05-29T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10727/zero-based-regulating",
+    "summary": "This direct final rule inserts sunset provisions into certain regulations, consistent with Executive order (E.O.), Zero-Based Regulatory Budgeting to Unleash American Energy (April 9, 2025), and agency policy. Each sunset provision will establish a conditional sunset date for covered regulations, as defined by E.O 14270. If DOE does not extend a particular regulation before it…",
+    "fr_tags": [
+      "agency:energy-department",
+      "topic:credit",
+      "topic:housing",
+      "topic:insurance",
+      "topic:loan-programs",
+      "topic:mortgage-insurance",
+      "topic:securities"
+    ],
+    "fedreg_document_number": "2026-10727",
+    "smart_index": 7
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Zero-Based Regulating",
+    "published_at": "2026-05-29T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10729/zero-based-regulating",
+    "summary": "This proposed rule would insert sunset provisions into certain regulations, consistent with the Executive Order (E.O.), Zero-Based Regulatory Budgeting to Unleash American Energy (April 9, 2025), and agency policy. Each sunset provision would establish a conditional sunset date for covered regulations, as defined by the E.O. In this notice of proposed rulemaking (NOPR), the U.…",
+    "fr_tags": [
+      "agency:energy-department",
+      "topic:credit",
+      "topic:housing",
+      "topic:insurance",
+      "topic:loan-programs",
+      "topic:mortgage-insurance",
+      "topic:securities"
+    ],
+    "fedreg_document_number": "2026-10729",
+    "smart_index": 8
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Secretary Bessent Delivers Economic Security Address, Brings “Trump Accounts Tour” to California",
+    "published_at": "2026-05-28T19:39:35Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0511",
+    "summary": "",
+    "smart_index": 9
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries",
+    "published_at": "2026-05-28T16:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0509",
+    "summary": "",
+    "smart_index": 10
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Treasury Announces the Launch of the Trump Accounts App and Next Steps for Trump Accounts",
+    "published_at": "2026-05-28T11:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0508",
+    "summary": "",
+    "smart_index": 11
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military",
+    "published_at": "2026-05-28T08:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0510",
+    "summary": "",
+    "smart_index": 12
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Economic Fury Targets Iranian Maritime Extortion",
+    "published_at": "2026-05-28T01:30:20Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0507",
+    "summary": "",
+    "smart_index": 13
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Moving Beyond the Checkbox: Why Nacha Rule Compliance Is a Strategic Imperative",
+    "published_at": "2026-05-28T00:00:00Z",
+    "url": "https://www.nacha.org/news/moving-beyond-checkbox-why-nacha-rule-compliance-strategic-imperative",
+    "summary": "",
+    "smart_index": 14
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "U.S. Treasury Department Announces the G20 Illustrative Template Memorandum of Understanding (MOU) for Future Negotiations Under the Common Framework",
+    "published_at": "2026-05-27T21:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0506",
+    "summary": "",
+    "smart_index": 15
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "FDIC-Insured Institutions Reported Return on Assets of 1.26 Percent and Net Income of $80.5 Billion in First Quarter 2026",
+    "published_at": "2026-05-27T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-insured-institutions-reported-return-assets-126-percent-and-net",
+    "summary": "In Q1 2026, FDIC-insured institutions reported a ROA ratio of 1.26% & aggregate net income of $80.5 billion, an increase of $2.8 billion from the prior quarter.",
+    "smart_index": 16
+  },
+  {
+    "category": "Payment Card Networks",
+    "source": "Visa",
+    "title": "Visa, Street Soccer USA and Bank of America to Bring Visa Street Soccer Parks to Every FIFA World Cup 2026™ Host City in the U.S.",
+    "published_at": "2026-05-27T00:00:00Z",
+    "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22256.html",
+    "summary": "",
+    "smart_index": 17
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Regulation A: Extensions of Credit by Federal Reserve Banks",
+    "published_at": "2026-05-26T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10376/regulation-a-extensions-of-credit-by-federal-reserve-banks",
+    "summary": "The Board of Governors of the Federal Reserve System (Board) proposes to amend its Regulation A (Extensions of Credit by Federal Reserve Banks) to specify that a holder of a proposed special-purpose payment account (a Payment Account) would not be eligible for access to discount window credit made available by the Federal Reserve Banks (Reserve Banks). The proposal would chang…",
+    "fr_tags": [
+      "agency:federal-reserve-system",
+      "filter:federal-reserve-system"
+    ],
+    "fedreg_document_number": "2026-10376",
+    "smart_index": 18
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Proposed Revisions to the Federal Reserve Policy on Payment System Risk and the Guidelines for Account and Services Requests",
+    "published_at": "2026-05-26T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10375/proposed-revisions-to-the-federal-reserve-policy-on-payment-system-risk-and-the-guidelines-for",
+    "summary": "The Board of Governors of the Federal Reserve System (Board) is issuing a notice and request for comment on proposed revisions to the Federal Reserve Policy on Payment System Risk (PSR Policy), including the proposed addition of a new Part IV, to accommodate the provision by Reserve Banks of special-purpose accounts that would clear and settle certain payment activity (Payment…",
+    "fr_tags": [
+      "agency:federal-reserve-system",
+      "filter:federal-reserve-system"
+    ],
+    "fedreg_document_number": "2026-10375",
+    "smart_index": 19
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Regulation D: Reserve Requirements of Depository Institutions",
+    "published_at": "2026-05-26T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10377/regulation-d-reserve-requirements-of-depository-institutions",
+    "summary": "The Board of Governors of the Federal Reserve System (Board) proposes to amend its Regulation D (Reserve Requirements of Depository Institutions) to differentiate between master accounts and a proposed new category of special-purpose payment accounts (Payment Accounts). The proposed amendments would exclude Payment Accounts from Regulation D's provisions directing Federal Rese…",
+    "fr_tags": [
+      "agency:federal-reserve-system",
+      "filter:federal-reserve-system"
+    ],
+    "fedreg_document_number": "2026-10377",
+    "smart_index": 20
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "What Does ‘Prompt’ Recredit Actually Require?",
+    "published_at": "2026-05-26T00:00:00Z",
+    "url": "https://www.nacha.org/news/what-does-prompt-recredit-actually-require-0",
+    "summary": "",
+    "smart_index": 21
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Foreign Trade Regulations (FTR): Clarification of Filing Requirements Regarding In-Transit Shipments and Other FTR Provisions; Correction",
+    "published_at": "2026-05-26T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10370/foreign-trade-regulations-ftr-clarification-of-filing-requirements-regarding-in-transit-shipments",
+    "summary": "On August 14, 2025, the Bureau of the Census (Census Bureau) published a final rule in the Federal Register entitled \"Foreign Trade Regulations (FTR): Clarification of Filing Requirements Regarding In- Transit Shipments and Other FTR Provisions\", which became effective on September 15, 2025. Subsequent review of the final rule in the Code of Federal Regulations identified erro…",
+    "fr_tags": [
+      "agency:census-bureau",
+      "agency:commerce-department",
+      "topic:economic-statistics"
+    ],
+    "fedreg_document_number": "2026-10370",
+    "smart_index": 22
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+    "published_at": "2026-05-22T20:15:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
+    "summary": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+    "smart_index": 23
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Press Release: Agencies Publish Resolution Plan Feedback Letters for Certain Domestic and Foreign Banking Organizations",
+    "published_at": "2026-05-22T20:10:37Z",
+    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4188142",
+    "summary": "PRESS RELEASE | MAY 22, 2026 Agencies Publish Resolution Plan Feedback Letters for Certain Domestic and Foreign Banking Organizations WASHINGTON—The Federal Deposit Insurance Corporation and the Federal Reserve Board today published feedback letters for several resolution plans submitted in July 2025. Resolution plans, also known as living wills, must describe a banking organi…",
+    "smart_index": 24
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Statement by Chairman Travis Hill on Title I Feedback Letters and Resolution-Related Reforms",
+    "published_at": "2026-05-22T20:09:04Z",
+    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4188cbf",
+    "summary": "STATEMENT | MAY 22, 2026 Statement by Chairman Travis Hill on Title I Feedback Letters and Resolution-Related Reforms Today, the FDIC and Federal Reserve Board announced the approval of joint agency feedback letters in response to the 2025 resolution plan submissions of the eight U.S. global systemically important banks (GSIBs) and 56 foreign-based firms. As we review resoluti…",
+    "smart_index": 25
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Press Release: FDIC Board Approves Proposal to Address Bank Secrecy Act and Sanctions Compliance Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers",
+    "published_at": "2026-05-22T17:06:02Z",
+    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41889d8",
+    "summary": "PRESS RELEASE | MAY 22, 2026 FDIC Board Approves Proposal to Address Bank Secrecy Act and Sanctions Compliance Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers WASHINGTON—The Federal Deposit Insurance Corporation (FDIC) Board of Directors approved a notice of proposed rulemaking that would implement Bank Secrecy Act (BSA) and sanctions compliance standards ap…",
+    "smart_index": 26
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "FDIC Board Approves Proposal to Address Bank Secrecy Act and Sanctions Compliance Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers",
+    "published_at": "2026-05-22T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-approves-proposal-address-bank-secrecy-act-and-sanctions",
+    "summary": "FDIC BoD approved an NPR that would implement BSA and sanctions compliance standards applicable to FDIC-supervised PPSIs as required by the GENIUS Act",
+    "smart_index": 27
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Agencies Publish Resolution Plan Feedback Letters for Certain Domestic and Foreign Banking Organizations",
+    "published_at": "2026-05-22T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/agencies-publish-resolution-plan-feedback-letters-certain-domestic-and",
+    "summary": "The Federal Deposit Insurance Corporation and the Federal Reserve Board today published feedback letters for several resolution plans submitted in July 2025.",
+    "smart_index": 28
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament",
+    "published_at": "2026-05-21T05:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0505",
+    "summary": "",
+    "smart_index": 29
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Change in Bank Control Notices; Acquisitions of Shares of a Savings and Loan Holding Company",
+    "published_at": "2026-05-21T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10212/change-in-bank-control-notices-acquisitions-of-shares-of-a-savings-and-loan-holding-company",
+    "summary": "",
+    "fr_tags": [
+      "agency:federal-reserve-system",
+      "filter:federal-reserve-system"
+    ],
+    "fedreg_document_number": "2026-10212",
+    "smart_index": 30
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+    "published_at": "2026-05-20T20:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
+    "summary": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+    "smart_index": 31
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Remarks by Treasury Secretary Scott Bessent before the Brunswick School Commencement: The Life Within Reach, and the Life You Choose to Live",
+    "published_at": "2026-05-20T19:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0504",
+    "summary": "",
+    "smart_index": 32
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations",
+    "published_at": "2026-05-20T14:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0503",
+    "summary": "",
+    "smart_index": 33
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "News & Events",
+    "published_at": "2026-05-20T00:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC.",
+    "smart_index": 34
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Agency Information Collection Activities: Announcement of Board Approval Under Delegated Authority and Submission to OMB",
+    "published_at": "2026-05-20T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10099/agency-information-collection-activities-announcement-of-board-approval-under-delegated-authority",
+    "summary": "The Board of Governors of the Federal Reserve System (Board) is adopting a proposal to extend for three years, with revision, the Capital Assessments and Stress Testing Reports (FR Y14A/Q/M; OMB No. 7100-0341).",
+    "fr_tags": [
+      "agency:federal-reserve-system",
+      "filter:federal-reserve-system"
+    ],
+    "fedreg_document_number": "2026-10099",
+    "smart_index": 35
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Privacy Act of 1974; System of Records",
+    "published_at": "2026-05-20T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10113/privacy-act-of-1974-system-of-records",
+    "summary": "In accordance with the Privacy Act of 1974, the Consumer Financial Protection Bureau (CFPB or Bureau) proposes to modify a current Privacy Act System of Records Notice (SORN) titled \"CFPB.009- Employee Administrative Records System.\" This modification introduces a new routine use to permit the disclosure of records to the news media and the public under specific circumstances.…",
+    "fr_tags": [
+      "agency:consumer-financial-protection-bureau",
+      "filter:consumer-financial-protection-bureau"
+    ],
+    "fedreg_document_number": "2026-10113",
+    "smart_index": 36
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Statement by Chairman Travis Hill on the Proposal to Revise the CAMELS Rating System",
+    "published_at": "2026-05-19T19:38:46Z",
+    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4180409",
+    "summary": "STATEMENT | MAY 19, 2026 Statement by Chairman Travis Hill on the Proposal to Revise the CAMELS Rating System Federal Deposit Insurance Corporation (FDIC) Chairman Travis Hill today issued the following statement regarding the Federal Financial Institutions Examination Council’s approval of a proposal to revise the uniform financial institutions rating system, commonly known a…",
+    "smart_index": 37
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Treasury Targets Flotilla Organizers and Muslim Brotherhood Networks Supporting Hamas",
+    "published_at": "2026-05-19T14:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0501",
+    "summary": "",
+    "smart_index": 38
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Economic Fury Targets Networks Generating Billions for Iran’s Terrorist Regime",
+    "published_at": "2026-05-19T14:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0502",
+    "summary": "",
+    "smart_index": 39
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Real Estate Lending Escrow Accounts",
+    "published_at": "2026-05-19T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10036/real-estate-lending-escrow-accounts",
+    "summary": "The OCC is issuing a final rule to codify longstanding and recognized powers of national banks and Federal savings associations (collectively, banks) to establish or maintain real estate lending escrow accounts and to exercise flexibility in making business judgments as to the terms and conditions of such accounts, including whether and to what extent to offer any compensation…",
+    "fr_tags": [
+      "agency:treasury-department",
+      "topic:banks-banking",
+      "topic:credit",
+      "topic:investments",
+      "topic:mortgages",
+      "topic:national-banks",
+      "topic:savings-associations",
+      "topic:securities"
+    ],
+    "fedreg_document_number": "2026-10036",
+    "smart_index": 40
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Preemption Determination: State Interest-on-Escrow Laws",
+    "published_at": "2026-05-19T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10037/preemption-determination-state-interest-on-escrow-laws",
+    "summary": "The OCC is issuing a preemption determination concluding that Federal law preempts State laws that restrict OCC-regulated banks' flexibility to decide whether and to what extent to pay interest or other compensation on funds placed in real estate escrow accounts; or assess fees in connection with such accounts. This preemption determination will provide much-needed clarity to…",
+    "fr_tags": [
+      "agency:comptroller-of-the-currency",
+      "agency:treasury-department",
+      "topic:banks-banking",
+      "topic:credit",
+      "topic:mortgages",
+      "topic:national-banks",
+      "topic:savings-associations"
+    ],
+    "fedreg_document_number": "2026-10037",
+    "smart_index": 41
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Treasury International Capital Data for March",
+    "published_at": "2026-05-18T20:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0499",
+    "summary": "",
+    "smart_index": 42
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "TBA",
+    "title": "OCC issues final rule on real estate lending escrow accounts",
+    "published_at": "2026-05-18T07:00:00Z",
+    "url": "https://www.texasbankers.com/occ-issues-final-rule-on-real-estate-lending-escrow-accounts/",
+    "summary": "The Office of the Comptroller of the Currency finalized a rule confirming the longstanding authority of national banks and federal savings associations to set up real estate lending escrow accounts. The first rule codifies longstanding powers of national banks and federal savings associations to establish or maintain real estate lending escrow accounts and to exercise […] The…",
+    "smart_index": 43
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Banks and Corporates Work to Raise Awareness of Nacha Rules Changes",
+    "published_at": "2026-05-18T00:00:00Z",
+    "url": "https://www.nacha.org/news/banks-and-corporates-work-raise-awareness-nacha-rules-changes",
+    "summary": "",
+    "smart_index": 44
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Does Your Organization’s Culture Live in People’s Heart—or in Their Stomach?",
+    "published_at": "2026-05-18T00:00:00Z",
+    "url": "https://www.nacha.org/news/does-your-organizations-culture-live-peoples-heart-or-their-stomach",
+    "summary": "",
+    "smart_index": 45
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Notice of Proposals To Engage in or To Acquire Companies Engaged in Permissible Nonbanking Activities",
+    "published_at": "2026-05-18T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09891/notice-of-proposals-to-engage-in-or-to-acquire-companies-engaged-in-permissible-nonbanking",
+    "summary": "",
+    "fr_tags": [
+      "agency:federal-reserve-system",
+      "filter:federal-reserve-system"
+    ],
+    "fedreg_document_number": "2026-09891",
+    "smart_index": 46
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the National Credit Union Administration",
+    "published_at": "2026-05-18T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09915/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the",
+    "summary": "The NCUA Board (Board) is seeking comment on proposed regulations to implement portions of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act). The GENIUS Act charges the NCUA with licensing, regulating, and supervising Payment Stablecoin issuers that are subsidiaries of federally insured credit unions (FICU subsidiaries). In February 2026, t…",
+    "fr_tags": [
+      "agency:national-credit-union-administration",
+      "topic:credit",
+      "topic:credit-unions",
+      "topic:investments"
+    ],
+    "fedreg_document_number": "2026-09915",
+    "smart_index": 47
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+    "published_at": "2026-05-15T21:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
+    "summary": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+    "smart_index": 48
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller o…",
+    "published_at": "2026-05-15T20:30:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
+    "summary": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+    "smart_index": 49
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+    "published_at": "2026-05-15T20:30:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
+    "summary": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+    "smart_index": 50
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Nacha Seeks Comments on Nacha Rules Proposals",
+    "published_at": "2026-05-15T00:00:00Z",
+    "url": "https://www.nacha.org/news/nacha-seeks-comments-nacha-rules-proposals",
+    "summary": "",
+    "smart_index": 51
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "First-Party Fraud: A Tough Battle That Has to be Waged",
+    "published_at": "2026-05-15T00:00:00Z",
+    "url": "https://www.nacha.org/news/first-party-fraud-tough-battle-has-be-waged",
+    "summary": "",
+    "smart_index": 52
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Cybercriminals Put AI in Overdrive",
+    "published_at": "2026-05-15T00:00:00Z",
+    "url": "https://www.nacha.org/news/cybercriminals-put-ai-overdrive",
+    "summary": "",
+    "smart_index": 53
+  },
+  {
+    "category": "OFAC",
+    "source": "OFAC",
+    "title": "Notice with Regard to International Criminal Court-related Sanctions",
+    "published_at": "2026-05-15T00:00:00Z",
+    "url": "https://ofac.treasury.gov/recent-actions/20260515",
+    "summary": "",
+    "smart_index": 54
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Press Release: FDIC Releases Public Sections of Informational Filings for Six Insured Depository Institutions",
+    "published_at": "2026-05-14T19:01:15Z",
+    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/417184a",
+    "summary": "PRESS RELEASE | MAY 14, 2026 FDIC Releases Public Sections of Informational Filings for Six Insured Depository Institutions WASHINGTON—The Federal Deposit Insurance Corporation (FDIC) today released the public sections of informational filings for six large insured depository institutions (IDIs). The FDIC’s regulations require certain covered IDIs to submit informational filin…",
+    "smart_index": 55
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Press Release: FDIC Approves the Deposit Insurance Application for Stellantis Bank USA, Salt Lake City, Utah",
+    "published_at": "2026-05-14T18:02:36Z",
+    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41751f1",
+    "summary": "PRESS RELEASE | MAY 14, 2026 FDIC Approves the Deposit Insurance Application for Stellantis Bank USA, Salt Lake City, Utah WASHINGTON—The Board of Directors of the Federal Deposit Insurance Corporation (FDIC) approved a deposit insurance application submitted by Stellantis Financial Services U.S. Corporation to establish Stellantis Bank USA, which will be a Utah-chartered indu…",
+    "smart_index": 56
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
+    "published_at": "2026-05-14T18:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
+    "summary": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
+    "smart_index": 57
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Press Release: FDIC Releases Staff Study of Deposit Flows at Three Failed Banks in Spring 2023",
+    "published_at": "2026-05-14T15:03:23Z",
+    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4174117",
+    "summary": "PRESS RELEASE | MAY 14, 2026 FDIC Releases Staff Study of Deposit Flows at Three Failed Banks in Spring 2023 Study focuses on depositor flight at Silicon Valley Bank, Signature Bank, and First Republic Bank WASHINGTON—The Federal Deposit Insurance Corporation (FDIC) today released “Dissecting Depositor Flight: An Analysis of the Spring 2023 Bank Failures,” a detailed staff stu…",
+    "smart_index": 58
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances",
+    "published_at": "2026-05-14T14:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
+    "summary": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances",
+    "smart_index": 59
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "FDIC Releases Public Sections of Informational Filings for Six Insured Depository Institutions",
+    "published_at": "2026-05-14T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-releases-public-sections-informational-filings-six-insured-depository",
+    "summary": "The FDIC today released the public sections of informational filings for six large insured depository institutions (IDIs).",
+    "smart_index": 60
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "FDIC Approves the Deposit Insurance Application for Stellantis Bank USA, Salt Lake City, Utah",
+    "published_at": "2026-05-14T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-approves-deposit-insurance-application-stellantis-bank-usa-salt-lake",
+    "summary": "WASHINGTON—The Board of Directors of the Federal Deposit Insurance Corporation (FDIC) approved a deposit insurance application submitted by Stellantis Financial",
+    "smart_index": 61
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "FDIC Releases Staff Study of Deposit Flows at Three Failed Banks in Spring 2023",
+    "published_at": "2026-05-14T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-releases-staff-study-deposit-flows-three-failed-banks-spring-2023",
+    "summary": "WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) today released “Dissecting Depositor Flight: An Analysis of the Spring 2023 Bank Failures",
+    "smart_index": 62
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report",
+    "published_at": "2026-05-13T15:30:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
+    "summary": "Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report",
+    "smart_index": 63
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Business Email Compromise Attempts Rose Sharply in 2025, Report Finds",
+    "published_at": "2026-05-13T00:00:00Z",
+    "url": "https://www.nacha.org/news/business-email-compromise-attempts-rose-sharply-2025-report-finds",
+    "summary": "",
+    "smart_index": 64
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Nacha Announces Relish is a Nacha Preferred Partner for Account Validation, Fraud Monitoring, and Risk and Fraud Prevention",
+    "published_at": "2026-05-13T00:00:00Z",
+    "url": "https://www.nacha.org/news/nacha-announces-relish-nacha-preferred-partner-account-validation-fraud-monitoring-and-risk",
+    "summary": "",
+    "smart_index": 65
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "A Proactive Approach is Behind Nacha’s New Fraud Monitoring Rules",
+    "published_at": "2026-05-12T00:00:00Z",
+    "url": "https://www.nacha.org/news/proactive-approach-behind-nachas-new-fraud-monitoring-rules",
+    "summary": "",
+    "smart_index": 66
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Economic Fury Ramps Up Pressure on Iran’s Islamic Revolutionary Guard Corps Oil Operations",
+    "published_at": "2026-05-11T19:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0498",
+    "summary": "",
+    "smart_index": 67
+  },
+  {
+    "category": "OFAC",
+    "source": "FinCEN",
+    "title": "FinCEN Issues Notice on the Threat of Human Trafficking During the 2026 FIFA World Cup",
+    "published_at": "2026-05-11T12:00:00Z",
+    "url": "https://www.fincen.gov/news/news-releases/fincen-issues-notice-threat-human-trafficking-during-2026-fifa-world-cup",
+    "summary": "WASHINGTON—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a Notice urging increased vigilance by financial institutions located in and around cities hosting the 2026 Fédération Internationale de Football Association (FIFA) World Cup.",
+    "smart_index": 68
+  },
+  {
+    "category": "OFAC",
+    "source": "FinCEN",
+    "title": "FinCEN Issues Alert to Stop Money Laundering by Iranian Revolutionary Guard Corps",
+    "published_at": "2026-05-11T12:00:00Z",
+    "url": "https://www.fincen.gov/news/news-releases/fincen-issues-alert-stop-money-laundering-iranian-revolutionary-guard-corps",
+    "summary": "WASHINGTON—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an Alert to help financial institutions identify and stop funding streams and procurement networks supporting Iran’s Islamic Revolutionary Guard Corps (IRGC). The IRGC has engaged in terrorist activity since its inception with the full support of the Iranian regime.",
+    "smart_index": 69
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Trustmi Now a Nacha Preferred Partner for Risk and Fraud Prevention, Fraud Monitoring, and Account Validation",
+    "published_at": "2026-05-11T00:00:00Z",
+    "url": "https://www.nacha.org/news/trustmi-now-nacha-preferred-partner-risk-and-fraud-prevention-fraud-monitoring-and-account",
+    "summary": "",
+    "smart_index": 70
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Remarks by U.S. Secretary of the Treasury Scott Bessent at University of South Carolina Commencement",
+    "published_at": "2026-05-09T15:10:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0497",
+    "summary": "",
+    "smart_index": 71
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Economic Fury Disrupts Networks Supplying Weapons and UAV Components to Iran",
+    "published_at": "2026-05-08T22:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0496",
+    "summary": "",
+    "smart_index": 72
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
+    "published_at": "2026-05-08T21:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
+    "summary": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
+    "smart_index": 73
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Alliance Buzzcast - Stablecoins: Practical Insights from the BankSocial Journey",
+    "published_at": "2026-05-08T00:00:00Z",
+    "url": "https://www.nacha.org/news/alliance-buzzcast-stablecoins-practical-insights-banksocial-journey",
+    "summary": "",
+    "smart_index": 74
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "A Solid Compliance Program Benefits Banks and Their Customers",
+    "published_at": "2026-05-08T00:00:00Z",
+    "url": "https://www.nacha.org/news/solid-compliance-program-benefits-banks-and-their-customers",
+    "summary": "",
+    "smart_index": 75
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Removing Youth Handgun Safety Act Notice",
+    "published_at": "2026-05-08T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09165/removing-youth-handgun-safety-act-notice",
+    "summary": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") proposes to remove Department of Justice (\"Department\") regulations regarding the Youth Handgun Safety Act. If finalized, this rule would remove the requirement that federal firearms licensees who deliver handguns to non-licensees post signs and provide written notice regarding the Act's provisions to each handgu…",
+    "fr_tags": [
+      "agency:alcohol-tobacco-firearms-and-explosives-bureau",
+      "agency:justice-department",
+      "filter:justice-department"
+    ],
+    "fedreg_document_number": "2026-09165",
+    "smart_index": 76
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "U.S. Department of the Treasury Hosts Convening with State Insurance Commissioners on Private Credit and the Insurance Sector",
+    "published_at": "2026-05-07T16:38:40Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0493",
+    "summary": "",
+    "smart_index": 77
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Economic Fury Targets Iraqi Oil Official, Iran-Backed Terrorist Militias in Iraq",
+    "published_at": "2026-05-07T14:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0492",
+    "summary": "",
+    "smart_index": 78
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Thresholds Increase for the Major Assets Prohibition of the Depository Institution Management Interlocks Act Rule",
+    "published_at": "2026-05-07T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09009/thresholds-increase-for-the-major-assets-prohibition-of-the-depository-institution-management",
+    "summary": "The NCUA Board (Board) is seeking comment on a proposed rule that would increase two thresholds in its regulation implementing management official interlocks for purposes of the Depository Institution Management Interlocks Act (DIMIA). DIMIA provides that the NCUA may adjust, by regulation, the major assets prohibition thresholds to allow for inflation or market changes. This…",
+    "fr_tags": [
+      "agency:national-credit-union-administration",
+      "topic:credit-unions",
+      "topic:holding-companies"
+    ],
+    "fedreg_document_number": "2026-09009",
+    "smart_index": 79
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Report to the Secretary of the Treasury from the Treasury Borrowing Advisory Committee",
+    "published_at": "2026-05-06T12:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0490",
+    "summary": "",
+    "smart_index": 80
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Minutes of the Meeting of the Treasury Borrowing Advisory Committee May 5, 2026",
+    "published_at": "2026-05-06T12:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0491",
+    "summary": "",
+    "smart_index": 81
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Clarifying Special (Occupational) Tax Payments Per Business Activity",
+    "published_at": "2026-05-06T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08923/clarifying-special-occupational-tax-payments-per-business-activity",
+    "summary": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") proposes amending Department of Justice (\"Department\") regulations to clarify that a person engaged in the business of dealing, importing, or manufacturing firearms regulated under the National Firearms Act must pay a special (occupational) tax (\"SOT\") for each business activity conducted at the same location. Ho…",
+    "fr_tags": [
+      "agency:alcohol-tobacco-firearms-and-explosives-bureau",
+      "agency:justice-department",
+      "filter:justice-department"
+    ],
+    "fedreg_document_number": "2026-08923",
+    "smart_index": 82
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Eliminating Unnecessary Regulations",
+    "published_at": "2026-05-06T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08950/eliminating-unnecessary-regulations",
+    "summary": "Pursuant to an Executive order, the Department of the Treasury (Treasury), Bureau of the Fiscal Service (Fiscal Service) is conducting a review of existing regulations, with the goal of reducing regulatory burden by revoking existing regulations that meet the criteria set forth in the Executive order. In support of that objective, this direct final rule streamlines title 31 of…",
+    "fr_tags": [
+      "agency:bureau-of-the-fiscal-service",
+      "agency:treasury-department",
+      "filter:manufactured-home"
+    ],
+    "fedreg_document_number": "2026-08950",
+    "smart_index": 83
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Removing Factoring Criteria for Firearms With Attached “Stabilizing Braces”",
+    "published_at": "2026-05-06T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08930/removing-factoring-criteria-for-firearms-with-attached-stabilizing-braces",
+    "summary": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") is proposing to amend Department of Justice (\"Department\") regulations on firearms with attached stabilizing braces. Courts have found that ATF's revisions in the 2023 final rule on the same topic violated the Administrative Procedure Act. Several courts have enjoined, stayed, or vacated the final rule, which has…",
+    "fr_tags": [
+      "agency:alcohol-tobacco-firearms-and-explosives-bureau",
+      "agency:justice-department",
+      "filter:justice-department"
+    ],
+    "fedreg_document_number": "2026-08930",
+    "smart_index": 84
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Transferring Machine Guns Between Qualified Licensees",
+    "published_at": "2026-05-06T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08928/transferring-machine-guns-between-qualified-licensees",
+    "summary": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") proposes amending Department of Justice (\"Department\") regulations to update the procedure for transferring machine guns between qualified manufacturers, importers, or dealers. Specifically, the proposed rule would simplify the regulatory requirements for such machine gun transfers pursuant to requests to demonst…",
+    "fr_tags": [
+      "agency:alcohol-tobacco-firearms-and-explosives-bureau",
+      "agency:justice-department",
+      "filter:justice-department"
+    ],
+    "fedreg_document_number": "2026-08928",
+    "smart_index": 85
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Revising Machine Gun Definition in Response to Supreme Court Decision",
+    "published_at": "2026-05-06T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08926/revising-machine-gun-definition-in-response-to-supreme-court-decision",
+    "summary": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") is amending Department of Justice (\"Department\") regulations in response to the Supreme Court's decision in Garland v. Cargill. The Supreme Court held that ATF exceeded its statutory authority in its December 2018 final rule titled \"Bump-Stock-Type Devices\" by classifying a bump stock as a \"machine gun\" because a…",
+    "fr_tags": [
+      "agency:alcohol-tobacco-firearms-and-explosives-bureau",
+      "agency:justice-department",
+      "filter:justice-department"
+    ],
+    "fedreg_document_number": "2026-08926",
+    "smart_index": 86
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Treasury Announces Marketable Borrowing Estimates",
+    "published_at": "2026-05-04T19:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0485",
+    "summary": "",
+    "smart_index": 87
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Economic Policy Statements to TBAC: 2026 - 2nd Quarter​",
+    "published_at": "2026-05-04T19:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0486",
+    "summary": "",
+    "smart_index": 88
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Press Release: Anchor Bank Assumes Insured Deposits of Community Bank and Trust - West Georgia, LaGrange, Georgia",
+    "published_at": "2026-05-01T22:13:49Z",
+    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4157b1d",
+    "summary": "PRESS RELEASE | MAY 1, 2026 Anchor Bank Assumes Insured Deposits of Community Bank and Trust - West Georgia, LaGrange, Georgia WASHINGTON—Community Bank and Trust - West Georgia of LaGrange, Georgia was closed today by the Georgia Department of Banking and Finance, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement…",
+    "smart_index": 89
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Treasury Hosts Liberty University Summit on AI, Energy, and Emerging Technologies",
+    "published_at": "2026-05-01T19:00:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0484",
+    "summary": "",
+    "smart_index": 90
+  },
+  {
+    "category": "OFAC",
+    "source": "Treasury",
+    "title": "Economic Fury Targets Iranian Shadow Banking Networks Moving Billions in Foreign Currency",
+    "published_at": "2026-05-01T15:30:00Z",
+    "url": "https://home.treasury.gov/news/press-releases/sb0483",
+    "summary": "",
+    "smart_index": 91
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Press Release: Agencies Issue Host State Loan-to-Deposit Ratios",
+    "published_at": "2026-05-01T15:06:21Z",
+    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4154b24",
+    "summary": "PRESS RELEASE | MAY 1, 2026 Agencies Issue Host State Loan-to-Deposit Ratios WASHINGTON—Federal bank regulatory agencies today jointly issued updated host state loan-to-deposit ratios, as required by law . Each ratio compares the total loans in a state to total deposits in the state for all banks that are legally operating in that state. These ratios replace those issued in Ma…",
+    "smart_index": 92
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Agencies issue host state loan-to-deposit ratios",
+    "published_at": "2026-05-01T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
+    "summary": "Agencies issue host state loan-to-deposit ratios",
+    "smart_index": 93
   },
   {
     "category": "Banking",
@@ -15,7 +980,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/anchor-bank-assumes-insured-deposits-community-bank-and-trust-west-georgia",
     "summary": "Community Bank and Trust - West Georgia of LaGrange, Georgia was closed today by the Georgia Department of Banking and Finance, which appointed the FDIC.",
-    "smart_index": 2
+    "smart_index": 94
   },
   {
     "category": "Banking",
@@ -24,7 +989,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-host-state-loan-deposit-ratios",
     "summary": "Federal bank regulatory agencies today jointly issued updated host state loan-to-deposit ratios, as required by law.",
-    "smart_index": 3
+    "smart_index": 95
   },
   {
     "category": "Federal Register",
@@ -43,7 +1008,7 @@
       "topic:national-banks"
     ],
     "fedreg_document_number": "2026-08494",
-    "smart_index": 4
+    "smart_index": 96
   },
   {
     "category": "Banking",
@@ -52,7 +1017,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.federalreserve.gov/reform.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 5
+    "smart_index": 97
   },
   {
     "category": "OFAC",
@@ -61,7 +1026,7 @@
     "published_at": "2026-04-30T20:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0482",
     "summary": "",
-    "smart_index": 6
+    "smart_index": 98
   },
   {
     "category": "Compliance Watch",
@@ -70,7 +1035,7 @@
     "published_at": "2026-04-30T18:24:35Z",
     "url": "https://www.texasbankers.com/statement-by-texas-bankers-association-ceo-chris-furlow-on-release-of-cfpbs-new-sec-1071-final-rule/",
     "summary": "Texas Bankers Association and MDI Rio Bank filed the original legal challenge to the “suffocating” Biden-Chopra Section 1071 Final Rule “Small business lending is the lifeblood of Texas community banking. The Biden-Chopra version of 1071 would have suffocated small business lending and burdened community banks with more unnecessary reporting requirements. From day one of our […",
-    "smart_index": 7
+    "smart_index": 99
   },
   {
     "category": "OFAC",
@@ -78,1024 +1043,6 @@
     "title": "Treasury Sanctions Former Democratic Republic of the Congo President for Ties to Armed Conflict",
     "published_at": "2026-04-30T18:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0480",
-    "summary": "",
-    "smart_index": 8
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "HOME Investment Partnerships Program: Further Program Updates and Streamlining",
-    "published_at": "2026-04-30T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08406/home-investment-partnerships-program-further-program-updates-and-streamlining",
-    "summary": "This supplemental notice of proposed rulemaking re-opens public comment for certain topics and provisions that were addressed in HUD's May 29, 2024, proposed rule entitled \"HOME Investment Partnerships Program: Program Updates and Streamlining.\" Among other changes, this supplemental notice of proposed rulemaking proposes to revise or revoke previously-proposed tenant protecti…",
-    "fr_tags": [
-      "agency:housing-and-urban-development-department",
-      "filter:manufactured-home"
-    ],
-    "fedreg_document_number": "2026-08406",
-    "smart_index": 9
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve issues FOMC statement",
-    "published_at": "2026-04-29T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
-    "summary": "Federal Reserve issues FOMC statement",
-    "smart_index": 10
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Regulatory Capital Rule: Community Bank Leverage Ratio Framework",
-    "published_at": "2026-04-29T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08298/regulatory-capital-rule-community-bank-leverage-ratio-framework",
-    "summary": "The Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation are adopting a final rule that lowers the community bank leverage ratio (CBLR) requirement from 9 percent to 8 percent, consistent with the lower bound provided in section 201 of the Economic Growth, Regulatory Relief, and Consumer…",
-    "fr_tags": [
-      "agency:comptroller-of-the-currency",
-      "agency:federal-deposit-insurance-corporation",
-      "agency:federal-reserve-system",
-      "agency:treasury-department",
-      "filter:federal-deposit-insurance-corporation",
-      "filter:federal-reserve-system",
-      "topic:banks-banking",
-      "topic:holding-companies",
-      "topic:investments",
-      "topic:national-banks",
-      "topic:savings-associations",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-08298",
-    "smart_index": 11
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "National Bank Non-Interest Charges and Fees",
-    "published_at": "2026-04-29T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08328/national-bank-non-interest-charges-and-fees",
-    "summary": "The OCC is adopting an interim final rule to clarify that national banks' power to charge non-interest charges and fees includes the power to assess, collect, impose, levy, receive, reserve, take, or otherwise obtain non-interest charges and fees, including interchange fees from credit and debit card operations. Further, the interim final rule explains that national banks may…",
-    "fr_tags": [
-      "agency:comptroller-of-the-currency",
-      "agency:treasury-department",
-      "topic:credit",
-      "topic:insurance",
-      "topic:investments",
-      "topic:national-banks",
-      "topic:savings-associations",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-08328",
-    "smart_index": 12
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "News & Events",
-    "published_at": "2026-04-29T00:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 13
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "2026 FOMC",
-    "published_at": "2026-04-29T00:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 14
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill",
-    "published_at": "2026-04-29T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08333/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill",
-    "summary": "The U.S. Department of Homeland Security (DHS) issues this interim final rule (IFR) to codify certain immigration fees and other provisions required by the One Big Beautiful Bill Act (H.R.1). This IFR amends U.S. Citizenship and Immigration Services (USCIS) regulations to codify: the asylum and annual asylum fees, including the consequences of non-payment of these fees; the ne…",
-    "fr_tags": [
-      "agency:homeland-security-department",
-      "topic:employment"
-    ],
-    "fedreg_document_number": "2026-08333",
-    "smart_index": 15
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "United States Department of the Treasury Announces Key Nomination",
-    "published_at": "2026-04-28T23:33:07Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0478",
-    "summary": "",
-    "smart_index": 16
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Economic Fury Targets Iran Shadow Banking Facilitators",
-    "published_at": "2026-04-28T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0477",
-    "summary": "",
-    "smart_index": 17
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Warns of Sanctions Risks Linked to China-Based Independent “Teapot” Oil Refineries",
-    "published_at": "2026-04-28T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0476",
-    "summary": "",
-    "smart_index": 18
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "United States, Croatia Sign Protocol to Income Tax Treaty",
-    "published_at": "2026-04-28T16:17:07Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0475",
-    "summary": "",
-    "smart_index": 19
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Schedules of Controlled Substances: Rescheduling of Marijuana; Withdrawal",
-    "published_at": "2026-04-28T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08178/schedules-of-controlled-substances-rescheduling-of-marijuana-withdrawal",
-    "summary": "The Department of Justice published a notice of proposed rulemaking in the Federal Register on May 21, 2024, which proposed to transfer marijuana from schedule I of the Controlled Substances Act to schedule III. The Drug Enforcement Administration (\"DEA\") published a notice of hearing on the proposed rule in the Federal Register on August 29, 2024. Upon further review, DEA is…",
-    "fr_tags": [
-      "agency:drug-enforcement-administration",
-      "agency:justice-department",
-      "filter:justice-department"
-    ],
-    "fedreg_document_number": "2026-08178",
-    "smart_index": 20
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Schedules of Controlled Substances: Rescheduling of Marijuana",
-    "published_at": "2026-04-28T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08177/schedules-of-controlled-substances-rescheduling-of-marijuana",
-    "summary": "This is notice that the Drug Enforcement Administration (\"DEA\") will hold a hearing with respect to the proposed rescheduling of marijuana into schedule III of the Controlled Substances Act beginning June 29, 2026. The proposed rescheduling of marijuana was initially proposed in a Notice of Proposed Rulemaking published in the Federal Register on May 21, 2024. In accordance wi…",
-    "fr_tags": [
-      "agency:drug-enforcement-administration",
-      "agency:justice-department",
-      "filter:justice-department"
-    ],
-    "fedreg_document_number": "2026-08177",
-    "smart_index": 21
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Streamlining Regulations Concerning Public Welfare Investments, Open Market Collateralized Loan Obligations, and Federal Savings Association Nondiscrimination Requirements",
-    "published_at": "2026-04-27T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08143/streamlining-regulations-concerning-public-welfare-investments-open-market-collateralized-loan",
-    "summary": "The Office of the Comptroller of the Currency invites public comment on a notice of proposed rulemaking (proposed rule) to rescind or amend certain regulations that are unnecessary, based on anything other than the best reading of the underlying statutory authority, or lacking clear statutory authority, consistent with the criteria set out in the Executive Order titled Ensurin…",
-    "fr_tags": [
-      "agency:comptroller-of-the-currency",
-      "agency:treasury-department",
-      "topic:credit",
-      "topic:fair-housing",
-      "topic:investments",
-      "topic:mortgages",
-      "topic:national-banks",
-      "topic:savings-associations"
-    ],
-    "fedreg_document_number": "2026-08143",
-    "smart_index": 22
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Jubilee Media Founder Jason Y. Lee Flipped the Script on His Life. You Can, Too",
-    "published_at": "2026-04-27T00:00:00Z",
-    "url": "https://www.nacha.org/news/jubilee-media-founder-jason-y-lee-flipped-script-his-life-you-can-too",
-    "summary": "",
-    "smart_index": 23
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "The Onion Founder Scott Dikkers: ‘Practice Professional Stupidity’",
-    "published_at": "2026-04-27T00:00:00Z",
-    "url": "https://www.nacha.org/news/onion-founder-scott-dikkers-practice-professional-stupidity",
-    "summary": "",
-    "smart_index": 24
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Raising the Limit to $10 Million Reflects the Demand for Same Day ACH",
-    "published_at": "2026-04-27T00:00:00Z",
-    "url": "https://www.nacha.org/news/raising-limit-10-million-reflects-demand-same-day-ach",
-    "summary": "",
-    "smart_index": 25
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.",
-    "published_at": "2026-04-24T20:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm",
-    "summary": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.",
-    "smart_index": 26
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve Board announces approval of application by Banco de Credito del Peru",
-    "published_at": "2026-04-24T20:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm",
-    "summary": "Federal Reserve Board announces approval of application by Banco de Credito del Peru",
-    "smart_index": 27
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "National Bank Non-Interest Charges and Fees: Interim Final Rule",
-    "published_at": "2026-04-24T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-18.html",
-    "summary": "",
-    "smart_index": 28
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Preemption of Illinois Interchange Fee Prohibition Act: Interim Final Order",
-    "published_at": "2026-04-24T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-17.html",
-    "summary": "",
-    "smart_index": 29
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury, IRS Announce Process for Tax Guidance Following DOJ Final Order on Medical Marijuana Rescheduling",
-    "published_at": "2026-04-23T22:22:38Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0471",
-    "summary": "",
-    "smart_index": 30
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: Agencies Finalize Changes to Community Bank Leverage Ratio",
-    "published_at": "2026-04-23T19:32:39Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41446b2",
-    "summary": "PRESS RELEASE | APRIL 23, 2026 Agencies Finalize Changes to Community Bank Leverage Ratio The federal bank regulatory agencies today jointly finalized a rule to modify the community bank leverage ratio consistent with existing statutory authority. This change will provide community banks with greater flexibility to use a simpler measure of capital adequacy and reduce regulator…",
-    "smart_index": 31
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Agencies finalize changes to enhance community bank leverage ratio",
-    "published_at": "2026-04-23T19:30:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm",
-    "summary": "Agencies finalize changes to enhance community bank leverage ratio",
-    "smart_index": 32
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Cambodian Senator Kok An and Scam Center Network Defrauding Americans",
-    "published_at": "2026-04-23T15:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0469",
-    "summary": "",
-    "smart_index": 33
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Global Illicit Drug Supply Chain Supporting the Sinaloa Cartel",
-    "published_at": "2026-04-23T15:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0468",
-    "summary": "",
-    "smart_index": 34
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Comptroller Gould Statement on Community Bank Leverage Ratio Final Rule",
-    "published_at": "2026-04-23T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-31.html",
-    "summary": "Comptroller of the Currency Jonathan V. Gould issued the following statement today about the Community Bank Leverage Ratio final rule, which provides community banks with greater flexibility to use a simpler measure of capital adequacy and reduces regulatory burden.",
-    "smart_index": 35
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Agencies Finalize Changes to Community Bank Leverage Ratio",
-    "published_at": "2026-04-23T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-30.html",
-    "summary": "The federal bank regulatory agencies today jointly finalized a rule to modify the community bank leverage ratio consistent with existing statutory authority. This change will provide community banks with greater flexibility to use a simpler measure of capital adequacy and reduce regulatory burden.",
-    "smart_index": 36
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Agencies Finalize Changes to Community Bank Leverage Ratio",
-    "published_at": "2026-04-23T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/agencies-finalize-changes-community-bank-leverage-ratio",
-    "summary": "The federal bank regulatory agencies today jointly finalized a rule to modify the community bank leverage ratio consistent with existing statutory authority.",
-    "smart_index": 37
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Privacy Act of 1974; System of Records",
-    "published_at": "2026-04-23T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07923/privacy-act-of-1974-system-of-records",
-    "summary": "In accordance with the Privacy Act of 1974, as amended, the Federal Deposit Insurance Corporation (FDIC) is modifying an existing system of records titled FDIC-012, \"Financial Information Management Records.\" The FDIC is updating this system of records to modify numerous sections of the notice including the Authority for Maintenance of the System; Purpose(s) of the System; Cat…",
-    "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
-    ],
-    "fedreg_document_number": "2026-07923",
-    "smart_index": 38
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Joint Employer Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
-    "published_at": "2026-04-23T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07959/joint-employer-status-under-the-fair-labor-standards-act-family-and-medical-leave-act-and-migrant",
-    "summary": "Since 2021, the Department has not provided any regulatory guidance addressing joint employer status under the Fair Labor Standards Act (FLSA or Act) for the benefit of workers, employers, or its enforcement personnel. In this rulemaking, the Department proposes to clarify how to determine joint employer status under the FLSA in Part 791 of Title 29, where its joint employer r…",
-    "fr_tags": [
-      "agency:labor-department",
-      "agency:wage-and-hour-division",
-      "topic:child-labor",
-      "topic:employment",
-      "topic:housing",
-      "topic:insurance"
-    ],
-    "fedreg_document_number": "2026-07959",
-    "smart_index": 39
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Equal Credit Opportunity Act (Regulation B)",
-    "published_at": "2026-04-22T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/22/2026-07804/equal-credit-opportunity-act-regulation-b",
-    "summary": "The Consumer Financial Protection Bureau (Bureau or CFPB) is issuing a final rule that amends provisions related to disparate impact, discouragement of applicants or prospective applicants, and special purpose credit programs under Regulation B, the regulation implementing the Equal Credit Opportunity Act (ECOA or Act). The amendments facilitate compliance with ECOA by clarify…",
-    "fr_tags": [
-      "agency:consumer-financial-protection-bureau",
-      "filter:consumer-financial-protection-bureau",
-      "topic:banks-banking",
-      "topic:credit",
-      "topic:credit-unions",
-      "topic:national-banks",
-      "topic:savings-associations"
-    ],
-    "fedreg_document_number": "2026-07804",
-    "smart_index": 40
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Same Day ACH Gains Lead to First Quarter ACH Network Growth",
-    "published_at": "2026-04-20T00:00:00Z",
-    "url": "https://www.nacha.org/news/same-day-ach-gains-lead-first-quarter-ach-network-growth",
-    "summary": "",
-    "smart_index": 41
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Enrolled Agent Special Enrollment Examination User Fee Update",
-    "published_at": "2026-04-20T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07682/enrolled-agent-special-enrollment-examination-user-fee-update",
-    "summary": "In the Rules and Regulations section of this issue of the Federal Register, the Department of the Treasury (Treasury Department) and the IRS are issuing interim final regulations that amend the current regulations to reduce the user fee for each part of the special enrollment examinations for enrolled agents (EA SEE) from $99 per part to $66 per part.",
-    "fr_tags": [
-      "agency:internal-revenue-service",
-      "agency:treasury-department",
-      "topic:income-taxes"
-    ],
-    "fedreg_document_number": "2026-07682",
-    "smart_index": 42
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Enrolled Agent Special Enrollment Examination User Fee Update",
-    "published_at": "2026-04-20T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07681/enrolled-agent-special-enrollment-examination-user-fee-update",
-    "summary": "This document contains interim final regulations relating to the imposition of user fees for the special enrollment examination for enrolled agents (EA SEE). These regulations reduce the user fee for each part of the EA SEE from $99 per part to $66 per part. The Independent Offices Appropriation Act of 1952 authorizes the charging of user fees. The text of these interim final…",
-    "fr_tags": [
-      "agency:internal-revenue-service",
-      "agency:treasury-department",
-      "topic:income-taxes"
-    ],
-    "fedreg_document_number": "2026-07681",
-    "smart_index": 43
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Changes Related to Insurance Requirements in Multi-Family Housing (MFH) Direct Loan and Grant Programs",
-    "published_at": "2026-04-20T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07618/changes-related-to-insurance-requirements-in-multi-family-housing-mfh-direct-loan-and-grant-programs",
-    "summary": "The Rural Housing Service (RHS or the Agency), a Rural Development (RD) agency of the United States Department of Agriculture (USDA), will implement changes related to insurance requirements under the Multi-Family Housing (MFH) Direct Loan and Grant programs. This final rule will align RD insurance coverage types, amounts, and deductibles with affordable housing industry stand…",
-    "fr_tags": [
-      "agency:agriculture-department",
-      "agency:rural-housing-service",
-      "topic:insurance",
-      "topic:loan-programs-agriculture",
-      "topic:mortgages"
-    ],
-    "fedreg_document_number": "2026-07618",
-    "smart_index": 44
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: Agencies Issue Revised Model Risk Guidance",
-    "published_at": "2026-04-17T19:39:27Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41371a7",
-    "summary": "PRESS RELEASE | APRIL 17, 2026 Agencies Issue Revised Model Risk Guidance WASHINGTON – The Federal Deposit Insurance Corporation (FDIC), along with the Office of the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, today issued revised model risk management guidance. The revised guidance clarifies that model risk management should be tailor…",
-    "smart_index": 45
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Recruitment Network Enabling War in Sudan, Calls for Humanitarian Truce",
-    "published_at": "2026-04-17T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0457",
-    "summary": "",
-    "smart_index": 46
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Agencies Issue Revised Model Risk Guidance",
-    "published_at": "2026-04-17T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-revised-model-risk-guidance",
-    "summary": "The agencies issued revised model risk management guidance and rescinded existing model risk management guidance.",
-    "smart_index": 47
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with UK Chancellor of the Exchequer Rachel Reeves",
-    "published_at": "2026-04-16T20:16:25Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0454",
-    "summary": "",
-    "smart_index": 48
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Government Officials, Nicaraguan Regime-Linked Gold Firms, and Individuals Involved in Seizing U.S.-Owned Property",
-    "published_at": "2026-04-16T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0451",
-    "summary": "",
-    "smart_index": 49
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Sharing Information is Key to Fighting Fraud",
-    "published_at": "2026-04-16T00:00:00Z",
-    "url": "https://www.nacha.org/news/sharing-information-key-fighting-fraud",
-    "summary": "",
-    "smart_index": 50
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury International Capital Data for February",
-    "published_at": "2026-04-15T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0448",
-    "summary": "",
-    "smart_index": 51
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "FinCEN’s Rapid Response Program Interdicts Nearly $2 Billion on Behalf of U.S. Cyber-Enabled Fraud Victims",
-    "published_at": "2026-04-15T12:00:00Z",
-    "url": "https://www.fincen.gov/news/news-releases/fincens-rapid-response-program-interdicts-nearly-2-billion-behalf-us-cyber",
-    "summary": "WASHINGTON—Since President Trump resumed office, the Financial Crimes Enforcement Network’s (FinCEN) Rapid Response Program (RRP) has facilitated the interdiction of over $268 million in stolen funds on behalf of U.S. victims, bringing the total to more than $1.8 billion since the program’s inception. The RRP is a partnership between FinCEN, U.S. law enforcement, and foreign p…",
-    "smart_index": 52
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Nacha Announces Prometeo is a Nacha Preferred Partner for Account Validation/Open Banking",
-    "published_at": "2026-04-15T00:00:00Z",
-    "url": "https://www.nacha.org/news/nacha-announces-prometeo-nacha-preferred-partner-account-validationopen-banking",
-    "summary": "",
-    "smart_index": 53
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: Principals of U.S., European Banking Union, and U.K. Financial Authorities To Meet for Regular Coordination Exercise on Cross-Border Resolution Planning",
-    "published_at": "2026-04-14T15:01:18Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/412e141",
-    "summary": "PRESS RELEASE | APRIL 14, 2026 Principals of U.S., European Banking Union, and U.K. Financial Authorities To Meet for Regular Coordination Exercise on Cross-Border Resolution Planning WASHINGTON – The heads of resolution and regulatory authorities, central banks, and finance ministries of the United States, the European Banking Union, and the United Kingdom are among leaders t…",
-    "smart_index": 54
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Cartel-Linked Casinos and Key Associates on U.S.-Mexico Border",
-    "published_at": "2026-04-14T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0440",
-    "summary": "",
-    "smart_index": 55
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Rising to the Challenge of First-party Fraud",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/rising-challenge-first-party-fraud",
-    "summary": "",
-    "smart_index": 56
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "How is Quantum Computing Used in Everyday Life?",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/how-quantum-computing-used-everyday-life",
-    "summary": "",
-    "smart_index": 57
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "How Can Your Organization Build a Quantum-Safe Payments Readiness Plan?",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/how-can-your-organization-build-quantum-safe-payments-readiness-plan",
-    "summary": "",
-    "smart_index": 58
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "What are the Steps for Conducting a Quantum-Safe Payments Risk Assessment?",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/what-are-steps-conducting-quantum-safe-payments-risk-assessment",
-    "summary": "",
-    "smart_index": 59
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Are Your Assets—and Their Weak Points—Ready for a Quantum Future?",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/are-your-assets-and-their-weak-points-ready-quantum-future",
-    "summary": "",
-    "smart_index": 60
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Why Should Payments Industry Stakeholders Begin Quantum-Safe Strategic Planning?",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/why-should-payments-industry-stakeholders-begin-quantum-safe-strategic-planning",
-    "summary": "",
-    "smart_index": 61
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "How Can a Payments Industry Stakeholder Get Started with Becoming Quantum-Safe?",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/how-can-payments-industry-stakeholder-get-started-becoming-quantum-safe",
-    "summary": "",
-    "smart_index": 62
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Quantum Payments Myths: What’s Real, What’s Hype, and Why It Matters?",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/quantum-payments-myths-whats-real-whats-hype-and-why-it-matters",
-    "summary": "",
-    "smart_index": 63
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Nacha’s Payments Innovation Alliance Advances Quantum-Safe Payments Education for World Quantum Day",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/nachas-payments-innovation-alliance-advances-quantum-safe-payments-education-world-quantum-day",
-    "summary": "",
-    "smart_index": 64
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Principals of U.S., European Banking Union, and U.K. Financial Authorities To Meet for Regular Coordination Exercise on Cross-Border Resolution Planning",
-    "published_at": "2026-04-14T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/principals-us-european-banking-union-and-uk-financial-authorities-meet",
-    "summary": "Trilateral Principal Level Exercise (TPLE) on Saturday, April 18, 2026.",
-    "smart_index": 65
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: FDIC Announces Four Senior Leadership Appointments",
-    "published_at": "2026-04-13T17:00:15Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/412bb4d",
-    "summary": "PRESS RELEASE | APRIL 13, 2026 FDIC Announces Four Senior Leadership Appointments WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) today announced the appointment of the following personnel to serve in senior leadership positions: Benjamin Olson has been appointed Director of the FDIC’s Division of Depositor and Consumer Protection (DCP). Prior to his appointment,…",
-    "smart_index": 66
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "AI is Real, but it’s Not Coming for Your Job",
-    "published_at": "2026-04-13T00:00:00Z",
-    "url": "https://www.nacha.org/news/ai-real-its-not-coming-your-job",
-    "summary": "",
-    "smart_index": 67
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "FOIA",
-    "published_at": "2026-04-13T00:00:00Z",
-    "url": "https://www.federalreserve.gov/foia/about_foia.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 68
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve Board announces approval of application by Burke & Herbert Financial Services Corp.",
-    "published_at": "2026-04-10T20:15:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm",
-    "summary": "Federal Reserve Board announces approval of application by Burke & Herbert Financial Services Corp.",
-    "smart_index": 69
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
-    "published_at": "2026-04-10T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06948/anti-money-laundering-and-countering-the-financing-of-terrorism-programs",
-    "summary": "The Office of the Comptroller of the Currency (OCC), Federal Deposit Insurance Corporation (FDIC), and the National Credit Union Administration (NCUA) (collectively, \"the Agencies\" or \"Agency\" when referencing the singular) are inviting comment on a proposed rule that would require banks to establish and maintain effective anti-money laundering and countering the financing of…",
-    "fr_tags": [
-      "agency:comptroller-of-the-currency",
-      "agency:federal-deposit-insurance-corporation",
-      "agency:national-credit-union-administration",
-      "agency:treasury-department",
-      "filter:federal-deposit-insurance-corporation",
-      "topic:credit-unions",
-      "topic:currency",
-      "topic:national-banks",
-      "topic:personally-identifiable-information"
-    ],
-    "fedreg_document_number": "2026-06948",
-    "smart_index": 70
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism Program and Sanctions Compliance Program Requirements",
-    "published_at": "2026-04-10T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06963/permitted-payment-stablecoin-issuer-anti-money-launderingcountering-the-financing-of-terrorism",
-    "summary": "The Department of the Treasury's Financial Crimes Enforcement Network (FinCEN) and Office of Foreign Assets Control (OFAC) are jointly issuing this proposed rule to implement provisions of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act). Specifically, it implements the GENIUS Act's directive to treat permitted payment stablecoin issuers (…",
-    "fr_tags": [
-      "agency:financial-crimes-enforcement-network",
-      "agency:foreign-assets-control-office",
-      "agency:treasury-department",
-      "topic:banks-banking",
-      "topic:credit",
-      "topic:currency",
-      "topic:holding-companies",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-06963",
-    "smart_index": 71
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
-    "published_at": "2026-04-10T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/10/2026-07033/anti-money-laundering-and-countering-the-financing-of-terrorism-programs",
-    "summary": "Pursuant to the Department of the Treasury (Treasury) and FinCEN's efforts to modernize the Bank Secrecy Act (BSA) and to implement provisions of the Anti-Money Laundering Act of 2020 (AML Act), FinCEN is proposing a rule to fundamentally reform the requirements for financial institutions' anti-money laundering and countering the financing of terrorism (AML/CFT) programs. Amon…",
-    "fr_tags": [
-      "agency:financial-crimes-enforcement-network",
-      "agency:treasury-department",
-      "filter:government-sponsored-enterprise",
-      "topic:banks-banking",
-      "topic:currency",
-      "topic:foreign-banking",
-      "topic:holding-companies",
-      "topic:investment-companies",
-      "topic:savings-associations",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-07033",
-    "smart_index": 72
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Privacy Act of 1974; System of Records",
-    "published_at": "2026-04-10T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06904/privacy-act-of-1974-system-of-records",
-    "summary": "In accordance with the Privacy Act of 1974, as amended, the Federal Deposit Insurance Corporation (FDIC) is modifying an existing system of records titled FDIC-004, \"Changes in Financial Institution Control Ownership Records.\" The information in this system of records is used in support of the FDIC's regulatory and supervisory functions. This modified system of records notice…",
-    "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
-    ],
-    "fedreg_document_number": "2026-06904",
-    "smart_index": 73
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Prohibition on the Use of Reputation Risk by Regulators",
-    "published_at": "2026-04-10T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06947/prohibition-on-the-use-of-reputation-risk-by-regulators",
-    "summary": "The Office of the Comptroller of the Currency and the Federal Deposit Insurance Corporation are adopting a final rule to codify the elimination of reputation risk from their supervisory programs. Among other things, the rule prohibits the agencies from criticizing or taking adverse action against an institution on the basis of reputation risk. The rule also prohibits the agenc…",
-    "fr_tags": [
-      "agency:comptroller-of-the-currency",
-      "agency:federal-deposit-insurance-corporation",
-      "agency:treasury-department",
-      "filter:federal-deposit-insurance-corporation",
-      "topic:banks-banking",
-      "topic:national-banks",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-06947",
-    "smart_index": 74
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Collection of Checks and Other Items by Federal Reserve Banks and Funds Transfers Through the Fedwire Funds Service and the FedNow Service; Regulation J",
-    "published_at": "2026-04-10T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06996/collection-of-checks-and-other-items-by-federal-reserve-banks-and-funds-transfers-through-the",
-    "summary": "The Board is proposing amendments to subpart C of Regulation J (governing the FedNow[supreg] Service) to permit FedNow participants to use intermediaries, other than Reserve Banks, to send funds transfers through the FedNow Service. The Board believes this change could support private-sector cross-border payment solutions by allowing FedNow participants to leverage an intermed…",
-    "fr_tags": [
-      "agency:federal-reserve-system",
-      "filter:federal-reserve-system"
-    ],
-    "fedreg_document_number": "2026-06996",
-    "smart_index": 75
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "GENIUS Act Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers and Insured Depository Institutions",
-    "published_at": "2026-04-10T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06974/genius-act-requirements-and-standards-for-fdic-supervised-permitted-payment-stablecoin-issuers-and",
-    "summary": "The Federal Deposit Insurance Corporation (FDIC) is soliciting comment on a proposal that would implement certain requirements pursuant to the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) applicable to FDIC-supervised permitted payment stablecoin issuers and insured depository institutions, clarify deposit insurance coverage for deposits h…",
-    "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
-    ],
-    "fedreg_document_number": "2026-06974",
-    "smart_index": 76
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Launches Cybersecurity Information Sharing Initiative for the Digital Asset Industry",
-    "published_at": "2026-04-09T15:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0437",
-    "summary": "",
-    "smart_index": 77
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Bottomline Now a Nacha Preferred Partner for ACH Experience, Open Banking, and Risk and Fraud Prevention",
-    "published_at": "2026-04-09T00:00:00Z",
-    "url": "https://www.nacha.org/news/bottomline-now-nacha-preferred-partner-ach-experience-open-banking-and-risk-and-fraud",
-    "summary": "",
-    "smart_index": 78
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "New Guidance Unlocks Economic Opportunity for Overlooked Communities",
-    "published_at": "2026-04-08T17:59:11Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0436",
-    "summary": "",
-    "smart_index": 79
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Proposes Rule to Implement the GENIUS Act’s Requirements to Counter Illicit Finance",
-    "published_at": "2026-04-08T16:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0435",
-    "summary": "",
-    "smart_index": 80
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
-    "published_at": "2026-04-08T15:30:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm",
-    "summary": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
-    "smart_index": 81
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "Treasury Proposes Rule to Implement the GENIUS Act’s Requirements to Counter Illicit Finance",
-    "published_at": "2026-04-08T12:00:00Z",
-    "url": "https://www.fincen.gov/news/news-releases/treasury-proposes-rule-implement-genius-acts-requirements-counter-illicit",
-    "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) and the Office of Foreign Assets Control issued a joint proposed rule to implement provisions of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act). The proposed rule, which implements the GENIUS Act’s anti-money laundering and sanctions compliance pro…",
-    "smart_index": 82
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Nacha Announces Walrus Security as a Preferred Partner for Account Validation, Fraud Monitoring, and Risk and Fraud Prevention",
-    "published_at": "2026-04-08T00:00:00Z",
-    "url": "https://www.nacha.org/news/nacha-announces-walrus-security-preferred-partner-account-validation-fraud-monitoring-and-risk",
-    "summary": "",
-    "smart_index": 83
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "FDIC Board of Directors Meeting",
-    "published_at": "2026-04-07T17:47:57Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/411c3a9",
-    "summary": "BOARD MEETING | APRIL 7, 2026 FDIC Board of Directors Meeting Today, the Federal Deposit Insurance Corporation's Board of Directors met in open session to consider the following matters. Materials and information relative to the open Board actions are available on the Board Matters webpage . Items Addressed in Open Session: Notice of Proposed Rulemaking: GENIUS Act Requirement…",
-    "smart_index": 84
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "FinCEN Proposes Rule to Fundamentally Reform Financial Institution Programs Designed to Fight Illicit Finance",
-    "published_at": "2026-04-07T12:00:00Z",
-    "url": "https://www.fincen.gov/news/news-releases/fincen-proposes-rule-fundamentally-reform-financial-institution-programs",
-    "summary": "WASHINGTON—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a proposed rule intended to fundamentally reform financial institutions’ anti-money laundering and countering the financing of terrorism (AML/CFT) programs under the Bank Secrecy Act (BSA). The proposed rule supports Treasury’s efforts to modernize the U.S. AML/CFT regu…",
-    "smart_index": 85
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Agencies Issue Final Rule to Prohibit Use of Reputation Risk by Regulators",
-    "published_at": "2026-04-07T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-final-rule-prohibit-use-reputation-risk-regulators",
-    "summary": "The OCC and the FDIC (the agencies) today jointly issued a final rule that codifies the elimination of reputation risk from their supervisory programs.",
-    "smart_index": 86
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "FDIC Approves Proposal to Implement GENIUS Act Requirements and Standards",
-    "published_at": "2026-04-07T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-approves-proposal-implement-genius-act-requirements-and-standards",
-    "summary": "The FDIC Board of Directors today approved a notice of proposed rulemaking that would implement certain requirements and standards under the GENIUS Act.",
-    "smart_index": 87
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Agencies Request Comment on Anti-Money Laundering/Countering the Financing of Terrorism Proposed Rule",
-    "published_at": "2026-04-07T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/agencies-request-comment-anti-money-launderingcountering-financing",
-    "summary": "The agencies today invite public comment on a proposed rule for anti-money laundering and countering the financing of terrorism.",
-    "smart_index": 88
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Stablecoins Are Moving Fast. ACH Is Keeping Them Grounded.",
-    "published_at": "2026-04-07T00:00:00Z",
-    "url": "https://www.nacha.org/news/stablecoins-are-moving-fast-ach-keeping-them-grounded",
-    "summary": "",
-    "smart_index": 89
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Time to ‘Stop Apologizing for Fraud Protection’",
-    "published_at": "2026-04-06T00:00:00Z",
-    "url": "https://www.nacha.org/news/time-stop-apologizing-fraud-protection",
-    "summary": "",
-    "smart_index": 90
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Sunshine Act Notice: FDIC Board of Directors Meeting",
-    "published_at": "2026-04-03T20:16:50Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/40edeed",
-    "summary": "SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open session: Date and Time: Tuesday, April 7, 2026 | 1:00 p.m. ET Place: The Board meeting will be open to public observation by webcast . Members of the media should contact the Office of Communications by Monday, April 6, at MediaRequests@FDIC.gov to attend in person from FDIC Headquarters, 550 17th Str…",
-    "smart_index": 91
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury and IRS to Provide Guidance to Religious Organizations",
-    "published_at": "2026-04-03T13:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0432",
-    "summary": "",
-    "smart_index": 92
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Next Steps for the New Nacha Risk Management Rules",
-    "published_at": "2026-04-03T00:00:00Z",
-    "url": "https://www.nacha.org/news/next-steps-new-nacha-risk-management-rules",
-    "summary": "",
-    "smart_index": 93
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Privacy Act of 1974; System of Records",
-    "published_at": "2026-04-02T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06428/privacy-act-of-1974-system-of-records",
-    "summary": "In accordance with the Privacy Act of 1974, as amended, the Federal Deposit Insurance Corporation (FDIC) is modifying an existing system of records titled FDIC-005, \"Consumer Complaint and Inquiry Records.\" This system of records supports the FDIC's regulatory and supervisory functions. It permits the FDIC to receive, investigate, and respond to complaints and inquiries from i…",
-    "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
-    ],
-    "fedreg_document_number": "2026-06428",
-    "smart_index": 94
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Commerce Acquisition Regulation; Minor Amendments",
-    "published_at": "2026-04-02T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06382/commerce-acquisition-regulation-minor-amendments",
-    "summary": "By this rule, Commerce amends its agency-specific acquisition regulation by updating or removing certain outdated and unnecessary regulatory language, by moving a subpart to better track and correspond with the structure of the government-wide Federal Acquisition Regulation, and by correcting a typographical error. This action is intended to update, correct, and streamline Com…",
-    "fr_tags": [
-      "agency:commerce-department",
-      "topic:child-labor"
-    ],
-    "fedreg_document_number": "2026-06382",
-    "smart_index": 95
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Nacha Welcomes 20 New Payments Innovation Alliance Members in First Quarter of 2026",
-    "published_at": "2026-04-02T00:00:00Z",
-    "url": "https://www.nacha.org/news/nacha-welcomes-20-new-payments-innovation-alliance-members-first-quarter-2026",
-    "summary": "",
-    "smart_index": 96
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Seeks Public Comment on GENIUS Act Notice of Proposed Rulemaking Concerning State-Level Regulatory Regimes",
-    "published_at": "2026-04-01T16:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0428",
-    "summary": "",
-    "smart_index": 97
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Whistleblower Incentives and Protections",
-    "published_at": "2026-04-01T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06271/whistleblower-incentives-and-protections",
-    "summary": "FinCEN is proposing a rule to establish a whistleblower program that offers incentives and protections to encourage individuals who have information about potential violations of the Bank Secrecy Act (BSA), International Emergency Economic Powers Act (IEEPA), Trading With the Enemy Act of 1917 (TWEA), and Foreign Narcotics Kingpin Designation Act (Kingpin Act) to voluntarily r…",
-    "fr_tags": [
-      "agency:financial-crimes-enforcement-network",
-      "agency:treasury-department",
-      "filter:government-sponsored-enterprise",
-      "topic:currency",
-      "topic:holding-companies",
-      "topic:investment-companies",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-06271",
-    "smart_index": 98
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Rescission of OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches",
-    "published_at": "2026-04-01T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06281/rescission-of-occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured",
-    "summary": "The OCC is amending its regulations by rescinding \"OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches.\"",
-    "fr_tags": [
-      "agency:comptroller-of-the-currency",
-      "agency:treasury-department",
-      "topic:national-banks"
-    ],
-    "fedreg_document_number": "2026-06281",
-    "smart_index": 99
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Abrigo Now a Nacha Preferred Partner for ACH Experience/Compliance/Risk and Fraud Prevention",
-    "published_at": "2026-04-01T00:00:00Z",
-    "url": "https://www.nacha.org/news/abrigo-now-nacha-preferred-partner-ach-experiencecompliancerisk-and-fraud-prevention",
     "summary": "",
     "smart_index": 100
   }
