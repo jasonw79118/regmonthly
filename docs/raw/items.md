@@ -1,7 +1,19 @@
 # RegDashboard — Export
 
 Window: `2026-04-30T05:00:00Z` → `2026-06-01T05:00:00Z` (UTC)
-Last updated: `2026-06-01T08:40:00-05:00` (CT) — `2026-06-01T13:40:00Z` (UTC)
+Last updated: `2026-06-01T13:49:58-05:00` (CT) — `2026-06-01T18:49:58Z` (UTC)
+
+## ABA offers improvements for proposed 401(k) plan prudent investment rule
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-06-01T05:00:00Z
+- URL: https://bankingjournal.aba.com/2026/06/aba-offers-improvements-for-proposed-401k-plan-prudent-investment-rule/
+
+## Four banks join ABA Nasdaq Community Bank Index
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-06-01T05:00:00Z
+- URL: https://bankingjournal.aba.com/2026/06/four-banks-join-aba-nasdaq-community-bank-index/
 
 ## Your Floorplan Audit and Your Credit Decision Are Weeks Apart. That Gap Has a Price.
 - Source: ABA
@@ -9,29 +21,29 @@ Last updated: `2026-06-01T08:40:00-05:00` (CT) — `2026-06-01T13:40:00Z` (UTC)
 - Published: 2026-06-01T05:00:00Z
 - URL: https://bankingjournal.aba.com/2026/06/your-floorplan-audit-and-your-credit-decision-are-weeks-apart-that-gap-has-a-price/
 
-## Study: Banks can expand financial advice to drive sustained customer engagement
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-06-01T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/06/study-banks-can-expand-financial-advice-to-drive-sustained-customer-engagement/
-
-## Marketing for wealth management
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-06-01T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/06/marketing-for-wealth-management/
-
-## Mastercard advances instant cross-border payments with TIPS cross-currency pilot June 1, 2026
-- Source: Mastercard
-- Category: Payment Card Networks
+## Publication of Introduction to OFAC Guide
+- Source: OFAC
+- Category: OFAC
 - Published: 2026-06-01T00:00:00Z
-- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/june/Mastercard-advances-instant-cross-border-payments-with-TIPS-cross-currency-pilot.html
+- URL: https://ofac.treasury.gov/recent-actions/20260601
 
-## Mastercard granted New York State Department of Financial Services BitLicense May 27, 2026
-- Source: Mastercard
-- Category: Payment Card Networks
+## Dashlane password manager users locked out by brute force attacks
+- Source: BleepingComputer
+- Category: IS
 - Published: 2026-06-01T00:00:00Z
-- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/may/mastercard-granted-new-york-state-department-of-financial-servic.html
+- URL: https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/
+
+## WordPress malware campaign hides payloads in Steam profiles
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-06-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/
+
+## Microsoft investigates Office Apps, Teams file access issues
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-06-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/
 
 ## Race Against Time: Why Faster Vulnerability Alerts Matter
 - Source: BleepingComputer
@@ -141,6 +153,14 @@ Find sample materials, training, and best practices to help you communicate with
 
 Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
 
+## Human Resources
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-06-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/operations/human-resources
+
+Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture.
+
 ## Workforce Excellence
 - Source: ABA
 - Category: Compliance Watch
@@ -148,6 +168,22 @@ Get news, tools, and training on the issues that affect your bank's bottom line,
 - URL: https://www.aba.com/banking-topics/operations/workforce-excellence
 
 America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts.
+
+## Accounting
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-06-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/operations/accounting
+
+ABA represents the banking industry on policy issues related to accounting and auditing.
+
+## Economic Trends
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-06-01T00:00:00Z
+- URL: https://www.aba.com/banking-topics/operations/economic-trends
+
+The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
@@ -1215,14 +1251,6 @@ New credit card laws have fundamentally changed the industry.
 
 Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
 
-## Economic Trends
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/economic-trends
-
-The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
-
 ## Realigning United States Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries
 - Source: White House
 - Category: Executive
@@ -1371,29 +1399,13 @@ Updated an acknowledgement. This is an informational change only.
 - Published: 2026-05-29T13:30:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0512
 
-## Google Chrome adds session cookie theft protection for all users
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-29T12:08:08Z
-- URL: https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/
+## CRA exam schedules for Q3, Q4 released
+- Source: TBA
+- Category: Compliance Watch
+- Published: 2026-05-29T11:00:00Z
+- URL: https://www.texasbankers.com/cra-exam-schedules-for-q3-q4-released/
 
-Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]
-
-## Man sent to prison for selling data of 7 millions elderly Americans
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-29T11:07:07Z
-- URL: https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/
-
-A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]
-
-## US charges Google security engineer with Polymarket insider trading
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-29T10:11:44Z
-- URL: https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/
-
-A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]
+The schedules for Community Reinvestment Act (CRA) examinations for the third and fourth quarters of the year were published by the Federal Department of Insurance Corporation. Meanwhile, the Office of the Comptroller of the Currency issued its schedule of CRA evaluations for Q3. The post CRA exam schedules for Q3, Q4 released appeared first on Texas Bankers Association .
 
 ## CVE-2026-46086 net: bridge: use a stable FDB dst snapshot in RCU readers
 - Source: Microsoft MSRC
@@ -2077,17 +2089,17 @@ The FDIC today issued the lists of institutions scheduled for a Community Reinve
 - Published: 2026-05-29T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411153
 
+## Google Chrome adds session cookie theft protection for all users
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-05-29T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/
+
 ## Learn to hack, build security tools, and more for $70 in this course deal
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-05-29T00:00:00Z
 - URL: https://www.bleepingcomputer.com/offer/deals/learn-to-hack-build-security-tools-and-more-for-70-in-this-course-deal/
-
-## Charter Communications data breach affects 4.9 million accounts
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-05-29T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/
 
 ## Inclusive Banking
 - Source: ABA
@@ -2104,14 +2116,6 @@ Leading resources and information to support banks in meeting the needs of their
 - URL: https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
 
 There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
-
-## Human Resources
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-29T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/human-resources
-
-Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture.
 
 ## Leadership
 - Source: ABA
@@ -3583,12 +3587,6 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-05-27T00:00:00Z
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
 
-## Mastercard and JD.com announce strategic partnership to support business growth through payments innovation May 15, 2026
-- Source: Mastercard
-- Category: Payment Card Networks
-- Published: 2026-05-27T00:00:00Z
-- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/may/mastercard-jd-dot-com-partnership.html
-
 ## Education Services
 - Source: CDIA
 - Category: Compliance Watch
@@ -3602,14 +3600,6 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - URL: https://www.aba.com/banking-topics/commercial-banking/agricultural-banking
 
 Find the most relevant ag banking information, resources and research from our team of experts.
-
-## Accounting
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-05-27T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/accounting
-
-ABA represents the banking industry on policy issues related to accounting and auditing.
 
 ## Formations of, Acquisitions by, and Mergers of Bank Holding Companies
 - Source: Federal Register
@@ -7557,18 +7547,6 @@ Information published.
 - Published: 2026-05-15T00:00:00Z
 - URL: https://www.nacha.org/news/cybercriminals-put-ai-overdrive
 
-## Inter Miami CF names Mastercard as Exclusive Payment Services Partner and Nu Stadium Official Partner May 15, 2026
-- Source: Mastercard
-- Category: Payment Card Networks
-- Published: 2026-05-15T00:00:00Z
-- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/may/Inter-Miami-CF-names-Mastercard-Exclusive-Payment-Services-Partner-Nu-Stadium-Official-Partner.html
-
-## Amazon's new Prime Business and Amazon Business credit cards, powered by U.S. Bank and Mastercard, are now available with enhanced rewards and flexible financing May 13, 2026
-- Source: Mastercard
-- Category: Payment Card Networks
-- Published: 2026-05-15T00:00:00Z
-- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/may/amazon-s-new-prime-business-and-amazon-business-credit-cards--po.html
-
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
 - Category: Federal Register
@@ -8106,12 +8084,6 @@ IR-2026-65, May 13, 2026 — The Internal Revenue Service is announcing the term
 - Category: Fintech Watch
 - Published: 2026-05-13T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-and-bridgeport-partners-enter-agreement-form-joint
-
-## The Trust for the Americas and the Organization of American States present the 2025 Corporate Citizen of the Americas Award to Mastercard April 24, 2026
-- Source: Mastercard
-- Category: Payment Card Networks
-- Published: 2026-05-13T00:00:00Z
-- URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/april/the-trust-for-the-americas-and-the-organization-of-american-stat.html
 
 ## Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
 - Source: Federal Register
@@ -13588,14 +13560,6 @@ With the issuance of this final rule, the Drug Enforcement Administration places
 - Category: OFAC
 - Published: 2026-04-30T18:45:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0481
-
-## Statement by TBA CEO Chris Furlow on release of CFPB’s new Sec. 1071 Final Rule
-- Source: TBA
-- Category: Compliance Watch
-- Published: 2026-04-30T18:24:35Z
-- URL: https://www.texasbankers.com/statement-by-texas-bankers-association-ceo-chris-furlow-on-release-of-cfpbs-new-sec-1071-final-rule/
-
-Texas Bankers Association and MDI Rio Bank filed the original legal challenge to the “suffocating” Biden-Chopra Section 1071 Final Rule “Small business lending is the lifeblood of Texas community banking. The Biden-Chopra version of 1071 would have suffocated small business lending and burdened community banks with more unnecessary reporting requirements. From day one of our […
 
 ## Treasury Sanctions Former Democratic Republic of the Congo President for Ties to Armed Conflict
 - Source: Treasury

@@ -1,32 +1,44 @@
 Compliance Watch
 ABA
 2026-06-01T05:00:00Z
+ABA offers improvements for proposed 401(k) plan prudent investment rule
+https://bankingjournal.aba.com/2026/06/aba-offers-improvements-for-proposed-401k-plan-prudent-investment-rule/
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-06-01T05:00:00Z
+Four banks join ABA Nasdaq Community Bank Index
+https://bankingjournal.aba.com/2026/06/four-banks-join-aba-nasdaq-community-bank-index/
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-06-01T05:00:00Z
 Your Floorplan Audit and Your Credit Decision Are Weeks Apart. That Gap Has a Price.
 https://bankingjournal.aba.com/2026/06/your-floorplan-audit-and-your-credit-decision-are-weeks-apart-that-gap-has-a-price/
 ------------------------------------------------------------
-Compliance Watch
-ABA
-2026-06-01T05:00:00Z
-Study: Banks can expand financial advice to drive sustained customer engagement
-https://bankingjournal.aba.com/2026/06/study-banks-can-expand-financial-advice-to-drive-sustained-customer-engagement/
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-06-01T05:00:00Z
-Marketing for wealth management
-https://bankingjournal.aba.com/2026/06/marketing-for-wealth-management/
-------------------------------------------------------------
-Payment Card Networks
-Mastercard
+OFAC
+OFAC
 2026-06-01T00:00:00Z
-Mastercard advances instant cross-border payments with TIPS cross-currency pilot June 1, 2026
-https://www.mastercard.com/us/en/news-and-trends/press/2026/june/Mastercard-advances-instant-cross-border-payments-with-TIPS-cross-currency-pilot.html
+Publication of Introduction to OFAC Guide
+https://ofac.treasury.gov/recent-actions/20260601
 ------------------------------------------------------------
-Payment Card Networks
-Mastercard
+IS
+BleepingComputer
 2026-06-01T00:00:00Z
-Mastercard granted New York State Department of Financial Services BitLicense May 27, 2026
-https://www.mastercard.com/us/en/news-and-trends/press/2026/may/mastercard-granted-new-york-state-department-of-financial-servic.html
+Dashlane password manager users locked out by brute force attacks
+https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/
+------------------------------------------------------------
+IS
+BleepingComputer
+2026-06-01T00:00:00Z
+WordPress malware campaign hides payloads in Steam profiles
+https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/
+------------------------------------------------------------
+IS
+BleepingComputer
+2026-06-01T00:00:00Z
+Microsoft investigates Office Apps, Teams file access issues
+https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/
 ------------------------------------------------------------
 IS
 BleepingComputer
@@ -130,9 +142,30 @@ Get news, tools, and training on the issues that affect your bank's bottom line,
 Compliance Watch
 ABA
 2026-06-01T00:00:00Z
+Human Resources
+https://www.aba.com/banking-topics/operations/human-resources
+Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-06-01T00:00:00Z
 Workforce Excellence
 https://www.aba.com/banking-topics/operations/workforce-excellence
 America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-06-01T00:00:00Z
+Accounting
+https://www.aba.com/banking-topics/operations/accounting
+ABA represents the banking industry on policy issues related to accounting and auditing.
+------------------------------------------------------------
+Compliance Watch
+ABA
+2026-06-01T00:00:00Z
+Economic Trends
+https://www.aba.com/banking-topics/operations/economic-trends
+The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -1069,13 +1102,6 @@ Debit Cards
 https://www.aba.com/banking-topics/payments/debit-cards
 Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
 ------------------------------------------------------------
-Compliance Watch
-ABA
-2026-05-30T00:00:00Z
-Economic Trends
-https://www.aba.com/banking-topics/operations/economic-trends
-The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
-------------------------------------------------------------
 Executive
 White House
 2026-05-29T22:03:02Z
@@ -1213,26 +1239,12 @@ Treasury
 Treasury, IRS Issue Section 892 Proposed Regulations to Provide Grandfathering Protection and Transitional Relief to Sovereign Investors
 https://home.treasury.gov/news/press-releases/sb0512
 ------------------------------------------------------------
-IS
-BleepingComputer
-2026-05-29T12:08:08Z
-Google Chrome adds session cookie theft protection for all users
-https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/
-Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-05-29T11:07:07Z
-Man sent to prison for selling data of 7 millions elderly Americans
-https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/
-A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-05-29T10:11:44Z
-US charges Google security engineer with Polymarket insider trading
-https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/
-A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]
+Compliance Watch
+TBA
+2026-05-29T11:00:00Z
+CRA exam schedules for Q3, Q4 released
+https://www.texasbankers.com/cra-exam-schedules-for-q3-q4-released/
+The schedules for Community Reinvestment Act (CRA) examinations for the third and fourth quarters of the year were published by the Federal Department of Insurance Corporation. Meanwhile, the Office of the Comptroller of the Currency issued its schedule of CRA evaluations for Q3. The post CRA exam schedules for Q3, Q4 released appeared first on Texas Bankers Association .
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -1839,14 +1851,14 @@ https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411153
 IS
 BleepingComputer
 2026-05-29T00:00:00Z
-Learn to hack, build security tools, and more for $70 in this course deal
-https://www.bleepingcomputer.com/offer/deals/learn-to-hack-build-security-tools-and-more-for-70-in-this-course-deal/
+Google Chrome adds session cookie theft protection for all users
+https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-05-29T00:00:00Z
-Charter Communications data breach affects 4.9 million accounts
-https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/
+Learn to hack, build security tools, and more for $70 in this course deal
+https://www.bleepingcomputer.com/offer/deals/learn-to-hack-build-security-tools-and-more-for-70-in-this-course-deal/
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -1861,13 +1873,6 @@ ABA
 Mortgage & Home Finance
 https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
 There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-05-29T00:00:00Z
-Human Resources
-https://www.aba.com/banking-topics/operations/human-resources
-Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture.
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -3192,12 +3197,6 @@ Visa
 Visa 2026 Global Economic Outlook: AI Adoption and Shifting Trade Patterns Drive Economic Transformation Beneath Steady Growth
 https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
 ------------------------------------------------------------
-Payment Card Networks
-Mastercard
-2026-05-27T00:00:00Z
-Mastercard and JD.com announce strategic partnership to support business growth through payments innovation May 15, 2026
-https://www.mastercard.com/us/en/news-and-trends/press/2026/may/mastercard-jd-dot-com-partnership.html
-------------------------------------------------------------
 Compliance Watch
 CDIA
 2026-05-27T00:00:00Z
@@ -3210,13 +3209,6 @@ ABA
 Agricultural Banking
 https://www.aba.com/banking-topics/commercial-banking/agricultural-banking
 Find the most relevant ag banking information, resources and research from our team of experts.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-05-27T00:00:00Z
-Accounting
-https://www.aba.com/banking-topics/operations/accounting
-ABA represents the banking industry on policy issues related to accounting and auditing.
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -6736,18 +6728,6 @@ NACHA
 Cybercriminals Put AI in Overdrive
 https://www.nacha.org/news/cybercriminals-put-ai-overdrive
 ------------------------------------------------------------
-Payment Card Networks
-Mastercard
-2026-05-15T00:00:00Z
-Inter Miami CF names Mastercard as Exclusive Payment Services Partner and Nu Stadium Official Partner May 15, 2026
-https://www.mastercard.com/us/en/news-and-trends/press/2026/may/Inter-Miami-CF-names-Mastercard-Exclusive-Payment-Services-Partner-Nu-Stadium-Official-Partner.html
-------------------------------------------------------------
-Payment Card Networks
-Mastercard
-2026-05-15T00:00:00Z
-Amazon's new Prime Business and Amazon Business credit cards, powered by U.S. Bank and Mastercard, are now available with enhanced rewards and flexible financing May 13, 2026
-https://www.mastercard.com/us/en/news-and-trends/press/2026/may/amazon-s-new-prime-business-and-amazon-business-credit-cards--po.html
-------------------------------------------------------------
 Federal Register
 Federal Register
 2026-05-15T00:00:00Z
@@ -7241,12 +7221,6 @@ Fiserv
 2026-05-13T00:00:00Z
 Fiserv and Bridgeport Partners Enter into Agreement to Form Joint Venture to Accelerate Growth Across ATM and Cash Services Businesses
 https://investors.fiserv.com/news-releases/news-release-details/fiserv-and-bridgeport-partners-enter-agreement-form-joint
-------------------------------------------------------------
-Payment Card Networks
-Mastercard
-2026-05-13T00:00:00Z
-The Trust for the Americas and the Organization of American States present the 2025 Corporate Citizen of the Americas Award to Mastercard April 24, 2026
-https://www.mastercard.com/us/en/news-and-trends/press/2026/april/the-trust-for-the-americas-and-the-organization-of-american-stat.html
 ------------------------------------------------------------
 Federal Register
 Federal Register
@@ -12115,13 +12089,6 @@ Treasury
 2026-04-30T18:45:00Z
 Remarks by Secretary of the Treasury Scott Bessent Before the EXIM Annual Conference
 https://home.treasury.gov/news/press-releases/sb0481
-------------------------------------------------------------
-Compliance Watch
-TBA
-2026-04-30T18:24:35Z
-Statement by TBA CEO Chris Furlow on release of CFPB’s new Sec. 1071 Final Rule
-https://www.texasbankers.com/statement-by-texas-bankers-association-ceo-chris-furlow-on-release-of-cfpbs-new-sec-1071-final-rule/
-Texas Bankers Association and MDI Rio Bank filed the original legal challenge to the “suffocating” Biden-Chopra Section 1071 Final Rule “Small business lending is the lifeblood of Texas community banking. The Biden-Chopra version of 1071 would have suffocated small business lending and burdened community banks with more unnecessary reporting requirements. From day one of our […
 ------------------------------------------------------------
 OFAC
 Treasury

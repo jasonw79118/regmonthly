@@ -1,9 +1,25 @@
 {
   "window_start": "2026-04-30T05:00:00Z",
   "window_end": "2026-06-01T05:00:00Z",
-  "generated_at_utc": "2026-06-01T13:40:00Z",
-  "generated_at_ct": "2026-06-01T08:40:00-05:00",
+  "generated_at_utc": "2026-06-01T18:49:58Z",
+  "generated_at_ct": "2026-06-01T13:49:58-05:00",
   "items": [
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "ABA offers improvements for proposed 401(k) plan prudent investment rule",
+      "published_at": "2026-06-01T05:00:00Z",
+      "url": "https://bankingjournal.aba.com/2026/06/aba-offers-improvements-for-proposed-401k-plan-prudent-investment-rule/",
+      "summary": ""
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Four banks join ABA Nasdaq Community Bank Index",
+      "published_at": "2026-06-01T05:00:00Z",
+      "url": "https://bankingjournal.aba.com/2026/06/four-banks-join-aba-nasdaq-community-bank-index/",
+      "summary": ""
+    },
     {
       "category": "Compliance Watch",
       "source": "ABA",
@@ -13,35 +29,35 @@
       "summary": ""
     },
     {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Study: Banks can expand financial advice to drive sustained customer engagement",
-      "published_at": "2026-06-01T05:00:00Z",
-      "url": "https://bankingjournal.aba.com/2026/06/study-banks-can-expand-financial-advice-to-drive-sustained-customer-engagement/",
-      "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Marketing for wealth management",
-      "published_at": "2026-06-01T05:00:00Z",
-      "url": "https://bankingjournal.aba.com/2026/06/marketing-for-wealth-management/",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "Mastercard advances instant cross-border payments with TIPS cross-currency pilot June 1, 2026",
+      "category": "OFAC",
+      "source": "OFAC",
+      "title": "Publication of Introduction to OFAC Guide",
       "published_at": "2026-06-01T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/june/Mastercard-advances-instant-cross-border-payments-with-TIPS-cross-currency-pilot.html",
+      "url": "https://ofac.treasury.gov/recent-actions/20260601",
       "summary": ""
     },
     {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "Mastercard granted New York State Department of Financial Services BitLicense May 27, 2026",
+      "category": "IS",
+      "source": "BleepingComputer",
+      "title": "Dashlane password manager users locked out by brute force attacks",
       "published_at": "2026-06-01T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/may/mastercard-granted-new-york-state-department-of-financial-servic.html",
+      "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "summary": ""
+    },
+    {
+      "category": "IS",
+      "source": "BleepingComputer",
+      "title": "WordPress malware campaign hides payloads in Steam profiles",
+      "published_at": "2026-06-01T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+      "summary": ""
+    },
+    {
+      "category": "IS",
+      "source": "BleepingComputer",
+      "title": "Microsoft investigates Office Apps, Teams file access issues",
+      "published_at": "2026-06-01T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
       "summary": ""
     },
     {
@@ -167,10 +183,34 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+      "title": "Human Resources",
+      "published_at": "2026-06-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/operations/human-resources",
+      "summary": "Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
       "title": "Workforce Excellence",
       "published_at": "2026-06-01T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/operations/workforce-excellence",
       "summary": "America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Accounting",
+      "published_at": "2026-06-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/operations/accounting",
+      "summary": "ABA represents the banking industry on policy issues related to accounting and auditing."
+    },
+    {
+      "category": "Compliance Watch",
+      "source": "ABA",
+      "title": "Economic Trends",
+      "published_at": "2026-06-01T00:00:00Z",
+      "url": "https://www.aba.com/banking-topics/operations/economic-trends",
+      "summary": "The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector."
     },
     {
       "category": "Federal Register",
@@ -1261,14 +1301,6 @@
       "summary": "Debit cards are a preferred payment method for consumers, and are now synonymous with banking."
     },
     {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Economic Trends",
-      "published_at": "2026-05-30T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations/economic-trends",
-      "summary": "The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector."
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "Realigning United States Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries",
@@ -1437,28 +1469,12 @@
       "summary": ""
     },
     {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Google Chrome adds session cookie theft protection for all users",
-      "published_at": "2026-05-29T12:08:08Z",
-      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
-      "summary": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
-      "published_at": "2026-05-29T11:07:07Z",
-      "url": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
-      "summary": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]"
-    },
-    {
-      "category": "IS",
-      "source": "BleepingComputer",
-      "title": "US charges Google security engineer with Polymarket insider trading",
-      "published_at": "2026-05-29T10:11:44Z",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
-      "summary": "A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]"
+      "category": "Compliance Watch",
+      "source": "TBA",
+      "title": "CRA exam schedules for Q3, Q4 released",
+      "published_at": "2026-05-29T11:00:00Z",
+      "url": "https://www.texasbankers.com/cra-exam-schedules-for-q3-q4-released/",
+      "summary": "The schedules for Community Reinvestment Act (CRA) examinations for the third and fourth quarters of the year were published by the Federal Department of Insurance Corporation. Meanwhile, the Office of the Comptroller of the Currency issued its schedule of CRA evaluations for Q3. The post CRA exam schedules for Q3, Q4 released appeared first on Texas Bankers Association ."
     },
     {
       "category": "IS",
@@ -2159,17 +2175,17 @@
     {
       "category": "IS",
       "source": "BleepingComputer",
-      "title": "Learn to hack, build security tools, and more for $70 in this course deal",
+      "title": "Google Chrome adds session cookie theft protection for all users",
       "published_at": "2026-05-29T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/offer/deals/learn-to-hack-build-security-tools-and-more-for-70-in-this-course-deal/",
+      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
       "summary": ""
     },
     {
       "category": "IS",
       "source": "BleepingComputer",
-      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "title": "Learn to hack, build security tools, and more for $70 in this course deal",
       "published_at": "2026-05-29T00:00:00Z",
-      "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "url": "https://www.bleepingcomputer.com/offer/deals/learn-to-hack-build-security-tools-and-more-for-70-in-this-course-deal/",
       "summary": ""
     },
     {
@@ -2187,14 +2203,6 @@
       "published_at": "2026-05-29T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance",
       "summary": "There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Human Resources",
-      "published_at": "2026-05-29T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations/human-resources",
-      "summary": "Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture."
     },
     {
       "category": "Compliance Watch",
@@ -3855,14 +3863,6 @@
       "summary": ""
     },
     {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "Mastercard and JD.com announce strategic partnership to support business growth through payments innovation May 15, 2026",
-      "published_at": "2026-05-27T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/may/mastercard-jd-dot-com-partnership.html",
-      "summary": ""
-    },
-    {
       "category": "Compliance Watch",
       "source": "CDIA",
       "title": "Education Services",
@@ -3877,14 +3877,6 @@
       "published_at": "2026-05-27T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/commercial-banking/agricultural-banking",
       "summary": "Find the most relevant ag banking information, resources and research from our team of experts."
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "ABA",
-      "title": "Accounting",
-      "published_at": "2026-05-27T00:00:00Z",
-      "url": "https://www.aba.com/banking-topics/operations/accounting",
-      "summary": "ABA represents the banking industry on policy issues related to accounting and auditing."
     },
     {
       "category": "Federal Register",
@@ -8234,22 +8226,6 @@
       "summary": ""
     },
     {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "Inter Miami CF names Mastercard as Exclusive Payment Services Partner and Nu Stadium Official Partner May 15, 2026",
-      "published_at": "2026-05-15T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/may/Inter-Miami-CF-names-Mastercard-Exclusive-Payment-Services-Partner-Nu-Stadium-Official-Partner.html",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "Amazon's new Prime Business and Amazon Business credit cards, powered by U.S. Bank and Mastercard, are now available with enhanced rewards and flexible financing May 13, 2026",
-      "published_at": "2026-05-15T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/may/amazon-s-new-prime-business-and-amazon-business-credit-cards--po.html",
-      "summary": ""
-    },
-    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
@@ -8877,14 +8853,6 @@
       "title": "Fiserv and Bridgeport Partners Enter into Agreement to Form Joint Venture to Accelerate Growth Across ATM and Cash Services Businesses",
       "published_at": "2026-05-13T00:00:00Z",
       "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-and-bridgeport-partners-enter-agreement-form-joint",
-      "summary": ""
-    },
-    {
-      "category": "Payment Card Networks",
-      "source": "Mastercard",
-      "title": "The Trust for the Americas and the Organization of American States present the 2025 Corporate Citizen of the Americas Award to Mastercard April 24, 2026",
-      "published_at": "2026-05-13T00:00:00Z",
-      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/april/the-trust-for-the-americas-and-the-organization-of-american-stat.html",
       "summary": ""
     },
     {
@@ -14996,14 +14964,6 @@
       "published_at": "2026-04-30T18:45:00Z",
       "url": "https://home.treasury.gov/news/press-releases/sb0481",
       "summary": ""
-    },
-    {
-      "category": "Compliance Watch",
-      "source": "TBA",
-      "title": "Statement by TBA CEO Chris Furlow on release of CFPB’s new Sec. 1071 Final Rule",
-      "published_at": "2026-04-30T18:24:35Z",
-      "url": "https://www.texasbankers.com/statement-by-texas-bankers-association-ceo-chris-furlow-on-release-of-cfpbs-new-sec-1071-final-rule/",
-      "summary": "Texas Bankers Association and MDI Rio Bank filed the original legal challenge to the “suffocating” Biden-Chopra Section 1071 Final Rule “Small business lending is the lifeblood of Texas community banking. The Biden-Chopra version of 1071 would have suffocated small business lending and burdened community banks with more unnecessary reporting requirements. From day one of our […"
     },
     {
       "category": "OFAC",

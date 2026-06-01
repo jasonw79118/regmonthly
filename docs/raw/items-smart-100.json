@@ -680,13 +680,28 @@
     "smart_index": 65
   },
   {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Schedules of Controlled Substances: Placement of CUMYL-PEGACLONE in Schedule I",
+    "published_at": "2026-05-13T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/05/13/2026-09566/schedules-of-controlled-substances-placement-of-cumyl-pegaclone-in-schedule-i",
+    "summary": "With the issuance of this final rule, the Drug Enforcement Administration places 5-pentyl-2-(2-phenylpropan-2-yl)pyrido[4,3- b]indol-1-one (other names: CUMYL-PEGACLONE; SGT-151), including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible, in schedule I of the Controlled Substances Act. This action is bein…",
+    "fr_tags": [
+      "agency:drug-enforcement-administration",
+      "agency:justice-department",
+      "filter:justice-department"
+    ],
+    "fedreg_document_number": "2026-09566",
+    "smart_index": 66
+  },
+  {
     "category": "Payments",
     "source": "NACHA",
     "title": "A Proactive Approach is Behind Nacha’s New Fraud Monitoring Rules",
     "published_at": "2026-05-12T00:00:00Z",
     "url": "https://www.nacha.org/news/proactive-approach-behind-nachas-new-fraud-monitoring-rules",
     "summary": "",
-    "smart_index": 66
+    "smart_index": 67
   },
   {
     "category": "OFAC",
@@ -695,7 +710,7 @@
     "published_at": "2026-05-11T19:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0498",
     "summary": "",
-    "smart_index": 67
+    "smart_index": 68
   },
   {
     "category": "OFAC",
@@ -704,7 +719,7 @@
     "published_at": "2026-05-11T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-notice-threat-human-trafficking-during-2026-fifa-world-cup",
     "summary": "WASHINGTON—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a Notice urging increased vigilance by financial institutions located in and around cities hosting the 2026 Fédération Internationale de Football Association (FIFA) World Cup.",
-    "smart_index": 68
+    "smart_index": 69
   },
   {
     "category": "OFAC",
@@ -713,7 +728,7 @@
     "published_at": "2026-05-11T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-alert-stop-money-laundering-iranian-revolutionary-guard-corps",
     "summary": "WASHINGTON—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an Alert to help financial institutions identify and stop funding streams and procurement networks supporting Iran’s Islamic Revolutionary Guard Corps (IRGC). The IRGC has engaged in terrorist activity since its inception with the full support of the Iranian regime.",
-    "smart_index": 69
+    "smart_index": 70
   },
   {
     "category": "Payments",
@@ -722,7 +737,7 @@
     "published_at": "2026-05-11T00:00:00Z",
     "url": "https://www.nacha.org/news/trustmi-now-nacha-preferred-partner-risk-and-fraud-prevention-fraud-monitoring-and-account",
     "summary": "",
-    "smart_index": 70
+    "smart_index": 71
   },
   {
     "category": "OFAC",
@@ -731,7 +746,7 @@
     "published_at": "2026-05-09T15:10:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0497",
     "summary": "",
-    "smart_index": 71
+    "smart_index": 72
   },
   {
     "category": "OFAC",
@@ -740,7 +755,7 @@
     "published_at": "2026-05-08T22:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0496",
     "summary": "",
-    "smart_index": 72
+    "smart_index": 73
   },
   {
     "category": "Banking",
@@ -749,7 +764,7 @@
     "published_at": "2026-05-08T21:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
     "summary": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
-    "smart_index": 73
+    "smart_index": 74
   },
   {
     "category": "Payments",
@@ -758,7 +773,7 @@
     "published_at": "2026-05-08T00:00:00Z",
     "url": "https://www.nacha.org/news/alliance-buzzcast-stablecoins-practical-insights-banksocial-journey",
     "summary": "",
-    "smart_index": 74
+    "smart_index": 75
   },
   {
     "category": "Payments",
@@ -767,7 +782,7 @@
     "published_at": "2026-05-08T00:00:00Z",
     "url": "https://www.nacha.org/news/solid-compliance-program-benefits-banks-and-their-customers",
     "summary": "",
-    "smart_index": 75
+    "smart_index": 76
   },
   {
     "category": "Federal Register",
@@ -782,7 +797,7 @@
       "filter:justice-department"
     ],
     "fedreg_document_number": "2026-09165",
-    "smart_index": 76
+    "smart_index": 77
   },
   {
     "category": "OFAC",
@@ -791,7 +806,7 @@
     "published_at": "2026-05-07T16:38:40Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0493",
     "summary": "",
-    "smart_index": 77
+    "smart_index": 78
   },
   {
     "category": "OFAC",
@@ -800,7 +815,7 @@
     "published_at": "2026-05-07T14:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0492",
     "summary": "",
-    "smart_index": 78
+    "smart_index": 79
   },
   {
     "category": "Federal Register",
@@ -815,7 +830,7 @@
       "topic:holding-companies"
     ],
     "fedreg_document_number": "2026-09009",
-    "smart_index": 79
+    "smart_index": 80
   },
   {
     "category": "OFAC",
@@ -824,7 +839,7 @@
     "published_at": "2026-05-06T12:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0490",
     "summary": "",
-    "smart_index": 80
+    "smart_index": 81
   },
   {
     "category": "OFAC",
@@ -833,7 +848,7 @@
     "published_at": "2026-05-06T12:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0491",
     "summary": "",
-    "smart_index": 81
+    "smart_index": 82
   },
   {
     "category": "Federal Register",
@@ -848,7 +863,7 @@
       "filter:justice-department"
     ],
     "fedreg_document_number": "2026-08923",
-    "smart_index": 82
+    "smart_index": 83
   },
   {
     "category": "Federal Register",
@@ -863,7 +878,7 @@
       "filter:manufactured-home"
     ],
     "fedreg_document_number": "2026-08950",
-    "smart_index": 83
+    "smart_index": 84
   },
   {
     "category": "Federal Register",
@@ -878,7 +893,7 @@
       "filter:justice-department"
     ],
     "fedreg_document_number": "2026-08930",
-    "smart_index": 84
+    "smart_index": 85
   },
   {
     "category": "Federal Register",
@@ -893,7 +908,7 @@
       "filter:justice-department"
     ],
     "fedreg_document_number": "2026-08928",
-    "smart_index": 85
+    "smart_index": 86
   },
   {
     "category": "Federal Register",
@@ -908,7 +923,7 @@
       "filter:justice-department"
     ],
     "fedreg_document_number": "2026-08926",
-    "smart_index": 86
+    "smart_index": 87
   },
   {
     "category": "OFAC",
@@ -917,7 +932,7 @@
     "published_at": "2026-05-04T19:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0485",
     "summary": "",
-    "smart_index": 87
+    "smart_index": 88
   },
   {
     "category": "OFAC",
@@ -926,7 +941,7 @@
     "published_at": "2026-05-04T19:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0486",
     "summary": "",
-    "smart_index": 88
+    "smart_index": 89
   },
   {
     "category": "Banking",
@@ -935,7 +950,7 @@
     "published_at": "2026-05-01T22:13:49Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4157b1d",
     "summary": "PRESS RELEASE | MAY 1, 2026 Anchor Bank Assumes Insured Deposits of Community Bank and Trust - West Georgia, LaGrange, Georgia WASHINGTON—Community Bank and Trust - West Georgia of LaGrange, Georgia was closed today by the Georgia Department of Banking and Finance, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement…",
-    "smart_index": 89
+    "smart_index": 90
   },
   {
     "category": "OFAC",
@@ -944,7 +959,7 @@
     "published_at": "2026-05-01T19:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0484",
     "summary": "",
-    "smart_index": 90
+    "smart_index": 91
   },
   {
     "category": "OFAC",
@@ -953,7 +968,7 @@
     "published_at": "2026-05-01T15:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0483",
     "summary": "",
-    "smart_index": 91
+    "smart_index": 92
   },
   {
     "category": "Banking",
@@ -962,7 +977,7 @@
     "published_at": "2026-05-01T15:06:21Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4154b24",
     "summary": "PRESS RELEASE | MAY 1, 2026 Agencies Issue Host State Loan-to-Deposit Ratios WASHINGTON—Federal bank regulatory agencies today jointly issued updated host state loan-to-deposit ratios, as required by law . Each ratio compares the total loans in a state to total deposits in the state for all banks that are legally operating in that state. These ratios replace those issued in Ma…",
-    "smart_index": 92
+    "smart_index": 93
   },
   {
     "category": "Banking",
@@ -971,7 +986,7 @@
     "published_at": "2026-05-01T15:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
     "summary": "Agencies issue host state loan-to-deposit ratios",
-    "smart_index": 93
+    "smart_index": 94
   },
   {
     "category": "Banking",
@@ -980,7 +995,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/anchor-bank-assumes-insured-deposits-community-bank-and-trust-west-georgia",
     "summary": "Community Bank and Trust - West Georgia of LaGrange, Georgia was closed today by the Georgia Department of Banking and Finance, which appointed the FDIC.",
-    "smart_index": 94
+    "smart_index": 95
   },
   {
     "category": "Banking",
@@ -989,7 +1004,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-host-state-loan-deposit-ratios",
     "summary": "Federal bank regulatory agencies today jointly issued updated host state loan-to-deposit ratios, as required by law.",
-    "smart_index": 95
+    "smart_index": 96
   },
   {
     "category": "Federal Register",
@@ -1008,7 +1023,7 @@
       "topic:national-banks"
     ],
     "fedreg_document_number": "2026-08494",
-    "smart_index": 96
+    "smart_index": 97
   },
   {
     "category": "Banking",
@@ -1017,7 +1032,7 @@
     "published_at": "2026-05-01T00:00:00Z",
     "url": "https://www.federalreserve.gov/reform.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 97
+    "smart_index": 98
   },
   {
     "category": "OFAC",
@@ -1026,15 +1041,6 @@
     "published_at": "2026-04-30T20:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0482",
     "summary": "",
-    "smart_index": 98
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "TBA",
-    "title": "Statement by TBA CEO Chris Furlow on release of CFPB’s new Sec. 1071 Final Rule",
-    "published_at": "2026-04-30T18:24:35Z",
-    "url": "https://www.texasbankers.com/statement-by-texas-bankers-association-ceo-chris-furlow-on-release-of-cfpbs-new-sec-1071-final-rule/",
-    "summary": "Texas Bankers Association and MDI Rio Bank filed the original legal challenge to the “suffocating” Biden-Chopra Section 1071 Final Rule “Small business lending is the lifeblood of Texas community banking. The Biden-Chopra version of 1071 would have suffocated small business lending and burdened community banks with more unnecessary reporting requirements. From day one of our […",
     "smart_index": 99
   },
   {
