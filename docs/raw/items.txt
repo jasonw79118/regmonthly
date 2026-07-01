@@ -1,35 +1,20 @@
 Compliance Watch
 ABA
 2026-07-01T05:00:00Z
-<<<<<<< HEAD
-FFIEC reaffirms efforts to boost de novo bank formation
-https://bankingjournal.aba.com/2026/07/ffiec-reaffirms-efforts-to-boost-de-novo-bank-formation/
-=======
 ABA joins with consumer rights group to protect fraud alerts
 https://bankingjournal.aba.com/2026/07/aba-joins-with-consumer-rights-group-to-protect-fraud-alerts/
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Compliance Watch
 ABA
 2026-07-01T05:00:00Z
-<<<<<<< HEAD
-ABA Fraudcast: Defending customers from wire fraud
-https://bankingjournal.aba.com/2026/07/defending-banks-from-wire-fraud/
-=======
 Warsh weighs in on Fed independence, inflation
 https://bankingjournal.aba.com/2026/07/warsh-weighs-in-on-fed-independence-inflation/
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Compliance Watch
 ABA
 2026-07-01T05:00:00Z
-<<<<<<< HEAD
-House committee advances ABA-backed bills on fair credit liability, check fraud
-https://bankingjournal.aba.com/2026/06/house-committee-advances-aba-backed-bills-on-fair-credit-liability-check-fraud/
-=======
 ABA DataBank: ISM Manufacturing PMI remains in expansion
 https://bankingjournal.aba.com/2026/07/aba-databank-ism-manufacturing-pmi-remains-in-expansion/
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 IS
 BleepingComputer
@@ -71,52 +56,30 @@ https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411188
 IS
 BleepingComputer
 2026-07-01T00:00:00Z
-<<<<<<< HEAD
-Turning Indicators into Intelligence in OpenCTI with Criminal IP
-https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/
-=======
 DHS confirms hackers breached HSIN info-sharing platform
 https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-07-01T00:00:00Z
-<<<<<<< HEAD
-Over 900 Oracle E-Business instances exposed to ongoing attacks
-https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/
-=======
 Webinar: Why traditional email security is no longer enough
 https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-07-01T00:00:00Z
-<<<<<<< HEAD
-One app. 150+ languages. One $70 payment for lifetime access.
-https://www.bleepingcomputer.com/offer/deals/one-app-150-plus-languages-one-70-payment-for-lifetime-access/
-=======
 Hackers target Microsoft 365 accounts with 81 million login attempts
 https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-07-01T00:00:00Z
-<<<<<<< HEAD
-Microsoft fixes GIF functionality in the Windows Emoji Panel
-https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/
-=======
 Turning Indicators into Intelligence in OpenCTI with Criminal IP
 https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-07-01T00:00:00Z
-<<<<<<< HEAD
-=======
 Over 900 Oracle E-Business instances exposed to ongoing attacks
 https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/
 ------------------------------------------------------------
@@ -135,7 +98,6 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionalit
 IS
 BleepingComputer
 2026-07-01T00:00:00Z
->>>>>>> 7d21969 (monthly update 07012026)
 Amazon fined $2.25M for withholding evidence from fraud victims
 https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/
 ------------------------------------------------------------
@@ -144,21 +106,6 @@ BleepingComputer
 2026-07-01T00:00:00Z
 Adobe patches seven max severity ColdFusion, Campaign flaws
 https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/
-<<<<<<< HEAD
-------------------------------------------------------------
-Compliance Watch
-FASB
-2026-07-01T00:00:00Z
-FASB Seeks Public Comment on Proposal to Improve Investment Company Fair Value Reporting
-https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposal-to-improve-investment-company-fair-value-reporting-424892
-------------------------------------------------------------
-Compliance Watch
-FASB
-2026-07-01T00:00:00Z
-FASB Seeks Public Comment on Proposed Targeted Improvements to Hedge Accounting Guidance
-https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposed-targeted-improvements-to-hedge-accounting-guidance-424706
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -191,8 +138,6 @@ Enhance your knowledge and understanding of consumer loans and issues that effec
 Compliance Watch
 ABA
 2026-07-01T00:00:00Z
-<<<<<<< HEAD
-=======
 Inclusive Banking
 https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
@@ -200,7 +145,6 @@ Leading resources and information to support banks in meeting the needs of their
 Compliance Watch
 ABA
 2026-07-01T00:00:00Z
->>>>>>> 7d21969 (monthly update 07012026)
 Retail Banking
 https://www.aba.com/banking-topics/consumer-banking/retail-banking
 As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
@@ -208,8 +152,6 @@ As retail branches evolve, banks are looking to increase customer engagement and
 Compliance Watch
 ABA
 2026-07-01T00:00:00Z
-<<<<<<< HEAD
-=======
 Technology
 https://www.aba.com/banking-topics/technology
 Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution.
@@ -224,7 +166,6 @@ Find sample materials, training, and best practices to help you communicate with
 Compliance Watch
 ABA
 2026-07-01T00:00:00Z
->>>>>>> 7d21969 (monthly update 07012026)
 Leadership & Operations
 https://www.aba.com/banking-topics/operations
 Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
@@ -232,8 +173,6 @@ Get news, tools, and training on the issues that affect your bank's bottom line,
 Compliance Watch
 ABA
 2026-07-01T00:00:00Z
-<<<<<<< HEAD
-=======
 Leadership
 https://www.aba.com/banking-topics/operations/leadership
 Resources and training for bank CEOs and Executives
@@ -241,7 +180,6 @@ Resources and training for bank CEOs and Executives
 Compliance Watch
 ABA
 2026-07-01T00:00:00Z
->>>>>>> 7d21969 (monthly update 07012026)
 Workforce Excellence
 https://www.aba.com/banking-topics/operations/workforce-excellence
 America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts.
@@ -249,8 +187,6 @@ America’s banks deliver the best business results and community impact by enga
 Compliance Watch
 ABA
 2026-07-01T00:00:00Z
-<<<<<<< HEAD
-=======
 Accounting
 https://www.aba.com/banking-topics/operations/accounting
 ABA represents the banking industry on policy issues related to accounting and auditing.
@@ -258,7 +194,6 @@ ABA represents the banking industry on policy issues related to accounting and a
 Compliance Watch
 ABA
 2026-07-01T00:00:00Z
->>>>>>> 7d21969 (monthly update 07012026)
 Economic Trends
 https://www.aba.com/banking-topics/operations/economic-trends
 The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
@@ -370,23 +305,6 @@ FinCEN Issues Supplemental Alert on Fuel Smuggling and Tax Evasion Schemes on th
 https://www.fincen.gov/news/news-releases/fincen-issues-supplemental-alert-fuel-smuggling-and-tax-evasion-schemes-southern
 Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a supplemental Alert to advise financial institutions to be vigilant in detecting, identifying, and reporting suspicious activity connected to Cartel de Jalisco Nueva Generacion (CJNG) and other Mexico-based transnational criminal organizations smuggling fuel from the United State…
 ------------------------------------------------------------
-<<<<<<< HEAD
-IS
-BleepingComputer
-2026-06-30T11:12:18Z
-Insurance giant Aflac discloses data breach after subsidiary hack
-https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/
-American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information of 4.38 million customers. [...]
-------------------------------------------------------------
-IS
-BleepingComputer
-2026-06-30T10:52:26Z
-Microsoft adds smarter bot protection to Teams meetings
-https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/
-Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Compliance Watch
 CDIA
 2026-06-30T10:15:17Z
@@ -402,16 +320,6 @@ https://www.texasbankers.com/federal-agencies-release-2026-list-of-cra-eligible-
 Federal bank regulatory agencies released the 2026 list of geographies where certain bank activities are eligible for Community Reinvestment Act (CRA) credit. Under the CRA, the agencies assess a bank’s record of meeting the credit needs of its entire community, including low- and moderate-income neighborhoods, in a manner consistent with safe and sound operations. The […] The…
 ------------------------------------------------------------
 IS
-<<<<<<< HEAD
-BleepingComputer
-2026-06-30T09:46:39Z
-Kali Linux 2026.2 released with 9 new tools, NetHunter updates
-https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/
-Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]
-------------------------------------------------------------
-IS
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Microsoft MSRC
 2026-06-30T08:02:15Z
 CVE-2026-11979 Stack-Based Buffer Overflow in libxml2
@@ -469,15 +377,12 @@ Federal bank regulatory agencies today released the 2026 list of certain geograp
 Legislative
 Senate Banking
 2026-06-30T00:00:00Z
-<<<<<<< HEAD
-=======
 Statement by Senator Elizabeth Warren on New Trump Crypto Financial Disclosures
 https://www.banking.senate.gov/newsroom/minority/statement-by-senator-elizabeth-warren-on-new-trump-crypto-financial-disclosures
 ------------------------------------------------------------
 Legislative
 Senate Banking
 2026-06-30T00:00:00Z
->>>>>>> 7d21969 (monthly update 07012026)
 Warren, Sanders, Merkley, Hirono Press KKR Executives On Deal with Sallie Mae to Expand Private Equity's Reach Over Student Loans
 https://www.banking.senate.gov/newsroom/minority/warren-sanders-merkley-hirono-press-kkr-executives-on-deal-with-sallie-mae-to-expand-private-equitys-reach-over-student-loans
 ------------------------------------------------------------
@@ -496,15 +401,6 @@ https://www.banking.senate.gov/newsroom/majority/scott-hagerty-introduce-bill-to
 Legislative
 Senate Banking
 2026-06-30T00:00:00Z
-<<<<<<< HEAD
-Statement by Senator Elizabeth Warren on New Trump Crypto Financial Disclosures
-https://www.banking.senate.gov/newsroom/minority/statement-by-senator-elizabeth-warren-on-new-trump-crypto-financial-disclosures
-------------------------------------------------------------
-Legislative
-Senate Banking
-2026-06-30T00:00:00Z
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Warren Requests from Capital One Any Communications Between Trump’s New CFPB Nominee and Administration on Dropped Enforcement Action Against the Bank
 https://www.banking.senate.gov/newsroom/minority/warren-requests-from-capital-one-any-communications-between-trumps-new-cfpb-nominee-and-administration-on-dropped-enforcement-action-against-the-bank
 ------------------------------------------------------------
@@ -745,24 +641,14 @@ https://www.bleepingcomputer.com/offer/deals/build-cybersecurity-skills-with-thi
 IS
 BleepingComputer
 2026-06-30T00:00:00Z
-<<<<<<< HEAD
-Blackfield ransomware asks Nidec Corporation for $2 million ransom
-https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/
-=======
 Insurance giant Aflac discloses data breach after subsidiary hack
 https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 IS
 BleepingComputer
 2026-06-30T00:00:00Z
-<<<<<<< HEAD
-CISA: Windows BlueHammer flaw now exploited by ransomware gangs
-https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/
-=======
 Microsoft adds smarter bot protection to Teams meetings
 https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Compliance Watch
 CDIA
@@ -779,16 +665,6 @@ https://www.cdiaonline.org/advanced-metro-2-format-workshop/
 Compliance Watch
 ABA
 2026-06-30T00:00:00Z
-<<<<<<< HEAD
-Inclusive Banking
-https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
-Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-------------------------------------------------------------
-Compliance Watch
-ABA
-2026-06-30T00:00:00Z
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Mortgage & Home Finance
 https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
 There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
@@ -828,33 +704,6 @@ Disclosure of Information
 https://www.federalregister.gov/documents/2026/06/30/2026-13123/disclosure-of-information
 The Federal Deposit Insurance Corporation (FDIC) is inviting comment on a notice of proposed rulemaking that would update, clarify, and supplement the FDIC's regulations regarding the disclosure of confidential information by the FDIC and other parties, including by enhancing the ability of insured depository institutions to share confidential supervisory information with affi…
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-29T23:31:17Z
-Declaration of Emergency and Authorization for Temporary Duty Free Importation of Phosphate Fertilizer Morocco
-https://www.whitehouse.gov/presidential-actions/2026/06/declaration-of-emergency-and-authorization-for-temporary-duty-free-importation-of-phosphate-fertilizer-morocco/
-------------------------------------------------------------
-Executive
-White House
-2026-06-29T23:26:58Z
-Fact Sheet: President Donald J. Trump Declares an Emergency and Authorizes the Temporary Suspension of Certain Duties on Phosphate Fertilizer from Morocco
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-declares-an-emergency-and-authorizes-the-temporary-suspension-of-certain-duties-on-phosphate-fertilizer-from-morocco/
-------------------------------------------------------------
-Executive
-White House
-2026-06-29T19:54:29Z
-Fact Sheet: President Donald J. Trump Lowers the Cost of Living by Promoting the Freedom to Fix
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/
-------------------------------------------------------------
-Executive
-White House
-2026-06-29T19:53:41Z
-Lowering the Cost of Living by Promoting the Freedom to Fix
-https://www.whitehouse.gov/presidential-actions/2026/06/lowering-the-cost-of-living-by-promoting-the-freedom-to-fix/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Fintech Watch
 Finastra
 2026-06-29T12:00:00Z
@@ -963,16 +812,6 @@ Illicit Finance
 https://www.aba.com/banking-topics/risk-management/money-laundering
 ABA helps banks better identify and report money laundering and other illicit financial activity with information on new technologies and best practices.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Compliance Watch
-ABA
-2026-06-29T00:00:00Z
-Leadership
-https://www.aba.com/banking-topics/operations/leadership
-Resources and training for bank CEOs and Executives
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Federal Register
 Federal Register
 2026-06-29T00:00:00Z
@@ -5024,22 +4863,6 @@ Chromium: CVE-2026-13021 Inappropriate implementation in DeviceBoundSessionCrede
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13021
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Compliance Watch
-ABA
-2026-06-27T00:00:00Z
-Technology
-https://www.aba.com/banking-topics/technology
-Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution.
-------------------------------------------------------------
-Executive
-White House
-2026-06-26T20:55:58Z
-S. 1003 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 OFAC
 Treasury
 2026-06-26T14:30:00Z
@@ -5169,37 +4992,12 @@ Credit Cards
 https://www.aba.com/banking-topics/payments/credit-cards
 New credit card laws have fundamentally changed the industry.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Compliance Watch
-ABA
-2026-06-26T00:00:00Z
-Marketing & Communications
-https://www.aba.com/banking-topics/communications
-Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Federal Register
 Federal Register
 2026-06-26T00:00:00Z
 Sunshine Act Meetings: Notice of Meeting To Be Held With Less Than Seven Days' Advance Notice
 https://www.federalregister.gov/documents/2026/06/26/2026-12923/sunshine-act-meetings-notice-of-meeting-to-be-held-with-less-than-seven-days-advance-notice
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-25T23:00:19Z
-Advancing Regenerative Agriculture and Strengthening American Farm Resilience
-https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/
-------------------------------------------------------------
-Executive
-White House
-2026-06-25T23:00:00Z
-Fact Sheet: President Donald J. Trump Advances Regenerative Agriculture and Strengthens American Farm Resilience
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-advances-regenerative-agriculture-and-strengthens-american-farm-resilience/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Banking
 FDIC
 2026-06-25T19:20:30Z
@@ -5426,15 +5224,6 @@ Treasury
 Treasury Concludes the Artificial Intelligence Innovation Series
 https://home.treasury.gov/news/press-releases/sb0540
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-24T14:08:26Z
-Nomination Sent to the Senate
-https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Fintech Watch
 Finastra
 2026-06-24T12:00:00Z
@@ -5534,15 +5323,12 @@ Modernizing Materials Licensing
 https://www.federalregister.gov/documents/2026/06/24/2026-12702/modernizing-materials-licensing
 The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend its regulations for byproduct, source, and special nuclear material to modernize the NRC's materials licensing requirements. This proposed action is responsive to several executive orders and the NRC's mission to enable safe, efficient, and reliable licensing. These changes are deregulatory in nature and includ…
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 OFAC
 Treasury
 2026-06-23T23:15:00Z
 Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century
 https://home.treasury.gov/news/press-releases/sb0539
 ------------------------------------------------------------
->>>>>>> 7d21969 (monthly update 07012026)
 Compliance Watch
 TBA
 2026-06-23T21:08:01Z
@@ -5550,19 +5336,11 @@ Texas Bankers and Mortgage Bankers applaud final house passage of landmark housi
 https://www.texasbankers.com/texas-bankers-and-mortgage-bankers-applaud-final-house-passage-of-landmark-housing-legislation/
 AUSTIN, Texas — The Texas Mortgage Bankers Association and Texas Bankers Association today applauded the U.S. House of Representatives for final passage of the 21st Century ROAD to Housing Act, clearing the bipartisan housing package for consideration by President Donald J. Trump. The House action follows the Senate’s overwhelming 85-5 approval of the legislation Monday. The […
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-23T16:18:27Z
-Nominations Sent to the Senate
-https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-a2ce/
-=======
 OFAC
 Treasury
 2026-06-23T14:30:00Z
 Treasury Further Dismantles Overseas Scam Operations Targeting Americans
 https://home.treasury.gov/news/press-releases/sb0538
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -5658,46 +5436,12 @@ House Financial Services
 Financial Services Committee's Bipartisan 21st Century ROAD to Housing Act Passes House, Heads to President's Desk
 https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411179
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-23T00:00:00Z
-America 250: Presidential Message on the Anniversary of the Battle of Okinawa
-https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-okinawa/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Fintech Watch
 Fiserv
 2026-06-23T00:00:00Z
 Fiserv Announces Pricing of Tender Offers for Any and All of its Outstanding 5.150% Senior Notes due 2027 and 4.400% Senior Notes due 2049
 https://investors.fiserv.com/news-releases/news-release-details/fiserv-announces-pricing-tender-offers-any-and-all-its
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-22T20:39:42Z
-Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/
-------------------------------------------------------------
-Executive
-White House
-2026-06-22T20:39:32Z
-Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/
-------------------------------------------------------------
-Executive
-White House
-2026-06-22T20:38:18Z
-Ushering in the Next Frontier of Quantum Innovation
-https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/
-------------------------------------------------------------
-Executive
-White House
-2026-06-22T20:37:30Z
-Securing the Nation Against Advanced Cryptographic Attacks
-https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/
-=======
 Payment Card Networks
 Mastercard
 2026-06-23T00:00:00Z
@@ -5715,7 +5459,6 @@ Treasury
 2026-06-22T17:30:11Z
 Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks
 https://home.treasury.gov/news/press-releases/sb0537
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Compliance Watch
 TBA
@@ -5826,15 +5569,6 @@ Permitted Payment Stablecoin Issuer Customer Identification Program
 https://www.federalregister.gov/documents/2026/06/22/2026-12460/permitted-payment-stablecoin-issuer-customer-identification-program
 The Financial Crimes Enforcement Network (FinCEN), together with the Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve System (Board), the Federal Deposit Insurance Corporation (FDIC), and the National Credit Union Administration (NCUA) are jointly issuing this proposed rule to implement certain provisions of the Guiding and Establi…
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-21T16:46:19Z
-Presidential Message on Father’s Day
-https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-fathers-day/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 IS
 Microsoft MSRC
 2026-06-20T08:43:49Z
@@ -6392,19 +6126,11 @@ FIS
 FIS Earns Top Rankings in Two Chartis Reports, Cementing Position as Capital Markets Technology Leader
 https://www.investor.fisglobal.com/news-releases/news-release-details/fis-earns-top-rankings-two-chartis-reports-cementing-position
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-18T19:31:26Z
-Effects of Banning Anti-Competitive Hospital Contracts
-https://www.whitehouse.gov/research/2026/06/effects-of-banning-anti-competitive-hospital-contracts/
-=======
 OFAC
 Treasury
 2026-06-18T20:00:00Z
 Treasury International Capital Data for April
 https://home.treasury.gov/news/press-releases/sb0536
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Banking
 FRB
@@ -6413,15 +6139,12 @@ Federal Reserve Board issues enforcement action with former employee of Bank of 
 https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm
 Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 OFAC
 Treasury
 2026-06-18T17:00:00Z
 Treasury Targets Hizballah-Aligned Officials and Intensifies Pressure on Global Financial Network
 https://home.treasury.gov/news/press-releases/sb0535
 ------------------------------------------------------------
->>>>>>> 7d21969 (monthly update 07012026)
 Banking
 FRB
 2026-06-18T15:00:00Z
@@ -6506,15 +6229,6 @@ CVE-2026-47646 Dynamics 365 Customer Voice Spoofing Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47646
 Improper neutralization of input during web page generation ('cross-site scripting') in Dynamics 365 Customer Voice allows an unauthorized attacker to perform spoofing over a network.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-18T13:23:51Z
-President Trump to Award Medal of Honor
-https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Banking
 FRB
 2026-06-18T13:00:00Z
@@ -6655,16 +6369,6 @@ FIS
 FIS Sweeps All Three Chartis Enterprise Market Risk Quadrants in 2026
 https://www.investor.fisglobal.com/news-releases/news-release-details/fis-sweeps-all-three-chartis-enterprise-market-risk-quadrants
 ------------------------------------------------------------
-<<<<<<< HEAD
-Compliance Watch
-ABA
-2026-06-18T00:00:00Z
-Accounting
-https://www.aba.com/banking-topics/operations/accounting
-ABA represents the banking industry on policy issues related to accounting and auditing.
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Banking
 FRB
 2026-06-17T18:00:00Z
@@ -6707,15 +6411,6 @@ CVE-2026-42828 Windows Projected File System Elevation of Privilege Vulnerabilit
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42828
 Acknowledgement added. This is an informational change only.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-17T13:23:49Z
-WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts
-https://www.whitehouse.gov/briefings-statements/2026/06/what-they-are-saying-first-lady-melania-trump-launches-fostering-the-future-accounts/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 IRS
 IRS
 2026-06-17T00:00:00Z
@@ -6755,15 +6450,6 @@ FIS
 First Commerce Bank Selects FIS Core Banking to Compete in an AI-Ready Future
 https://www.investor.fisglobal.com/news-releases/news-release-details/first-commerce-bank-selects-fis-core-banking-compete-ai-ready
 ------------------------------------------------------------
-<<<<<<< HEAD
-Compliance Watch
-FASB
-2026-06-17T00:00:00Z
-FASB Seeks Public Comment on Proposal to Improve Accounting Guidance for Certain Market-Return Cash Balance Plans
-https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposal-to-improve-accounting-guidance-for-certain-market-return-cash-balance-plans-424656
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Federal Register
 Federal Register
 2026-06-17T00:00:00Z
@@ -6778,15 +6464,12 @@ Equal Credit Opportunity (Regulation B); Special Purpose Credit Programs; Rescis
 https://www.federalregister.gov/documents/2026/06/17/2026-12149/equal-credit-opportunity-regulation-b-special-purpose-credit-programs-rescission
 The Consumer Financial Protection Bureau (Bureau) is rescinding an advisory opinion issued in December 2020 regarding Regulation B, which implements the Equal Credit Opportunity Act (ECOA), as it applies to certain aspects of special purpose credit programs designed and implemented by for-profit organizations to meet special social needs.
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 OFAC
 Treasury
 2026-06-16T22:53:56Z
 Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation
 https://home.treasury.gov/news/press-releases/sb0534
 ------------------------------------------------------------
->>>>>>> 7d21969 (monthly update 07012026)
 IS
 Microsoft MSRC
 2026-06-16T14:00:00Z
@@ -7333,15 +7016,6 @@ Chromium: CVE-2026-11628 Use after free in Ozone
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-11628
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-16T00:02:15Z
-America 250: Presidential Message on the Anniversary of the Signing of Magna Carta
-https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-signing-of-magna-carta/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Legislative
 Senate Banking
 2026-06-16T00:00:00Z
@@ -7391,15 +7065,6 @@ Records Preservation Program and Appendices-Record Retention Guidelines; Catastr
 https://www.federalregister.gov/documents/2026/06/16/2026-12058/records-preservation-program-and-appendices-record-retention-guidelines-catastrophic-act
 On March 11, 2026, the NCUA (or `agency') published a proposed rule to solicit comments on ways to improve and update the vital records preservation program regulation and accompanying guidelines. Based on the comments received, and upon further consideration of the issues involved, the NCUA Board is publishing this final rule, mostly as proposed, to clarify the purpose of par…
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-15T21:53:41Z
-Nominations Sent to the Senate
-https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-4101/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Compliance Watch
 TBA
 2026-06-15T16:52:25Z
@@ -7407,15 +7072,6 @@ TBA hosts U.S. Treasury Secretary, Comptroller in Houston
 https://www.texasbankers.com/tba-hosts-u-s-treasury-secretary-comptroller-in-houston/
 Meetings focus on protecting the financial system and fighting illicit activity while ensuring access for legitimate businesses FOR IMMEDIATE RELEASE: June 15, 2026 HOUSTON – Bankers from throughout Texas underscored their commitment to supporting the integrity of the financial system while serving legitimate businesses and households in a meeting Friday […] The post TBA hosts…
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-15T16:00:00Z
-Presidential Message on Men’s Health Week
-https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-mens-health-week/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 IS
 Microsoft MSRC
 2026-06-15T14:00:40Z
@@ -7580,15 +7236,6 @@ Elder Financial Exploitation
 https://www.aba.com/banking-topics/risk-management/elder-financial-exploitation
 This webpage provides resources to help bankers better understand elder financial exploitation (EFE).
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-14T18:42:20Z
-Presidential Message on the 251st Birthday of the United States Army
-https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-the-251st-birthday-of-the-united-states-army/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 IS
 Microsoft MSRC
 2026-06-13T08:43:38Z
@@ -7715,49 +7362,6 @@ CVE-2026-52860 Vim: Arbitrary Code Execution via Python Omni-Completion
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-52860
 Information published.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-12T20:58:22Z
-First Lady Melania Trump’s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts
-https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trumps-remarkable-week-empowering-youth-through-ai-challenge-and-fostering-the-future-accounts/
-------------------------------------------------------------
-Executive
-White House
-2026-06-12T20:21:35Z
-America 250: Presidential Message on the 250th Anniversary of the Virginia Declaration of Rights
-https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-250th-anniversary-of-the-virginia-declaration-of-rights/
-------------------------------------------------------------
-Executive
-White House
-2026-06-12T19:36:33Z
-Fact Sheet: President Donald J. Trump Defends America’s Warfighters and Intelligence Officers Against Cyber Threats
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-defends-americas-warfighters-and-intelligence-officers-against-cyber-threats/
-------------------------------------------------------------
-Executive
-White House
-2026-06-12T19:26:27Z
-S. 254 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/06/s-254-signed-into-law/
-------------------------------------------------------------
-Executive
-White House
-2026-06-12T19:24:42Z
-National Homeownership Month, 2026
-https://www.whitehouse.gov/presidential-actions/2026/06/national-homeownership-month-2026/
-------------------------------------------------------------
-Executive
-White House
-2026-06-12T19:22:08Z
-Flag Day and National Flag Week, 2026
-https://www.whitehouse.gov/presidential-actions/2026/06/flag-day-and-national-flag-week-2026/
-------------------------------------------------------------
-Executive
-White House
-2026-06-12T19:19:12Z
-National Security Presidential Memorandum/NSPM-12
-https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/
-=======
 OFAC
 Treasury
 2026-06-12T21:00:00Z
@@ -7775,7 +7379,6 @@ Treasury
 2026-06-12T17:15:00Z
 Remarks by Treasury Secretary Scott Bessent before the Petroleum Club of Houston
 https://home.treasury.gov/news/press-releases/sb0532
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 OFAC
 FinCEN
@@ -7860,37 +7463,6 @@ Revising the Definition of “Manufactured Home” to Lower Housing Costs
 https://www.federalregister.gov/documents/2026/06/12/2026-11851/revising-the-definition-of-manufactured-home-to-lower-housing-costs
 This proposed rule would amend the definition of "manufactured home" in HUD's Manufactured Home Construction and Safety Standards (MHCSS), Model Manufactured Home Installation Standards (MMHIS), and Manufactured Home Installation Program (MHIP) to provide that a transportable section of a manufactured home serving as part of an upper floor of a manufactured home would not need…
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-11T21:03:00Z
-Nomination and Withdrawal Sent to the Senate
-https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/
-------------------------------------------------------------
-Executive
-White House
-2026-06-11T20:27:44Z
-75th Anniversary of the White House Navy Mess, 2026
-https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/
-------------------------------------------------------------
-Executive
-White House
-2026-06-11T20:26:56Z
-Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-restores-american-commercial-fishing-in-the-pacific/
-------------------------------------------------------------
-Executive
-White House
-2026-06-11T20:25:24Z
-Restoring American Commercial Fishing in the Pacific
-https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/
-------------------------------------------------------------
-Executive
-White House
-2026-06-11T16:13:47Z
-First Lady Melania Trump Launches Fostering the Future Accounts America’s First Savings & Investment Vehicle for Foster Youth
-https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-launches-fostering-the-future-accountsamericas-first-savings-investment-vehicle-for-foster-youth/
-=======
 OFAC
 Treasury
 2026-06-11T16:52:11Z
@@ -7902,7 +7474,6 @@ Treasury
 2026-06-11T16:30:00Z
 Remarks by Treasury Secretary Scott Bessent at The Trump Accounts for Foster Youth Event
 https://home.treasury.gov/news/press-releases/sb0529
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Banking
 FRB
@@ -7911,15 +7482,6 @@ Federal Reserve Board announces final rule that establishes data standards for c
 https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm
 Federal Reserve Board announces final rule that establishes data standards for certain information collections
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-11T12:36:32Z
-Presidential Message on U.S. Catholic Bishops Honoring the 250th Anniversary of American Independence
-https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-u-s-catholic-bishops-honoring-the-250th-anniversary-of-american-independence/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 IS
 Microsoft MSRC
 2026-06-11T08:44:37Z
@@ -8210,19 +7772,6 @@ Streamlining the Census Bureau's Foreign Trade Regulations; Correction
 https://www.federalregister.gov/documents/2026/06/11/2026-11688/streamlining-the-census-bureaus-foreign-trade-regulations-correction
 On March 30, 2026, the Bureau of the Census (Census Bureau) published a final rule in the Federal Register entitled " Streamlining the Census Bureau's Foreign Trade Regulations", which became effective on March 30, 2026. Subsequent review of the final rule in the Federal Register identified an error necessitating corrective action. Accordingly, this final rule issues a non-sub…
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-10T19:41:45Z
-Nomination Sent to the Senate
-https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-6e45/
-------------------------------------------------------------
-Executive
-White House
-2026-06-10T16:25:35Z
-S. 2 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/06/s-2-signed-into-law/
-=======
 OFAC
 Treasury
 2026-06-10T18:00:00Z
@@ -8234,7 +7783,6 @@ Treasury
 2026-06-10T17:00:00Z
 Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs
 https://home.treasury.gov/news/press-releases/sb0528
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -8424,19 +7972,11 @@ Senate Banking
 Senator Warren Statement on May 2026 CPI
 https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-may-2026-cpi
 ------------------------------------------------------------
-<<<<<<< HEAD
-Compliance Watch
-FASB
-2026-06-10T00:00:00Z
-Investor Advisory Committee Meeting Recap—May 28, 2026
-https://www.fasb.org/news-and-meetings/in-the-news/investor-advisory-committee-meeting-recapmay-28-2026-424642
-=======
 Payment Card Networks
 Mastercard
 2026-06-10T00:00:00Z
 Mastercard expands settlement capabilities to include stablecoin, intraday, holiday and weekend options June 3, 2026
 https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-expands-settlement-capabilities-to-include-stablecoin.html
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -8445,15 +7985,6 @@ Debit Cards
 https://www.aba.com/banking-topics/payments/debit-cards
 Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-09T20:01:10Z
-Congressional Bills H.R. 3490 and S. 2393 Signed into Law
-https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Banking
 FRB
 2026-06-09T20:00:00Z
@@ -8468,19 +7999,11 @@ Texas Bankers Association elects 2026-2027 Board of Directors
 https://www.texasbankers.com/texas-bankers-association-elects-2026-2027-board-of-directors/
 (AUSTIN) – The Texas Bankers Association (TBA) recently announced the elected Board of Directors for the 2026-27 fiscal year. Named were: Chairman William M. Lucas, Shelby Savings Bank, SSB, Center; Vice Chair Michael A. Neill, First State Bank, Athens; Treasurer Micah C. Boles, First National Bank of Bosque County, Valley Mills; and Past Chairman Ronald D. Butler, II, First F…
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-09T15:51:33Z
-First Lady Melania Trump Honors America’s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony
-https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/
-=======
 OFAC
 Treasury
 2026-06-09T15:30:00Z
 Treasury Releases Social Security and Medicare Trustees Reports
 https://home.treasury.gov/news/press-releases/sb0526
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Compliance Watch
 CDIA
@@ -10273,15 +9796,6 @@ Dependent Care and Board Member Expense Reimbursement
 https://www.federalregister.gov/documents/2026/06/09/2026-11507/dependent-care-and-board-member-expense-reimbursement
 The NCUA Board is amending its regulations concerning the reimbursement of reasonable expenses for federal credit union (FCU) officials. The amendment revises the definition of compensation to exclude dependent care costs incurred by volunteer officials while attending board meetings and performing official credit union duties. By recognizing these costs as reimbursable, the N…
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-08T19:38:26Z
-Nomination Sent to the Senate
-https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 IS
 Microsoft MSRC
 2026-06-08T14:00:00Z
@@ -10354,37 +9868,11 @@ Statement on Ability To Repay and Immigration Status
 https://www.federalregister.gov/documents/2026/06/08/2026-11447/statement-on-ability-to-repay-and-immigration-status
 The Consumer Financial Protection Bureau (Bureau or CFPB) is issuing this statement to remind creditors of their obligations under the Truth in Lending Act (TILA) as implemented by Regulation Z, and consistent with Executive Order 14406, titled "Restoring Integrity to America's Financial System."
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-06T23:13:18Z
-America 250: Presidential Message on the Anniversary of D-Day
-https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-d-day/
-------------------------------------------------------------
-Executive
-White House
-2026-06-05T20:54:08Z
-Presidential Message on National Ocean Month
-https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-national-ocean-month/
-------------------------------------------------------------
-Executive
-White House
-2026-06-05T18:24:14Z
-Fact Sheet: President Donald J. Trump Signs Historic Directive on AI in the National Security Enterprise
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-signs-historic-directive-on-ai-in-the-national-security-enterprise/
-------------------------------------------------------------
-Executive
-White House
-2026-06-05T18:22:57Z
-National Security Presidential Memorandum/NSPM-11
-https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/
-=======
 OFAC
 Treasury
 2026-06-05T15:30:00Z
 Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks
 https://home.treasury.gov/news/press-releases/sb0524
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Banking
 FDIC
@@ -10393,15 +9881,12 @@ Press Release: FDIC Issues List of Banks Examined for CRA Compliance
 https://content.govdelivery.com/accounts/USFDIC/bulletins/4193a9c
 PRESS RELEASE | JUNE 5, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON—The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC assigned to institutions in March 2026. The CRA is a 1977 law t…
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 OFAC
 Treasury
 2026-06-05T14:00:00Z
 FinCEN Asks Financial Institutions to Detect and Report Illicit Activity Related to Illegal Aliens
 https://home.treasury.gov/news/press-releases/sb0523
 ------------------------------------------------------------
->>>>>>> 7d21969 (monthly update 07012026)
 IS
 Microsoft MSRC
 2026-06-05T14:00:00Z
@@ -10494,25 +9979,11 @@ Clarification of Discretionary Employment Authorization for Certain Aliens
 https://www.federalregister.gov/documents/2026/06/05/2026-11285/clarification-of-discretionary-employment-authorization-for-certain-aliens
 The Department of Homeland Security proposes to limit and clarify eligibility for discretionary employment authorization for aliens paroled into the United States temporarily for urgent humanitarian reasons or significant public benefit, who have been granted deferred action, or against whom a final order of removal exists and who are temporarily released from custody on an or…
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-04T22:00:00Z
-Granting Pardon to Stephen E. Buyer
-https://www.whitehouse.gov/presidential-actions/2026/06/granting-pardon-to-stephen-e-buyer/
-------------------------------------------------------------
-Executive
-White House
-2026-06-04T17:25:26Z
-America 250: Presidential Message on the Anniversary of the Battle of Midway
-https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-midway/
-=======
 OFAC
 Treasury
 2026-06-04T14:15:00Z
 Statement from Secretary of the Treasury Scott Bessent Before the United States House of Representatives Ways and Means Committee
 https://home.treasury.gov/news/press-releases/sb0522
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 IS
 Microsoft MSRC
@@ -10675,37 +10146,11 @@ Processing Certain Veteran-Requested Veteran Readiness and Employment Benefit Ch
 https://www.federalregister.gov/documents/2026/06/04/2026-11195/processing-certain-veteran-requested-veteran-readiness-and-employment-benefit-changes-without
 The Department of Veterans Affairs (VA) proposes to amend regulations under the Veteran Readiness and Employment (VR&E) program to ensure veterans' requests to forgo, suspend, reduce, or terminate their benefits and services may be processed timely and without unnecessary delays. The current regulation requires VR&E to provide at least 30 days advance notice and opportunity fo…
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-03T20:35:52Z
-Strengthening Customs Enforcement
-https://www.whitehouse.gov/presidential-actions/2026/06/strengthening-customs-enforcement/
-------------------------------------------------------------
-Executive
-White House
-2026-06-03T20:34:27Z
-Implementing Schedule Policy/Career in the Excepted Service
-https://www.whitehouse.gov/presidential-actions/2026/06/implementing-schedule-policy-career-in-the-excepted-service/
-------------------------------------------------------------
-Executive
-White House
-2026-06-03T20:30:33Z
-Fact Sheet: President Donald J. Trump Increases Accountability in the Federal Workforce
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/
-------------------------------------------------------------
-Executive
-White House
-2026-06-03T20:29:46Z
-Fact Sheet: President Donald J. Trump Strengthens Customs Enforcement
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/
-=======
 OFAC
 Treasury
 2026-06-03T14:15:00Z
 Statement from Secretary of the Treasury Scott Bessent Before the United States Senate Finance Committee
 https://home.treasury.gov/news/press-releases/sb0521
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Fintech Watch
 Finastra
@@ -11403,15 +10848,12 @@ Fiserv
 Small Business Sales Edge Upward in May as Foot Traffic Continues to Slow, Fiserv Data Shows
 https://investors.fiserv.com/news-releases/news-release-details/small-business-sales-edge-upward-may-foot-traffic-continues-slow
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 Payment Card Networks
 Mastercard
 2026-06-03T00:00:00Z
 Mastercard announces leadership updates to advance strategy and support continued growth June 2, 2026
 https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-leadership-updates.html
 ------------------------------------------------------------
->>>>>>> 7d21969 (monthly update 07012026)
 Federal Register
 Federal Register
 2026-06-03T00:00:00Z
@@ -11419,19 +10861,6 @@ Unsafe and Unsound Banking Practices: Brokered Deposits and Interest Rate Restri
 https://www.federalregister.gov/documents/2026/06/03/2026-11044/unsafe-and-unsound-banking-practices-brokered-deposits-and-interest-rate-restrictions-correction
 The Federal Deposit Insurance Corporation (FDIC) is correcting a final rule that was published in the Federal Register on January 22, 2021.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-02T18:04:20Z
-Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/
-------------------------------------------------------------
-Executive
-White House
-2026-06-02T15:34:13Z
-Promoting Advanced Artificial Intelligence Innovation and Security
-https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
-=======
 OFAC
 Treasury
 2026-06-02T19:30:00Z
@@ -11449,7 +10878,6 @@ Treasury
 2026-06-02T19:00:00Z
 Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo
 https://home.treasury.gov/news/press-releases/sb0518
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Banking
 FDIC
@@ -11472,15 +10900,12 @@ CVE-2026-40361 Microsoft Outlook and Word Remote Code Execution Vulnerability
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40361
 Updated CVE title. This is an informational change only.
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 OFAC
 Treasury
 2026-06-02T13:00:00Z
 New Analysis: The Working Families Tax Cuts Delivers the Largest Share of Tax Relief to American Families and Workers
 https://home.treasury.gov/news/press-releases/sb0517
 ------------------------------------------------------------
->>>>>>> 7d21969 (monthly update 07012026)
 Fintech Watch
 Finastra
 2026-06-02T12:00:00Z
@@ -11928,21 +11353,6 @@ CVE-2026-10028 Glib-networking: infinite loop in glib-networking gnutls backend 
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-10028
 Information published.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-02T01:10:32Z
-Fact Sheet: President Donald J. Trump Updates Tariffs on Steel, Aluminum, and Copper Imports
-https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/
-------------------------------------------------------------
-Executive
-White House
-2026-06-02T01:09:17Z
-Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper into the United States
-https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 OFAC
 OFAC
 2026-06-02T00:00:00Z
@@ -11980,15 +11390,12 @@ Fiserv
 Fiserv Named 2026 Financial Services Product Partner of the Year by Snowflake
 https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-2026-financial-services-product-partner-year
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 Payment Card Networks
 Mastercard
 2026-06-02T00:00:00Z
 Mastercard advances instant cross-border payments with TIPS cross-currency pilot June 1, 2026
 https://www.mastercard.com/us/en/news-and-trends/press/2026/june/Mastercard-advances-instant-cross-border-payments-with-TIPS-cross-currency-pilot.html
 ------------------------------------------------------------
->>>>>>> 7d21969 (monthly update 07012026)
 Federal Register
 Federal Register
 2026-06-02T00:00:00Z
@@ -11996,21 +11403,6 @@ Payment Limitation and Payment Eligibility
 https://www.federalregister.gov/documents/2026/06/02/2026-11002/payment-limitation-and-payment-eligibility
 This rule revises the payment limitation and payment eligibility regulations to conform with provisions of the One Big Beautiful Bill Act (OBBBA). This rule also makes additional changes to those regulations to improve program administration and clarify and update existing provisions.
 ------------------------------------------------------------
-<<<<<<< HEAD
-Executive
-White House
-2026-06-01T22:12:24Z
-Presidential Message on Global Coptic Day
-https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/
-------------------------------------------------------------
-Executive
-White House
-2026-06-01T19:45:44Z
-Nominations and Withdrawal Sent to the Senate
-https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/
-------------------------------------------------------------
-=======
->>>>>>> 7d21969 (monthly update 07012026)
 Compliance Watch
 TBA
 2026-06-01T19:09:32Z
@@ -12018,15 +11410,12 @@ Texas Bankers CEO Touts Depth and Growth of State Banking Sector
 https://www.texasbankers.com/texas-bankers-ceo-touts-depth-and-growth-of-state-banking-sector/
 “This is no longer Texas becoming America’s financial services capital. You’re seeing it happen right before our eyes.” (AUSTIN) – Texas Gov. Greg Abbott’s declaration that Texas is “America’s Financial Capital” underscores the rapid growth and unmatched depth of Texas’s financial services industry, Texas Bankers Association (TBA) President and CEO Chris Furlow said in a […] T…
 ------------------------------------------------------------
-<<<<<<< HEAD
-=======
 OFAC
 Treasury
 2026-06-01T16:00:00Z
 U.S. Treasury, U.S. Mint Launch FIFA Coins with All Proceeds to Military Families' Youth Soccer
 https://home.treasury.gov/news/press-releases/sb0516
 ------------------------------------------------------------
->>>>>>> 7d21969 (monthly update 07012026)
 IS
 Microsoft MSRC
 2026-06-01T14:00:00Z
@@ -12084,15 +11473,12 @@ Senate Banking
 2026-06-01T00:00:00Z
 Warren and Kim Statement on Trump Administration Failure to Close AI Chip Loophole
 https://www.banking.senate.gov/newsroom/minority/warren-and-kim-statement-on-trump-administration-failure-to-close-ai-chip-loophole
-<<<<<<< HEAD
-=======
 ------------------------------------------------------------
 Payment Card Networks
 Mastercard
 2026-06-01T00:00:00Z
 Mastercard granted New York State Department of Financial Services BitLicense May 27, 2026
 https://www.mastercard.com/us/en/news-and-trends/press/2026/may/mastercard-granted-new-york-state-department-of-financial-servic.html
->>>>>>> 7d21969 (monthly update 07012026)
 ------------------------------------------------------------
 Federal Register
 Federal Register
