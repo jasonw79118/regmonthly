@@ -1266,6 +1266,21 @@ GENERIC_TITLES = {
     "miscellaneous",
     "read more",
     "learn more",
+
+    # Generic section/listing labels. These sometimes get captured from agency
+    # listing pages with the same date/time as the real article directly below
+    # them. They should not be published as monthly articles.
+    "readouts",
+    "speeches",
+    "speech",
+    "statements",
+    "statement",
+    "remarks and statements",
+    "resources",
+    "events",
+    "event",
+    "fact sheets",
+    "fact sheet",
 }
 
 
@@ -1377,8 +1392,17 @@ def is_generic_listing_or_home(source: str, title: str, url: str) -> bool:
             return False
 
     if source == "Treasury":
-        if p.endswith("/news/press-releases"):
-            return False
+        pl = p.lower()
+        treasury_listing_paths = {
+            "/news/press-releases/readouts",
+            "/news/press-releases/statements",
+            "/news/press-releases/speeches",
+            "/news/press-releases/testimony",
+        }
+        if pl in treasury_listing_paths:
+            return True
+        if tl in {"readouts", "statements", "speeches", "testimony"}:
+            return True
 
     if source == "Mastercard":
         if p.endswith("/news-and-trends/press"):
@@ -4882,6 +4906,184 @@ def _fedreg_group_rank(it: Dict[str, Any]) -> int:
     return 0
         
         
+
+
+# ============================
+# PUBLISH DEDUPE / LANDING-PAGE SUPPRESSION
+# ============================
+
+def normalized_dedupe_title(title: str) -> str:
+    """Normalize titles so same-source duplicates compare consistently."""
+    s = (title or "").strip().lower()
+    s = s.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
+    # Remove common agency-release labels without removing the substantive title.
+    s = re.sub(
+        r"^\s*(readout|press release|news release|statement|remarks|fact sheet|notice|bulletin)\s*[:\-–—]+\s*",
+        "",
+        s,
+    )
+    s = re.sub(r"&", " and ", s)
+    s = re.sub(r"[^a-z0-9]+", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def canonical_dedupe_url(url: str) -> str:
+    """Canonical URL for duplicate detection; keeps meaningful query params only."""
+    try:
+        from urllib.parse import urlencode, urlunparse
+
+        raw, _frag = urldefrag(url or "")
+        u = urlparse(raw.strip())
+        if not u.scheme or not u.netloc:
+            return raw.strip()
+
+        qs = parse_qs(u.query or "", keep_blank_values=False)
+        kept = {
+            k: v
+            for k, v in qs.items()
+            if not k.lower().startswith("utm_")
+            and k.lower() not in {"fbclid", "gclid", "mc_cid", "mc_eid", "cmpid", "source"}
+        }
+        query = urlencode(sorted(kept.items()), doseq=True) if kept else ""
+        path_only = re.sub(r"/{2,}", "/", u.path or "/")
+        if path_only != "/":
+            path_only = path_only.rstrip("/")
+        return urlunparse((u.scheme.lower(), u.netloc.lower(), path_only, "", query, ""))
+    except Exception:
+        return canonical_url(url or "")
+
+
+def is_treasury_specific_press_release_url(url: str) -> bool:
+    try:
+        p = (urlparse(url).path or "").rstrip("/").lower()
+        # Current Treasury detail pages commonly look like sb0547/jy####.
+        return bool(re.fullmatch(r"/news/press-releases/[a-z]{1,4}\d{2,}", p))
+    except Exception:
+        return False
+
+
+def item_specificity_score(it: Dict[str, Any]) -> int:
+    """Higher score wins when the same source emits duplicate article candidates."""
+    source = str(it.get("source") or "")
+    title = str(it.get("title") or "")
+    url = str(it.get("url") or "")
+    summary = str(it.get("summary") or "")
+
+    score = 0
+    if summary.strip():
+        score += 20
+    score += min(len(title.strip()), 180) // 6
+
+    try:
+        p = (urlparse(url).path or "").strip("/")
+        score += min(len([x for x in p.split("/") if x]), 8) * 4
+        score += min(len(p), 220) // 20
+    except Exception:
+        pass
+
+    if source == "Treasury":
+        if is_treasury_specific_press_release_url(url):
+            score += 75
+        if is_generic_listing_or_home(source, title, url):
+            score -= 200
+
+    if normalized_dedupe_title(title) in GENERIC_TITLES:
+        score -= 120
+
+    return score
+
+
+def dedupe_items_with_preference(items: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], List[Dict[str, str]]]:
+    """
+    Remove same-source duplicates and generic listing/category pages before publishing.
+
+    The dedupe is intentionally source-sensitive. Interagency releases can
+    legitimately appear from multiple agencies, so this does not globally merge
+    different sources.
+    """
+    dropped: List[Dict[str, str]] = []
+
+    # First remove generic landing/category pages that slipped through listing extraction.
+    filtered: List[Dict[str, Any]] = []
+    for it in items:
+        source = str(it.get("source") or "")
+        title = str(it.get("title") or "")
+        url = str(it.get("url") or "")
+        if is_generic_listing_or_home(source, title, url) or is_probably_nav_link(source, title, url):
+            dropped.append({
+                "reason": "generic listing/category page",
+                "source": source,
+                "title": title,
+                "url": url,
+            })
+            continue
+        filtered.append(it)
+
+    by_url: Dict[str, Dict[str, Any]] = {}
+
+    def prefer(candidate: Dict[str, Any], current: Dict[str, Any]) -> Dict[str, Any]:
+        # Keep Federal Register preference behavior from the old URL dedupe.
+        if str(candidate.get("category") or "") == "Federal Register" and str(current.get("category") or "") == "Federal Register":
+            if _fedreg_group_rank(candidate) > _fedreg_group_rank(current):
+                return candidate
+
+        if item_specificity_score(candidate) > item_specificity_score(current):
+            return candidate
+        if (not current.get("summary")) and candidate.get("summary"):
+            return candidate
+        return current
+
+    for it in sorted(filtered, key=lambda x: str(x.get("published_at") or ""), reverse=True):
+        key = f"{str(it.get('source') or '').strip().lower()}|{canonical_dedupe_url(str(it.get('url') or ''))}"
+        cur = by_url.get(key)
+        if cur is None:
+            by_url[key] = it
+            continue
+        winner = prefer(it, cur)
+        loser = cur if winner is it else it
+        by_url[key] = winner
+        dropped.append({
+            "reason": "same-source same-url duplicate",
+            "source": str(loser.get("source") or ""),
+            "title": str(loser.get("title") or ""),
+            "url": str(loser.get("url") or ""),
+        })
+
+    # Secondary title dedupe is intentionally narrow. It catches the common
+    # "agency feed item + agency detail page" duplicate without collapsing
+    # legitimately different Federal Register documents, OFAC actions, CVEs, etc.
+    title_dedupe_sources = {"fdic", "occ", "frb", "frb payments", "treasury", "fincen"}
+
+    by_title: Dict[str, Dict[str, Any]] = {}
+    for it in by_url.values():
+        source = str(it.get("source") or "").strip().lower()
+        nt = normalized_dedupe_title(str(it.get("title") or ""))
+        pub_day = str(it.get("published_at") or "")[:10]
+
+        # Very short normalized titles are too broad; the landing-page filter handles them.
+        if source not in title_dedupe_sources or not pub_day or len(nt) < 28:
+            key = f"unique|{id(it)}"
+        else:
+            key = f"{source}|{pub_day}|{nt}"
+
+        cur = by_title.get(key)
+        if cur is None:
+            by_title[key] = it
+            continue
+
+        winner = prefer(it, cur)
+        loser = cur if winner is it else it
+        by_title[key] = winner
+        dropped.append({
+            "reason": "same-source same-day normalized-title duplicate",
+            "source": str(loser.get("source") or ""),
+            "title": str(loser.get("title") or ""),
+            "url": str(loser.get("url") or ""),
+        })
+
+    return list(by_title.values()), dropped
+
 def build() -> None:
     now_utc = utc_now()
     now_ct = now_utc.astimezone(CENTRAL_TZ).replace(microsecond=0)
@@ -5055,28 +5257,17 @@ def build() -> None:
             print("[note] no qualifying items in month window (or blocked/changed).", flush=True)
         
     # ---- DEDUPE (with preference rules) ----
-    dedup: Dict[str, Dict[str, Any]] = {}
-    for it in sorted(all_items, key=lambda x: x["published_at"], reverse=True):
-        key = canonical_url(it["url"])
-        if key not in dedup:
-            dedup[key] = it
-            continue
-        
-        cur = dedup[key]
-        
-        # Prefer Federal Register item with better grouping (agency > topic > section > other)
-        if str(it.get("category") or "") == "Federal Register" and str(cur.get("category") or "") == "Federal Register":
-            if _fedreg_group_rank(it) > _fedreg_group_rank(cur):
-                dedup[key] = it
-                continue
-        
-        # Prefer summary-filled versions
-        if (not cur.get("summary")) and it.get("summary"):
-            dedup[key] = it
-            continue
-        
-    items = list(dedup.values())
+    items, dropped_dupes = dedupe_items_with_preference(all_items)
     items = exclude_quarterly(items)
+    if dropped_dupes:
+        print(f"[dedupe] dropped {len(dropped_dupes)} generic/duplicate same-source items", flush=True)
+        for d in dropped_dupes[:25]:
+            print(
+                f"[dedupe] {d.get('reason')}: {d.get('source')} | {d.get('title')} | {d.get('url')}",
+                flush=True,
+            )
+        if len(dropped_dupes) > 25:
+            print(f"[dedupe] ... {len(dropped_dupes) - 25} more", flush=True)
     items.sort(key=lambda x: x["published_at"], reverse=True)
     smart_items = smart_top_items(items, SMART_100_LIMIT)
         

@@ -269,12 +269,6 @@ A campaign active since last November has been targeting Python developers build
 - Published: 2026-06-30T17:30:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0545
 
-## Readouts
-- Source: Treasury
-- Category: OFAC
-- Published: 2026-06-30T16:50:00Z
-- URL: https://home.treasury.gov/news/press-releases/readouts
-
 ## READOUT: Financial Action Task Force’s June 2026 Working Group and Plenary
 - Source: Treasury
 - Category: OFAC
@@ -294,14 +288,6 @@ A malicious extension in the Chrome Web Store is masquerading as the Perplexity 
 - Category: OFAC
 - Published: 2026-06-30T14:40:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0546
-
-## Press Release: Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies
-- Source: FDIC
-- Category: Banking
-- Published: 2026-06-30T14:21:28Z
-- URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/41e40b0
-
-PRESS RELEASE | JUNE 30, 2026 Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies WASHINGTON — Federal bank regulatory agencies today released the 2026 list of certain geographies where certain bank activities are eligible for Community Reinvestment Act (CRA) credit. Under the CRA, the agencies assess a bank’s record of meeting the cred…
 
 ## Lessons from the Underground: How to Combat Business Email Compromise
 - Source: BleepingComputer
@@ -399,12 +385,6 @@ Information published.
 
 Information published.
 
-## Counter Narcotics Designations; Russia-related Designations Removals; Publication of Report for Licensing Activities Undertaken Pursuant to the Trade Sanctions Reform and Export Enhancement Act (TSRA)
-- Source: OFAC
-- Category: OFAC
-- Published: 2026-06-30T00:00:00Z
-- URL: https://ofac.treasury.gov/recent-actions/20260630
-
 ## Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies
 - Source: FDIC
 - Category: Banking
@@ -412,6 +392,12 @@ Information published.
 - URL: https://www.fdic.gov/news/press-releases/2026/agencies-release-list-distressed-or-underserved-nonmetropolitan-middle
 
 Federal bank regulatory agencies today released the 2026 list of certain geographies where certain bank activities are eligible for Community Reinvestment Act
+
+## Counter Narcotics Designations; Russia-related Designations Removals; Publication of Report for Licensing Activities Undertaken Pursuant to the Trade Sanctions Reform and Export Enhancement Act (TSRA)
+- Source: OFAC
+- Category: OFAC
+- Published: 2026-06-30T00:00:00Z
+- URL: https://ofac.treasury.gov/recent-actions/20260630
 
 ## Statement by Senator Elizabeth Warren on New Trump Crypto Financial Disclosures
 - Source: Senate Banking
@@ -6191,14 +6177,6 @@ WASHINGTON—Last week, the U.S. Department of the Treasury’s Financial Crimes
 
 IR-2026-78, June 22, 2026 — The Internal Revenue Service today announced select Taxpayer Assistance Centers will be open Saturday, June 27, for the final Saturday service event of 2026.
 
-## FDIC Statement on the Passing of Chairman William Isaac
-- Source: FDIC
-- Category: Banking
-- Published: 2026-06-22T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-statement-passing-chairman-william-isaac
-
-FDIC is saddened by the news of the passing of former Chairman William Isaac. Mr. Isaac served as the 14th chairman of the FDIC from 1981 through 1985.
-
 ## U.S. Senate Passes Chairman Scott’s 21st Century ROAD to Housing Act, Advancing Major Housing Affordability Win
 - Source: Senate Banking
 - Category: Legislative
@@ -11173,14 +11151,6 @@ IR-2026-74, June 5, 2026 — The Internal Revenue Service today issued the 2025 
 
 IR-2026-73, June 5, 2026 — The Department of the Treasury and the Internal Revenue Service today issued Notice 2026-36 announcing intent to issue proposed regulations addressing the tax on excessive compensation and excess parachute payments to employees of tax-exempt organizations under the One, Big, Beautiful Bill.
 
-## FDIC Issues List of Banks Examined for CRA Compliance
-- Source: FDIC
-- Category: Banking
-- Published: 2026-06-05T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-4
-
-The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA).
-
 ## MPF Announcement 2026-37
 - Source: FHLB MPF
 - Category: Mortgage
@@ -12794,14 +12764,6 @@ Information published.
 - Category: OFAC
 - Published: 2026-06-02T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260602
-
-## Agencies Remove Additional References to Reputation Risk
-- Source: FDIC
-- Category: Banking
-- Published: 2026-06-02T00:00:00Z
-- URL: https://www.fdic.gov/news/press-releases/2026/agencies-remove-additional-references-reputation-risk
-
-The federal bank regulatory agencies today jointly updated certain interagency documents to remove references to reputation risk.
 
 ## FW: Ranking Members Scott, Sanders, and Warren Slam Trump Administration Plan to Open Americans’ Hard-Earned Retirement Savings to Private Equity and Cryptocurrency
 - Source: Senate Banking

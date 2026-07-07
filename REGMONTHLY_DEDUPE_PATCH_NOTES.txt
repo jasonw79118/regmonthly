@@ -1,0 +1,26 @@
+RegMonthly duplicate suppression patch - 2026-07-02
+
+What changed:
+- Added landing/category page suppression to the monthly builder.
+- Treasury listing pages such as /news/press-releases/readouts are now excluded.
+- Generic titles such as Readouts, Speeches, Statements, Resources, Events, and Fact Sheets are filtered out when they are section/listing pages instead of real articles.
+- Added source-sensitive dedupe before publishing outputs.
+- Dedupe keeps separate agencies separate, so interagency releases from different regulators are not globally collapsed.
+- Added build log reporting for dropped generic/duplicate same-source items.
+
+Generated output cleanup applied in this ZIP:
+- Removed Treasury item: Readouts | https://home.treasury.gov/news/press-releases/readouts
+- Kept Treasury item: READOUT: Financial Action Task Force’s June 2026 Working Group and Plenary | https://home.treasury.gov/news/press-releases/sb0547
+- Regenerated docs/data/items.json and all raw/print exports from the cleaned item list.
+
+Validation performed:
+- docs/data/items.json parses as valid JSON.
+- docs/raw/items-array.json parses as valid JSON.
+- docs/raw/items-smart-100.json parses as valid JSON.
+- No live conflict markers <<<<<<< or >>>>>>> were found in docs or scripts.
+
+Suggested commit after extracting into your existing repo:
+
+git add scripts/build.py docs/data/items.json docs/raw/index.html docs/raw/items-array.json docs/raw/items-smart-100.json docs/raw/items.md docs/raw/items.ndjson docs/raw/items.txt docs/print/items.html REGMONTHLY_DEDUPE_PATCH_NOTES.txt
+git commit -m "add same-source duplicate suppression"
+git push origin main

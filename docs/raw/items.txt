@@ -248,12 +248,6 @@ https://home.treasury.gov/news/press-releases/sb0545
 OFAC
 Treasury
 2026-06-30T16:50:00Z
-Readouts
-https://home.treasury.gov/news/press-releases/readouts
-------------------------------------------------------------
-OFAC
-Treasury
-2026-06-30T16:50:00Z
 READOUT: Financial Action Task Force’s June 2026 Working Group and Plenary
 https://home.treasury.gov/news/press-releases/sb0547
 ------------------------------------------------------------
@@ -269,13 +263,6 @@ Treasury
 2026-06-30T14:40:00Z
 Terrorist Financing Targeting Center Jointly Designates Hizballah Financial Institutions and Senior Officials
 https://home.treasury.gov/news/press-releases/sb0546
-------------------------------------------------------------
-Banking
-FDIC
-2026-06-30T14:21:28Z
-Press Release: Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies
-https://content.govdelivery.com/accounts/USFDIC/bulletins/41e40b0
-PRESS RELEASE | JUNE 30, 2026 Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies WASHINGTON — Federal bank regulatory agencies today released the 2026 list of certain geographies where certain bank activities are eligible for Community Reinvestment Act (CRA) credit. Under the CRA, the agencies assess a bank’s record of meeting the cred…
 ------------------------------------------------------------
 IS
 BleepingComputer
@@ -361,18 +348,18 @@ CVE-2026-54369 acl < 2.4.0 Symlink Traversal Privilege Escalation via libacl Fun
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54369
 Information published.
 ------------------------------------------------------------
-OFAC
-OFAC
-2026-06-30T00:00:00Z
-Counter Narcotics Designations; Russia-related Designations Removals; Publication of Report for Licensing Activities Undertaken Pursuant to the Trade Sanctions Reform and Export Enhancement Act (TSRA)
-https://ofac.treasury.gov/recent-actions/20260630
-------------------------------------------------------------
 Banking
 FDIC
 2026-06-30T00:00:00Z
 Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies
 https://www.fdic.gov/news/press-releases/2026/agencies-release-list-distressed-or-underserved-nonmetropolitan-middle
 Federal bank regulatory agencies today released the 2026 list of certain geographies where certain bank activities are eligible for Community Reinvestment Act
+------------------------------------------------------------
+OFAC
+OFAC
+2026-06-30T00:00:00Z
+Counter Narcotics Designations; Russia-related Designations Removals; Publication of Report for Licensing Activities Undertaken Pursuant to the Trade Sanctions Reform and Export Enhancement Act (TSRA)
+https://ofac.treasury.gov/recent-actions/20260630
 ------------------------------------------------------------
 Legislative
 Senate Banking
@@ -5501,13 +5488,6 @@ IRS to offer final Saturday hours at Taxpayer Assistance Centers nationwide June
 https://www.irs.gov/newsroom/irs-to-offer-final-saturday-hours-at-taxpayer-assistance-centers-nationwide-june-27
 IR-2026-78, June 22, 2026 — The Internal Revenue Service today announced select Taxpayer Assistance Centers will be open Saturday, June 27, for the final Saturday service event of 2026.
 ------------------------------------------------------------
-Banking
-FDIC
-2026-06-22T00:00:00Z
-FDIC Statement on the Passing of Chairman William Isaac
-https://www.fdic.gov/news/press-releases/2026/fdic-statement-passing-chairman-william-isaac
-FDIC is saddened by the news of the passing of former Chairman William Isaac. Mr. Isaac served as the 14th chairman of the FDIC from 1981 through 1985.
-------------------------------------------------------------
 Legislative
 Senate Banking
 2026-06-22T00:00:00Z
@@ -9921,13 +9901,6 @@ Treasury, IRS announce intent to issue proposed regulations for excise tax on ex
 https://www.irs.gov/newsroom/treasury-irs-announce-intent-to-issue-proposed-regulations-for-excise-tax-on-excess-tax-exempt-organization-executive-compensation-under-the-one-big-beautiful-bill
 IR-2026-73, June 5, 2026 — The Department of the Treasury and the Internal Revenue Service today issued Notice 2026-36 announcing intent to issue proposed regulations addressing the tax on excessive compensation and excess parachute payments to employees of tax-exempt organizations under the One, Big, Beautiful Bill.
 ------------------------------------------------------------
-Banking
-FDIC
-2026-06-05T00:00:00Z
-FDIC Issues List of Banks Examined for CRA Compliance
-https://www.fdic.gov/news/press-releases/2026/fdic-issues-list-banks-examined-cra-compliance-4
-The FDIC today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA).
-------------------------------------------------------------
 Mortgage
 FHLB MPF
 2026-06-05T00:00:00Z
@@ -11358,13 +11331,6 @@ OFAC
 2026-06-02T00:00:00Z
 Counter Terrorism and Iran-related Designations; Democratic Republic of the Congo-related Designations; Issuance of Iran-related Frequently Asked Question
 https://ofac.treasury.gov/recent-actions/20260602
-------------------------------------------------------------
-Banking
-FDIC
-2026-06-02T00:00:00Z
-Agencies Remove Additional References to Reputation Risk
-https://www.fdic.gov/news/press-releases/2026/agencies-remove-additional-references-reputation-risk
-The federal bank regulatory agencies today jointly updated certain interagency documents to remove references to reputation risk.
 ------------------------------------------------------------
 Legislative
 Senate Banking
