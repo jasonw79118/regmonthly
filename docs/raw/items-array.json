@@ -1,37 +1,5 @@
 [
   {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "ABA joins with consumer rights group to protect fraud alerts",
-    "published_at": "2026-07-01T05:00:00Z",
-    "url": "https://bankingjournal.aba.com/2026/07/aba-joins-with-consumer-rights-group-to-protect-fraud-alerts/",
-    "summary": ""
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Warsh weighs in on Fed independence, inflation",
-    "published_at": "2026-07-01T05:00:00Z",
-    "url": "https://bankingjournal.aba.com/2026/07/warsh-weighs-in-on-fed-independence-inflation/",
-    "summary": ""
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "ABA DataBank: ISM Manufacturing PMI remains in expansion",
-    "published_at": "2026-07-01T05:00:00Z",
-    "url": "https://bankingjournal.aba.com/2026/07/aba-databank-ism-manufacturing-pmi-remains-in-expansion/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Anthropic to restore Claude Fable access on Wednesday",
-    "published_at": "2026-07-01T00:35:14Z",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-    "summary": "Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]"
-  },
-  {
     "category": "OFAC",
     "source": "OFAC",
     "title": "Counter Narcotics Designations; Counter Terrorism Designations and Designation Update",
@@ -57,6 +25,22 @@
   },
   {
     "category": "Legislative",
+    "source": "Senate Banking",
+    "title": "Warren, Schumer Urge EXIM Chair to Keep NY Regional Export Finance Center Open",
+    "published_at": "2026-07-01T00:00:00Z",
+    "url": "https://www.banking.senate.gov/newsroom/minority/warren-schumer-urge-exim-chair-to-keep-ny-regional-export-finance-center-open",
+    "summary": ""
+  },
+  {
+    "category": "Legislative",
+    "source": "Senate Banking",
+    "title": "Warren, Reed, Van Hollen Call On Fed Watchdog To Investigate Vice Chair Bowman's Private Wall Street Dinner During Fed's Blackout Period",
+    "published_at": "2026-07-01T00:00:00Z",
+    "url": "https://www.banking.senate.gov/newsroom/minority/warren-reed-van-hollen-call-on-fed-watchdog-to-investigate-vice-chair-bowmans-private-wall-street-dinner-during-feds-blackout-period",
+    "summary": ""
+  },
+  {
+    "category": "Legislative",
     "source": "House Financial Services",
     "title": "Chairman Hill Applauds World Bank Decision to Phase Out Lending to China",
     "published_at": "2026-07-01T00:00:00Z",
@@ -72,100 +56,20 @@
     "summary": ""
   },
   {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "DHS confirms hackers breached HSIN info-sharing platform",
+    "category": "Compliance Watch",
+    "source": "FASB",
+    "title": "FASB Seeks Public Comment on Proposal to Improve Investment Company Fair Value Reporting",
     "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Webinar: Why traditional email security is no longer enough",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "One app. 150+ languages. One $70 payment for lifetime access.",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/offer/deals/one-app-150-plus-languages-one-70-payment-for-lifetime-access/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
+    "url": "https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposal-to-improve-investment-company-fair-value-reporting-424892",
     "summary": ""
   },
   {
     "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Jump to Content",
+    "source": "FASB",
+    "title": "FASB Seeks Public Comment on Proposed Targeted Improvements to Hedge Accounting Guidance",
     "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/news-research",
-    "summary": "Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Risk Management",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/risk-management",
-    "summary": "Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Consumer Banking",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/consumer-banking",
-    "summary": "Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends."
+    "url": "https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposed-targeted-improvements-to-hedge-accounting-guidance-424706",
+    "summary": ""
   },
   {
     "category": "Compliance Watch",
@@ -178,74 +82,10 @@
   {
     "category": "Compliance Watch",
     "source": "ABA",
-    "title": "Inclusive Banking",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/consumer-banking/inclusive-banking",
-    "summary": "Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Retail Banking",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/consumer-banking/retail-banking",
-    "summary": "As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Technology",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/technology",
-    "summary": "Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Marketing & Communications",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/communications",
-    "summary": "Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Leadership & Operations",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/operations",
-    "summary": "Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Leadership",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/operations/leadership",
-    "summary": "Resources and training for bank CEOs and Executives"
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Workforce Excellence",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/operations/workforce-excellence",
-    "summary": "America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
     "title": "Accounting",
     "published_at": "2026-07-01T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/operations/accounting",
     "summary": "ABA represents the banking industry on policy issues related to accounting and auditing."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Economic Trends",
-    "published_at": "2026-07-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/operations/economic-trends",
-    "summary": "The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector."
   },
   {
     "category": "Federal Register",
@@ -259,38 +99,6 @@
       "topic:loan-programs-education"
     ],
     "fedreg_document_number": "2026-13286"
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-    "published_at": "2026-06-30T23:13:07Z",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-    "summary": "Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]"
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "New BioShocking attack manipulates AI browser into data theft",
-    "published_at": "2026-06-30T21:50:24Z",
-    "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-    "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]"
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
-    "published_at": "2026-06-30T21:20:06Z",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
-    "summary": "Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [...]"
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
-    "published_at": "2026-06-30T21:02:55Z",
-    "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
-    "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]"
   },
   {
     "category": "OFAC",
@@ -317,14 +125,6 @@
     "summary": ""
   },
   {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-    "published_at": "2026-06-30T15:46:19Z",
-    "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-    "summary": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]"
-  },
-  {
     "category": "OFAC",
     "source": "Treasury",
     "title": "Terrorist Financing Targeting Center Jointly Designates Hizballah Financial Institutions and Senior Officials",
@@ -333,16 +133,16 @@
     "summary": ""
   },
   {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-    "published_at": "2026-06-30T14:00:10Z",
-    "url": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-    "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]"
-  },
-  {
     "category": "Banking",
     "source": "FRB",
+    "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+    "published_at": "2026-06-30T14:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
+    "summary": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies"
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
     "published_at": "2026-06-30T14:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
@@ -447,6 +247,14 @@
   {
     "category": "Legislative",
     "source": "Senate Banking",
+    "title": "Scott, Hagerty Introduce Bill to Secure U.S. Technology Supply Chains from Foreign Adversaries",
+    "published_at": "2026-06-30T00:00:00Z",
+    "url": "https://www.banking.senate.gov/newsroom/majority/scott-hagerty-introduce-bill-to-secure-us-technology-supply-chains-from-foreign-adversaries",
+    "summary": ""
+  },
+  {
+    "category": "Legislative",
+    "source": "Senate Banking",
     "title": "Statement by Senator Elizabeth Warren on New Trump Crypto Financial Disclosures",
     "published_at": "2026-06-30T00:00:00Z",
     "url": "https://www.banking.senate.gov/newsroom/minority/statement-by-senator-elizabeth-warren-on-new-trump-crypto-financial-disclosures",
@@ -466,14 +274,6 @@
     "title": "Warren Presses NCUA Chair Hauptman On Proposals To Weaken Credit Unions",
     "published_at": "2026-06-30T00:00:00Z",
     "url": "https://www.banking.senate.gov/newsroom/minority/warren-presses-ncua-chair-hauptman-on-proposals-to-weaken-credit-unions",
-    "summary": ""
-  },
-  {
-    "category": "Legislative",
-    "source": "Senate Banking",
-    "title": "Scott, Hagerty Introduce Bill to Secure U.S. Technology Supply Chains from Foreign Adversaries",
-    "published_at": "2026-06-30T00:00:00Z",
-    "url": "https://www.banking.senate.gov/newsroom/majority/scott-hagerty-introduce-bill-to-secure-us-technology-supply-chains-from-foreign-adversaries",
     "summary": ""
   },
   {
@@ -781,38 +581,6 @@
     "summary": ""
   },
   {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "This $56 PDF tool handles almost all editing tasks you throw at it",
-    "published_at": "2026-06-30T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/offer/deals/this-56-pdf-tool-handles-almost-all-editing-tasks-you-throw-at-it/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Build cybersecurity skills with this $53 InfoSec4TC membership",
-    "published_at": "2026-06-30T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/offer/deals/build-cybersecurity-skills-with-this-53-infosec4tc-membership/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
-    "published_at": "2026-06-30T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-    "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Microsoft adds smarter bot protection to Teams meetings",
-    "published_at": "2026-06-30T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
-    "summary": ""
-  },
-  {
     "category": "Compliance Watch",
     "source": "CDIA",
     "title": "Education Services",
@@ -827,30 +595,6 @@
     "published_at": "2026-06-30T00:00:00Z",
     "url": "https://www.cdiaonline.org/advanced-metro-2-format-workshop/",
     "summary": ""
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Mortgage & Home Finance",
-    "published_at": "2026-06-30T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance",
-    "summary": "There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Commercial Banking",
-    "published_at": "2026-06-30T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/commercial-banking",
-    "summary": "Find resources on commercial banking topics like Commercial and Industrial (C&I) loans, small business, Commercial Real Estate (CRE), agricultural banking and more."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Commercial & Industrial Loans",
-    "published_at": "2026-06-30T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans",
-    "summary": "ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments."
   },
   {
     "category": "Federal Register",
@@ -899,6 +643,38 @@
       "topic:securities"
     ],
     "fedreg_document_number": "2026-13123"
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Declaration of Emergency and Authorization for Temporary Duty Free Importation of Phosphate Fertilizer Morocco",
+    "published_at": "2026-06-29T23:31:17Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/declaration-of-emergency-and-authorization-for-temporary-duty-free-importation-of-phosphate-fertilizer-morocco/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Declares an Emergency and Authorizes the Temporary Suspension of Certain Duties on Phosphate Fertilizer from Morocco",
+    "published_at": "2026-06-29T23:26:58Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-declares-an-emergency-and-authorizes-the-temporary-suspension-of-certain-duties-on-phosphate-fertilizer-from-morocco/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Lowers the Cost of Living by Promoting the Freedom to Fix",
+    "published_at": "2026-06-29T19:54:29Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Lowering the Cost of Living by Promoting the Freedom to Fix",
+    "published_at": "2026-06-29T19:53:41Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/lowering-the-cost-of-living-by-promoting-the-freedom-to-fix/",
+    "summary": ""
   },
   {
     "category": "Fintech Watch",
@@ -5671,6 +5447,14 @@
     "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "S. 1003 Signed into Law",
+    "published_at": "2026-06-26T20:55:58Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/",
+    "summary": ""
+  },
+  {
     "category": "OFAC",
     "source": "Treasury",
     "title": "Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis",
@@ -5799,30 +5583,6 @@
     "summary": "Resources to help you prepare for and respond to a physical or cyber incident."
   },
   {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Payments Overview",
-    "published_at": "2026-06-26T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments",
-    "summary": "Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "ACH Transactions",
-    "published_at": "2026-06-26T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/ach-transactions",
-    "summary": "Banks that originate ACH transactions will be responsible for working with their clients to determine if certain payments meet the IAT definition."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Credit Cards",
-    "published_at": "2026-06-26T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/credit-cards",
-    "summary": "New credit card laws have fundamentally changed the industry."
-  },
-  {
     "category": "Federal Register",
     "source": "Federal Register",
     "title": "Sunshine Act Meetings: Notice of Meeting To Be Held With Less Than Seven Days' Advance Notice",
@@ -5834,6 +5594,22 @@
       "filter:federal-deposit-insurance-corporation"
     ],
     "fedreg_document_number": "2026-12923"
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Advancing Regenerative Agriculture and Strengthening American Farm Resilience",
+    "published_at": "2026-06-25T23:00:19Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Advances Regenerative Agriculture and Strengthens American Farm Resilience",
+    "published_at": "2026-06-25T23:00:00Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-advances-regenerative-agriculture-and-strengthens-american-farm-resilience/",
+    "summary": ""
   },
   {
     "category": "Banking",
@@ -5854,18 +5630,34 @@
   {
     "category": "Banking",
     "source": "FRB",
+    "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+    "published_at": "2026-06-25T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+    "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc."
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
     "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
     "published_at": "2026-06-25T15:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
     "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc."
   },
   {
-    "category": "Banking",
-    "source": "FRB",
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
     "published_at": "2026-06-25T15:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
     "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc."
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+    "published_at": "2026-06-25T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+    "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc."
   },
   {
     "category": "IS",
@@ -5998,7 +5790,7 @@
   {
     "category": "Compliance Watch",
     "source": "ABA",
-    "title": "Wealth Management",
+    "title": "Wealth Management Overview",
     "published_at": "2026-06-25T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/wealth-management",
     "summary": "Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices."
@@ -6106,6 +5898,14 @@
     "summary": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses"
   },
   {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+    "published_at": "2026-06-24T20:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
+    "summary": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses"
+  },
+  {
     "category": "OFAC",
     "source": "Treasury",
     "title": "Statements & Remarks",
@@ -6143,6 +5943,14 @@
     "title": "Treasury Concludes the Artificial Intelligence Innovation Series",
     "published_at": "2026-06-24T14:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0540",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Nomination Sent to the Senate",
+    "published_at": "2026-06-24T14:08:26Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/",
     "summary": ""
   },
   {
@@ -6208,14 +6016,6 @@
     "published_at": "2026-06-24T00:00:00Z",
     "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-announces-results-tender-offers-any-and-all-its",
     "summary": ""
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Artificial Intelligence",
-    "published_at": "2026-06-24T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/technology/artificial-intelligence",
-    "summary": "Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI."
   },
   {
     "category": "Compliance Watch",
@@ -6302,6 +6102,14 @@
     "published_at": "2026-06-23T21:08:01Z",
     "url": "https://www.texasbankers.com/texas-bankers-and-mortgage-bankers-applaud-final-house-passage-of-landmark-housing-legislation/",
     "summary": "AUSTIN, Texas — The Texas Mortgage Bankers Association and Texas Bankers Association today applauded the U.S. House of Representatives for final passage of the 21st Century ROAD to Housing Act, clearing the bipartisan housing package for consideration by President Donald J. Trump. The House action follows the Senate’s overwhelming 85-5 approval of the legislation Monday. The […"
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Nominations Sent to the Senate",
+    "published_at": "2026-06-23T16:18:27Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-a2ce/",
+    "summary": ""
   },
   {
     "category": "OFAC",
@@ -6432,6 +6240,14 @@
     "summary": ""
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "America 250: Presidential Message on the Anniversary of the Battle of Okinawa",
+    "published_at": "2026-06-23T00:00:00Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-okinawa/",
+    "summary": ""
+  },
+  {
     "category": "Fintech Watch",
     "source": "Fiserv",
     "title": "Fiserv Announces Pricing of Tender Offers for Any and All of its Outstanding 5.150% Senior Notes due 2027 and 4.400% Senior Notes due 2049",
@@ -6453,6 +6269,38 @@
     "title": "Mastercard launches Agent Pay for Machines to unlock super-fast, always-on payments June 10, 2026",
     "published_at": "2026-06-23T00:00:00Z",
     "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks",
+    "published_at": "2026-06-22T20:39:42Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation",
+    "published_at": "2026-06-22T20:39:32Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Ushering in the Next Frontier of Quantum Innovation",
+    "published_at": "2026-06-22T20:38:18Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Securing the Nation Against Advanced Cryptographic Attacks",
+    "published_at": "2026-06-22T20:37:30Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/",
     "summary": ""
   },
   {
@@ -6482,6 +6330,14 @@
   {
     "category": "Banking",
     "source": "FRB",
+    "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+    "published_at": "2026-06-22T12:45:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+    "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan"
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
     "published_at": "2026-06-22T12:45:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
@@ -6598,6 +6454,14 @@
     "fedreg_document_number": "2026-12460"
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Message on Father’s Day",
+    "published_at": "2026-06-21T16:46:19Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-fathers-day/",
+    "summary": ""
+  },
+  {
     "category": "IS",
     "source": "Microsoft MSRC",
     "title": "CVE-2026-44967 opentelemetry-cpp: OTLP HTTP exporters read unbounded HTTP response",
@@ -6704,226 +6568,226 @@
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12466 Heap buffer overflow in WebRTC",
-    "published_at": "2026-06-19T20:52:59Z",
+    "title": "Chromium: CVE-2026-12466 Heap buffer overflow in WebRTC",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12466",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12461 Out of bounds read in WebRTC",
-    "published_at": "2026-06-19T20:52:57Z",
+    "title": "Chromium: CVE-2026-12461 Out of bounds read in WebRTC",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12461",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12449 Use after free in Chromoting",
-    "published_at": "2026-06-19T20:52:56Z",
+    "title": "Chromium: CVE-2026-12449 Use after free in Chromoting",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12449",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12444 Out of bounds read in Chromoting",
-    "published_at": "2026-06-19T20:52:55Z",
+    "title": "Chromium: CVE-2026-12444 Out of bounds read in Chromoting",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12444",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12437 Use after free in WebShare",
-    "published_at": "2026-06-19T20:52:53Z",
+    "title": "Chromium: CVE-2026-12437 Use after free in WebShare",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12437",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12468 Inappropriate implementation in Updater",
-    "published_at": "2026-06-19T20:52:52Z",
+    "title": "Chromium: CVE-2026-12468 Inappropriate implementation in Updater",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12468",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12454 Race in Safe Browsing",
-    "published_at": "2026-06-19T20:52:50Z",
+    "title": "Chromium: CVE-2026-12454 Race in Safe Browsing",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12454",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12467 Use after free in Extensions",
-    "published_at": "2026-06-19T20:52:48Z",
+    "title": "Chromium: CVE-2026-12467 Use after free in Extensions",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12467",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12465 Insufficient validation of untrusted input in Metrics",
-    "published_at": "2026-06-19T20:52:46Z",
+    "title": "Chromium: CVE-2026-12465 Insufficient validation of untrusted input in Metrics",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12465",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12464 Use after free in Browser",
-    "published_at": "2026-06-19T20:52:44Z",
+    "title": "Chromium: CVE-2026-12464 Use after free in Browser",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12464",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12463 Inappropriate implementation in Views",
-    "published_at": "2026-06-19T20:52:43Z",
+    "title": "Chromium: CVE-2026-12463 Inappropriate implementation in Views",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12463",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12462 Use after free in Media",
-    "published_at": "2026-06-19T20:52:42Z",
+    "title": "Chromium: CVE-2026-12462 Use after free in Media",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12462",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12460 Insufficient policy enforcement in File System Access",
-    "published_at": "2026-06-19T20:52:40Z",
+    "title": "Chromium: CVE-2026-12460 Insufficient policy enforcement in File System Access",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12460",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12459 Inappropriate implementation in Serial",
-    "published_at": "2026-06-19T20:52:39Z",
+    "title": "Chromium: CVE-2026-12459 Inappropriate implementation in Serial",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12459",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12458 Incorrect security UI in Passwords",
-    "published_at": "2026-06-19T20:52:38Z",
+    "title": "Chromium: CVE-2026-12458 Incorrect security UI in Passwords",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12458",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12457 Insufficient data validation in Extensions",
-    "published_at": "2026-06-19T20:52:37Z",
+    "title": "Chromium: CVE-2026-12457 Insufficient data validation in Extensions",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12457",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12456 Insufficient validation of untrusted input in Extensions",
-    "published_at": "2026-06-19T20:52:36Z",
+    "title": "Chromium: CVE-2026-12456 Insufficient validation of untrusted input in Extensions",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12456",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12455 Use after free in Tab Strip",
-    "published_at": "2026-06-19T20:52:34Z",
+    "title": "Chromium: CVE-2026-12455 Use after free in Tab Strip",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12455",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12453 Insufficient validation of untrusted input in Input",
-    "published_at": "2026-06-19T20:52:33Z",
+    "title": "Chromium: CVE-2026-12453 Insufficient validation of untrusted input in Input",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12453",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12452 Use after free in Downloads",
-    "published_at": "2026-06-19T20:52:31Z",
+    "title": "Chromium: CVE-2026-12452 Use after free in Downloads",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12452",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12451 Use after free in DigitalCredentials",
-    "published_at": "2026-06-19T20:52:30Z",
+    "title": "Chromium: CVE-2026-12451 Use after free in DigitalCredentials",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12451",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12447 Heap buffer overflow in WebRTC",
-    "published_at": "2026-06-19T20:52:29Z",
+    "title": "Chromium: CVE-2026-12447 Heap buffer overflow in WebRTC",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12447",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12446 Insufficient data validation in Passwords",
-    "published_at": "2026-06-19T20:52:27Z",
+    "title": "Chromium: CVE-2026-12446 Insufficient data validation in Passwords",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12446",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12445 Use after free in Extensions",
-    "published_at": "2026-06-19T20:52:26Z",
+    "title": "Chromium: CVE-2026-12445 Use after free in Extensions",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12445",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12443 Use after free in Web Authentication",
-    "published_at": "2026-06-19T20:52:25Z",
+    "title": "Chromium: CVE-2026-12443 Use after free in Web Authentication",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12443",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12441 Use after free in File Input",
-    "published_at": "2026-06-19T20:52:24Z",
+    "title": "Chromium: CVE-2026-12441 Use after free in File Input",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12441",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12440 Use after free in DigitalCredentials",
-    "published_at": "2026-06-19T20:52:22Z",
+    "title": "Chromium: CVE-2026-12440 Use after free in DigitalCredentials",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12440",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
     "source": "Microsoft MSRC",
-    "title": "CVE-2026-12439 Use after free in Digital Credentials",
-    "published_at": "2026-06-19T20:52:19Z",
+    "title": "Chromium: CVE-2026-12439 Use after free in Digital Credentials",
+    "published_at": "2026-06-19T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12439",
-    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
+    "summary": "Corrected CVE title. This is an informational change only."
   },
   {
     "category": "IS",
@@ -7246,8 +7110,24 @@
     "summary": ""
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Effects of Banning Anti-Competitive Hospital Contracts",
+    "published_at": "2026-06-18T19:31:26Z",
+    "url": "https://www.whitehouse.gov/research/2026/06/effects-of-banning-anti-competitive-hospital-contracts/",
+    "summary": ""
+  },
+  {
     "category": "Banking",
     "source": "FRB",
+    "title": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
+    "published_at": "2026-06-18T19:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
+    "summary": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc."
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
     "published_at": "2026-06-18T19:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
@@ -7264,6 +7144,14 @@
   {
     "category": "Banking",
     "source": "FRB",
+    "title": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
+    "published_at": "2026-06-18T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
+    "summary": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company"
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
     "published_at": "2026-06-18T15:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
@@ -7358,8 +7246,24 @@
     "summary": "Improper neutralization of input during web page generation ('cross-site scripting') in Dynamics 365 Customer Voice allows an unauthorized attacker to perform spoofing over a network."
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "President Trump to Award Medal of Honor",
+    "published_at": "2026-06-18T13:23:51Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/",
+    "summary": ""
+  },
+  {
     "category": "Banking",
     "source": "FRB",
+    "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+    "published_at": "2026-06-18T13:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+    "summary": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program"
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
     "published_at": "2026-06-18T13:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
@@ -7478,6 +7382,14 @@
     "summary": "The Federal Reserve Board of Governors in Washington DC."
   },
   {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Regulatory Reform",
+    "published_at": "2026-06-18T00:00:00Z",
+    "url": "https://www.federalreserve.gov/reform.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC."
+  },
+  {
     "category": "Mortgage",
     "source": "Freddie Mac",
     "title": "Mortgage Rates Decline",
@@ -7542,6 +7454,22 @@
     "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting"
   },
   {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve issues FOMC statement",
+    "published_at": "2026-06-17T18:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+    "summary": "Federal Reserve issues FOMC statement"
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+    "published_at": "2026-06-17T18:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+    "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting"
+  },
+  {
     "category": "Compliance Watch",
     "source": "TBA",
     "title": "Fed Warsh reveals plans, holds rates steady",
@@ -7574,6 +7502,14 @@
     "summary": "Acknowledgement added. This is an informational change only."
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts",
+    "published_at": "2026-06-17T13:23:49Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/what-they-are-saying-first-lady-melania-trump-launches-fostering-the-future-accounts/",
+    "summary": ""
+  },
+  {
     "category": "IRS",
     "source": "IRS",
     "title": "Electronic Tax Administration Advisory Committee 2026 Annual Report includes recommendations to Congress and IRS",
@@ -7592,6 +7528,22 @@
   {
     "category": "Banking",
     "source": "FRB",
+    "title": "2026 FOMC",
+    "published_at": "2026-06-17T00:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC."
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "News & Events",
+    "published_at": "2026-06-17T00:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC."
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "2026 FOMC",
     "published_at": "2026-06-17T00:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
@@ -7619,6 +7571,14 @@
     "title": "First Commerce Bank Selects FIS Core Banking to Compete in an AI-Ready Future",
     "published_at": "2026-06-17T00:00:00Z",
     "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/first-commerce-bank-selects-fis-core-banking-compete-ai-ready",
+    "summary": ""
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "FASB",
+    "title": "FASB Seeks Public Comment on Proposal to Improve Accounting Guidance for Certain Market-Return Cash Balance Plans",
+    "published_at": "2026-06-17T00:00:00Z",
+    "url": "https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposal-to-improve-accounting-guidance-for-certain-market-return-cash-balance-plans-424656",
     "summary": ""
   },
   {
@@ -8280,6 +8240,14 @@
     "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information."
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "America 250: Presidential Message on the Anniversary of the Signing of Magna Carta",
+    "published_at": "2026-06-16T00:02:15Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-signing-of-magna-carta/",
+    "summary": ""
+  },
+  {
     "category": "Legislative",
     "source": "Senate Banking",
     "title": "Scott, Warren, Hill, Waters Release Updated Bill Text on Senate Consideration of the 21st Century ROAD to Housing Act",
@@ -8355,12 +8323,28 @@
     "fedreg_document_number": "2026-12058"
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Nominations Sent to the Senate",
+    "published_at": "2026-06-15T21:53:41Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-4101/",
+    "summary": ""
+  },
+  {
     "category": "Compliance Watch",
     "source": "TBA",
     "title": "TBA hosts U.S. Treasury Secretary, Comptroller in Houston",
     "published_at": "2026-06-15T16:52:25Z",
     "url": "https://www.texasbankers.com/tba-hosts-u-s-treasury-secretary-comptroller-in-houston/",
     "summary": "Meetings focus on protecting the financial system and fighting illicit activity while ensuring access for legitimate businesses FOR IMMEDIATE RELEASE: June 15, 2026 HOUSTON – Bankers from throughout Texas underscored their commitment to supporting the integrity of the financial system while serving legitimate businesses and households in a meeting Friday […] The post TBA hosts…"
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Message on Men’s Health Week",
+    "published_at": "2026-06-15T16:00:00Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-mens-health-week/",
+    "summary": ""
   },
   {
     "category": "IS",
@@ -8555,6 +8539,14 @@
     "summary": "This webpage provides resources to help bankers better understand elder financial exploitation (EFE)."
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Message on the 251st Birthday of the United States Army",
+    "published_at": "2026-06-14T18:42:20Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-the-251st-birthday-of-the-united-states-army/",
+    "summary": ""
+  },
+  {
     "category": "IS",
     "source": "Microsoft MSRC",
     "title": "CVE-2026-10846 Insufficient verification that responses belong to a query",
@@ -8715,6 +8707,62 @@
     "summary": ""
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "First Lady Melania Trump’s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts",
+    "published_at": "2026-06-12T20:58:22Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trumps-remarkable-week-empowering-youth-through-ai-challenge-and-fostering-the-future-accounts/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "America 250: Presidential Message on the 250th Anniversary of the Virginia Declaration of Rights",
+    "published_at": "2026-06-12T20:21:35Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-250th-anniversary-of-the-virginia-declaration-of-rights/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Defends America’s Warfighters and Intelligence Officers Against Cyber Threats",
+    "published_at": "2026-06-12T19:36:33Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-defends-americas-warfighters-and-intelligence-officers-against-cyber-threats/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "S. 254 Signed into Law",
+    "published_at": "2026-06-12T19:26:27Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/s-254-signed-into-law/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "National Homeownership Month, 2026",
+    "published_at": "2026-06-12T19:24:42Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/national-homeownership-month-2026/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Flag Day and National Flag Week, 2026",
+    "published_at": "2026-06-12T19:22:08Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/flag-day-and-national-flag-week-2026/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "National Security Presidential Memorandum/NSPM-12",
+    "published_at": "2026-06-12T19:19:12Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/",
+    "summary": ""
+  },
+  {
     "category": "OFAC",
     "source": "Treasury",
     "title": "Remarks by Treasury Secretary Scott Bessent before the Petroleum Club of Houston",
@@ -8833,6 +8881,38 @@
     "fedreg_document_number": "2026-11851"
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Nomination and Withdrawal Sent to the Senate",
+    "published_at": "2026-06-11T21:03:00Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "75th Anniversary of the White House Navy Mess, 2026",
+    "published_at": "2026-06-11T20:27:44Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific",
+    "published_at": "2026-06-11T20:26:56Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-restores-american-commercial-fishing-in-the-pacific/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Restoring American Commercial Fishing in the Pacific",
+    "published_at": "2026-06-11T20:25:24Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/",
+    "summary": ""
+  },
+  {
     "category": "OFAC",
     "source": "Treasury",
     "title": "Treasury Secretary Scott Bessent and First Lady Melania Trump Announce Access to Trump Accounts for Foster Youth, under Mrs. Trump’s Fostering the Future Initiative",
@@ -8849,12 +8929,36 @@
     "summary": ""
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "First Lady Melania Trump Launches Fostering the Future Accounts America’s First Savings & Investment Vehicle for Foster Youth",
+    "published_at": "2026-06-11T16:13:47Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-launches-fostering-the-future-accountsamericas-first-savings-investment-vehicle-for-foster-youth/",
+    "summary": ""
+  },
+  {
     "category": "Banking",
     "source": "FRB",
     "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
     "published_at": "2026-06-11T15:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
     "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections"
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+    "published_at": "2026-06-11T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
+    "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections"
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Message on U.S. Catholic Bishops Honoring the 250th Anniversary of American Independence",
+    "published_at": "2026-06-11T12:36:32Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-u-s-catholic-bishops-honoring-the-250th-anniversary-of-american-independence/",
+    "summary": ""
   },
   {
     "category": "IS",
@@ -9207,6 +9311,14 @@
     "fedreg_document_number": "2026-11688"
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Nomination Sent to the Senate",
+    "published_at": "2026-06-10T19:41:45Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-6e45/",
+    "summary": ""
+  },
+  {
     "category": "OFAC",
     "source": "Treasury",
     "title": "Treasury Previews Education Freedom Tax Credit Guidance",
@@ -9220,6 +9332,14 @@
     "title": "Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs",
     "published_at": "2026-06-10T17:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0528",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "S. 2 Signed into Law",
+    "published_at": "2026-06-10T16:25:35Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/s-2-signed-into-law/",
     "summary": ""
   },
   {
@@ -9245,14 +9365,6 @@
     "published_at": "2026-06-10T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40376",
     "summary": "Updated the Security Updates Build Number"
-  },
-  {
-    "category": "IS",
-    "source": "Microsoft MSRC",
-    "title": "CVE-2026-45482 Microsoft Visual Studio Code CoPilot Chat Security Feature Bypass Vulnerability",
-    "published_at": "2026-06-10T14:00:00Z",
-    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45482",
-    "summary": "Updated the Security Updates Build Number and Title as the Chat extention is now merged into Visual Studio Code"
   },
   {
     "category": "IS",
@@ -9456,15 +9568,31 @@
   },
   {
     "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Debit Cards",
+    "source": "FASB",
+    "title": "Investor Advisory Committee Meeting Recap—May 28, 2026",
     "published_at": "2026-06-10T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/debit-cards",
-    "summary": "Debit cards are a preferred payment method for consumers, and are now synonymous with banking."
+    "url": "https://www.fasb.org/news-and-meetings/in-the-news/investor-advisory-committee-meeting-recapmay-28-2026-424642",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Congressional Bills H.R. 3490 and S. 2393 Signed into Law",
+    "published_at": "2026-06-09T20:01:10Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/",
+    "summary": ""
   },
   {
     "category": "Banking",
     "source": "FRB",
+    "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+    "published_at": "2026-06-09T20:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
+    "summary": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT."
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
     "published_at": "2026-06-09T20:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
@@ -9477,6 +9605,14 @@
     "published_at": "2026-06-09T17:58:10Z",
     "url": "https://www.texasbankers.com/texas-bankers-association-elects-2026-2027-board-of-directors/",
     "summary": "(AUSTIN) – The Texas Bankers Association (TBA) recently announced the elected Board of Directors for the 2026-27 fiscal year. Named were: Chairman William M. Lucas, Shelby Savings Bank, SSB, Center; Vice Chair Michael A. Neill, First State Bank, Athens; Treasurer Micah C. Boles, First National Bank of Bosque County, Valley Mills; and Past Chairman Ronald D. Butler, II, First F…"
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "First Lady Melania Trump Honors America’s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony",
+    "published_at": "2026-06-09T15:51:33Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/",
+    "summary": ""
   },
   {
     "category": "OFAC",
@@ -9861,6 +9997,14 @@
     "published_at": "2026-06-09T14:00:01Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-10883",
     "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information."
+  },
+  {
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "CVE-2026-45482 Microsoft Visual Studio Code CoPilot Chat Extension Security Feature Bypass Vulnerability",
+    "published_at": "2026-06-09T14:00:00Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45482",
+    "summary": "Improper limitation of a pathname to a restricted directory ('path traversal') in GitHub Copilot and Visual Studio Code allows an unauthorized attacker to bypass a security feature locally."
   },
   {
     "category": "IS",
@@ -11553,6 +11697,14 @@
     "fedreg_document_number": "2026-11507"
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Nomination Sent to the Senate",
+    "published_at": "2026-06-08T19:38:26Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
+    "summary": ""
+  },
+  {
     "category": "IS",
     "source": "Microsoft MSRC",
     "title": "CVE-2026-35429 Microsoft Edge (Chromium-based) for Android Spoofing Vulnerability",
@@ -11646,6 +11798,38 @@
     "fedreg_document_number": "2026-11447"
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "America 250: Presidential Message on the Anniversary of D-Day",
+    "published_at": "2026-06-06T23:13:18Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-d-day/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Message on National Ocean Month",
+    "published_at": "2026-06-05T20:54:08Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-national-ocean-month/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Signs Historic Directive on AI in the National Security Enterprise",
+    "published_at": "2026-06-05T18:24:14Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-signs-historic-directive-on-ai-in-the-national-security-enterprise/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "National Security Presidential Memorandum/NSPM-11",
+    "published_at": "2026-06-05T18:22:57Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/",
+    "summary": ""
+  },
+  {
     "category": "OFAC",
     "source": "Treasury",
     "title": "Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks",
@@ -11692,22 +11876,6 @@
     "published_at": "2026-06-05T00:00:00Z",
     "url": "https://ofac.treasury.gov/recent-actions/20260605",
     "summary": ""
-  },
-  {
-    "category": "IRS",
-    "source": "IRS",
-    "title": "IRS describes agency’s activities in fiscal year 2025 Data Book",
-    "published_at": "2026-06-05T00:00:00Z",
-    "url": "https://www.irs.gov/newsroom/irs-describes-agencys-activities-in-fiscal-year-2025-data-book",
-    "summary": "IR-2026-74, June 5, 2026 — The Internal Revenue Service today issued the 2025 Data Book detailing the agency’s activities during fiscal year 2025."
-  },
-  {
-    "category": "IRS",
-    "source": "IRS",
-    "title": "Treasury, IRS announce intent to issue proposed regulations for excise tax on excess tax-exempt organization executive compensation under the One, Big, Beautiful Bill",
-    "published_at": "2026-06-05T00:00:00Z",
-    "url": "https://www.irs.gov/newsroom/treasury-irs-announce-intent-to-issue-proposed-regulations-for-excise-tax-on-excess-tax-exempt-organization-executive-compensation-under-the-one-big-beautiful-bill",
-    "summary": "IR-2026-73, June 5, 2026 — The Department of the Treasury and the Internal Revenue Service today issued Notice 2026-36 announcing intent to issue proposed regulations addressing the tax on excessive compensation and excess parachute payments to employees of tax-exempt organizations under the One, Big, Beautiful Bill."
   },
   {
     "category": "Mortgage",
@@ -11790,6 +11958,22 @@
       "topic:employment"
     ],
     "fedreg_document_number": "2026-11285"
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Granting Pardon to Stephen E. Buyer",
+    "published_at": "2026-06-04T22:00:00Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/granting-pardon-to-stephen-e-buyer/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "America 250: Presidential Message on the Anniversary of the Battle of Midway",
+    "published_at": "2026-06-04T17:25:26Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-midway/",
+    "summary": ""
   },
   {
     "category": "OFAC",
@@ -11912,14 +12096,6 @@
     "summary": ""
   },
   {
-    "category": "IRS",
-    "source": "IRS",
-    "title": "IRS announces nationwide hiring events for customer service representatives and tax examining technicians",
-    "published_at": "2026-06-04T00:00:00Z",
-    "url": "https://www.irs.gov/newsroom/irs-announces-nationwide-hiring-events-for-customer-service-representatives-and-tax-examining-technicians",
-    "summary": "IR-2026-72, June 4, 2026 — The Internal Revenue Service today announced a series of hiring events to take place across the country through July."
-  },
-  {
     "category": "Mortgage",
     "source": "Freddie Mac",
     "title": "Mortgage Rates Decrease to 6.48%",
@@ -12007,6 +12183,38 @@
       "topic:loan-programs-education"
     ],
     "fedreg_document_number": "2026-11195"
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Strengthening Customs Enforcement",
+    "published_at": "2026-06-03T20:35:52Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/strengthening-customs-enforcement/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Implementing Schedule Policy/Career in the Excepted Service",
+    "published_at": "2026-06-03T20:34:27Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/implementing-schedule-policy-career-in-the-excepted-service/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Increases Accountability in the Federal Workforce",
+    "published_at": "2026-06-03T20:30:33Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Strengthens Customs Enforcement",
+    "published_at": "2026-06-03T20:29:46Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/",
+    "summary": ""
   },
   {
     "category": "OFAC",
@@ -12865,6 +13073,22 @@
     "summary": ""
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security",
+    "published_at": "2026-06-02T18:04:20Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Promoting Advanced Artificial Intelligence Innovation and Security",
+    "published_at": "2026-06-02T15:34:13Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+    "summary": ""
+  },
+  {
     "category": "Banking",
     "source": "FDIC",
     "title": "Press Release: Agencies Remove Additional References to Reputation Risk",
@@ -12875,6 +13099,14 @@
   {
     "category": "Banking",
     "source": "FRB",
+    "title": "Agencies remove additional references to reputation risk",
+    "published_at": "2026-06-02T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
+    "summary": "Agencies remove additional references to reputation risk"
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Agencies remove additional references to reputation risk",
     "published_at": "2026-06-02T15:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
@@ -13409,6 +13641,22 @@
     "summary": "Information published."
   },
   {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Updates Tariffs on Steel, Aluminum, and Copper Imports",
+    "published_at": "2026-06-02T01:10:32Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper into the United States",
+    "published_at": "2026-06-02T01:09:17Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/",
+    "summary": ""
+  },
+  {
     "category": "OFAC",
     "source": "OFAC",
     "title": "Counter Terrorism and Iran-related Designations; Democratic Republic of the Congo-related Designations; Issuance of Iran-related Frequently Asked Question",
@@ -13441,14 +13689,6 @@
     "summary": ""
   },
   {
-    "category": "Fintech Watch",
-    "source": "Fiserv",
-    "title": "Fiserv Named 2026 Financial Services Product Partner of the Year by Snowflake",
-    "published_at": "2026-06-02T00:00:00Z",
-    "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-2026-financial-services-product-partner-year",
-    "summary": ""
-  },
-  {
     "category": "Payment Card Networks",
     "source": "Mastercard",
     "title": "Mastercard advances instant cross-border payments with TIPS cross-currency pilot June 1, 2026",
@@ -13471,12 +13711,20 @@
     "fedreg_document_number": "2026-11002"
   },
   {
-    "category": "Compliance Watch",
-    "source": "TBA",
-    "title": "Texas Bankers CEO Touts Depth and Growth of State Banking Sector",
-    "published_at": "2026-06-01T19:09:32Z",
-    "url": "https://www.texasbankers.com/texas-bankers-ceo-touts-depth-and-growth-of-state-banking-sector/",
-    "summary": "“This is no longer Texas becoming America’s financial services capital. You’re seeing it happen right before our eyes.” (AUSTIN) – Texas Gov. Greg Abbott’s declaration that Texas is “America’s Financial Capital” underscores the rapid growth and unmatched depth of Texas’s financial services industry, Texas Bankers Association (TBA) President and CEO Chris Furlow said in a […] T…"
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Message on Global Coptic Day",
+    "published_at": "2026-06-01T22:12:24Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/",
+    "summary": ""
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Nominations and Withdrawal Sent to the Senate",
+    "published_at": "2026-06-01T19:45:44Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/",
+    "summary": ""
   },
   {
     "category": "OFAC",

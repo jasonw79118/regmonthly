@@ -114,22 +114,13 @@
     "smart_index": 10
   },
   {
-    "category": "Payment Card Networks",
-    "source": "Visa",
-    "title": "Visa to Bring Privacy-Preserving Payments to Canton Network",
-    "published_at": "2026-06-30T00:00:00Z",
-    "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22231.html",
-    "summary": "",
-    "smart_index": 11
-  },
-  {
     "category": "Fintech Watch",
     "source": "Finastra",
     "title": "Maldives Premier Bank selects Finastra to power international banking capabilities",
     "published_at": "2026-06-29T12:00:00Z",
     "url": "https://www.finastra.com/press-media/maldives-premier-bank-selects-finastra-power-international-banking-capabilities",
     "summary": "",
-    "smart_index": 12
+    "smart_index": 11
   },
   {
     "category": "OFAC",
@@ -138,25 +129,7 @@
     "published_at": "2026-06-26T14:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0544",
     "summary": "",
-    "smart_index": 13
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "ACH Transactions",
-    "published_at": "2026-06-26T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/ach-transactions",
-    "summary": "Banks that originate ACH transactions will be responsible for working with their clients to determine if certain payments meet the IAT definition.",
-    "smart_index": 14
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Credit Cards",
-    "published_at": "2026-06-26T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/credit-cards",
-    "summary": "New credit card laws have fundamentally changed the industry.",
-    "smart_index": 15
+    "smart_index": 12
   },
   {
     "category": "Banking",
@@ -165,7 +138,7 @@
     "published_at": "2026-06-25T19:20:30Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41da372",
     "summary": "BOARD MEETING | JUNE 25, 2026 FDIC Board of Directors Meeting Today, the Federal Deposit Insurance Corporation’s Board of Directors met in open session to consider the following matters. Materials and information relative to the open Board actions are available on the Board Matters webpage . Items Addressed in Open Session: Notice of Proposed Rulemaking: Resolution Submissions…",
-    "smart_index": 16
+    "smart_index": 13
   },
   {
     "category": "OFAC",
@@ -174,7 +147,7 @@
     "published_at": "2026-06-25T18:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0543",
     "summary": "",
-    "smart_index": 17
+    "smart_index": 14
   },
   {
     "category": "Federal Register",
@@ -189,7 +162,7 @@
       "topic:credit-unions"
     ],
     "fedreg_document_number": "2026-12856",
-    "smart_index": 18
+    "smart_index": 15
   },
   {
     "category": "Banking",
@@ -198,7 +171,7 @@
     "published_at": "2026-06-25T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-approves-proposal-revise-deposit-insurance-assessment",
     "summary": "The FDIC Board of Directors today approved a notice of proposed rulemaking that would revise the FDIC’s assessment regulations for all FDIC-insured institutions",
-    "smart_index": 19
+    "smart_index": 16
   },
   {
     "category": "Banking",
@@ -207,7 +180,7 @@
     "published_at": "2026-06-25T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-approves-proposal-amend-regulations-regarding-disclosure",
     "summary": "The FDIC Board of Directors approved a notice of proposed rulemaking to amend Part 309 of its regulations governing the disclosure of confidential information",
-    "smart_index": 20
+    "smart_index": 17
   },
   {
     "category": "Federal Register",
@@ -231,7 +204,7 @@
       "topic:securities"
     ],
     "fedreg_document_number": "2026-12787",
-    "smart_index": 21
+    "smart_index": 18
   },
   {
     "category": "Federal Register",
@@ -247,7 +220,7 @@
       "topic:foreign-banking"
     ],
     "fedreg_document_number": "2026-12794",
-    "smart_index": 22
+    "smart_index": 19
   },
   {
     "category": "Banking",
@@ -256,7 +229,7 @@
     "published_at": "2026-06-25T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-approves-proposal-amend-resolution-submissions-covered-insured",
     "summary": "On June 25, 2026, the FDIC Board Approves Proposal to Amend Resolution Submissions by Covered Insured Depository Institutions.",
-    "smart_index": 23
+    "smart_index": 20
   },
   {
     "category": "OFAC",
@@ -265,7 +238,16 @@
     "published_at": "2026-06-25T00:00:00Z",
     "url": "https://ofac.treasury.gov/recent-actions/20260625",
     "summary": "",
-    "smart_index": 24
+    "smart_index": 21
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+    "published_at": "2026-06-24T20:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
+    "summary": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+    "smart_index": 22
   },
   {
     "category": "Banking",
@@ -274,7 +256,7 @@
     "published_at": "2026-06-24T20:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
     "summary": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
-    "smart_index": 25
+    "smart_index": 23
   },
   {
     "category": "OFAC",
@@ -283,7 +265,7 @@
     "published_at": "2026-06-24T19:18:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0541",
     "summary": "",
-    "smart_index": 26
+    "smart_index": 24
   },
   {
     "category": "OFAC",
@@ -292,7 +274,7 @@
     "published_at": "2026-06-24T19:18:00Z",
     "url": "https://home.treasury.gov/news/press-releases/statements-remarks",
     "summary": "",
-    "smart_index": 27
+    "smart_index": 25
   },
   {
     "category": "Banking",
@@ -301,7 +283,7 @@
     "published_at": "2026-06-24T15:24:45Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41b3ded",
     "summary": "SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open session: Date and Time: Thursday, June 25, 2026 | 2:00 p.m. ET Place: The Board meeting will be open to public observation by webcast . Members of the media should contact the Office of Communications by Wednesday, June 24, at MediaRequests@FDIC.gov to attend in person from FDIC Headquarters, 550 17th…",
-    "smart_index": 28
+    "smart_index": 26
   },
   {
     "category": "OFAC",
@@ -310,7 +292,7 @@
     "published_at": "2026-06-24T14:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0540",
     "summary": "",
-    "smart_index": 29
+    "smart_index": 27
   },
   {
     "category": "Fintech Watch",
@@ -319,7 +301,7 @@
     "published_at": "2026-06-24T12:00:00Z",
     "url": "https://www.finastra.com/press-media/finastras-regional-and-community-banking-forum-explores-future-financial-services",
     "summary": "",
-    "smart_index": 30
+    "smart_index": 28
   },
   {
     "category": "Federal Register",
@@ -334,7 +316,7 @@
       "topic:securities"
     ],
     "fedreg_document_number": "2026-12692",
-    "smart_index": 31
+    "smart_index": 29
   },
   {
     "category": "Federal Register",
@@ -349,21 +331,7 @@
       "topic:mortgages"
     ],
     "fedreg_document_number": "2026-12750",
-    "smart_index": 32
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
-    "published_at": "2026-06-24T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12690/agency-information-collection-activities-proposed-collection-renewal-comment-request",
-    "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0029, and -0177). The notices of proposed renewal for these information collections were previously published…",
-    "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
-    ],
-    "fedreg_document_number": "2026-12690",
-    "smart_index": 33
+    "smart_index": 30
   },
   {
     "category": "OFAC",
@@ -372,7 +340,7 @@
     "published_at": "2026-06-23T23:15:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0539",
     "summary": "",
-    "smart_index": 34
+    "smart_index": 31
   },
   {
     "category": "OFAC",
@@ -381,7 +349,7 @@
     "published_at": "2026-06-23T14:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0538",
     "summary": "",
-    "smart_index": 35
+    "smart_index": 32
   },
   {
     "category": "OFAC",
@@ -390,16 +358,7 @@
     "published_at": "2026-06-23T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-proposes-sever-h-pay-service-plc-and-other-huione-group-successor",
     "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a proposed rule amending FinCEN’s October 2025 Huione Group Final Rule to include Cambodia-based H-Pay Service PLC and any successor entity. Huione Group served as a critical node for laundering proceeds of cyber heists and virtual currency investment scams and was used to transfe…",
-    "smart_index": 36
-  },
-  {
-    "category": "Payment Card Networks",
-    "source": "Mastercard",
-    "title": "Mastercard launches Agent Pay for Machines to unlock super-fast, always-on payments June 10, 2026",
-    "published_at": "2026-06-23T00:00:00Z",
-    "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html",
-    "summary": "",
-    "smart_index": 37
+    "smart_index": 33
   },
   {
     "category": "OFAC",
@@ -408,7 +367,7 @@
     "published_at": "2026-06-22T17:30:11Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0537",
     "summary": "",
-    "smart_index": 38
+    "smart_index": 34
   },
   {
     "category": "Compliance Watch",
@@ -417,7 +376,7 @@
     "published_at": "2026-06-22T16:22:56Z",
     "url": "https://www.texasbankers.com/fincen-banking-agencies-propose-customer-id-requirements-for-stablecoins/",
     "summary": "The Financial Crimes Enforcement Network and federal banking agencies announced a proposed joint rule to set customer identification program (CIP) requirements for payment stablecoin issuers, in compliance with the Genius Act. The CIP proposal outlines that stablecoin issuers must collect a customer’s name, date of birth for individuals, formation date for entities, address, a…",
-    "smart_index": 39
+    "smart_index": 35
   },
   {
     "category": "Banking",
@@ -426,7 +385,7 @@
     "published_at": "2026-06-22T15:48:44Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41d2780",
     "summary": "PRESS RELEASE | JUNE 22, 2026 FDIC Statement on the Passing of Chairman William Isaac WASHINGTON — The Federal Deposit Insurance Corporation (FDIC) is saddened by the news of the passing of former Chairman William Isaac. Mr. Isaac served as the 14th Chairman of the FDIC from 1981 through 1985. He was appointed to the FDIC Board of Directors in 1978 and was later named Chairman…",
-    "smart_index": 40
+    "smart_index": 36
   },
   {
     "category": "Banking",
@@ -435,7 +394,16 @@
     "published_at": "2026-06-22T12:45:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
     "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
-    "smart_index": 41
+    "smart_index": 37
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+    "published_at": "2026-06-22T12:45:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+    "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+    "smart_index": 38
   },
   {
     "category": "OFAC",
@@ -444,7 +412,7 @@
     "published_at": "2026-06-22T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-announces-recipients-its-11th-law-enforcement-awards-program",
     "summary": "WASHINGTON—Last week, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) recognized seven cases during its Law Enforcement Awards Program for effectively using Bank Secrecy Act (BSA) data to support criminal prosecutions and safeguard the U.S. financial system.",
-    "smart_index": 42
+    "smart_index": 39
   },
   {
     "category": "Federal Register",
@@ -459,16 +427,7 @@
       "topic:banks-banking"
     ],
     "fedreg_document_number": "2026-12460",
-    "smart_index": 43
-  },
-  {
-    "category": "Fintech Watch",
-    "source": "Finastra",
-    "title": "Pollen Street Capital to acquire Universal Banking from Finastra",
-    "published_at": "2026-06-19T12:00:00Z",
-    "url": "https://www.finastra.com/press-media/pollen-street-capital-acquire-universal-banking",
-    "summary": "",
-    "smart_index": 44
+    "smart_index": 40
   },
   {
     "category": "OFAC",
@@ -477,7 +436,7 @@
     "published_at": "2026-06-18T20:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0536",
     "summary": "",
-    "smart_index": 45
+    "smart_index": 41
   },
   {
     "category": "OFAC",
@@ -486,7 +445,7 @@
     "published_at": "2026-06-18T17:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0535",
     "summary": "",
-    "smart_index": 46
+    "smart_index": 42
   },
   {
     "category": "Banking",
@@ -495,7 +454,16 @@
     "published_at": "2026-06-18T13:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
     "summary": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
-    "smart_index": 47
+    "smart_index": 43
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+    "published_at": "2026-06-18T13:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+    "summary": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+    "smart_index": 44
   },
   {
     "category": "OFAC",
@@ -504,7 +472,7 @@
     "published_at": "2026-06-18T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-agencies-propose-rule-implement-genius-act-customer-identification",
     "summary": "WASHINGTON—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN), together with the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the National Credit Union Administration issued a joint proposed rule to implement provisions of the Guiding and E…",
-    "smart_index": 48
+    "smart_index": 45
   },
   {
     "category": "Banking",
@@ -513,7 +481,16 @@
     "published_at": "2026-06-18T00:00:00Z",
     "url": "https://www.federalreserve.gov/reform.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 49
+    "smart_index": 46
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Regulatory Reform",
+    "published_at": "2026-06-18T00:00:00Z",
+    "url": "https://www.federalreserve.gov/reform.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC.",
+    "smart_index": 47
   },
   {
     "category": "Banking",
@@ -522,11 +499,29 @@
     "published_at": "2026-06-17T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
     "summary": "Federal Reserve issues FOMC statement",
-    "smart_index": 50
+    "smart_index": 48
   },
   {
     "category": "Banking",
     "source": "FRB",
+    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+    "published_at": "2026-06-17T18:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+    "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+    "smart_index": 49
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve issues FOMC statement",
+    "published_at": "2026-06-17T18:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+    "summary": "Federal Reserve issues FOMC statement",
+    "smart_index": 50
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
     "published_at": "2026-06-17T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
@@ -566,13 +561,31 @@
     "smart_index": 54
   },
   {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "News & Events",
+    "published_at": "2026-06-17T00:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC.",
+    "smart_index": 55
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "2026 FOMC",
+    "published_at": "2026-06-17T00:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC.",
+    "smart_index": 56
+  },
+  {
     "category": "OFAC",
     "source": "Treasury",
     "title": "Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation",
     "published_at": "2026-06-16T22:53:56Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0534",
     "summary": "",
-    "smart_index": 55
+    "smart_index": 57
   },
   {
     "category": "Federal Register",
@@ -587,7 +600,7 @@
       "topic:investments"
     ],
     "fedreg_document_number": "2026-12058",
-    "smart_index": 56
+    "smart_index": 58
   },
   {
     "category": "Payments",
@@ -596,7 +609,7 @@
     "published_at": "2026-06-15T00:00:00Z",
     "url": "https://www.nacha.org/news/tips-and-techniques-keep-originators-informed-nacha-rules-changes",
     "summary": "",
-    "smart_index": 57
+    "smart_index": 59
   },
   {
     "category": "OFAC",
@@ -605,7 +618,7 @@
     "published_at": "2026-06-12T21:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0531",
     "summary": "",
-    "smart_index": 58
+    "smart_index": 60
   },
   {
     "category": "OFAC",
@@ -614,7 +627,7 @@
     "published_at": "2026-06-12T21:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0533",
     "summary": "",
-    "smart_index": 59
+    "smart_index": 61
   },
   {
     "category": "OFAC",
@@ -623,7 +636,7 @@
     "published_at": "2026-06-12T17:15:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0532",
     "summary": "",
-    "smart_index": 60
+    "smart_index": 62
   },
   {
     "category": "OFAC",
@@ -632,7 +645,7 @@
     "published_at": "2026-06-12T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-guidance-help-financial-institutions-eliminate-fraud-through",
     "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued updated guidance to clarify how financial institutions can share information with each other about suspected fraud under section 314(b) of the USA PATRIOT Act. Treasury Press Release",
-    "smart_index": 61
+    "smart_index": 63
   },
   {
     "category": "Payments",
@@ -641,7 +654,7 @@
     "published_at": "2026-06-12T00:00:00Z",
     "url": "https://www.nacha.org/news/prepare-today-upcoming-iat-rules-changes",
     "summary": "",
-    "smart_index": 62
+    "smart_index": 64
   },
   {
     "category": "Payments",
@@ -650,7 +663,7 @@
     "published_at": "2026-06-12T00:00:00Z",
     "url": "https://www.nacha.org/news/how-ai-integrated-modernized-payment-models",
     "summary": "",
-    "smart_index": 63
+    "smart_index": 65
   },
   {
     "category": "Payments",
@@ -659,7 +672,7 @@
     "published_at": "2026-06-12T00:00:00Z",
     "url": "https://www.nacha.org/news/ben-whiting-build-trust-through-vulnerability",
     "summary": "",
-    "smart_index": 64
+    "smart_index": 66
   },
   {
     "category": "Payments",
@@ -668,7 +681,7 @@
     "published_at": "2026-06-12T00:00:00Z",
     "url": "https://www.nacha.org/news/while-concern-understandable-ai-offers-many-positive-opportunities-today",
     "summary": "",
-    "smart_index": 65
+    "smart_index": 67
   },
   {
     "category": "Federal Register",
@@ -683,7 +696,7 @@
       "topic:mortgage-insurance"
     ],
     "fedreg_document_number": "2026-11851",
-    "smart_index": 66
+    "smart_index": 68
   },
   {
     "category": "OFAC",
@@ -692,7 +705,7 @@
     "published_at": "2026-06-11T16:52:11Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0530",
     "summary": "",
-    "smart_index": 67
+    "smart_index": 69
   },
   {
     "category": "OFAC",
@@ -701,7 +714,7 @@
     "published_at": "2026-06-11T16:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0529",
     "summary": "",
-    "smart_index": 68
+    "smart_index": 70
   },
   {
     "category": "Banking",
@@ -710,7 +723,16 @@
     "published_at": "2026-06-11T15:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
     "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
-    "smart_index": 69
+    "smart_index": 71
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+    "published_at": "2026-06-11T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
+    "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+    "smart_index": 72
   },
   {
     "category": "Payments",
@@ -719,7 +741,7 @@
     "published_at": "2026-06-11T00:00:00Z",
     "url": "https://www.nacha.org/news/backpack-now-nacha-preferred-partner-ach-experience-open-banking-and-risk-and-fraud-prevention",
     "summary": "",
-    "smart_index": 70
+    "smart_index": 73
   },
   {
     "category": "Federal Register",
@@ -734,7 +756,7 @@
       "topic:economic-statistics"
     ],
     "fedreg_document_number": "2026-11688",
-    "smart_index": 71
+    "smart_index": 74
   },
   {
     "category": "OFAC",
@@ -743,7 +765,7 @@
     "published_at": "2026-06-10T18:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0527",
     "summary": "",
-    "smart_index": 72
+    "smart_index": 75
   },
   {
     "category": "OFAC",
@@ -752,16 +774,16 @@
     "published_at": "2026-06-10T17:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0528",
     "summary": "",
-    "smart_index": 73
+    "smart_index": 76
   },
   {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Debit Cards",
-    "published_at": "2026-06-10T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/debit-cards",
-    "summary": "Debit cards are a preferred payment method for consumers, and are now synonymous with banking.",
-    "smart_index": 74
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+    "published_at": "2026-06-09T20:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
+    "summary": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+    "smart_index": 77
   },
   {
     "category": "Banking",
@@ -770,7 +792,7 @@
     "published_at": "2026-06-09T20:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
     "summary": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
-    "smart_index": 75
+    "smart_index": 78
   },
   {
     "category": "OFAC",
@@ -779,7 +801,7 @@
     "published_at": "2026-06-09T15:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0526",
     "summary": "",
-    "smart_index": 76
+    "smart_index": 79
   },
   {
     "category": "Federal Register",
@@ -797,7 +819,7 @@
       "topic:mortgages"
     ],
     "fedreg_document_number": "2026-11559",
-    "smart_index": 77
+    "smart_index": 80
   },
   {
     "category": "Federal Register",
@@ -811,7 +833,7 @@
       "filter:consumer-financial-protection-bureau"
     ],
     "fedreg_document_number": "2026-11447",
-    "smart_index": 78
+    "smart_index": 81
   },
   {
     "category": "Payments",
@@ -820,7 +842,7 @@
     "published_at": "2026-06-08T00:00:00Z",
     "url": "https://www.nacha.org/news/payment-power-how-ach-optimizes-speed-cost-and-control",
     "summary": "",
-    "smart_index": 79
+    "smart_index": 82
   },
   {
     "category": "OFAC",
@@ -829,7 +851,7 @@
     "published_at": "2026-06-05T15:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0524",
     "summary": "",
-    "smart_index": 80
+    "smart_index": 83
   },
   {
     "category": "OFAC",
@@ -838,7 +860,7 @@
     "published_at": "2026-06-05T14:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0523",
     "summary": "",
-    "smart_index": 81
+    "smart_index": 84
   },
   {
     "category": "OFAC",
@@ -847,7 +869,7 @@
     "published_at": "2026-06-05T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-joint-advisory-non-work-authorized-populations-and-their-employers",
     "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an Advisory urging financial institutions to be vigilant against risks presented by the unlawful employment of illegal aliens.Treasury Press ReleaseFinCEN Asks Financial Institutions to Detect and Report Illicit Activity related to Illegal AliensAdvisory",
-    "smart_index": 82
+    "smart_index": 85
   },
   {
     "category": "Federal Register",
@@ -864,7 +886,7 @@
       "filter:federal-deposit-insurance-corporation"
     ],
     "fedreg_document_number": "2026-11344",
-    "smart_index": 83
+    "smart_index": 86
   },
   {
     "category": "Federal Register",
@@ -878,7 +900,7 @@
       "filter:federal-deposit-insurance-corporation"
     ],
     "fedreg_document_number": "2026-11342",
-    "smart_index": 84
+    "smart_index": 87
   },
   {
     "category": "Payments",
@@ -887,7 +909,7 @@
     "published_at": "2026-06-05T00:00:00Z",
     "url": "https://www.nacha.org/news/same-day-ach-increased-limit-treasury-advantage-driving-liquidity-and-control-optimal-speed",
     "summary": "",
-    "smart_index": 85
+    "smart_index": 88
   },
   {
     "category": "OFAC",
@@ -896,7 +918,7 @@
     "published_at": "2026-06-04T14:15:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0522",
     "summary": "",
-    "smart_index": 86
+    "smart_index": 89
   },
   {
     "category": "Payments",
@@ -905,7 +927,7 @@
     "published_at": "2026-06-04T00:00:00Z",
     "url": "https://www.nacha.org/news/new-enhancement-nachas-risk-management-portal-helps-fis-keep-ach-contacts-current",
     "summary": "",
-    "smart_index": 87
+    "smart_index": 90
   },
   {
     "category": "Payments",
@@ -914,7 +936,7 @@
     "published_at": "2026-06-04T00:00:00Z",
     "url": "https://www.nacha.org/news/new-nacha-rules-new-fraud-compliance-responsibilities-all-organizations-sending-ach-payments",
     "summary": "",
-    "smart_index": 88
+    "smart_index": 91
   },
   {
     "category": "Federal Register",
@@ -929,16 +951,7 @@
       "topic:mortgages"
     ],
     "fedreg_document_number": "2026-11267",
-    "smart_index": 89
-  },
-  {
-    "category": "Legislative",
-    "source": "Senate Banking",
-    "title": "Banking Democrats Introduce Bill to Automatically and Fully Fund the CFPB Amidst Ongoing Trump Attacks on Consumers",
-    "published_at": "2026-06-04T00:00:00Z",
-    "url": "https://www.banking.senate.gov/newsroom/minority/banking-democrats-introduce-bill-to-automatically-and-fully-fund-the-cfpb-amidst-ongoing-trump-attacks-on-consumers",
-    "summary": "",
-    "smart_index": 90
+    "smart_index": 92
   },
   {
     "category": "OFAC",
@@ -947,7 +960,7 @@
     "published_at": "2026-06-03T14:15:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0521",
     "summary": "",
-    "smart_index": 91
+    "smart_index": 93
   },
   {
     "category": "Federal Register",
@@ -964,7 +977,7 @@
       "topic:securities"
     ],
     "fedreg_document_number": "2026-11044",
-    "smart_index": 92
+    "smart_index": 94
   },
   {
     "category": "OFAC",
@@ -973,7 +986,7 @@
     "published_at": "2026-06-02T19:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0519",
     "summary": "",
-    "smart_index": 93
+    "smart_index": 95
   },
   {
     "category": "OFAC",
@@ -982,7 +995,7 @@
     "published_at": "2026-06-02T19:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0518",
     "summary": "",
-    "smart_index": 94
+    "smart_index": 96
   },
   {
     "category": "Banking",
@@ -991,7 +1004,7 @@
     "published_at": "2026-06-02T15:02:08Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/419f305",
     "summary": "PRESS RELEASE | JUNE 2, 2026 Agencies Remove Additional References to Reputation Risk WASHINGTON—The federal bank regulatory agencies today jointly updated certain interagency documents to remove references to reputation risk. The agencies are taking this action to complement their earlier actions that ended the use of reputation risk in supervision. As the agencies have previ…",
-    "smart_index": 95
+    "smart_index": 97
   },
   {
     "category": "OFAC",
@@ -1000,30 +1013,6 @@
     "published_at": "2026-06-02T13:00:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0517",
     "summary": "",
-    "smart_index": 96
-  },
-  {
-    "category": "OFAC",
-    "source": "OFAC",
-    "title": "Counter Terrorism and Iran-related Designations; Democratic Republic of the Congo-related Designations; Issuance of Iran-related Frequently Asked Question",
-    "published_at": "2026-06-02T00:00:00Z",
-    "url": "https://ofac.treasury.gov/recent-actions/20260602",
-    "summary": "",
-    "smart_index": 97
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Payment Limitation and Payment Eligibility",
-    "published_at": "2026-06-02T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11002/payment-limitation-and-payment-eligibility",
-    "summary": "This rule revises the payment limitation and payment eligibility regulations to conform with provisions of the One Big Beautiful Bill Act (OBBBA). This rule also makes additional changes to those regulations to improve program administration and clarify and update existing provisions.",
-    "fr_tags": [
-      "agency:agriculture-department",
-      "agency:commodity-credit-corporation",
-      "topic:loan-programs-agriculture"
-    ],
-    "fedreg_document_number": "2026-11002",
     "smart_index": 98
   },
   {

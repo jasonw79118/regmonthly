@@ -1,33 +1,7 @@
 # RegDashboard — Export
 
 Window: `2026-05-31T05:00:00Z` → `2026-07-01T05:00:00Z` (UTC)
-Last updated: `2026-07-01T12:23:09-05:00` (CT) — `2026-07-01T17:23:09Z` (UTC)
-
-## ABA joins with consumer rights group to protect fraud alerts
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/07/aba-joins-with-consumer-rights-group-to-protect-fraud-alerts/
-
-## Warsh weighs in on Fed independence, inflation
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/07/warsh-weighs-in-on-fed-independence-inflation/
-
-## ABA DataBank: ISM Manufacturing PMI remains in expansion
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/07/aba-databank-ism-manufacturing-pmi-remains-in-expansion/
-
-## Anthropic to restore Claude Fable access on Wednesday
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-01T00:35:14Z
-- URL: https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/
-
-Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]
+Last updated: `2026-07-07T07:56:57-05:00` (CT) — `2026-07-07T12:56:57Z` (UTC)
 
 ## Counter Narcotics Designations; Counter Terrorism Designations and Designation Update
 - Source: OFAC
@@ -47,6 +21,18 @@ Anthropic has confirmed that the Department of Commerce has lifted export contro
 - Published: 2026-07-01T00:00:00Z
 - URL: https://capitalmarkets.fanniemae.com/news-commentaries
 
+## Warren, Schumer Urge EXIM Chair to Keep NY Regional Export Finance Center Open
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-07-01T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-schumer-urge-exim-chair-to-keep-ny-regional-export-finance-center-open
+
+## Warren, Reed, Van Hollen Call On Fed Watchdog To Investigate Vice Chair Bowman's Private Wall Street Dinner During Fed's Blackout Period
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-07-01T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/warren-reed-van-hollen-call-on-fed-watchdog-to-investigate-vice-chair-bowmans-private-wall-street-dinner-during-feds-blackout-period
+
 ## Chairman Hill Applauds World Bank Decision to Phase Out Lending to China
 - Source: House Financial Services
 - Category: Legislative
@@ -59,83 +45,17 @@ Anthropic has confirmed that the Department of Commerce has lifted export contro
 - Published: 2026-07-01T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411188
 
-## DHS confirms hackers breached HSIN info-sharing platform
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/
-
-## Webinar: Why traditional email security is no longer enough
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/
-
-## Hackers target Microsoft 365 accounts with 81 million login attempts
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/
-
-## Turning Indicators into Intelligence in OpenCTI with Criminal IP
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/
-
-## Over 900 Oracle E-Business instances exposed to ongoing attacks
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/
-
-## One app. 150+ languages. One $70 payment for lifetime access.
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/one-app-150-plus-languages-one-70-payment-for-lifetime-access/
-
-## Microsoft fixes GIF functionality in the Windows Emoji Panel
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/
-
-## Amazon fined $2.25M for withholding evidence from fraud victims
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/
-
-## Adobe patches seven max severity ColdFusion, Campaign flaws
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/
-
-## Jump to Content
-- Source: ABA
+## FASB Seeks Public Comment on Proposal to Improve Investment Company Fair Value Reporting
+- Source: FASB
 - Category: Compliance Watch
 - Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/news-research
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposal-to-improve-investment-company-fair-value-reporting-424892
 
-Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins.
-
-## Risk Management
-- Source: ABA
+## FASB Seeks Public Comment on Proposed Targeted Improvements to Hedge Accounting Guidance
+- Source: FASB
 - Category: Compliance Watch
 - Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management
-
-Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA.
-
-## Consumer Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking
-
-Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposed-targeted-improvements-to-hedge-accounting-guidance-424706
 
 ## Consumer Lending
 - Source: ABA
@@ -145,62 +65,6 @@ Key areas of consideration for banking individual retail customers, including le
 
 Enhance your knowledge and understanding of consumer loans and issues that effect them.
 
-## Inclusive Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
-
-Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
-
-## Retail Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/retail-banking
-
-As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
-
-## Technology
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology
-
-Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution.
-
-## Marketing & Communications
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/communications
-
-Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
-
-## Leadership & Operations
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations
-
-Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
-
-## Leadership
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/leadership
-
-Resources and training for bank CEOs and Executives
-
-## Workforce Excellence
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/workforce-excellence
-
-America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts.
-
 ## Accounting
 - Source: ABA
 - Category: Compliance Watch
@@ -209,14 +73,6 @@ America’s banks deliver the best business results and community impact by enga
 
 ABA represents the banking industry on policy issues related to accounting and auditing.
 
-## Economic Trends
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/economic-trends
-
-The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
-
 ## Accountability in Higher Education and Access Through Demand- Driven Workforce Pell: Student Tuition and Transparency System (STATS) and Earnings Accountability
 - Source: Federal Register
 - Category: Federal Register
@@ -224,38 +80,6 @@ The U.S. economy is the most dynamic economic power because it is supported by i
 - URL: https://www.federalregister.gov/documents/2026/07/01/2026-13286/accountability-in-higher-education-and-access-through-demand--driven-workforce-pell-student-tuition
 
 The Secretary of Education (Secretary) amends the regulations governing institutional eligibility, general provisions, and the William D. Ford Direct Loan (Direct Loan) Program under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs) to implement statutory changes to the title IV, HEA programs included in the Working Families Tax Cuts A…
-
-## Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-06-30T23:13:07Z
-- URL: https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/
-
-Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]
-
-## New BioShocking attack manipulates AI browser into data theft
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-06-30T21:50:24Z
-- URL: https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/
-
-A new prompt injection attack dubbed "BioShocking" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]
-
-## Microsoft accelerates quantum-safe roadmap as risks grow
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-06-30T21:20:06Z
-- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/
-
-Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [...]
-
-## Malicious PyPI packages give hackers control of Telegram bot servers
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-06-30T21:02:55Z
-- URL: https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/
-
-A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]
 
 ## URIF Holds Fourth Board Meeting at Ukraine Recovery Conference
 - Source: Treasury
@@ -275,31 +99,23 @@ A campaign active since last November has been targeting Python developers build
 - Published: 2026-06-30T16:50:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0547
 
-## Fake Perplexity extension on Chrome Web Store tracked searches
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-06-30T15:46:19Z
-- URL: https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/
-
-A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]
-
 ## Terrorist Financing Targeting Center Jointly Designates Hizballah Financial Institutions and Senior Officials
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-06-30T14:40:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0546
 
-## Lessons from the Underground: How to Combat Business Email Compromise
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-06-30T14:00:10Z
-- URL: https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/
-
-Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]
-
 ## Agencies release list of distressed or underserved nonmetropolitan middle-income geographies
 - Source: FRB
 - Category: Banking
+- Published: 2026-06-30T14:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm
+
+Agencies release list of distressed or underserved nonmetropolitan middle-income geographies
+
+## Agencies release list of distressed or underserved nonmetropolitan middle-income geographies
+- Source: FRB Payments
+- Category: Payments
 - Published: 2026-06-30T14:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm
 
@@ -399,6 +215,12 @@ Federal bank regulatory agencies today released the 2026 list of certain geograp
 - Published: 2026-06-30T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260630
 
+## Scott, Hagerty Introduce Bill to Secure U.S. Technology Supply Chains from Foreign Adversaries
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-06-30T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/majority/scott-hagerty-introduce-bill-to-secure-us-technology-supply-chains-from-foreign-adversaries
+
 ## Statement by Senator Elizabeth Warren on New Trump Crypto Financial Disclosures
 - Source: Senate Banking
 - Category: Legislative
@@ -416,12 +238,6 @@ Federal bank regulatory agencies today released the 2026 list of certain geograp
 - Category: Legislative
 - Published: 2026-06-30T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-presses-ncua-chair-hauptman-on-proposals-to-weaken-credit-unions
-
-## Scott, Hagerty Introduce Bill to Secure U.S. Technology Supply Chains from Foreign Adversaries
-- Source: Senate Banking
-- Category: Legislative
-- Published: 2026-06-30T00:00:00Z
-- URL: https://www.banking.senate.gov/newsroom/majority/scott-hagerty-introduce-bill-to-secure-us-technology-supply-chains-from-foreign-adversaries
 
 ## Warren Requests from Capital One Any Communications Between Trump’s New CFPB Nominee and Administration on Dropped Enforcement Action Against the Bank
 - Source: Senate Banking
@@ -651,30 +467,6 @@ Federal bank regulatory agencies today released the 2026 list of certain geograp
 - Published: 2026-06-30T00:00:00Z
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
 
-## This $56 PDF tool handles almost all editing tasks you throw at it
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-06-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/this-56-pdf-tool-handles-almost-all-editing-tasks-you-throw-at-it/
-
-## Build cybersecurity skills with this $53 InfoSec4TC membership
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-06-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/build-cybersecurity-skills-with-this-53-infosec4tc-membership/
-
-## Insurance giant Aflac discloses data breach after subsidiary hack
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-06-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/
-
-## Microsoft adds smarter bot protection to Teams meetings
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-06-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/
-
 ## Education Services
 - Source: CDIA
 - Category: Compliance Watch
@@ -686,30 +478,6 @@ Federal bank regulatory agencies today released the 2026 list of certain geograp
 - Category: Compliance Watch
 - Published: 2026-06-30T00:00:00Z
 - URL: https://www.cdiaonline.org/advanced-metro-2-format-workshop/
-
-## Mortgage & Home Finance
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-06-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
-
-There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
-
-## Commercial Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-06-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/commercial-banking
-
-Find resources on commercial banking topics like Commercial and Industrial (C&I) loans, small business, Commercial Real Estate (CRE), agricultural banking and more.
-
-## Commercial & Industrial Loans
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-06-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans
-
-ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments.
 
 ## Assessments Thresholds, Rate Schedules, and Adjustments
 - Source: Federal Register
@@ -734,6 +502,30 @@ The FDIC is seeking comment on a proposal to revise its regulations that require
 - URL: https://www.federalregister.gov/documents/2026/06/30/2026-13123/disclosure-of-information
 
 The Federal Deposit Insurance Corporation (FDIC) is inviting comment on a notice of proposed rulemaking that would update, clarify, and supplement the FDIC's regulations regarding the disclosure of confidential information by the FDIC and other parties, including by enhancing the ability of insured depository institutions to share confidential supervisory information with affi…
+
+## Declaration of Emergency and Authorization for Temporary Duty Free Importation of Phosphate Fertilizer Morocco
+- Source: White House
+- Category: Executive
+- Published: 2026-06-29T23:31:17Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/declaration-of-emergency-and-authorization-for-temporary-duty-free-importation-of-phosphate-fertilizer-morocco/
+
+## Fact Sheet: President Donald J. Trump Declares an Emergency and Authorizes the Temporary Suspension of Certain Duties on Phosphate Fertilizer from Morocco
+- Source: White House
+- Category: Executive
+- Published: 2026-06-29T23:26:58Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-declares-an-emergency-and-authorizes-the-temporary-suspension-of-certain-duties-on-phosphate-fertilizer-from-morocco/
+
+## Fact Sheet: President Donald J. Trump Lowers the Cost of Living by Promoting the Freedom to Fix
+- Source: White House
+- Category: Executive
+- Published: 2026-06-29T19:54:29Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/
+
+## Lowering the Cost of Living by Promoting the Freedom to Fix
+- Source: White House
+- Category: Executive
+- Published: 2026-06-29T19:53:41Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/lowering-the-cost-of-living-by-promoting-the-freedom-to-fix/
 
 ## Maldives Premier Bank selects Finastra to power international banking capabilities
 - Source: Finastra
@@ -5483,6 +5275,12 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
 
+## S. 1003 Signed into Law
+- Source: White House
+- Category: Executive
+- Published: 2026-06-26T20:55:58Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/
+
 ## Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis
 - Source: Treasury
 - Category: OFAC
@@ -5603,35 +5401,23 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 
 Resources to help you prepare for and respond to a physical or cyber incident.
 
-## Payments Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-06-26T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments
-
-Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
-
-## ACH Transactions
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-06-26T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments/ach-transactions
-
-Banks that originate ACH transactions will be responsible for working with their clients to determine if certain payments meet the IAT definition.
-
-## Credit Cards
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-06-26T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments/credit-cards
-
-New credit card laws have fundamentally changed the industry.
-
 ## Sunshine Act Meetings: Notice of Meeting To Be Held With Less Than Seven Days' Advance Notice
 - Source: Federal Register
 - Category: Federal Register
 - Published: 2026-06-26T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/06/26/2026-12923/sunshine-act-meetings-notice-of-meeting-to-be-held-with-less-than-seven-days-advance-notice
+
+## Advancing Regenerative Agriculture and Strengthening American Farm Resilience
+- Source: White House
+- Category: Executive
+- Published: 2026-06-25T23:00:19Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/
+
+## Fact Sheet: President Donald J. Trump Advances Regenerative Agriculture and Strengthens American Farm Resilience
+- Source: White House
+- Category: Executive
+- Published: 2026-06-25T23:00:00Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-advances-regenerative-agriculture-and-strengthens-american-farm-resilience/
 
 ## FDIC Board of Directors Meeting
 - Source: FDIC
@@ -5647,6 +5433,14 @@ BOARD MEETING | JUNE 25, 2026 FDIC Board of Directors Meeting Today, the Federal
 - Published: 2026-06-25T18:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0543
 
+## Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.
+- Source: FRB
+- Category: Banking
+- Published: 2026-06-25T15:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm
+
+Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.
+
 ## Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.
 - Source: FRB
 - Category: Banking
@@ -5656,12 +5450,20 @@ BOARD MEETING | JUNE 25, 2026 FDIC Board of Directors Meeting Today, the Federal
 Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.
 
 ## Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.
-- Source: FRB
-- Category: Banking
+- Source: FRB Payments
+- Category: Payments
 - Published: 2026-06-25T15:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm
 
 Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.
+
+## Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.
+- Source: FRB Payments
+- Category: Payments
+- Published: 2026-06-25T15:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm
+
+Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.
 
 ## CVE-2026-41086 Windows Admin Center in Azure Portal Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
@@ -5775,7 +5577,7 @@ The FDIC Board of Directors approved a notice of proposed rulemaking to amend Pa
 
 ABA offers resources to ensure that banks of all sizes have the tools they need to serve their customers and communities today and in the future.
 
-## Wealth Management
+## Wealth Management Overview
 - Source: ABA
 - Category: Compliance Watch
 - Published: 2026-06-25T00:00:00Z
@@ -5847,6 +5649,14 @@ The United States Department of Agriculture (USDA) is proposing to update its re
 
 Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses
 
+## Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses
+- Source: FRB Payments
+- Category: Payments
+- Published: 2026-06-24T20:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm
+
+Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses
+
 ## Statements & Remarks
 - Source: Treasury
 - Category: OFAC
@@ -5880,6 +5690,12 @@ SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open ses
 - Category: OFAC
 - Published: 2026-06-24T14:30:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0540
+
+## Nomination Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-06-24T14:08:26Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/
 
 ## Finastra’s Regional and Community Banking Forum explores the future of financial services
 - Source: Finastra
@@ -5932,14 +5748,6 @@ IR-2026-79, June 24, 2026 — National Taxpayer Advocate Erin M. Collins today r
 - Category: Fintech Watch
 - Published: 2026-06-24T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-announces-results-tender-offers-any-and-all-its
-
-## Artificial Intelligence
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-06-24T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology/artificial-intelligence
-
-Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.
 
 ## Cybersecurity
 - Source: ABA
@@ -6002,6 +5810,12 @@ The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend its regulatio
 - URL: https://www.texasbankers.com/texas-bankers-and-mortgage-bankers-applaud-final-house-passage-of-landmark-housing-legislation/
 
 AUSTIN, Texas — The Texas Mortgage Bankers Association and Texas Bankers Association today applauded the U.S. House of Representatives for final passage of the 21st Century ROAD to Housing Act, clearing the bipartisan housing package for consideration by President Donald J. Trump. The House action follows the Senate’s overwhelming 85-5 approval of the legislation Monday. The […
+
+## Nominations Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-06-23T16:18:27Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-a2ce/
 
 ## Treasury Further Dismantles Overseas Scam Operations Targeting Americans
 - Source: Treasury
@@ -6107,6 +5921,12 @@ Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Netw
 - Published: 2026-06-23T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411179
 
+## America 250: Presidential Message on the Anniversary of the Battle of Okinawa
+- Source: White House
+- Category: Executive
+- Published: 2026-06-23T00:00:00Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-okinawa/
+
 ## Fiserv Announces Pricing of Tender Offers for Any and All of its Outstanding 5.150% Senior Notes due 2027 and 4.400% Senior Notes due 2049
 - Source: Fiserv
 - Category: Fintech Watch
@@ -6124,6 +5944,30 @@ Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Netw
 - Category: Payment Card Networks
 - Published: 2026-06-23T00:00:00Z
 - URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html
+
+## Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks
+- Source: White House
+- Category: Executive
+- Published: 2026-06-22T20:39:42Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/
+
+## Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation
+- Source: White House
+- Category: Executive
+- Published: 2026-06-22T20:39:32Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/
+
+## Ushering in the Next Frontier of Quantum Innovation
+- Source: White House
+- Category: Executive
+- Published: 2026-06-22T20:38:18Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/
+
+## Securing the Nation Against Advanced Cryptographic Attacks
+- Source: White House
+- Category: Executive
+- Published: 2026-06-22T20:37:30Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/
 
 ## Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks
 - Source: Treasury
@@ -6150,6 +5994,14 @@ PRESS RELEASE | JUNE 22, 2026 FDIC Statement on the Passing of Chairman William 
 ## Federal Reserve notes with deep sadness the passing of Alan Greenspan
 - Source: FRB
 - Category: Banking
+- Published: 2026-06-22T12:45:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm
+
+Federal Reserve notes with deep sadness the passing of Alan Greenspan
+
+## Federal Reserve notes with deep sadness the passing of Alan Greenspan
+- Source: FRB Payments
+- Category: Payments
 - Published: 2026-06-22T12:45:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm
 
@@ -6238,6 +6090,12 @@ IR-2026-78, June 22, 2026 — The Internal Revenue Service today announced selec
 - URL: https://www.federalregister.gov/documents/2026/06/22/2026-12460/permitted-payment-stablecoin-issuer-customer-identification-program
 
 The Financial Crimes Enforcement Network (FinCEN), together with the Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve System (Board), the Federal Deposit Insurance Corporation (FDIC), and the National Credit Union Administration (NCUA) are jointly issuing this proposed rule to implement certain provisions of the Guiding and Establi…
+
+## Presidential Message on Father’s Day
+- Source: White House
+- Category: Executive
+- Published: 2026-06-21T16:46:19Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-fathers-day/
 
 ## CVE-2026-44967 opentelemetry-cpp: OTLP HTTP exporters read unbounded HTTP response
 - Source: Microsoft MSRC
@@ -6341,229 +6199,229 @@ Information published.
 - Published: 2026-06-20T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-dc-circuit-court-order-on-trumps-latest-attempt-to-shut-down-cfpb
 
-## CVE-2026-12466 Heap buffer overflow in WebRTC
+## Chromium: CVE-2026-12466 Heap buffer overflow in WebRTC
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:59Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12466
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12461 Out of bounds read in WebRTC
+## Chromium: CVE-2026-12461 Out of bounds read in WebRTC
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:57Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12461
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12449 Use after free in Chromoting
+## Chromium: CVE-2026-12449 Use after free in Chromoting
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:56Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12449
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12444 Out of bounds read in Chromoting
+## Chromium: CVE-2026-12444 Out of bounds read in Chromoting
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:55Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12444
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12437 Use after free in WebShare
+## Chromium: CVE-2026-12437 Use after free in WebShare
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:53Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12437
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12468 Inappropriate implementation in Updater
+## Chromium: CVE-2026-12468 Inappropriate implementation in Updater
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:52Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12468
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12454 Race in Safe Browsing
+## Chromium: CVE-2026-12454 Race in Safe Browsing
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:50Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12454
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12467 Use after free in Extensions
+## Chromium: CVE-2026-12467 Use after free in Extensions
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:48Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12467
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12465 Insufficient validation of untrusted input in Metrics
+## Chromium: CVE-2026-12465 Insufficient validation of untrusted input in Metrics
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:46Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12465
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12464 Use after free in Browser
+## Chromium: CVE-2026-12464 Use after free in Browser
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:44Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12464
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12463 Inappropriate implementation in Views
+## Chromium: CVE-2026-12463 Inappropriate implementation in Views
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:43Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12463
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12462 Use after free in Media
+## Chromium: CVE-2026-12462 Use after free in Media
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:42Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12462
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12460 Insufficient policy enforcement in File System Access
+## Chromium: CVE-2026-12460 Insufficient policy enforcement in File System Access
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:40Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12460
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12459 Inappropriate implementation in Serial
+## Chromium: CVE-2026-12459 Inappropriate implementation in Serial
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:39Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12459
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12458 Incorrect security UI in Passwords
+## Chromium: CVE-2026-12458 Incorrect security UI in Passwords
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:38Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12458
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12457 Insufficient data validation in Extensions
+## Chromium: CVE-2026-12457 Insufficient data validation in Extensions
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:37Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12457
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12456 Insufficient validation of untrusted input in Extensions
+## Chromium: CVE-2026-12456 Insufficient validation of untrusted input in Extensions
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:36Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12456
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12455 Use after free in Tab Strip
+## Chromium: CVE-2026-12455 Use after free in Tab Strip
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:34Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12455
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12453 Insufficient validation of untrusted input in Input
+## Chromium: CVE-2026-12453 Insufficient validation of untrusted input in Input
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:33Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12453
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12452 Use after free in Downloads
+## Chromium: CVE-2026-12452 Use after free in Downloads
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:31Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12452
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12451 Use after free in DigitalCredentials
+## Chromium: CVE-2026-12451 Use after free in DigitalCredentials
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:30Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12451
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12447 Heap buffer overflow in WebRTC
+## Chromium: CVE-2026-12447 Heap buffer overflow in WebRTC
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:29Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12447
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12446 Insufficient data validation in Passwords
+## Chromium: CVE-2026-12446 Insufficient data validation in Passwords
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:27Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12446
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12445 Use after free in Extensions
+## Chromium: CVE-2026-12445 Use after free in Extensions
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:26Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12445
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12443 Use after free in Web Authentication
+## Chromium: CVE-2026-12443 Use after free in Web Authentication
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:25Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12443
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12441 Use after free in File Input
+## Chromium: CVE-2026-12441 Use after free in File Input
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:24Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12441
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12440 Use after free in DigitalCredentials
+## Chromium: CVE-2026-12440 Use after free in DigitalCredentials
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:22Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12440
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
-## CVE-2026-12439 Use after free in Digital Credentials
+## Chromium: CVE-2026-12439 Use after free in Digital Credentials
 - Source: Microsoft MSRC
 - Category: IS
-- Published: 2026-06-19T20:52:19Z
+- Published: 2026-06-19T14:00:00Z
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12439
 
-This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
+Corrected CVE title. This is an informational change only.
 
 ## CVE-2026-45469 Microsoft Excel Remote Code Execution Vulnerability
 - Source: Microsoft MSRC
@@ -6879,9 +6737,23 @@ Information published.
 - Published: 2026-06-18T20:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0536
 
+## Effects of Banning Anti-Competitive Hospital Contracts
+- Source: White House
+- Category: Executive
+- Published: 2026-06-18T19:31:26Z
+- URL: https://www.whitehouse.gov/research/2026/06/effects-of-banning-anti-competitive-hospital-contracts/
+
 ## Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.
 - Source: FRB
 - Category: Banking
+- Published: 2026-06-18T19:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm
+
+Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.
+
+## Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.
+- Source: FRB Payments
+- Category: Payments
 - Published: 2026-06-18T19:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm
 
@@ -6896,6 +6768,14 @@ Federal Reserve Board issues enforcement action with former employee of Bank of 
 ## Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company
 - Source: FRB
 - Category: Banking
+- Published: 2026-06-18T15:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm
+
+Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company
+
+## Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company
+- Source: FRB Payments
+- Category: Payments
 - Published: 2026-06-18T15:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm
 
@@ -6989,9 +6869,23 @@ Url redirection to untrusted site ('open redirect') in Microsoft 365 Copilot's B
 
 Improper neutralization of input during web page generation ('cross-site scripting') in Dynamics 365 Customer Voice allows an unauthorized attacker to perform spoofing over a network.
 
+## President Trump to Award Medal of Honor
+- Source: White House
+- Category: Executive
+- Published: 2026-06-18T13:23:51Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/
+
 ## Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program
 - Source: FRB
 - Category: Banking
+- Published: 2026-06-18T13:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm
+
+Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program
+
+## Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program
+- Source: FRB Payments
+- Category: Payments
 - Published: 2026-06-18T13:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm
 
@@ -7107,6 +7001,14 @@ Information published.
 
 The Federal Reserve Board of Governors in Washington DC.
 
+## Regulatory Reform
+- Source: FRB Payments
+- Category: Payments
+- Published: 2026-06-18T00:00:00Z
+- URL: https://www.federalreserve.gov/reform.htm
+
+The Federal Reserve Board of Governors in Washington DC.
+
 ## Mortgage Rates Decline
 - Source: Freddie Mac
 - Category: Mortgage
@@ -7159,6 +7061,22 @@ Federal Reserve issues FOMC statement
 
 Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting
 
+## Federal Reserve issues FOMC statement
+- Source: FRB Payments
+- Category: Payments
+- Published: 2026-06-17T18:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+
+Federal Reserve issues FOMC statement
+
+## Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting
+- Source: FRB Payments
+- Category: Payments
+- Published: 2026-06-17T18:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm
+
+Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting
+
 ## Fed Warsh reveals plans, holds rates steady
 - Source: TBA
 - Category: Compliance Watch
@@ -7191,6 +7109,12 @@ Acknowledgement added. This is an informational change only.
 
 Acknowledgement added. This is an informational change only.
 
+## WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts
+- Source: White House
+- Category: Executive
+- Published: 2026-06-17T13:23:49Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/what-they-are-saying-first-lady-melania-trump-launches-fostering-the-future-accounts/
+
 ## Electronic Tax Administration Advisory Committee 2026 Annual Report includes recommendations to Congress and IRS
 - Source: IRS
 - Category: IRS
@@ -7215,6 +7139,22 @@ The Federal Reserve Board of Governors in Washington DC.
 
 The Federal Reserve Board of Governors in Washington DC.
 
+## News & Events
+- Source: FRB Payments
+- Category: Payments
+- Published: 2026-06-17T00:00:00Z
+- URL: https://www.federalreserve.gov/newsevents.htm
+
+The Federal Reserve Board of Governors in Washington DC.
+
+## 2026 FOMC
+- Source: FRB Payments
+- Category: Payments
+- Published: 2026-06-17T00:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm
+
+The Federal Reserve Board of Governors in Washington DC.
+
 ## The Facts: The 21st Century ROAD to Housing Act Delivers a Bipartisan, Bicameral Win for Housing Affordability
 - Source: Senate Banking
 - Category: Legislative
@@ -7232,6 +7172,12 @@ The Federal Reserve Board of Governors in Washington DC.
 - Category: Fintech Watch
 - Published: 2026-06-17T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/first-commerce-bank-selects-fis-core-banking-compete-ai-ready
+
+## FASB Seeks Public Comment on Proposal to Improve Accounting Guidance for Certain Market-Return Cash Balance Plans
+- Source: FASB
+- Category: Compliance Watch
+- Published: 2026-06-17T00:00:00Z
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposal-to-improve-accounting-guidance-for-certain-market-return-cash-balance-plans-424656
 
 ## The Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS
 - Source: Federal Register
@@ -7879,6 +7825,12 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2025) for more information.
 
+## America 250: Presidential Message on the Anniversary of the Signing of Magna Carta
+- Source: White House
+- Category: Executive
+- Published: 2026-06-16T00:02:15Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-signing-of-magna-carta/
+
 ## Scott, Warren, Hill, Waters Release Updated Bill Text on Senate Consideration of the 21st Century ROAD to Housing Act
 - Source: Senate Banking
 - Category: Legislative
@@ -7929,6 +7881,12 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 
 On March 11, 2026, the NCUA (or `agency') published a proposed rule to solicit comments on ways to improve and update the vital records preservation program regulation and accompanying guidelines. Based on the comments received, and upon further consideration of the issues involved, the NCUA Board is publishing this final rule, mostly as proposed, to clarify the purpose of par…
 
+## Nominations Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-06-15T21:53:41Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-4101/
+
 ## TBA hosts U.S. Treasury Secretary, Comptroller in Houston
 - Source: TBA
 - Category: Compliance Watch
@@ -7936,6 +7894,12 @@ On March 11, 2026, the NCUA (or `agency') published a proposed rule to solicit c
 - URL: https://www.texasbankers.com/tba-hosts-u-s-treasury-secretary-comptroller-in-houston/
 
 Meetings focus on protecting the financial system and fighting illicit activity while ensuring access for legitimate businesses FOR IMMEDIATE RELEASE: June 15, 2026 HOUSTON – Bankers from throughout Texas underscored their commitment to supporting the integrity of the financial system while serving legitimate businesses and households in a meeting Friday […] The post TBA hosts…
+
+## Presidential Message on Men’s Health Week
+- Source: White House
+- Category: Executive
+- Published: 2026-06-15T16:00:00Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-mens-health-week/
 
 ## Chromium: CVE-2026-12019 Out of bounds write Codecs
 - Source: Microsoft MSRC
@@ -8121,6 +8085,12 @@ Information published.
 
 This webpage provides resources to help bankers better understand elder financial exploitation (EFE).
 
+## Presidential Message on the 251st Birthday of the United States Army
+- Source: White House
+- Category: Executive
+- Published: 2026-06-14T18:42:20Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-the-251st-birthday-of-the-united-states-army/
+
 ## CVE-2026-10846 Insufficient verification that responses belong to a query
 - Source: Microsoft MSRC
 - Category: IS
@@ -8277,6 +8247,48 @@ Information published.
 - Published: 2026-06-12T21:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0533
 
+## First Lady Melania Trump’s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts
+- Source: White House
+- Category: Executive
+- Published: 2026-06-12T20:58:22Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trumps-remarkable-week-empowering-youth-through-ai-challenge-and-fostering-the-future-accounts/
+
+## America 250: Presidential Message on the 250th Anniversary of the Virginia Declaration of Rights
+- Source: White House
+- Category: Executive
+- Published: 2026-06-12T20:21:35Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-250th-anniversary-of-the-virginia-declaration-of-rights/
+
+## Fact Sheet: President Donald J. Trump Defends America’s Warfighters and Intelligence Officers Against Cyber Threats
+- Source: White House
+- Category: Executive
+- Published: 2026-06-12T19:36:33Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-defends-americas-warfighters-and-intelligence-officers-against-cyber-threats/
+
+## S. 254 Signed into Law
+- Source: White House
+- Category: Executive
+- Published: 2026-06-12T19:26:27Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/s-254-signed-into-law/
+
+## National Homeownership Month, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-06-12T19:24:42Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/national-homeownership-month-2026/
+
+## Flag Day and National Flag Week, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-06-12T19:22:08Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/flag-day-and-national-flag-week-2026/
+
+## National Security Presidential Memorandum/NSPM-12
+- Source: White House
+- Category: Executive
+- Published: 2026-06-12T19:19:12Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/
+
 ## Remarks by Treasury Secretary Scott Bessent before the Petroleum Club of Houston
 - Source: Treasury
 - Category: OFAC
@@ -8371,6 +8383,30 @@ Information published.
 
 This proposed rule would amend the definition of "manufactured home" in HUD's Manufactured Home Construction and Safety Standards (MHCSS), Model Manufactured Home Installation Standards (MMHIS), and Manufactured Home Installation Program (MHIP) to provide that a transportable section of a manufactured home serving as part of an upper floor of a manufactured home would not need…
 
+## Nomination and Withdrawal Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-06-11T21:03:00Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/
+
+## 75th Anniversary of the White House Navy Mess, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-06-11T20:27:44Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/
+
+## Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific
+- Source: White House
+- Category: Executive
+- Published: 2026-06-11T20:26:56Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-restores-american-commercial-fishing-in-the-pacific/
+
+## Restoring American Commercial Fishing in the Pacific
+- Source: White House
+- Category: Executive
+- Published: 2026-06-11T20:25:24Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/
+
 ## Treasury Secretary Scott Bessent and First Lady Melania Trump Announce Access to Trump Accounts for Foster Youth, under Mrs. Trump’s Fostering the Future Initiative
 - Source: Treasury
 - Category: OFAC
@@ -8383,6 +8419,12 @@ This proposed rule would amend the definition of "manufactured home" in HUD's Ma
 - Published: 2026-06-11T16:30:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0529
 
+## First Lady Melania Trump Launches Fostering the Future Accounts America’s First Savings & Investment Vehicle for Foster Youth
+- Source: White House
+- Category: Executive
+- Published: 2026-06-11T16:13:47Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-launches-fostering-the-future-accountsamericas-first-savings-investment-vehicle-for-foster-youth/
+
 ## Federal Reserve Board announces final rule that establishes data standards for certain information collections
 - Source: FRB
 - Category: Banking
@@ -8390,6 +8432,20 @@ This proposed rule would amend the definition of "manufactured home" in HUD's Ma
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm
 
 Federal Reserve Board announces final rule that establishes data standards for certain information collections
+
+## Federal Reserve Board announces final rule that establishes data standards for certain information collections
+- Source: FRB Payments
+- Category: Payments
+- Published: 2026-06-11T15:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm
+
+Federal Reserve Board announces final rule that establishes data standards for certain information collections
+
+## Presidential Message on U.S. Catholic Bishops Honoring the 250th Anniversary of American Independence
+- Source: White House
+- Category: Executive
+- Published: 2026-06-11T12:36:32Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-u-s-catholic-bishops-honoring-the-250th-anniversary-of-american-independence/
 
 ## CVE-2026-8829 HTML::Entities versions before 3.84 for Perl read freed heap memory in _decode_entities
 - Source: Microsoft MSRC
@@ -8713,6 +8769,12 @@ Fannie Mae’s market intelligence helps you understand changes in the housing a
 
 On March 30, 2026, the Bureau of the Census (Census Bureau) published a final rule in the Federal Register entitled " Streamlining the Census Bureau's Foreign Trade Regulations", which became effective on March 30, 2026. Subsequent review of the final rule in the Federal Register identified an error necessitating corrective action. Accordingly, this final rule issues a non-sub…
 
+## Nomination Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-06-10T19:41:45Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-6e45/
+
 ## Treasury Previews Education Freedom Tax Credit Guidance
 - Source: Treasury
 - Category: OFAC
@@ -8724,6 +8786,12 @@ On March 30, 2026, the Bureau of the Census (Census Bureau) published a final ru
 - Category: OFAC
 - Published: 2026-06-10T17:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0528
+
+## S. 2 Signed into Law
+- Source: White House
+- Category: Executive
+- Published: 2026-06-10T16:25:35Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/s-2-signed-into-law/
 
 ## CVE-2026-47294 Microsoft SharePoint Server Remote Code Execution Vulnerability
 - Source: Microsoft MSRC
@@ -8748,14 +8816,6 @@ Updated the Security Updates Build Number
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40376
 
 Updated the Security Updates Build Number
-
-## CVE-2026-45482 Microsoft Visual Studio Code CoPilot Chat Security Feature Bypass Vulnerability
-- Source: Microsoft MSRC
-- Category: IS
-- Published: 2026-06-10T14:00:00Z
-- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45482
-
-Updated the Security Updates Build Number and Title as the Chat extention is now merged into Visual Studio Code
 
 ## CVE-2026-47298 Microsoft SharePoint Server Remote Code Execution Vulnerability
 - Source: Microsoft MSRC
@@ -8939,17 +8999,29 @@ I recently participated in discussions regarding Metro 2® reporting guidance, a
 - Published: 2026-06-10T00:00:00Z
 - URL: https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-expands-settlement-capabilities-to-include-stablecoin.html
 
-## Debit Cards
-- Source: ABA
+## Investor Advisory Committee Meeting Recap—May 28, 2026
+- Source: FASB
 - Category: Compliance Watch
 - Published: 2026-06-10T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments/debit-cards
+- URL: https://www.fasb.org/news-and-meetings/in-the-news/investor-advisory-committee-meeting-recapmay-28-2026-424642
 
-Debit cards are a preferred payment method for consumers, and are now synonymous with banking.
+## Congressional Bills H.R. 3490 and S. 2393 Signed into Law
+- Source: White House
+- Category: Executive
+- Published: 2026-06-09T20:01:10Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/
 
 ## Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.
 - Source: FRB
 - Category: Banking
+- Published: 2026-06-09T20:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+
+Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.
+
+## Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.
+- Source: FRB Payments
+- Category: Payments
 - Published: 2026-06-09T20:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
 
@@ -8962,6 +9034,12 @@ Federal Reserve Board announces that results from its annual bank stress test wi
 - URL: https://www.texasbankers.com/texas-bankers-association-elects-2026-2027-board-of-directors/
 
 (AUSTIN) – The Texas Bankers Association (TBA) recently announced the elected Board of Directors for the 2026-27 fiscal year. Named were: Chairman William M. Lucas, Shelby Savings Bank, SSB, Center; Vice Chair Michael A. Neill, First State Bank, Athens; Treasurer Micah C. Boles, First National Bank of Bosque County, Valley Mills; and Past Chairman Ronald D. Butler, II, First F…
+
+## First Lady Melania Trump Honors America’s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony
+- Source: White House
+- Category: Executive
+- Published: 2026-06-09T15:51:33Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/
 
 ## Treasury Releases Social Security and Medicare Trustees Reports
 - Source: Treasury
@@ -9344,6 +9422,14 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-10883
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see Google Chrome Releases for more information.
+
+## CVE-2026-45482 Microsoft Visual Studio Code CoPilot Chat Extension Security Feature Bypass Vulnerability
+- Source: Microsoft MSRC
+- Category: IS
+- Published: 2026-06-09T14:00:00Z
+- URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45482
+
+Improper limitation of a pathname to a restricted directory ('path traversal') in GitHub Copilot and Visual Studio Code allows an unauthorized attacker to bypass a security feature locally.
 
 ## CVE-2026-41108 Windows DNS Client Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
@@ -11015,6 +11101,12 @@ The NCUA Board is adopting an interim final rule to clarify federal credit union
 
 The NCUA Board is amending its regulations concerning the reimbursement of reasonable expenses for federal credit union (FCU) officials. The amendment revises the definition of compensation to exclude dependent care costs incurred by volunteer officials while attending board meetings and performing official credit union duties. By recognizing these costs as reimbursable, the N…
 
+## Nomination Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-06-08T19:38:26Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/
+
 ## CVE-2026-35429 Microsoft Edge (Chromium-based) for Android Spoofing Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -11093,6 +11185,30 @@ Funding commercial real estate projects is among the many ways that banks help t
 
 The Consumer Financial Protection Bureau (Bureau or CFPB) is issuing this statement to remind creditors of their obligations under the Truth in Lending Act (TILA) as implemented by Regulation Z, and consistent with Executive Order 14406, titled "Restoring Integrity to America's Financial System."
 
+## America 250: Presidential Message on the Anniversary of D-Day
+- Source: White House
+- Category: Executive
+- Published: 2026-06-06T23:13:18Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-d-day/
+
+## Presidential Message on National Ocean Month
+- Source: White House
+- Category: Executive
+- Published: 2026-06-05T20:54:08Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-national-ocean-month/
+
+## Fact Sheet: President Donald J. Trump Signs Historic Directive on AI in the National Security Enterprise
+- Source: White House
+- Category: Executive
+- Published: 2026-06-05T18:24:14Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-signs-historic-directive-on-ai-in-the-national-security-enterprise/
+
+## National Security Presidential Memorandum/NSPM-11
+- Source: White House
+- Category: Executive
+- Published: 2026-06-05T18:22:57Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/
+
 ## Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks
 - Source: Treasury
 - Category: OFAC
@@ -11134,22 +11250,6 @@ Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Netw
 - Category: OFAC
 - Published: 2026-06-05T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260605
-
-## IRS describes agency’s activities in fiscal year 2025 Data Book
-- Source: IRS
-- Category: IRS
-- Published: 2026-06-05T00:00:00Z
-- URL: https://www.irs.gov/newsroom/irs-describes-agencys-activities-in-fiscal-year-2025-data-book
-
-IR-2026-74, June 5, 2026 — The Internal Revenue Service today issued the 2025 Data Book detailing the agency’s activities during fiscal year 2025.
-
-## Treasury, IRS announce intent to issue proposed regulations for excise tax on excess tax-exempt organization executive compensation under the One, Big, Beautiful Bill
-- Source: IRS
-- Category: IRS
-- Published: 2026-06-05T00:00:00Z
-- URL: https://www.irs.gov/newsroom/treasury-irs-announce-intent-to-issue-proposed-regulations-for-excise-tax-on-excess-tax-exempt-organization-executive-compensation-under-the-one-big-beautiful-bill
-
-IR-2026-73, June 5, 2026 — The Department of the Treasury and the Internal Revenue Service today issued Notice 2026-36 announcing intent to issue proposed regulations addressing the tax on excessive compensation and excess parachute payments to employees of tax-exempt organizations under the One, Big, Beautiful Bill.
 
 ## MPF Announcement 2026-37
 - Source: FHLB MPF
@@ -11204,6 +11304,18 @@ The Federal Deposit Insurance Corporation (FDIC) proposes to issue regulations p
 - URL: https://www.federalregister.gov/documents/2026/06/05/2026-11285/clarification-of-discretionary-employment-authorization-for-certain-aliens
 
 The Department of Homeland Security proposes to limit and clarify eligibility for discretionary employment authorization for aliens paroled into the United States temporarily for urgent humanitarian reasons or significant public benefit, who have been granted deferred action, or against whom a final order of removal exists and who are temporarily released from custody on an or…
+
+## Granting Pardon to Stephen E. Buyer
+- Source: White House
+- Category: Executive
+- Published: 2026-06-04T22:00:00Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/granting-pardon-to-stephen-e-buyer/
+
+## America 250: Presidential Message on the Anniversary of the Battle of Midway
+- Source: White House
+- Category: Executive
+- Published: 2026-06-04T17:25:26Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-midway/
 
 ## Statement from Secretary of the Treasury Scott Bessent Before the United States House of Representatives Ways and Means Committee
 - Source: Treasury
@@ -11321,14 +11433,6 @@ Information published.
 - Published: 2026-06-04T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260604
 
-## IRS announces nationwide hiring events for customer service representatives and tax examining technicians
-- Source: IRS
-- Category: IRS
-- Published: 2026-06-04T00:00:00Z
-- URL: https://www.irs.gov/newsroom/irs-announces-nationwide-hiring-events-for-customer-service-representatives-and-tax-examining-technicians
-
-IR-2026-72, June 4, 2026 — The Internal Revenue Service today announced a series of hiring events to take place across the country through July.
-
 ## Mortgage Rates Decrease to 6.48%
 - Source: Freddie Mac
 - Category: Mortgage
@@ -11388,6 +11492,30 @@ The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995 (
 - URL: https://www.federalregister.gov/documents/2026/06/04/2026-11195/processing-certain-veteran-requested-veteran-readiness-and-employment-benefit-changes-without
 
 The Department of Veterans Affairs (VA) proposes to amend regulations under the Veteran Readiness and Employment (VR&E) program to ensure veterans' requests to forgo, suspend, reduce, or terminate their benefits and services may be processed timely and without unnecessary delays. The current regulation requires VR&E to provide at least 30 days advance notice and opportunity fo…
+
+## Strengthening Customs Enforcement
+- Source: White House
+- Category: Executive
+- Published: 2026-06-03T20:35:52Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/strengthening-customs-enforcement/
+
+## Implementing Schedule Policy/Career in the Excepted Service
+- Source: White House
+- Category: Executive
+- Published: 2026-06-03T20:34:27Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/implementing-schedule-policy-career-in-the-excepted-service/
+
+## Fact Sheet: President Donald J. Trump Increases Accountability in the Federal Workforce
+- Source: White House
+- Category: Executive
+- Published: 2026-06-03T20:30:33Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/
+
+## Fact Sheet: President Donald J. Trump Strengthens Customs Enforcement
+- Source: White House
+- Category: Executive
+- Published: 2026-06-03T20:29:46Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/
 
 ## Statement from Secretary of the Treasury Scott Bessent Before the United States Senate Finance Committee
 - Source: Treasury
@@ -12219,6 +12347,18 @@ The Federal Deposit Insurance Corporation (FDIC) is correcting a final rule that
 - Published: 2026-06-02T19:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0518
 
+## Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security
+- Source: White House
+- Category: Executive
+- Published: 2026-06-02T18:04:20Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/
+
+## Promoting Advanced Artificial Intelligence Innovation and Security
+- Source: White House
+- Category: Executive
+- Published: 2026-06-02T15:34:13Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+
 ## Press Release: Agencies Remove Additional References to Reputation Risk
 - Source: FDIC
 - Category: Banking
@@ -12230,6 +12370,14 @@ PRESS RELEASE | JUNE 2, 2026 Agencies Remove Additional References to Reputation
 ## Agencies remove additional references to reputation risk
 - Source: FRB
 - Category: Banking
+- Published: 2026-06-02T15:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm
+
+Agencies remove additional references to reputation risk
+
+## Agencies remove additional references to reputation risk
+- Source: FRB Payments
+- Category: Payments
 - Published: 2026-06-02T15:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm
 
@@ -12759,6 +12907,18 @@ Information published.
 
 Information published.
 
+## Fact Sheet: President Donald J. Trump Updates Tariffs on Steel, Aluminum, and Copper Imports
+- Source: White House
+- Category: Executive
+- Published: 2026-06-02T01:10:32Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/
+
+## Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper into the United States
+- Source: White House
+- Category: Executive
+- Published: 2026-06-02T01:09:17Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/
+
 ## Counter Terrorism and Iran-related Designations; Democratic Republic of the Congo-related Designations; Issuance of Iran-related Frequently Asked Question
 - Source: OFAC
 - Category: OFAC
@@ -12783,12 +12943,6 @@ Information published.
 - Published: 2026-06-02T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-present-upcoming-conference-27
 
-## Fiserv Named 2026 Financial Services Product Partner of the Year by Snowflake
-- Source: Fiserv
-- Category: Fintech Watch
-- Published: 2026-06-02T00:00:00Z
-- URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-named-2026-financial-services-product-partner-year
-
 ## Mastercard advances instant cross-border payments with TIPS cross-currency pilot June 1, 2026
 - Source: Mastercard
 - Category: Payment Card Networks
@@ -12803,13 +12957,17 @@ Information published.
 
 This rule revises the payment limitation and payment eligibility regulations to conform with provisions of the One Big Beautiful Bill Act (OBBBA). This rule also makes additional changes to those regulations to improve program administration and clarify and update existing provisions.
 
-## Texas Bankers CEO Touts Depth and Growth of State Banking Sector
-- Source: TBA
-- Category: Compliance Watch
-- Published: 2026-06-01T19:09:32Z
-- URL: https://www.texasbankers.com/texas-bankers-ceo-touts-depth-and-growth-of-state-banking-sector/
+## Presidential Message on Global Coptic Day
+- Source: White House
+- Category: Executive
+- Published: 2026-06-01T22:12:24Z
+- URL: https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/
 
-“This is no longer Texas becoming America’s financial services capital. You’re seeing it happen right before our eyes.” (AUSTIN) – Texas Gov. Greg Abbott’s declaration that Texas is “America’s Financial Capital” underscores the rapid growth and unmatched depth of Texas’s financial services industry, Texas Bankers Association (TBA) President and CEO Chris Furlow said in a […] T…
+## Nominations and Withdrawal Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-06-01T19:45:44Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/
 
 ## U.S. Treasury, U.S. Mint Launch FIFA Coins with All Proceeds to Military Families' Youth Soccer
 - Source: Treasury
