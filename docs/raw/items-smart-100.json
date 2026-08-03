@@ -1,13 +1,192 @@
 [
   {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Fed proposes to update rules on lending to bank insiders",
+    "published_at": "2026-08-01T05:00:00Z",
+    "url": "https://bankingjournal.aba.com/2026/07/fed-proposes-to-update-rules-on-lending-to-bank-insiders/",
+    "summary": "",
+    "smart_index": 1
+  },
+  {
+    "category": "Legislative",
+    "source": "Senate Banking",
+    "title": "Warren Statement on Trump Media API Launch",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-media-api-launch",
+    "summary": "",
+    "smart_index": 2
+  },
+  {
+    "category": "Legislative",
+    "source": "Senate Banking",
+    "title": "Banking Democrats Statement on Trump Administration Move to Gut Community Reinvestment Act",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.banking.senate.gov/newsroom/minority/banking-democrats-statement-on-trump-administration-move-to-gut-community-reinvestment-act",
+    "summary": "",
+    "smart_index": 3
+  },
+  {
+    "category": "Legislative",
+    "source": "Senate Banking",
+    "title": "NEW: Banking Minority Staff Analysis Confirms Clarity Act Would Do Nothing to Prevent Trump From Making His Next $1.4 Billion in Crypto Profits",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.banking.senate.gov/newsroom/minority/new-banking-minority-staff-analysis-confirms-clarity-act-would-do-nothing-to-prevent-trump-from-making-his-next-14-billion-in-crypto-profits",
+    "summary": "",
+    "smart_index": 4
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "Rails patches critical Active Storage flaw with RCE potential",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+    "summary": "",
+    "smart_index": 5
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Risk Management Overview",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/risk-management",
+    "summary": "Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA.",
+    "smart_index": 6
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Consumer Lending",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/consumer-banking/consumer-lending",
+    "summary": "Enhance your knowledge and understanding of consumer loans and issues that effect them.",
+    "smart_index": 7
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Commercial Banking Overview",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/commercial-banking",
+    "summary": "Find resources on commercial banking topics like Commercial and Industrial (C&I) loans, small business, Commercial Real Estate (CRE), agricultural banking and more.",
+    "smart_index": 8
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Commercial & Industrial Loans",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans",
+    "summary": "ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments.",
+    "smart_index": 9
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Leadership & Operations Overview",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/operations",
+    "summary": "Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.",
+    "smart_index": 10
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Leadership",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/operations/leadership",
+    "summary": "Resources and training for bank CEOs and Executives",
+    "smart_index": 11
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Workforce Excellence",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/operations/workforce-excellence",
+    "summary": "America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts.",
+    "smart_index": 12
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Economic Trends",
+    "published_at": "2026-08-01T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/operations/economic-trends",
+    "summary": "The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.",
+    "smart_index": 13
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+    "published_at": "2026-07-31T22:16:42Z",
+    "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+    "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
+    "smart_index": 14
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "Arch Linux disables AUR package adoption to stop malware flood",
+    "published_at": "2026-07-31T21:38:08Z",
+    "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+    "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
+    "smart_index": 15
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
+    "published_at": "2026-07-31T21:09:25Z",
+    "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+    "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
+    "smart_index": 16
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
+    "published_at": "2026-07-31T21:00:00Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
+    "summary": "",
+    "smart_index": 17
+  },
+  {
     "category": "Banking",
     "source": "FDIC",
     "title": "Press Release: Joint Statement of Enforcement Policy in support of Venezuela’s Economic Recovery and Earthquake Relief Efforts",
     "published_at": "2026-07-31T19:41:17Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/42305d8",
     "summary": "PRESS RELEASE | JULY 31, 2026 Joint Statement of Enforcement Policy in support of Venezuela’s Economic Recovery and Earthquake Relief Efforts WASHINGTON — The staffs of the Board of Governors of the Federal Reserve System (Federal Reserve), the Federal Deposit Insurance Corporation (FDIC), the National Credit Union Administration (NCUA), and the Office of the Comptroller of th…",
-    "smart_index": 1
-<<<<<<< HEAD
+    "smart_index": 18
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
+    "published_at": "2026-07-31T18:52:44Z",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
+    "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
+    "smart_index": 19
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+    "published_at": "2026-07-31T17:35:35Z",
+    "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+    "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
+    "smart_index": 20
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+    "published_at": "2026-07-31T16:49:49Z",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
+    "smart_index": 21
   },
   {
     "category": "Banking",
@@ -16,44 +195,25 @@
     "published_at": "2026-07-31T15:51:05Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/422e02c",
     "summary": "BOARD MATTERS | July 31, 2026 FDIC Board of Directors Approve New Actions By notational vote, the Federal Deposit Insurance Corporation's Board of Directors today unanimously approved the following matters. Materials and information related to these Board actions are available on the Board Matters webpage . Notice of Proposed Rulemaking: Community Reinvestment Act Regulations…",
-    "smart_index": 2
-=======
+    "smart_index": 22
   },
   {
     "category": "Banking",
     "source": "FDIC",
-    "title": "FDIC Board of Directors Approve New Actions",
-    "published_at": "2026-07-31T15:51:05Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/422e02c",
-    "summary": "BOARD MATTERS | July 31, 2026 FDIC Board of Directors Approve New Actions By notational vote, the Federal Deposit Insurance Corporation's Board of Directors today unanimously approved the following matters. Materials and information related to these Board actions are available on the Board Matters webpage . Notice of Proposed Rulemaking: Community Reinvestment Act Regulations…",
-    "smart_index": 2
+    "title": "Press Release: FDIC Publishes Enforcement Orders for June 2026",
+    "published_at": "2026-07-31T14:02:01Z",
+    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/421a8b4",
+    "summary": "PRESS RELEASE | JULY 31, 2026 FDIC Publishes Enforcement Orders for June 2026 WASHINGTON — The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in June 2026. There are no administrative hearings scheduled for August 2026. Orders to Pay Civil Money Penalties: Planters Bank & T…",
+    "smart_index": 23
   },
   {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-    "published_at": "2026-07-31T14:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-    "smart_index": 3
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-    "published_at": "2026-07-31T14:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-    "smart_index": 4
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a ban…",
-    "published_at": "2026-07-31T14:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-    "smart_index": 5
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+    "published_at": "2026-07-31T14:01:11Z",
+    "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+    "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security software. [...]",
+    "smart_index": 24
   },
   {
     "category": "Banking",
@@ -62,7 +222,34 @@
     "published_at": "2026-07-31T14:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-    "smart_index": 6
+    "smart_index": 25
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+    "published_at": "2026-07-31T14:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+    "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+    "smart_index": 26
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a ban…",
+    "published_at": "2026-07-31T14:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+    "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+    "smart_index": 27
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+    "published_at": "2026-07-31T14:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+    "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+    "smart_index": 28
   },
   {
     "category": "OFAC",
@@ -71,7 +258,16 @@
     "published_at": "2026-07-31T13:08:35Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0583",
     "summary": "",
-    "smart_index": 7
+    "smart_index": 29
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+    "published_at": "2026-07-31T00:57:25Z",
+    "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+    "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]",
+    "smart_index": 30
   },
   {
     "category": "Banking",
@@ -80,7 +276,7 @@
     "published_at": "2026-07-31T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-joint-proposal-amending-community-reinvestment-act-rules",
     "summary": "The agencies today proposed targeted changes to their current rules implementing the Community Reinvestment Act (CRA) to better align with the statutory mandate",
-    "smart_index": 8
+    "smart_index": 31
   },
   {
     "category": "Banking",
@@ -89,7 +285,25 @@
     "published_at": "2026-07-31T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-approves-proposal-amend-regulations-regarding-lending-limits",
     "summary": "FDIC is seeking public comment on a NPR that would adjust certain lending thresholds for executive officers and other insiders of FDIC-supervised Institutions.",
-    "smart_index": 9
+    "smart_index": 32
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "FDIC Publishes June Enforcement Actions",
+    "published_at": "2026-07-31T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-publishes-june-enforcement-actions",
+    "summary": "FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in June 2026.",
+    "smart_index": 33
+  },
+  {
+    "category": "Mortgage",
+    "source": "Fannie Mae",
+    "title": "Applications & Technology",
+    "published_at": "2026-07-31T00:00:00Z",
+    "url": "https://multifamily.fanniemae.com/applications-technology",
+    "summary": "Learn more about Fannie Mae’s Multifamily library of applications; DUS Disclose, DUS Docway, DUS Gateway, DUS Insights, DUS Navigate and more.",
+    "smart_index": 34
   },
   {
     "category": "Payments",
@@ -98,7 +312,48 @@
     "published_at": "2026-07-31T00:00:00Z",
     "url": "https://www.nacha.org/news/how-some-rdfis-review-customer-written-statements-unauthorized-debits-first-party-fraud",
     "summary": "",
-    "smart_index": 10
+    "smart_index": 35
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "Get lifetime access to 1,000+ online courses for $35 in this deal",
+    "published_at": "2026-07-31T00:00:00Z",
+    "url": "https://www.bleepingcomputer.com/offer/deals/get-lifetime-access-to-1-000-plus-online-courses-for-35-in-this-deal/",
+    "summary": "",
+    "smart_index": 36
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Consumer Banking Overview",
+    "published_at": "2026-07-31T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/consumer-banking",
+    "summary": "Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.",
+    "smart_index": 37
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Inclusive Banking",
+    "published_at": "2026-07-31T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/consumer-banking/inclusive-banking",
+    "summary": "Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.",
+    "smart_index": 38
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
+    "published_at": "2026-07-31T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15537/agency-information-collection-activities-proposed-collection-renewal-comment-request",
+    "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the renewal, without change, of the existing information collection described below (OMB Control No. 3064-0184).",
+    "fr_tags": [
+      "agency:federal-deposit-insurance-corporation",
+      "filter:federal-deposit-insurance-corporation"
+    ],
+    "fedreg_document_number": "2026-15537",
+    "smart_index": 39
   },
   {
     "category": "Federal Register",
@@ -113,7 +368,61 @@
       "topic:employment"
     ],
     "fedreg_document_number": "2026-15567",
-    "smart_index": 11
+    "smart_index": 40
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "South Korea fines telco giant KT $39 million for customer data breach",
+    "published_at": "2026-07-30T22:28:30Z",
+    "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+    "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
+    "smart_index": 41
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+    "published_at": "2026-07-30T22:01:31Z",
+    "url": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+    "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
+    "smart_index": 42
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Fact Sheet: President Donald J. Trump Delegates Defense Production Act Authority with Respect to Recoverable Critical Minerals and Materials That Are Essential to Our National Defense",
+    "published_at": "2026-07-30T20:34:56Z",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/",
+    "summary": "",
+    "smart_index": 43
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Permit: Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas",
+    "published_at": "2026-07-30T20:34:13Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-permit-authorizing-cameron-county-texas-to-own-operate-and-maintain-the-brownsville-and-matamoros-bridge-in-brownsville-texas/",
+    "summary": "",
+    "smart_index": 44
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials",
+    "published_at": "2026-07-30T20:33:26Z",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/",
+    "summary": "",
+    "smart_index": 45
+  },
+  {
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+    "published_at": "2026-07-30T18:13:24Z",
+    "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+    "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
+    "smart_index": 46
   },
   {
     "category": "OFAC",
@@ -122,7 +431,169 @@
     "published_at": "2026-07-30T17:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0582",
     "summary": "",
-    "smart_index": 12
+    "smart_index": 47
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+    "published_at": "2026-07-30T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+    "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+    "smart_index": 48
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+    "published_at": "2026-07-30T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+    "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+    "smart_index": 49
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+    "published_at": "2026-07-30T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+    "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+    "smart_index": 50
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+    "published_at": "2026-07-30T15:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+    "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+    "smart_index": 51
+  },
+  {
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "CVE-2026-54128 Windows DHCP Client Remote Code Execution Vulnerability",
+    "published_at": "2026-07-30T14:00:00Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54128",
+    "summary": "Updated an acknowledgement. This is an informational change only.",
+    "smart_index": 52
+  },
+  {
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "CVE-2026-55129 Microsoft Office Remote Code Execution Vulnerability",
+    "published_at": "2026-07-30T14:00:00Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55129",
+    "summary": "Acknowledgement Updated",
+    "smart_index": 53
+  },
+  {
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "CVE-2026-56197 Windows Admin Center (WAC) Remote Code Execution Vulnerability",
+    "published_at": "2026-07-30T14:00:00Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56197",
+    "summary": "Updated an acknowledgement. This is an informational change only.",
+    "smart_index": 54
+  },
+  {
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "CVE-2026-66803 Azure Cosmos DB Remote Code Execution Vulnerability",
+    "published_at": "2026-07-30T14:00:00Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66803",
+    "summary": "Improper access control in Azure Cosmos DB allows an unauthorized attacker to execute code over a network.",
+    "smart_index": 55
+  },
+  {
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "CVE-2026-24304 Azure Resource Manager Elevation of Privilege Vulnerability",
+    "published_at": "2026-07-30T14:00:00Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24304",
+    "summary": "Informational Change. CVE ID stays the same.",
+    "smart_index": 56
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "First Lady Melania Trump Facilitates Her Fifth Ukraine–Russia Family Reunification",
+    "published_at": "2026-07-30T11:04:08Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-facilitates-her-fifth-ukrainerussia-family-reunification/",
+    "summary": "",
+    "smart_index": 57
+  },
+  {
+    "category": "OFAC",
+    "source": "OFAC",
+    "title": "Counter Terrorism Designations; Non-Proliferation Designation Update",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://ofac.treasury.gov/recent-actions/20260730",
+    "summary": "",
+    "smart_index": 58
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Regulatory Reform",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.federalreserve.gov/reform.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC.",
+    "smart_index": 59
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Regulatory Reform",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.federalreserve.gov/reform.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC.",
+    "smart_index": 60
+  },
+  {
+    "category": "Mortgage",
+    "source": "Fannie Mae",
+    "title": "Fannie Mae Releases June 2026 Monthly Summary",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.fanniemae.com/newsroom/fannie-mae-news/fannie-mae-releases-june-2026-monthly-summary",
+    "summary": "The monthly summary report contains information about Fannie Mae’s monthly and year-to-date activities.",
+    "smart_index": 61
+  },
+  {
+    "category": "Mortgage",
+    "source": "Freddie Mac",
+    "title": "Mortgage Rates Average 6.66%",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/07/30/3336279/0/en/mortgage-rates-average-6-66.html",
+    "summary": "",
+    "smart_index": 62
+  },
+  {
+    "category": "Mortgage",
+    "source": "Freddie Mac",
+    "title": "Freddie Mac Announces Second Quarter 2026 Financial Results",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/07/30/3336031/0/en/freddie-mac-announces-second-quarter-2026-financial-results.html",
+    "summary": "",
+    "smart_index": 63
+  },
+  {
+    "category": "Legislative",
+    "source": "Senate Banking",
+    "title": "Warren Presses Trump Administration Over Failure to Protect US Economic and National Security",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.banking.senate.gov/newsroom/minority/warren-presses-trump-administration-over-failure-to-protect-us-economic-and-national-security",
+    "summary": "",
+    "smart_index": 64
+  },
+  {
+    "category": "Legislative",
+    "source": "Senate Banking",
+    "title": "Senator Warren Statement on June 2026 PCE",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-june-2026-pce",
+    "summary": "",
+    "smart_index": 65
   },
   {
     "category": "Payments",
@@ -131,25 +602,88 @@
     "published_at": "2026-07-30T00:00:00Z",
     "url": "https://www.nacha.org/news/large-gains-same-day-ach-help-drive-ach-network-second-quarter-2026",
     "summary": "",
-    "smart_index": 13
+    "smart_index": 66
   },
   {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Regulatory Reform",
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "The AutoCAD software trusted by architects and engineers is just $399",
     "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.federalreserve.gov/reform.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 14
+    "url": "https://www.bleepingcomputer.com/offer/deals/the-autocad-software-trusted-by-architects-and-engineers-is-just-399/",
+    "summary": "",
+    "smart_index": 67
   },
   {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Regulatory Reform",
+    "category": "IS",
+    "source": "BleepingComputer",
+    "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
     "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.federalreserve.gov/reform.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 15
+    "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+    "summary": "",
+    "smart_index": 68
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Elder Financial Exploitation",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/risk-management/elder-financial-exploitation",
+    "summary": "This webpage provides resources to help bankers better understand elder financial exploitation (EFE).",
+    "smart_index": 69
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Mortgage & Home Finance",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance",
+    "summary": "There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.",
+    "smart_index": 70
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Agricultural Banking",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/commercial-banking/agricultural-banking",
+    "summary": "Find the most relevant ag banking information, resources and research from our team of experts.",
+    "smart_index": 71
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Technology Overview",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/technology",
+    "summary": "Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution.",
+    "smart_index": 72
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Cybersecurity",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/technology/cybersecurity",
+    "summary": "ABA offers resources to help banks protect their customers' accounts and personal information.",
+    "smart_index": 73
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "TBA",
+    "title": "Fed votes to hold rates, despite growing dissent",
+    "published_at": "2026-07-29T20:18:04Z",
+    "url": "https://www.texasbankers.com/fed-votes-to-hold-rates-despite-growing-dissent/",
+    "summary": "The Federal Open Market Committee voted to hold the federal funds rate steady despite pressures. The committee’s majority voted to keep the rate at 3.5%-3.75%, but three members opposed the action, preferring to raise the rate. Voting against the monetary policy action were Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who preferred to […] The post Fed votes to hold rate…",
+    "smart_index": 74
+  },
+  {
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Message on the Birthday of Alexis de Tocqueville",
+    "published_at": "2026-07-29T19:44:12Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
+    "summary": "",
+    "smart_index": 75
   },
   {
     "category": "Banking",
@@ -158,7 +692,7 @@
     "published_at": "2026-07-29T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "summary": "Federal Reserve issues FOMC statement",
-    "smart_index": 16
+    "smart_index": 76
   },
   {
     "category": "Payments",
@@ -167,7 +701,7 @@
     "published_at": "2026-07-29T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "summary": "Federal Reserve issues FOMC statement",
-    "smart_index": 17
+    "smart_index": 77
   },
   {
     "category": "OFAC",
@@ -176,7 +710,7 @@
     "published_at": "2026-07-29T14:30:00Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0581",
     "summary": "",
-    "smart_index": 18
+    "smart_index": 78
   },
   {
     "category": "OFAC",
@@ -185,7 +719,16 @@
     "published_at": "2026-07-29T12:27:40Z",
     "url": "https://home.treasury.gov/news/press-releases/sb0580",
     "summary": "",
-    "smart_index": 19
+    "smart_index": 79
+  },
+  {
+    "category": "OFAC",
+    "source": "OFAC",
+    "title": "Iran-related Designations",
+    "published_at": "2026-07-29T00:00:00Z",
+    "url": "https://ofac.treasury.gov/recent-actions/20260729",
+    "summary": "",
+    "smart_index": 80
   },
   {
     "category": "Banking",
@@ -194,7 +737,7 @@
     "published_at": "2026-07-29T00:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 20
+    "smart_index": 81
   },
   {
     "category": "Banking",
@@ -203,7 +746,7 @@
     "published_at": "2026-07-29T00:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 21
+    "smart_index": 82
   },
   {
     "category": "Payments",
@@ -212,7 +755,7 @@
     "published_at": "2026-07-29T00:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 22
+    "smart_index": 83
   },
   {
     "category": "Payments",
@@ -221,7 +764,61 @@
     "published_at": "2026-07-29T00:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 23
+    "smart_index": 84
+  },
+  {
+    "category": "Mortgage",
+    "source": "Fannie Mae",
+    "title": "Fannie Mae Reports Net Income of $4.0 Billion for Second Quarter 2026",
+    "published_at": "2026-07-29T00:00:00Z",
+    "url": "https://www.fanniemae.com/newsroom/fannie-mae-news/second-quarter-2026-financial-results",
+    "summary": "Fannie Mae reported its second quarter 2026 financial results and filed its Second Quarter 2026 Form 10-Q with the Securities and Exchange Commission.",
+    "smart_index": 85
+  },
+  {
+    "category": "Mortgage",
+    "source": "Fannie Mae",
+    "title": "Fannie Mae Second Quarter 2026 Financial Results Webcast",
+    "published_at": "2026-07-29T00:00:00Z",
+    "url": "https://www.fanniemae.com/newsroom/fannie-mae-news/second-quarter-2026-financial-results-webcast",
+    "summary": "Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Officer and Chief Operating Officer, and Chryssa C. Halley, Chief Financial Officer, Fannie Mae, Washington, D.C.",
+    "smart_index": 86
+  },
+  {
+    "category": "Mortgage",
+    "source": "Fannie Mae",
+    "title": "Fannie Mae Plans to Report Second Quarter 2026 Financial Results on July 29, 2026",
+    "published_at": "2026-07-29T00:00:00Z",
+    "url": "https://www.fanniemae.com/newsroom/fannie-mae-news/fannie-mae-plans-report-second-quarter-2026-financial-results-july-29-2026",
+    "summary": "",
+    "smart_index": 87
+  },
+  {
+    "category": "Legislative",
+    "source": "Senate Banking",
+    "title": "Warren, Schiff Call on SEC to Investigate Trump Media's Plan to Give Wall Street Firms Faster Access to Truth Social Posts",
+    "published_at": "2026-07-29T00:00:00Z",
+    "url": "https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts",
+    "summary": "",
+    "smart_index": 88
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Payments Overview",
+    "published_at": "2026-07-29T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/payments",
+    "summary": "Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.",
+    "smart_index": 89
+  },
+  {
+    "category": "Compliance Watch",
+    "source": "ABA",
+    "title": "Artificial Intelligence",
+    "published_at": "2026-07-29T00:00:00Z",
+    "url": "https://www.aba.com/banking-topics/technology/artificial-intelligence",
+    "summary": "Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.",
+    "smart_index": 90
   },
   {
     "category": "Federal Register",
@@ -235,1691 +832,92 @@
       "filter:government-sponsored-enterprise"
     ],
     "fedreg_document_number": "2026-15251",
-    "smart_index": 24
-  },
-  {
-    "category": "Payment Card Networks",
-    "source": "Visa",
-    "title": "Visa, Street Soccer USA and Bank of America to Bring Visa Street Soccer Parks to Every FIFA World Cup 2026™ Host City in the U.S.",
-    "published_at": "2026-07-28T00:00:00Z",
-    "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22256.html",
-    "summary": "",
-    "smart_index": 25
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative",
-    "published_at": "2026-07-27T17:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0578",
-    "summary": "",
-    "smart_index": 26
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Remarks by Secretary of the Treasury Scott Bessent Before the Financial Literacy and Education Commission",
-    "published_at": "2026-07-27T17:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0579",
-    "summary": "",
-    "smart_index": 27
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "FinCEN Issues Statement of Enforcement Policy in Support of Venezuela’s Economic Recovery and Earthquake Relief Efforts",
-    "published_at": "2026-07-27T12:00:00Z",
-    "url": "https://www.fincen.gov/news/news-releases/fincen-issues-statement-enforcement-policy-support-venezuelas-economic-recovery",
-    "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a statement of enforcement policy in support of economic recovery and earthquake relief efforts in Venezuela.ResourcesStatement of Enforcement Policy",
-    "smart_index": 28
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Updating Website and Contact Information, and Authorizations for Payments for Legal Services",
-    "published_at": "2026-07-27T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15112/updating-website-and-contact-information-and-authorizations-for-payments-for-legal-services",
-    "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is adopting a final rule to update website and contact information in certain parts of the Code of Federal Regulations (CFR). Additionally, OFAC is amending one CFR Part to update general licenses authorizing payments for legal services from funds originating outside the United States to replace the repor…",
-    "fr_tags": [
-      "agency:foreign-assets-control-office",
-      "agency:treasury-department",
-      "topic:banks-banking",
-      "topic:credit",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-15112",
-    "smart_index": 29
-  },
-  {
-    "category": "OFAC",
-    "source": "OFAC",
-    "title": "Sanctions List Removals; Sanctions List Updates",
-    "published_at": "2026-07-27T00:00:00Z",
-    "url": "https://ofac.treasury.gov/recent-actions/20260727",
-    "summary": "",
-    "smart_index": 30
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Joint Statement on the EU-U.S. Joint Financial Regulatory Forum",
-    "published_at": "2026-07-24T15:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0577",
-    "summary": "",
-    "smart_index": 31
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Further Dismantles Iranian Financier Zanjani’s Network",
-    "published_at": "2026-07-24T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0576",
-    "summary": "",
-    "smart_index": 32
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "FinCEN Issues Alert on Fraud Schemes Targeting Federal Student Aid",
-    "published_at": "2026-07-24T14:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0575",
-    "summary": "",
-    "smart_index": 33
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "FinCEN Issues Alert on Fraud Schemes Targeting Federal Student Aid",
-    "published_at": "2026-07-24T12:00:00Z",
-    "url": "https://www.fincen.gov/news/news-releases/fincen-issues-alert-fraud-schemes-targeting-federal-student-aid",
-    "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an Alert urging financial institutions to detect, prevent, and report suspicious activity connected to fraud schemes targeting student aid programs administered by the Federal government. Resources",
-    "smart_index": 34
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Loan Performance Categories and Financial Reporting",
-    "published_at": "2026-07-24T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15027/loan-performance-categories-and-financial-reporting",
-    "summary": "The Farm Credit Administration (FCA, we, or our) amends our regulatory high-risk loan performance categories by removing \"Formally restructured loans (TDR),\" also known as troubled debt restructurings. In 2022, changes in generally accepted accounting principles (GAAP) eliminated the accounting guidance for TDRs, enhanced disclosure requirements for certain loan refinancings a…",
-    "fr_tags": [
-      "agency:farm-credit-administration",
-      "filter:government-sponsored-enterprise",
-      "topic:banks-banking",
-      "topic:investments"
-    ],
-    "fedreg_document_number": "2026-15027",
-    "smart_index": 35
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States",
-    "published_at": "2026-07-23T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0574",
-    "summary": "",
-    "smart_index": 36
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion",
-    "published_at": "2026-07-23T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0573",
-    "summary": "",
-    "smart_index": 37
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks",
-    "published_at": "2026-07-23T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0572",
-    "summary": "",
-    "smart_index": 38
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Statements & Remarks",
-    "published_at": "2026-07-22T19:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/statements-remarks",
-    "summary": "",
-    "smart_index": 39
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Bessent Delivers Remarks at Wheeler High School in Marietta, Georgia",
-    "published_at": "2026-07-22T19:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0571",
-    "summary": "",
-    "smart_index": 40
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Secretary of the Treasury Scott Bessent's Meeting with Pakistan's Federal Minister for Finance and Revenue Muhammad Aurangzeb",
-    "published_at": "2026-07-22T15:45:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0570",
-    "summary": "",
-    "smart_index": 41
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "FinCEN Extends Comment Period for Proposed Rule To Amend the Definition of Huione Group",
-    "published_at": "2026-07-22T12:00:00Z",
-    "url": "https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group",
-    "summary": "Due to a technological issue that prevented the public from electronically filing comments for several days, the Financial Crimes Enforcement Network (FinCEN) is extending the comment period for the notice of proposed rulemaking (NPRM) it published in June to amend the existing definition of Huione Group to include H-Pay Service PLC and any successor entity. Written comments o…",
-    "smart_index": 42
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Focus on the Tangible to Comply with Nacha’s Credit-Push Fraud Rules",
-    "published_at": "2026-07-22T00:00:00Z",
-    "url": "https://www.nacha.org/news/focus-tangible-comply-nachas-credit-push-fraud-rules",
-    "summary": "",
-    "smart_index": 43
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "Opening Statement of FinCEN Director Andrea Gacki before the Committee on Financial Services Subcommittee on National Security, Illicit Finance, and International Financial Institutions",
-    "published_at": "2026-07-21T12:00:00Z",
-    "url": "https://www.fincen.gov/news/testimony/opening-statement-fincen-director-andrea-gacki-committee-financial-services",
-    "summary": "",
-    "smart_index": 44
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Successfully Implements New Safeguard to Stop Payments to Deceased Individuals",
-    "published_at": "2026-07-21T10:30:15Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0569",
-    "summary": "",
-    "smart_index": 45
-  },
-  {
-    "category": "Fintech Watch",
-    "source": "Fiserv",
-    "title": "Fiserv to Power Embedded Banking and Payments for Datavault AI, Including Its NIL Exchange",
-    "published_at": "2026-07-21T00:00:00Z",
-    "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-power-embedded-banking-and-payments-datavault-ai",
-    "summary": "",
-    "smart_index": 46
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Electronic Delivery of Information Under the Federal Securities Laws",
-    "published_at": "2026-07-21T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14679/electronic-delivery-of-information-under-the-federal-securities-laws",
-    "summary": "The Securities and Exchange Commission (the \"SEC\" or the \"Commission\") is proposing Regulation E-Delivery. The proposed rule sets forth conditions for covered entities to deliver covered information to covered recipients electronically without first obtaining their affirmative consent. The proposed rule further establishes conditions under which the Commission would consider d…",
-    "fr_tags": [
-      "agency:securities-and-exchange-commission",
-      "topic:investment-companies",
-      "topic:personally-identifiable-information",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-14679",
-    "smart_index": 47
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Reporting Forms and Instructions Associated With Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers",
-    "published_at": "2026-07-20T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14589/reporting-forms-and-instructions-associated-with-requirements-and-standards-for-fdic-supervised",
-    "summary": "The FDIC invites comment on new forms and instructions associated with an Office of Management and Budget (OMB) control number (3064-0225) assigned in connection with a notice of proposed rulemaking. In accordance with the requirements of the Paperwork Reduction Act of 1995 (PRA), the FDIC may not conduct or sponsor, and the respondent is not required to respond to, an informa…",
-    "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
-    ],
-    "fedreg_document_number": "2026-14589",
-    "smart_index": 48
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Account Validation Coverage Expanded with the Phixius by Nacha and Kinexys by J.P. Morgan Collaboration",
-    "published_at": "2026-07-20T00:00:00Z",
-    "url": "https://www.nacha.org/news/account-validation-coverage-expanded-phixius-nacha-and-kinexys-jp-morgan-collaboration",
-    "summary": "",
-    "smart_index": 49
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: The Farmers State Bank of Oakley, Kansas Assumes All Deposits of Small Business Bank, Lenexa, Kansas",
-    "published_at": "2026-07-17T21:41:35Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/420fa4b",
-    "summary": "PRESS RELEASE | JULY 17, 2026 The Farmers State Bank of Oakley, Kansas Assumes All Deposits of Small Business Bank, Lenexa, Kansas WASHINGTON — Small Business Bank in Lenexa, Kansas, was closed today by the Kansas Office of the State Bank Commissioner, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement with The Farm…",
-    "smart_index": 50
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
-    "published_at": "2026-07-17T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant",
-    "summary": "The Department of Homeland Security (DHS) is amending its regulations to change the admission period in the F, J, and I classifications from duration of status to an admission for a fixed time period, and additional changes to admission and extension requirements. This final rule will provide additional protections and oversight of these nonimmigrant categories and will allow…",
-    "fr_tags": [
-      "agency:homeland-security-department",
-      "topic:employment"
-    ],
-    "fedreg_document_number": "2026-14439",
-    "smart_index": 51
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Secretary of the Treasury Scott Bessent's Meeting with Prime Minister of the Republic of Iraq Ali Al-Zaidi",
-    "published_at": "2026-07-16T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0568",
-    "summary": "",
-    "smart_index": 52
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations",
-    "published_at": "2026-07-16T18:20:46Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/420cf8d",
-    "summary": "PRESS RELEASE | JULY 16, 2026 Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations WASHINGTON — The federal bank regulatory agencies today issued a joint statement describing enhanced security procedures for review of highly sensitive information in connection with examinations of supervised banks, such as reviewing materials on-s…",
-    "smart_index": 53
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "published_at": "2026-07-16T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
-    "summary": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "smart_index": 54
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "published_at": "2026-07-16T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
-    "summary": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "smart_index": 55
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Bessent Delivers Remarks Before the Ministerial on the Resurgence of Political Terrorism",
-    "published_at": "2026-07-16T13:35:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0566",
-    "summary": "",
-    "smart_index": 56
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Credit Cards",
-    "published_at": "2026-07-16T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/credit-cards",
-    "summary": "New credit card laws have fundamentally changed the industry.",
-    "smart_index": 57
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Financial Stability Oversight Council Meeting on July 15, 2026",
-    "published_at": "2026-07-15T20:15:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0565",
-    "summary": "",
-    "smart_index": 58
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Targets Global Network Procuring Weapons for Iranian Regime",
-    "published_at": "2026-07-15T15:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0564",
-    "summary": "",
-    "smart_index": 59
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Announces Frank Bisignano to Lead Next Phase of Trump Accounts Expansion",
-    "published_at": "2026-07-15T11:49:14Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0563",
-    "summary": "",
-    "smart_index": 60
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Nacha Board Vice Chair: Financial Institutions Must Work Together to Drive the Industry",
-    "published_at": "2026-07-15T00:00:00Z",
-    "url": "https://www.nacha.org/news/nacha-board-vice-chair-financial-institutions-must-work-together-drive-industry",
-    "summary": "",
-    "smart_index": 61
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire",
-    "published_at": "2026-07-14T20:15:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0562",
-    "summary": "",
-    "smart_index": 62
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury International Capital Data for May",
-    "published_at": "2026-07-14T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0561",
-    "summary": "",
-    "smart_index": 63
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "U.S.-UK Transatlantic Taskforce for the Markets of the Future Publishes Recommendations to Promote Growth and Innovation in Capital Markets and Digital Assets",
-    "published_at": "2026-07-14T14:49:40Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0560",
-    "summary": "",
-    "smart_index": 64
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Nacha Accreditations Help You Stand Out as a Payments Expert",
-    "published_at": "2026-07-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/nacha-accreditations-help-you-stand-out-payments-expert",
-    "summary": "",
-    "smart_index": 65
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "TBA",
-    "title": "Fed agencies release guidance on lending to undocumented workers",
-    "published_at": "2026-07-13T17:00:00Z",
-    "url": "https://www.texasbankers.com/fed-agencies-release-guidance-on-lending-to-undocumented-workers/",
-    "summary": "Lending to individuals who are not legally authorized to work in the U.S. may pose elevated credit risk for financial institutions, according to joint guidance issued by the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the National Credit Union Administration. President Trump issued an executive order in May this […] The post Fed ag…",
-    "smart_index": 66
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States",
-    "published_at": "2026-07-13T15:02:45Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4204ca6",
-    "summary": "PRESS RELEASE | JULY 13, 2026 Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States WASHINGTON — The Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration (collectively, the agencies) today issued guidance to remind supervised financial institutions of t…",
-    "smart_index": 67
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans",
-    "published_at": "2026-07-13T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0559",
-    "summary": "",
-    "smart_index": 68
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Federal Home Loan Bank New Business Activities",
-    "published_at": "2026-07-13T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14035/federal-home-loan-bank-new-business-activities",
-    "summary": "The Federal Housing Finance Agency (\"FHFA\" or the \"Agency\") is requesting comment on this notice of proposed rulemaking repealing the New Business Activities regulation.",
-    "fr_tags": [
-      "agency:federal-housing-finance-agency",
-      "topic:federal-home-loan-banks"
-    ],
-    "fedreg_document_number": "2026-14035",
-    "smart_index": 69
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: Kentland Bank Assumes All Deposits of Kentland Federal Savings and Loan Association",
-    "published_at": "2026-07-10T20:17:34Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41fbc2f",
-    "summary": "PRESS RELEASE | JULY 10, 2026 Kentland Bank Assumes All Deposits of Kentland Federal Savings and Loan Association WASHINGTON — Kentland Federal Savings and Loan Association of Kentland, Indiana was closed today by the Office of the Comptroller of the Currency, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement with…",
-    "smart_index": 70
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Targets Key Supreme Leader Financier and Iran’s Shadow Exchange Houses",
-    "published_at": "2026-07-10T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0558",
-    "summary": "",
-    "smart_index": 71
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Rescission of Floodplain Management and Protection of Wetlands; Minimum Property Standards for Flood Hazard Exposure; Building to the Federal Flood Risk Management Standard",
-    "published_at": "2026-07-10T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13939/rescission-of-floodplain-management-and-protection-of-wetlands-minimum-property-standards-for-flood",
-    "summary": "This proposed rule would revise HUD's regulations governing floodplain management and the protection of wetlands in accordance with Executive Order 14148, entitled \"Initial Rescissions of Harmful Executive Orders and Actions.\" Executive Order 14148 revoked an earlier executive order that formed a basis for the final rule that HUD published on April 23, 2024, entitled \"Floodpla…",
-    "fr_tags": [
-      "agency:housing-and-urban-development-department",
-      "filter:manufactured-home",
-      "topic:fair-housing",
-      "topic:mortgage-insurance"
-    ],
-    "fedreg_document_number": "2026-13939",
-    "smart_index": 72
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "published_at": "2026-07-09T19:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-    "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "smart_index": 73
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "published_at": "2026-07-09T19:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-    "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "smart_index": 74
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Scott Bessent Delivers Remarks at the Official Unveiling of the President Donald J. Trump Bridge along Interstate 40 in Dandridge, Tennessee",
-    "published_at": "2026-07-09T15:20:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0557",
-    "summary": "",
-    "smart_index": 75
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13919/anti-money-laundering-and-countering-the-financing-of-terrorism-programs",
-    "summary": "The Board of Governors of the Federal Reserve System (the Board) is inviting comment on a proposed rule that would require its supervised banks to establish and maintain effective anti-money laundering and countering the financing of terrorism (AML/CFT) programs reasonably designed to identify, assess, and mitigate risks of illicit finance. Among other changes, this proposed r…",
-    "fr_tags": [
-      "agency:federal-reserve-system",
-      "topic:banks-banking",
-      "topic:currency",
-      "topic:flood-insurance",
-      "topic:insurance",
-      "topic:investments",
-      "topic:mortgages",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-13919",
-    "smart_index": 76
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Supplemental Disaster Assistance Programs, Marketing Assistance Loans, and Sugar Provisions",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13878/supplemental-disaster-assistance-programs-marketing-assistance-loans-and-sugar-provisions",
-    "summary": "This rule revises the regulations of the Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish Program (ELAP), the Livestock Forage Disaster Program (LFP), the Livestock Indemnity Program (LIP), the Tree Assistance Program (TAP), the Marketing Assistance Loan (MAL) and Loan Deficiency Payments (LDP) Programs, and the Sugar Program to conform with provisions of th…",
-    "fr_tags": [
-      "agency:agriculture-department",
-      "agency:commodity-credit-corporation",
-      "topic:loan-programs-agriculture"
-    ],
-    "fedreg_document_number": "2026-13878",
-    "smart_index": 77
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Fraud Among the Big Topics at Nacha Hill Day 2026",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.nacha.org/news/fraud-among-big-topics-nacha-hill-day-2026",
-    "summary": "",
-    "smart_index": 78
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Request for Information Regarding Promoting Access to Mortgage Credit",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13834/request-for-information-regarding-promoting-access-to-mortgage-credit",
-    "summary": "This notice requests information from the public about potential regulatory changes that may reduce regulatory burdens and promote access to mortgage credit, as appropriate and consistent with applicable law. The Consumer Financial Protection Bureau (Bureau or CFPB) seeks to reduce unwarranted regulatory burdens to ensure that creditworthy borrowers can access mortgage credit.…",
-    "fr_tags": [
-      "agency:consumer-financial-protection-bureau",
-      "filter:consumer-financial-protection-bureau"
-    ],
-    "fedreg_document_number": "2026-13834",
-    "smart_index": 79
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "published_at": "2026-07-07T19:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "smart_index": 80
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "published_at": "2026-07-07T19:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "smart_index": 81
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Calls for Large Position Reports",
-    "published_at": "2026-07-07T14:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0556",
-    "summary": "",
-    "smart_index": 82
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Making Market History: America Celebrates President Trump’s Joint Bell-Ringing Ceremony as Trump Accounts Launch",
-    "published_at": "2026-07-06T23:40:20Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0555",
-    "summary": "",
-    "smart_index": 83
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "U.S. Treasury Announces the Official Launch of Trump Accounts and Full Scope of the App",
-    "published_at": "2026-07-04T16:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0554",
-    "summary": "",
-    "smart_index": 84
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "ACH Transactions",
-    "published_at": "2026-07-03T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/ach-transactions",
-    "summary": "Banks that originate ACH transactions will be responsible for working with their clients to determine if certain payments meet the IAT definition.",
-    "smart_index": 85
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "A Look at the First-Year Results of the Working Families Tax Cuts",
-    "published_at": "2026-07-02T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0553",
-    "summary": "",
-    "smart_index": 86
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury and IRS to Accept Philanthropic Stock Contributions for Trump Accounts",
-    "published_at": "2026-07-02T17:56:04Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0552",
-    "summary": "",
-    "smart_index": 87
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Bessent Delivers Remarks before the 250th Anniversary Celebration at the Statue of Liberty",
-    "published_at": "2026-07-02T01:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0567",
-    "summary": "",
-    "smart_index": 88
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Direct Multifamily Housing Subsequent Loans for Acquisition",
-    "published_at": "2026-07-02T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13455/direct-multifamily-housing-subsequent-loans-for-acquisition",
-    "summary": "The Rural Housing Service (RHS or the Agency), a Rural Development agency of the United States Department of Agriculture (USDA), proposes to amend the current regulation for the Direct Multifamily Housing (MFH) Loan and Grant Programs. The intent of this proposed rule is to include acquisition as an applicable form of assistance for direct MFH subsequent loans. This regulatory…",
-    "fr_tags": [
-      "agency:agriculture-department",
-      "agency:rural-housing-service",
-      "topic:insurance",
-      "topic:loan-programs-agriculture",
-      "topic:mortgages"
-    ],
-    "fedreg_document_number": "2026-13455",
-    "smart_index": 89
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "TBA",
-    "title": "FFIEC affirms commitment to de novo formations",
-    "published_at": "2026-07-01T20:33:44Z",
-    "url": "https://www.texasbankers.com/ffiec-affirms-commitment-to-de-novo-formations/",
-    "summary": "The Federal Financial Institutions Examination Council released a statement affirming its members’ commitment to de novo bank formation and to exploring ways to lower regulatory barriers to establishing new financial institutions. The FFIEC statement reads: “The number of depository institutions in the U.S. has fallen steadily over the past three decades while the overall bank…",
-    "smart_index": 90
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Announces Investment Lineup for Trump Accounts",
-    "published_at": "2026-07-01T20:20:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0551",
-    "summary": "",
-    "smart_index": 91
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "published_at": "2026-07-01T18:30:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
-    "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "smart_index": 92
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "published_at": "2026-07-01T18:30:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
-    "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "smart_index": 93
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds",
-    "published_at": "2026-07-01T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0549",
-    "summary": "",
-    "smart_index": 94
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Opens the New Designation Cycle for Opportunity Zones",
-    "published_at": "2026-07-01T14:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0550",
-    "summary": "",
-    "smart_index": 95
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Targets Criminal Facilitators Behind CJNG’s Cross‑Border Fuel Smuggling Schemes",
-    "published_at": "2026-06-30T17:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0545",
-    "summary": "",
-    "smart_index": 96
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Financial Action Task Force’s June 2026 Working Group and Plenary",
-    "published_at": "2026-06-30T16:50:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0547",
-    "summary": "",
-    "smart_index": 97
->>>>>>> a9427b1 (montlhy update 08032026)
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-    "published_at": "2026-07-31T14:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-    "smart_index": 3
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-    "published_at": "2026-07-31T14:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-    "smart_index": 4
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a ban…",
-    "published_at": "2026-07-31T14:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-    "smart_index": 5
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a ban…",
-    "published_at": "2026-07-31T14:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-    "smart_index": 6
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "G7 2026 CROSS BORDER COORDINATION EXERCISE (CBCE)",
-    "published_at": "2026-07-31T13:08:35Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0583",
-    "summary": "",
-<<<<<<< HEAD
-    "smart_index": 7
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Community Reinvestment Act: Interagency Notice of Proposed Rulemaking",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-35.html",
-    "summary": "",
-    "smart_index": 8
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Attracting Private Capital in Indian Country Through Tax Credit Financing",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-events/events/files/event-cra-comm-devl-tribal-session-3-aug-2026.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 9
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-joint-proposal-amending-community-reinvestment-act-rules",
-    "summary": "The agencies today proposed targeted changes to their current rules implementing the Community Reinvestment Act (CRA) to better align with the statutory mandate",
-    "smart_index": 10
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "OCC Continues Community Bank Comeback with Revised CBLR Framework",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-62.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 11
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "2026 Cybersecurity and Financial System Resilience Report",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/publications-and-resources/publications/cybersecurity-and-financial-system-resilience/files/2026-cybersecurity-report.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 12
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "OCC Reports Mortgage Performance for First Quarter of 2026",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/publications-and-resources/publications/mortgage-metrics-reports/files/mmr-quaterly-report.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 13
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "FDIC Board Approves Proposal to Amend Regulations Regarding Lending Limits for Bank Insiders",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-approves-proposal-amend-regulations-regarding-lending-limits",
-    "summary": "FDIC is seeking public comment on a NPR that would adjust certain lending thresholds for executive officers and other insiders of FDIC-supervised Institutions.",
-    "smart_index": 14
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "How Some RDFIs Review Customer Written Statements of Unauthorized Debits for First-Party Fraud",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.nacha.org/news/how-some-rdfis-review-customer-written-statements-unauthorized-debits-first-party-fraud",
-    "summary": "",
-    "smart_index": 15
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-64.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 16
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Notification: Statement of Enforcement Policy in Support of Venezuelaâs Economic Recovery and Earthquake Relief Efforts",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-36.html",
-    "summary": "",
-    "smart_index": 17
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "News, Alerts & Bulletins View the OCC Newsroom",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-events/newsroom/index.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 18
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Reducing Bureaucracy and Burden for Family Assistance Programs",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15567/reducing-bureaucracy-and-burden-for-family-assistance-programs",
-    "summary": "This final rule amends the Grants to States for Public Assistance Programs regulations, the General Administration--State Plans and Grant Appeals regulations, the General Administration--Public Assistance Programs regulations, the Training and Use of Subprofessionals and Volunteers regulations, the Coverage and Conditions of Eligibility in Financial Assistance Programs regulat…",
-    "fr_tags": [
-      "agency:children-and-families-administration",
-      "agency:health-and-human-services-department",
-      "topic:employment"
-    ],
-    "fedreg_document_number": "2026-15567",
-    "smart_index": 19
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Comptroller Gould Highlights OCC’s Financial Literacy Efforts at Financial Literacy and Education Commission Meeting",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-61.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 20
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Semiannual Risk Perspective: Spring 2026",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/publications-and-resources/publications/semiannual-risk-perspective/files/semiannual-risk-perspective-spring-2026.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 21
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Interest Rate Risk Statistics Report: Spring 2026",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/publications-and-resources/publications/interest-rate-risk-statistics-reports/files/interest-rate-risk-statistics-report-spring-2026.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 22
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Financial Literacy Digest: Spring 2026",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/publications-and-resources/publications/community-affairs/financial-literacy-digest/financial-literacy-digest-spring-2026.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 23
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Featured Publications View All Publications",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/publications-and-resources/publications/index-publications.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 24
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Building Blocks Workshop | Strong Management: Ready and Responsible",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-events/events/files/event-comm-bank-dir-wksp-building-blocks-aug-2026.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 25
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Asset Management Workshop: Manage Risk, Maximize Return",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-events/events/files/event-comm-bank-dir-wksp-asset-management-aug-2026.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 26
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Risk Governance Workshop: Strategic Oversight for Evolving Risks",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-events/events/files/event-comm-bank-dir-wksp-risk-governance-sep-2026.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 27
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Upcoming Events View All Events",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.occ.gov/news-events/events/index-events.html",
-    "summary": "Ensuring a safe and sound federal banking system for all Americans",
-    "smart_index": 28
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Cracks Down on Global Networks Enabling Iran’s Mahan Air and IRGC",
-    "published_at": "2026-07-30T17:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0582",
-    "summary": "",
-    "smart_index": 29
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "Community Bank Leverage Ratio: Updated Community Bank Compliance Guide",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-34.html",
-    "summary": "",
-    "smart_index": 30
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Large Gains in Same Day ACH Help Drive ACH Network in Second Quarter of 2026",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.nacha.org/news/large-gains-same-day-ach-help-drive-ach-network-second-quarter-2026",
-    "summary": "",
-    "smart_index": 31
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Regulatory Reform",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.federalreserve.gov/reform.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 32
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Regulatory Reform",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.federalreserve.gov/reform.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 33
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve issues FOMC statement",
-    "published_at": "2026-07-29T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-    "summary": "Federal Reserve issues FOMC statement",
-    "smart_index": 34
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve issues FOMC statement",
-    "published_at": "2026-07-29T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-    "summary": "Federal Reserve issues FOMC statement",
-    "smart_index": 35
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network",
-    "published_at": "2026-07-29T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0581",
-    "summary": "",
-    "smart_index": 36
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Unveils Redesigned CFIUS Website",
-    "published_at": "2026-07-29T12:27:40Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0580",
-    "summary": "",
-    "smart_index": 37
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "News & Events",
-    "published_at": "2026-07-29T00:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 38
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "2026 FOMC",
-    "published_at": "2026-07-29T00:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 39
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "News & Events",
-    "published_at": "2026-07-29T00:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 40
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "2026 FOMC",
-    "published_at": "2026-07-29T00:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 41
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative",
-    "published_at": "2026-07-27T17:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0578",
-    "summary": "",
-    "smart_index": 42
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Remarks by Secretary of the Treasury Scott Bessent Before the Financial Literacy and Education Commission",
-    "published_at": "2026-07-27T17:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0579",
-    "summary": "",
-    "smart_index": 43
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "FinCEN Issues Statement of Enforcement Policy in Support of Venezuela’s Economic Recovery and Earthquake Relief Efforts",
-    "published_at": "2026-07-27T12:00:00Z",
-    "url": "https://www.fincen.gov/news/news-releases/fincen-issues-statement-enforcement-policy-support-venezuelas-economic-recovery",
-    "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a statement of enforcement policy in support of economic recovery and earthquake relief efforts in Venezuela.ResourcesStatement of Enforcement Policy",
-    "smart_index": 44
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Updating Website and Contact Information, and Authorizations for Payments for Legal Services",
-    "published_at": "2026-07-27T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15112/updating-website-and-contact-information-and-authorizations-for-payments-for-legal-services",
-    "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is adopting a final rule to update website and contact information in certain parts of the Code of Federal Regulations (CFR). Additionally, OFAC is amending one CFR Part to update general licenses authorizing payments for legal services from funds originating outside the United States to replace the repor…",
-    "fr_tags": [
-      "agency:foreign-assets-control-office",
-      "agency:treasury-department",
-      "topic:banks-banking",
-      "topic:credit",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-15112",
-    "smart_index": 45
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Three New Nacha Rules Approved",
-    "published_at": "2026-07-27T00:00:00Z",
-    "url": "https://www.nacha.org/news/three-new-nacha-rules-approved",
-    "summary": "",
-    "smart_index": 46
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Joint Statement on the EU-U.S. Joint Financial Regulatory Forum",
-    "published_at": "2026-07-24T15:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0577",
-    "summary": "",
-    "smart_index": 47
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Further Dismantles Iranian Financier Zanjani’s Network",
-    "published_at": "2026-07-24T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0576",
-    "summary": "",
-    "smart_index": 48
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "FinCEN Issues Alert on Fraud Schemes Targeting Federal Student Aid",
-    "published_at": "2026-07-24T14:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0575",
-    "summary": "",
-    "smart_index": 49
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "FinCEN Issues Alert on Fraud Schemes Targeting Federal Student Aid",
-    "published_at": "2026-07-24T12:00:00Z",
-    "url": "https://www.fincen.gov/news/news-releases/fincen-issues-alert-fraud-schemes-targeting-federal-student-aid",
-    "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an Alert urging financial institutions to detect, prevent, and report suspicious activity connected to fraud schemes targeting student aid programs administered by the Federal government. Resources",
-    "smart_index": 50
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Loan Performance Categories and Financial Reporting",
-    "published_at": "2026-07-24T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15027/loan-performance-categories-and-financial-reporting",
-    "summary": "The Farm Credit Administration (FCA, we, or our) amends our regulatory high-risk loan performance categories by removing \"Formally restructured loans (TDR),\" also known as troubled debt restructurings. In 2022, changes in generally accepted accounting principles (GAAP) eliminated the accounting guidance for TDRs, enhanced disclosure requirements for certain loan refinancings a…",
-    "fr_tags": [
-      "agency:farm-credit-administration",
-      "filter:government-sponsored-enterprise",
-      "topic:banks-banking",
-      "topic:investments"
-    ],
-    "fedreg_document_number": "2026-15027",
-    "smart_index": 51
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States",
-    "published_at": "2026-07-23T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0574",
-    "summary": "",
-    "smart_index": 52
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion",
-    "published_at": "2026-07-23T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0573",
-    "summary": "",
-    "smart_index": 53
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks",
-    "published_at": "2026-07-23T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0572",
-    "summary": "",
-    "smart_index": 54
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Statements & Remarks",
-    "published_at": "2026-07-22T19:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/statements-remarks",
-    "summary": "",
-    "smart_index": 55
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Bessent Delivers Remarks at Wheeler High School in Marietta, Georgia",
-    "published_at": "2026-07-22T19:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0571",
-    "summary": "",
-    "smart_index": 56
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Secretary of the Treasury Scott Bessent's Meeting with Pakistan's Federal Minister for Finance and Revenue Muhammad Aurangzeb",
-    "published_at": "2026-07-22T15:45:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0570",
-    "summary": "",
-    "smart_index": 57
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "FinCEN Extends Comment Period for Proposed Rule To Amend the Definition of Huione Group",
-    "published_at": "2026-07-22T12:00:00Z",
-    "url": "https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group",
-    "summary": "Due to a technological issue that prevented the public from electronically filing comments for several days, the Financial Crimes Enforcement Network (FinCEN) is extending the comment period for the notice of proposed rulemaking (NPRM) it published in June to amend the existing definition of Huione Group to include H-Pay Service PLC and any successor entity. Written comments o…",
-    "smart_index": 58
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Focus on the Tangible to Comply with Nacha’s Credit-Push Fraud Rules",
-    "published_at": "2026-07-22T00:00:00Z",
-    "url": "https://www.nacha.org/news/focus-tangible-comply-nachas-credit-push-fraud-rules",
-    "summary": "",
-    "smart_index": 59
-  },
-  {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "Opening Statement of FinCEN Director Andrea Gacki before the Committee on Financial Services Subcommittee on National Security, Illicit Finance, and International Financial Institutions",
-    "published_at": "2026-07-21T12:00:00Z",
-    "url": "https://www.fincen.gov/news/testimony/opening-statement-fincen-director-andrea-gacki-committee-financial-services",
-    "summary": "",
-    "smart_index": 60
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Successfully Implements New Safeguard to Stop Payments to Deceased Individuals",
-    "published_at": "2026-07-21T10:30:15Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0569",
-    "summary": "",
-    "smart_index": 61
-  },
-  {
-    "category": "Fintech Watch",
-    "source": "Fiserv",
-    "title": "Fiserv to Power Embedded Banking and Payments for Datavault AI, Including Its NIL Exchange",
-    "published_at": "2026-07-21T00:00:00Z",
-    "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-power-embedded-banking-and-payments-datavault-ai",
-    "summary": "",
-    "smart_index": 62
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Reporting Forms and Instructions Associated With Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers",
-    "published_at": "2026-07-20T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14589/reporting-forms-and-instructions-associated-with-requirements-and-standards-for-fdic-supervised",
-    "summary": "The FDIC invites comment on new forms and instructions associated with an Office of Management and Budget (OMB) control number (3064-0225) assigned in connection with a notice of proposed rulemaking. In accordance with the requirements of the Paperwork Reduction Act of 1995 (PRA), the FDIC may not conduct or sponsor, and the respondent is not required to respond to, an informa…",
-    "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
-    ],
-    "fedreg_document_number": "2026-14589",
-    "smart_index": 63
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Account Validation Coverage Expanded with the Phixius by Nacha and Kinexys by J.P. Morgan Collaboration",
-    "published_at": "2026-07-20T00:00:00Z",
-    "url": "https://www.nacha.org/news/account-validation-coverage-expanded-phixius-nacha-and-kinexys-jp-morgan-collaboration",
-    "summary": "",
-    "smart_index": 64
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: The Farmers State Bank of Oakley, Kansas Assumes All Deposits of Small Business Bank, Lenexa, Kansas",
-    "published_at": "2026-07-17T21:41:35Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/420fa4b",
-    "summary": "PRESS RELEASE | JULY 17, 2026 The Farmers State Bank of Oakley, Kansas Assumes All Deposits of Small Business Bank, Lenexa, Kansas WASHINGTON — Small Business Bank in Lenexa, Kansas, was closed today by the Kansas Office of the State Bank Commissioner, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement with The Farm…",
-    "smart_index": 65
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Secretary of the Treasury Scott Bessent's Meeting with Prime Minister of the Republic of Iraq Ali Al-Zaidi",
-    "published_at": "2026-07-16T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0568",
-    "summary": "",
-    "smart_index": 66
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations",
-    "published_at": "2026-07-16T18:20:46Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/420cf8d",
-    "summary": "PRESS RELEASE | JULY 16, 2026 Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations WASHINGTON — The federal bank regulatory agencies today issued a joint statement describing enhanced security procedures for review of highly sensitive information in connection with examinations of supervised banks, such as reviewing materials on-s…",
-    "smart_index": 67
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "published_at": "2026-07-16T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
-    "summary": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "smart_index": 68
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "published_at": "2026-07-16T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
-    "summary": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "smart_index": 69
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Bessent Delivers Remarks Before the Ministerial on the Resurgence of Political Terrorism",
-    "published_at": "2026-07-16T13:35:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0566",
-    "summary": "",
-    "smart_index": 70
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Financial Stability Oversight Council Meeting on July 15, 2026",
-    "published_at": "2026-07-15T20:15:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0565",
-    "summary": "",
-    "smart_index": 71
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Targets Global Network Procuring Weapons for Iranian Regime",
-    "published_at": "2026-07-15T15:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0564",
-    "summary": "",
-    "smart_index": 72
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Announces Frank Bisignano to Lead Next Phase of Trump Accounts Expansion",
-    "published_at": "2026-07-15T11:49:14Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0563",
-    "summary": "",
-    "smart_index": 73
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Nacha Board Vice Chair: Financial Institutions Must Work Together to Drive the Industry",
-    "published_at": "2026-07-15T00:00:00Z",
-    "url": "https://www.nacha.org/news/nacha-board-vice-chair-financial-institutions-must-work-together-drive-industry",
-    "summary": "",
-    "smart_index": 74
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire",
-    "published_at": "2026-07-14T20:15:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0562",
-    "summary": "",
-    "smart_index": 75
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury International Capital Data for May",
-    "published_at": "2026-07-14T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0561",
-    "summary": "",
-    "smart_index": 76
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "U.S.-UK Transatlantic Taskforce for the Markets of the Future Publishes Recommendations to Promote Growth and Innovation in Capital Markets and Digital Assets",
-    "published_at": "2026-07-14T14:49:40Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0560",
-    "summary": "",
-    "smart_index": 77
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Nacha Accreditations Help You Stand Out as a Payments Expert",
-    "published_at": "2026-07-14T00:00:00Z",
-    "url": "https://www.nacha.org/news/nacha-accreditations-help-you-stand-out-payments-expert",
-    "summary": "",
-    "smart_index": 78
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "TBA",
-    "title": "Fed agencies release guidance on lending to undocumented workers",
-    "published_at": "2026-07-13T17:00:00Z",
-    "url": "https://www.texasbankers.com/fed-agencies-release-guidance-on-lending-to-undocumented-workers/",
-    "summary": "Lending to individuals who are not legally authorized to work in the U.S. may pose elevated credit risk for financial institutions, according to joint guidance issued by the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the National Credit Union Administration. President Trump issued an executive order in May this […] The post Fed ag…",
-    "smart_index": 79
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States",
-    "published_at": "2026-07-13T15:02:45Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4204ca6",
-    "summary": "PRESS RELEASE | JULY 13, 2026 Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States WASHINGTON — The Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration (collectively, the agencies) today issued guidance to remind supervised financial institutions of t…",
-    "smart_index": 80
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans",
-    "published_at": "2026-07-13T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0559",
-    "summary": "",
-    "smart_index": 81
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Federal Home Loan Bank New Business Activities",
-    "published_at": "2026-07-13T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14035/federal-home-loan-bank-new-business-activities",
-    "summary": "The Federal Housing Finance Agency (\"FHFA\" or the \"Agency\") is requesting comment on this notice of proposed rulemaking repealing the New Business Activities regulation.",
-    "fr_tags": [
-      "agency:federal-housing-finance-agency",
-      "topic:federal-home-loan-banks"
-    ],
-    "fedreg_document_number": "2026-14035",
-    "smart_index": 82
-  },
-  {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: Kentland Bank Assumes All Deposits of Kentland Federal Savings and Loan Association",
-    "published_at": "2026-07-10T20:17:34Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41fbc2f",
-    "summary": "PRESS RELEASE | JULY 10, 2026 Kentland Bank Assumes All Deposits of Kentland Federal Savings and Loan Association WASHINGTON — Kentland Federal Savings and Loan Association of Kentland, Indiana was closed today by the Office of the Comptroller of the Currency, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement with…",
-    "smart_index": 83
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Targets Key Supreme Leader Financier and Iran’s Shadow Exchange Houses",
-    "published_at": "2026-07-10T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0558",
-    "summary": "",
-    "smart_index": 84
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Rescission of Floodplain Management and Protection of Wetlands; Minimum Property Standards for Flood Hazard Exposure; Building to the Federal Flood Risk Management Standard",
-    "published_at": "2026-07-10T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13939/rescission-of-floodplain-management-and-protection-of-wetlands-minimum-property-standards-for-flood",
-    "summary": "This proposed rule would revise HUD's regulations governing floodplain management and the protection of wetlands in accordance with Executive Order 14148, entitled \"Initial Rescissions of Harmful Executive Orders and Actions.\" Executive Order 14148 revoked an earlier executive order that formed a basis for the final rule that HUD published on April 23, 2024, entitled \"Floodpla…",
-    "fr_tags": [
-      "agency:housing-and-urban-development-department",
-      "filter:manufactured-home",
-      "topic:fair-housing",
-      "topic:mortgage-insurance"
-    ],
-    "fedreg_document_number": "2026-13939",
-    "smart_index": 85
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "published_at": "2026-07-09T19:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-    "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "smart_index": 86
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "published_at": "2026-07-09T19:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-    "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "smart_index": 87
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Scott Bessent Delivers Remarks at the Official Unveiling of the President Donald J. Trump Bridge along Interstate 40 in Dandridge, Tennessee",
-    "published_at": "2026-07-09T15:20:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0557",
-    "summary": "",
-    "smart_index": 88
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13919/anti-money-laundering-and-countering-the-financing-of-terrorism-programs",
-    "summary": "The Board of Governors of the Federal Reserve System (the Board) is inviting comment on a proposed rule that would require its supervised banks to establish and maintain effective anti-money laundering and countering the financing of terrorism (AML/CFT) programs reasonably designed to identify, assess, and mitigate risks of illicit finance. Among other changes, this proposed r…",
-    "fr_tags": [
-      "agency:federal-reserve-system",
-      "topic:banks-banking",
-      "topic:currency",
-      "topic:flood-insurance",
-      "topic:insurance",
-      "topic:investments",
-      "topic:mortgages",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-13919",
-    "smart_index": 89
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Supplemental Disaster Assistance Programs, Marketing Assistance Loans, and Sugar Provisions",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13878/supplemental-disaster-assistance-programs-marketing-assistance-loans-and-sugar-provisions",
-    "summary": "This rule revises the regulations of the Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish Program (ELAP), the Livestock Forage Disaster Program (LFP), the Livestock Indemnity Program (LIP), the Tree Assistance Program (TAP), the Marketing Assistance Loan (MAL) and Loan Deficiency Payments (LDP) Programs, and the Sugar Program to conform with provisions of th…",
-    "fr_tags": [
-      "agency:agriculture-department",
-      "agency:commodity-credit-corporation",
-      "topic:loan-programs-agriculture"
-    ],
-    "fedreg_document_number": "2026-13878",
-    "smart_index": 90
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Fraud Among the Big Topics at Nacha Hill Day 2026",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.nacha.org/news/fraud-among-big-topics-nacha-hill-day-2026",
-    "summary": "",
     "smart_index": 91
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Request for Information Regarding Promoting Access to Mortgage Credit",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13834/request-for-information-regarding-promoting-access-to-mortgage-credit",
-    "summary": "This notice requests information from the public about potential regulatory changes that may reduce regulatory burdens and promote access to mortgage credit, as appropriate and consistent with applicable law. The Consumer Financial Protection Bureau (Bureau or CFPB) seeks to reduce unwarranted regulatory burdens to ensure that creditworthy borrowers can access mortgage credit.…",
+    "title": "Highly Erodible Land and Wetland Conservation",
+    "published_at": "2026-07-29T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15284/highly-erodible-land-and-wetland-conservation",
+    "summary": "The United States Department of Agriculture (USDA) is amending its regulations to ensure that wetland determinations issued after November 28, 1990, have been and will be certified as sufficient to serve as the basis for determining ineligibility for certain USDA program benefits under the Wetland Conservation provisions of the Food Security Act of 1985, as amended. Certificat…",
     "fr_tags": [
-      "agency:consumer-financial-protection-bureau",
-      "filter:consumer-financial-protection-bureau"
+      "agency:agriculture-department",
+      "topic:loan-programs-agriculture"
     ],
-    "fedreg_document_number": "2026-13834",
+    "fedreg_document_number": "2026-15284",
     "smart_index": 92
   },
   {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "published_at": "2026-07-07T19:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "Chromium: CVE-2026-13037 Use after free in WebView",
+    "published_at": "2026-07-28T22:03:49Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13037",
+    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.",
     "smart_index": 93
   },
   {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "published_at": "2026-07-07T19:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
-    "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "Chromium: CVE-2026-13032 Use after free in WebGL",
+    "published_at": "2026-07-28T22:03:48Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13032",
+    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.",
     "smart_index": 94
   },
   {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Direct Multifamily Housing Subsequent Loans for Acquisition",
-    "published_at": "2026-07-02T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13455/direct-multifamily-housing-subsequent-loans-for-acquisition",
-    "summary": "The Rural Housing Service (RHS or the Agency), a Rural Development agency of the United States Department of Agriculture (USDA), proposes to amend the current regulation for the Direct Multifamily Housing (MFH) Loan and Grant Programs. The intent of this proposed rule is to include acquisition as an applicable form of assistance for direct MFH subsequent loans. This regulatory…",
-    "fr_tags": [
-      "agency:agriculture-department",
-      "agency:rural-housing-service",
-      "topic:insurance",
-      "topic:loan-programs-agriculture",
-      "topic:mortgages"
-    ],
-    "fedreg_document_number": "2026-13455",
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "Chromium: CVE-2026-13030 Uninitialized Use in GPU",
+    "published_at": "2026-07-28T22:03:47Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13030",
+    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.",
     "smart_index": 95
   },
   {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "published_at": "2026-07-01T18:30:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
-    "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "Chromium: CVE-2026-13028 Use after free in WebGL",
+    "published_at": "2026-07-28T22:03:44Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13028",
+    "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.",
     "smart_index": 96
   },
   {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "published_at": "2026-07-01T18:30:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
-    "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "CVE-2026-50422 Windows NTFS Elevation of Privilege Vulnerability",
+    "published_at": "2026-07-28T14:00:00Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50422",
+    "summary": "Updated an acknowledgement. This is an informational change only.",
     "smart_index": 97
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds",
-    "published_at": "2026-07-01T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0549",
-    "summary": "",
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "CVE-2026-47301 Configuration Manager Elevation of Privilege Vulnerability",
+    "published_at": "2026-07-28T14:00:00Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47301",
+    "summary": "Corrected Build Number in the Security Updates table. This is an informational change only.",
     "smart_index": 98
   },
   {
-    "category": "Banking",
-    "source": "FDIC",
-    "title": "Press Release: Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies",
-    "published_at": "2026-06-30T14:21:28Z",
-    "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41e40b0",
-    "summary": "PRESS RELEASE | JUNE 30, 2026 Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies WASHINGTON — Federal bank regulatory agencies today released the 2026 list of certain geographies where certain bank activities are eligible for Community Reinvestment Act (CRA) credit. Under the CRA, the agencies assess a bank’s record of meeting the cred…",
+    "category": "IS",
+    "source": "Microsoft MSRC",
+    "title": "CVE-2026-59117 Windows Terminal Remote Code Execution Vulnerability",
+    "published_at": "2026-07-28T14:00:00Z",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59117",
+    "summary": "Change the name of the affected software from **Microsoft Power Apps** to **Microsoft Power Apps Desktop Client**. This is an informational change only.",
     "smart_index": 99
   },
   {
-    "category": "OFAC",
-    "source": "FinCEN",
-    "title": "FinCEN Issues Supplemental Alert on Fuel Smuggling and Tax Evasion Schemes on the Southern Border Associated with Mexico-Based Cartels",
-    "published_at": "2026-06-30T12:00:00Z",
-    "url": "https://www.fincen.gov/news/news-releases/fincen-issues-supplemental-alert-fuel-smuggling-and-tax-evasion-schemes-southern",
-    "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a supplemental Alert to advise financial institutions to be vigilant in detecting, identifying, and reporting suspicious activity connected to Cartel de Jalisco Nueva Generacion (CJNG) and other Mexico-based transnational criminal organizations smuggling fuel from the United State…",
+    "category": "Executive",
+    "source": "White House",
+    "title": "Presidential Message on the 45th Anniversary of the Martyrdom of Father Stanley Rother",
+    "published_at": "2026-07-28T04:30:00Z",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-45th-anniversary-of-the-martyrdom-of-father-stanley-rother/",
+    "summary": "",
     "smart_index": 100
   }
 ]
