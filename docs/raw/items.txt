@@ -4,6 +4,27 @@ ABA
 Fed proposes to update rules on lending to bank insiders
 https://bankingjournal.aba.com/2026/07/fed-proposes-to-update-rules-on-lending-to-bank-insiders/
 ------------------------------------------------------------
+<<<<<<< HEAD
+=======
+Legislative
+Senate Banking
+2026-08-01T00:00:00Z
+Warren Statement on Trump Media API Launch
+https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-media-api-launch
+------------------------------------------------------------
+Legislative
+Senate Banking
+2026-08-01T00:00:00Z
+Banking Democrats Statement on Trump Administration Move to Gut Community Reinvestment Act
+https://www.banking.senate.gov/newsroom/minority/banking-democrats-statement-on-trump-administration-move-to-gut-community-reinvestment-act
+------------------------------------------------------------
+Legislative
+Senate Banking
+2026-08-01T00:00:00Z
+NEW: Banking Minority Staff Analysis Confirms Clarity Act Would Do Nothing to Prevent Trump From Making His Next $1.4 Billion in Crypto Profits
+https://www.banking.senate.gov/newsroom/minority/new-banking-minority-staff-analysis-confirms-clarity-act-would-do-nothing-to-prevent-trump-from-making-his-next-14-billion-in-crypto-profits
+------------------------------------------------------------
+>>>>>>> a9427b1 (montlhy update 08032026)
 IS
 BleepingComputer
 2026-08-01T00:00:00Z
@@ -13,6 +34,7 @@ https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-sto
 Compliance Watch
 ABA
 2026-08-01T00:00:00Z
+<<<<<<< HEAD
 Jump to Content
 https://www.aba.com/news-research
 Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins.
@@ -20,6 +42,8 @@ Stay current on banking issues with daily news, podcasts, research, data analysi
 Compliance Watch
 ABA
 2026-08-01T00:00:00Z
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 Risk Management Overview
 https://www.aba.com/banking-topics/risk-management
 Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA.
@@ -183,6 +207,7 @@ Treasury
 G7 2026 CROSS BORDER COORDINATION EXERCISE (CBCE)
 https://home.treasury.gov/news/press-releases/sb0583
 ------------------------------------------------------------
+<<<<<<< HEAD
 Compliance Watch
 ABA
 2026-07-31T05:00:00Z
@@ -195,6 +220,8 @@ ABA
 Fed proposes to modernize mutual bank regulations
 https://bankingjournal.aba.com/2026/07/fed-proposes-to-modernize-mutual-bank-regulations/
 ------------------------------------------------------------
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 IS
 BleepingComputer
 2026-07-31T00:57:25Z
@@ -203,6 +230,7 @@ https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs
 One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]
 ------------------------------------------------------------
 Banking
+<<<<<<< HEAD
 OCC
 2026-07-31T00:00:00Z
 Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules
@@ -320,6 +348,8 @@ https://www.occ.gov/news-events/events/index-events.html
 Ensuring a safe and sound federal banking system for all Americans
 ------------------------------------------------------------
 Banking
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 FDIC
 2026-07-31T00:00:00Z
 Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules
@@ -347,6 +377,7 @@ Applications & Technology
 https://multifamily.fanniemae.com/applications-technology
 Learn more about Fannie Mae’s Multifamily library of applications; DUS Disclose, DUS Docway, DUS Gateway, DUS Insights, DUS Navigate and more.
 ------------------------------------------------------------
+<<<<<<< HEAD
 Legislative
 Senate Banking
 2026-07-31T00:00:00Z
@@ -371,6 +402,8 @@ Senate Banking
 Next Article
 https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-media-api-launch
 ------------------------------------------------------------
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 Payments
 NACHA
 2026-07-31T00:00:00Z
@@ -397,6 +430,7 @@ Inclusive Banking
 https://www.aba.com/banking-topics/consumer-banking/inclusive-banking
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
 ------------------------------------------------------------
+<<<<<<< HEAD
 Compliance Watch
 ABA
 2026-07-31T00:00:00Z
@@ -404,6 +438,8 @@ Retail Banking
 https://www.aba.com/banking-topics/consumer-banking/retail-banking
 As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
 ------------------------------------------------------------
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 Federal Register
 Federal Register
 2026-07-31T00:00:00Z
@@ -457,6 +493,7 @@ Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers
 https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/
 Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]
 ------------------------------------------------------------
+<<<<<<< HEAD
 IS
 BleepingComputer
 2026-07-30T18:00:51Z
@@ -464,12 +501,15 @@ VMware fixes three critical flaws allowing auth bypass, VM escapes
 https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/
 Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]
 ------------------------------------------------------------
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 OFAC
 Treasury
 2026-07-30T17:30:00Z
 Treasury Cracks Down on Global Networks Enabling Iran’s Mahan Air and IRGC
 https://home.treasury.gov/news/press-releases/sb0582
 ------------------------------------------------------------
+<<<<<<< HEAD
 IS
 BleepingComputer
 2026-07-30T17:00:00Z
@@ -484,6 +524,8 @@ ShinyHunters claims Brinks Home breach, threatens to leak stolen data
 https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/
 Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]
 ------------------------------------------------------------
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 Banking
 FRB
 2026-07-30T15:00:00Z
@@ -560,6 +602,7 @@ Counter Terrorism Designations; Non-Proliferation Designation Update
 https://ofac.treasury.gov/recent-actions/20260730
 ------------------------------------------------------------
 Banking
+<<<<<<< HEAD
 OCC
 2026-07-30T00:00:00Z
 OCC Releases CRA Performance Evaluations for 14 National Banks and Federal Savings Associations
@@ -572,6 +615,8 @@ Community Bank Leverage Ratio: Updated Community Bank Compliance Guide
 https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-34.html
 ------------------------------------------------------------
 Banking
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 FRB
 2026-07-30T00:00:00Z
 Regulatory Reform
@@ -607,6 +652,15 @@ https://www.globenewswire.com/news-release/2026/07/30/3336031/0/en/freddie-mac-a
 Legislative
 Senate Banking
 2026-07-30T00:00:00Z
+<<<<<<< HEAD
+=======
+Warren Presses Trump Administration Over Failure to Protect US Economic and National Security
+https://www.banking.senate.gov/newsroom/minority/warren-presses-trump-administration-over-failure-to-protect-us-economic-and-national-security
+------------------------------------------------------------
+Legislative
+Senate Banking
+2026-07-30T00:00:00Z
+>>>>>>> a9427b1 (montlhy update 08032026)
 Senator Warren Statement on June 2026 PCE
 https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-june-2026-pce
 ------------------------------------------------------------
@@ -625,6 +679,7 @@ https://www.bleepingcomputer.com/offer/deals/the-autocad-software-trusted-by-arc
 IS
 BleepingComputer
 2026-07-30T00:00:00Z
+<<<<<<< HEAD
 Microsoft Teams vishing attacks lead to Chaos ransomware attacks
 https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/
 ------------------------------------------------------------
@@ -639,6 +694,10 @@ BleepingComputer
 2026-07-30T00:00:00Z
 After the Break-In: What Attackers Do Once They're Already Inside
 https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/
+=======
+VMware fixes three critical flaws allowing auth bypass, VM escapes
+https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/
+>>>>>>> a9427b1 (montlhy update 08032026)
 ------------------------------------------------------------
 Compliance Watch
 ABA
@@ -676,6 +735,7 @@ https://www.aba.com/banking-topics/technology/cybersecurity
 ABA offers resources to help banks protect their customers' accounts and personal information.
 ------------------------------------------------------------
 Compliance Watch
+<<<<<<< HEAD
 ABA
 2026-07-30T00:00:00Z
 Wealth Management Overview
@@ -683,6 +743,8 @@ https://www.aba.com/banking-topics/wealth-management
 Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices.
 ------------------------------------------------------------
 Compliance Watch
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 TBA
 2026-07-29T20:18:04Z
 Fed votes to hold rates, despite growing dissent
@@ -891,6 +953,15 @@ https://www.banking.senate.gov/newsroom/minority/warren-remarks-at-spotlight-for
 Payment Card Networks
 Visa
 2026-07-28T00:00:00Z
+<<<<<<< HEAD
+=======
+Visa to Acquire BioCatch
+https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22626.html
+------------------------------------------------------------
+Payment Card Networks
+Visa
+2026-07-28T00:00:00Z
+>>>>>>> a9427b1 (montlhy update 08032026)
 Visa Fiscal Third Quarter 2026 Financial Results
 https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22601.html
 ------------------------------------------------------------
@@ -1141,6 +1212,7 @@ Incident Response
 https://www.aba.com/banking-topics/risk-management/incident-response
 Resources to help you prepare for and respond to a physical or cyber incident.
 ------------------------------------------------------------
+<<<<<<< HEAD
 Compliance Watch
 ABA
 2026-07-28T00:00:00Z
@@ -1148,6 +1220,8 @@ Marketing & Communications Overview
 https://www.aba.com/banking-topics/communications
 Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
 ------------------------------------------------------------
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 Executive
 White House
 2026-07-27T22:51:46Z
@@ -1266,12 +1340,15 @@ Senate Banking
 Warren, Schumer Question Pulte on Failure to Lower Housing Costs While Serving as FHFA Head and Acting DNI
 https://www.banking.senate.gov/newsroom/minority/warren-schumer-question-pulte-on-failure-to-lower-housing-costs-while-serving-as-fhfa-head-and-acting-dni
 ------------------------------------------------------------
+<<<<<<< HEAD
 Payments
 NACHA
 2026-07-27T00:00:00Z
 Three New Nacha Rules Approved
 https://www.nacha.org/news/three-new-nacha-rules-approved
 ------------------------------------------------------------
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
 Compliance Watch
 ABA
 2026-07-27T00:00:00Z

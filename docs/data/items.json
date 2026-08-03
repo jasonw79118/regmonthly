@@ -1,8 +1,13 @@
 {
   "window_start": "2026-06-30T05:00:00Z",
   "window_end": "2026-08-01T05:00:00Z",
+<<<<<<< HEAD
   "generated_at_utc": "2026-08-01T14:39:46Z",
   "generated_at_ct": "2026-08-01T09:39:46-05:00",
+=======
+  "generated_at_utc": "2026-08-03T13:05:31Z",
+  "generated_at_ct": "2026-08-03T08:05:31-05:00",
+>>>>>>> a9427b1 (montlhy update 08032026)
   "items": [
     {
       "category": "Compliance Watch",
@@ -13,6 +18,33 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
+=======
+      "category": "Legislative",
+      "source": "Senate Banking",
+      "title": "Warren Statement on Trump Media API Launch",
+      "published_at": "2026-08-01T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-media-api-launch",
+      "summary": ""
+    },
+    {
+      "category": "Legislative",
+      "source": "Senate Banking",
+      "title": "Banking Democrats Statement on Trump Administration Move to Gut Community Reinvestment Act",
+      "published_at": "2026-08-01T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/minority/banking-democrats-statement-on-trump-administration-move-to-gut-community-reinvestment-act",
+      "summary": ""
+    },
+    {
+      "category": "Legislative",
+      "source": "Senate Banking",
+      "title": "NEW: Banking Minority Staff Analysis Confirms Clarity Act Would Do Nothing to Prevent Trump From Making His Next $1.4 Billion in Crypto Profits",
+      "published_at": "2026-08-01T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/minority/new-banking-minority-staff-analysis-confirms-clarity-act-would-do-nothing-to-prevent-trump-from-making-his-next-14-billion-in-crypto-profits",
+      "summary": ""
+    },
+    {
+>>>>>>> a9427b1 (montlhy update 08032026)
       "category": "IS",
       "source": "BleepingComputer",
       "title": "Rails patches critical Active Storage flaw with RCE potential",
@@ -23,6 +55,7 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+<<<<<<< HEAD
       "title": "Jump to Content",
       "published_at": "2026-08-01T00:00:00Z",
       "url": "https://www.aba.com/news-research",
@@ -31,6 +64,8 @@
     {
       "category": "Compliance Watch",
       "source": "ABA",
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "title": "Risk Management Overview",
       "published_at": "2026-08-01T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/risk-management",
@@ -221,6 +256,7 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
       "category": "Compliance Watch",
       "source": "ABA",
       "title": "FDIC, OCC propose to narrow Community Reinvestment Act scope",
@@ -237,6 +273,8 @@
       "summary": ""
     },
     {
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "category": "IS",
       "source": "BleepingComputer",
       "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
@@ -246,6 +284,7 @@
     },
     {
       "category": "Banking",
+<<<<<<< HEAD
       "source": "OCC",
       "title": "Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules",
       "published_at": "2026-07-31T00:00:00Z",
@@ -382,6 +421,8 @@
     },
     {
       "category": "Banking",
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "source": "FDIC",
       "title": "Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules",
       "published_at": "2026-07-31T00:00:00Z",
@@ -413,6 +454,7 @@
       "summary": "Learn more about Fannie Mae’s Multifamily library of applications; DUS Disclose, DUS Docway, DUS Gateway, DUS Insights, DUS Navigate and more."
     },
     {
+<<<<<<< HEAD
       "category": "Legislative",
       "source": "Senate Banking",
       "title": "Banking Democrats Statement on Trump Administration Move to Gut Community Reinvestment Act",
@@ -445,6 +487,8 @@
       "summary": ""
     },
     {
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "category": "Payments",
       "source": "NACHA",
       "title": "How Some RDFIs Review Customer Written Statements of Unauthorized Debits for First-Party Fraud",
@@ -477,6 +521,7 @@
       "summary": "Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion."
     },
     {
+<<<<<<< HEAD
       "category": "Compliance Watch",
       "source": "ABA",
       "title": "Retail Banking",
@@ -485,6 +530,8 @@
       "summary": "As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies."
     },
     {
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
@@ -560,6 +607,7 @@
       "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]"
     },
     {
+<<<<<<< HEAD
       "category": "IS",
       "source": "BleepingComputer",
       "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
@@ -568,6 +616,8 @@
       "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]"
     },
     {
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "category": "OFAC",
       "source": "Treasury",
       "title": "Treasury Cracks Down on Global Networks Enabling Iran’s Mahan Air and IRGC",
@@ -576,6 +626,7 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
       "category": "IS",
       "source": "BleepingComputer",
       "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
@@ -592,6 +643,8 @@
       "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]"
     },
     {
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "category": "Banking",
       "source": "FRB",
       "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
@@ -681,6 +734,7 @@
     },
     {
       "category": "Banking",
+<<<<<<< HEAD
       "source": "OCC",
       "title": "OCC Releases CRA Performance Evaluations for 14 National Banks and Federal Savings Associations",
       "published_at": "2026-07-30T00:00:00Z",
@@ -697,6 +751,8 @@
     },
     {
       "category": "Banking",
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "source": "FRB",
       "title": "Regulatory Reform",
       "published_at": "2026-07-30T00:00:00Z",
@@ -738,6 +794,17 @@
     {
       "category": "Legislative",
       "source": "Senate Banking",
+<<<<<<< HEAD
+=======
+      "title": "Warren Presses Trump Administration Over Failure to Protect US Economic and National Security",
+      "published_at": "2026-07-30T00:00:00Z",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-presses-trump-administration-over-failure-to-protect-us-economic-and-national-security",
+      "summary": ""
+    },
+    {
+      "category": "Legislative",
+      "source": "Senate Banking",
+>>>>>>> a9427b1 (montlhy update 08032026)
       "title": "Senator Warren Statement on June 2026 PCE",
       "published_at": "2026-07-30T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-june-2026-pce",
@@ -762,6 +829,7 @@
     {
       "category": "IS",
       "source": "BleepingComputer",
+<<<<<<< HEAD
       "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
       "published_at": "2026-07-30T00:00:00Z",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
@@ -781,6 +849,11 @@
       "title": "After the Break-In: What Attackers Do Once They're Already Inside",
       "published_at": "2026-07-30T00:00:00Z",
       "url": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+=======
+      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+      "published_at": "2026-07-30T00:00:00Z",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+>>>>>>> a9427b1 (montlhy update 08032026)
       "summary": ""
     },
     {
@@ -825,6 +898,7 @@
     },
     {
       "category": "Compliance Watch",
+<<<<<<< HEAD
       "source": "ABA",
       "title": "Wealth Management Overview",
       "published_at": "2026-07-30T00:00:00Z",
@@ -833,6 +907,8 @@
     },
     {
       "category": "Compliance Watch",
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "source": "TBA",
       "title": "Fed votes to hold rates, despite growing dissent",
       "published_at": "2026-07-29T20:18:04Z",
@@ -1092,6 +1168,17 @@
     {
       "category": "Payment Card Networks",
       "source": "Visa",
+<<<<<<< HEAD
+=======
+      "title": "Visa to Acquire BioCatch",
+      "published_at": "2026-07-28T00:00:00Z",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22626.html",
+      "summary": ""
+    },
+    {
+      "category": "Payment Card Networks",
+      "source": "Visa",
+>>>>>>> a9427b1 (montlhy update 08032026)
       "title": "Visa Fiscal Third Quarter 2026 Financial Results",
       "published_at": "2026-07-28T00:00:00Z",
       "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22601.html",
@@ -1426,6 +1513,7 @@
       "summary": "Resources to help you prepare for and respond to a physical or cyber incident."
     },
     {
+<<<<<<< HEAD
       "category": "Compliance Watch",
       "source": "ABA",
       "title": "Marketing & Communications Overview",
@@ -1434,6 +1522,8 @@
       "summary": "Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking."
     },
     {
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "category": "Executive",
       "source": "White House",
       "title": "Presidential Message on National Korean War Veterans Armistice Day",
@@ -1578,6 +1668,7 @@
       "summary": ""
     },
     {
+<<<<<<< HEAD
       "category": "Payments",
       "source": "NACHA",
       "title": "Three New Nacha Rules Approved",
@@ -1586,6 +1677,8 @@
       "summary": ""
     },
     {
+=======
+>>>>>>> a9427b1 (montlhy update 08032026)
       "category": "Compliance Watch",
       "source": "ABA",
       "title": "Illicit Finance",
