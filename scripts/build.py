@@ -288,6 +288,17 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
         "allow_path_prefixes": {"/accounts/USDARD/bulletins", "/bulletins/", "/newsroom/"},
     },
 
+    # OCC keeps its release details under the older /news-issuances path, while
+    # its current index/year pages live under /news-events/newsroom.
+    "OCC": {
+        "allow_domains": {"www.occ.gov", "occ.gov"},
+        "allow_path_prefixes": {
+            "/news-issuances/news-releases/",
+            "/news-events/newsroom/",
+            "/news-events/",
+        },
+    },
+
     "OFAC": {
         "allow_domains": {"ofac.treasury.gov"},
         "allow_path_prefixes": {"/recent-actions/"},
@@ -394,8 +405,8 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
         "allow_path_prefixes": {"/en/news", "/en-gb/news", "/en/news/"},
     },
     "Bankers Online": {
-        "allow_domains": {"www.bankersonline.com"},
-        "allow_path_prefixes": {"/topstory", "/"},
+        "allow_domains": {"www.bankersonline.com", "files.bankersonline.com"},
+        "allow_path_prefixes": {"/topstory", "/cb/", "/bb/", "/tt/", "/security/", "/"},
     },
 }
 
@@ -886,6 +897,37 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
             allow_redirects=True,
         )
 
+        # Additive proxy fallback for official sites that intermittently block
+        # non-browser requests. Existing direct requests remain the first choice.
+        if r.status_code == 403 and h in {
+            "www.rd.usda.gov",
+            "www.wolterskluwer.com",
+            "www.tcs.com",
+            "www.occ.gov",
+            "occ.gov",
+            "www.whitehouse.gov",
+        }:
+            print(f"[warn] GET 403: {url} (retrying via proxy)", flush=True)
+            proxy_url = _jina_proxy_url(url)
+            try:
+                time.sleep(REQUEST_DELAY_SEC)
+                pr = SESSION.get(
+                    proxy_url,
+                    headers={"User-Agent": browser_ua, "Accept": "text/html,application/xhtml+xml,*/*"},
+                    timeout=(10, max(read_timeout, 45)),
+                    allow_redirects=True,
+                )
+                if pr.status_code < 400:
+                    txtp = pr.text or ""
+                    if txtp.strip() and not looks_like_error_html(txtp, url):
+                        return txtp
+                    print(f"[warn] proxy returned empty/error-like content: {url}", flush=True)
+                else:
+                    print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
+            except Exception as e:
+                print(f"[warn] proxy GET failed: {proxy_url} :: {e}", flush=True)
+            return None
+
         # ✅ Mastercard: known 403 -> proxy retry
         if r.status_code == 403 and h == "www.mastercard.com":
             print(f"[warn] GET 403: {url} (retrying via proxy)", flush=True)
@@ -1040,6 +1082,36 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
 
         return txt
     except Exception as e:
+        # Additive timeout/connection fallback for selected official sites. This
+        # does not replace or alter the normal direct request path.
+        if h in {
+            "www.rd.usda.gov",
+            "www.wolterskluwer.com",
+            "www.tcs.com",
+            "www.occ.gov",
+            "occ.gov",
+            "www.whitehouse.gov",
+        }:
+            print(f"[warn] GET failed: {url} :: {e} (retrying via proxy)", flush=True)
+            proxy_url = _jina_proxy_url(url)
+            try:
+                time.sleep(REQUEST_DELAY_SEC)
+                pr = SESSION.get(
+                    proxy_url,
+                    headers={"User-Agent": browser_ua, "Accept": "text/html,application/xhtml+xml,*/*"},
+                    timeout=(10, max(read_timeout, 45)),
+                    allow_redirects=True,
+                )
+                if pr.status_code < 400:
+                    txtp = pr.text or ""
+                    if txtp.strip() and not looks_like_error_html(txtp, url):
+                        return txtp
+                else:
+                    print(f"[warn] proxy GET {pr.status_code}: {proxy_url}", flush=True)
+            except Exception as e2:
+                print(f"[warn] proxy GET failed: {proxy_url} :: {e2}", flush=True)
+            return None
+
         # Retry via r.jina.ai proxy, and if that still fails, fall back to the shareholder.com
         # mirror of the same IR press-release listing. This change is *only* for Jack Henry.
         if h == "ir.jackhenry.com":
@@ -2785,9 +2857,32 @@ def wolterskluwer_news_links(page_url: str, html: str) -> List[Tuple[str, str, O
     Wolters Kluwer /en/news is server-rendered; links point to /en/news/<slug>.
     Capture those and try to extract the nearby date in the same card.
     """
-    soup = BeautifulSoup(html, "html.parser")
     links: List[Tuple[str, str, Optional[datetime]]] = []
     seen = set()
+
+    # Proxy responses are often Markdown rather than HTML.
+    if html and "<html" not in html.lower() and "](" in html:
+        md_re = re.compile(
+            r"\[([^\]]{8,260})\]\((https?://www\.wolterskluwer\.com/(?:en|en-gb)/news/[^\)\s]+)\)",
+            re.I,
+        )
+        for m in md_re.finditer(html):
+            title = clean_text(m.group(1), 220)
+            url = canonical_url(m.group(2))
+            if not title or title.lower() in {"read more", "learn more"}:
+                continue
+            if url in seen or not allowed_for_source("Wolters Kluwer", url):
+                continue
+            ctx = html[max(0, m.start() - 240): min(len(html), m.end() + 180)]
+            dt = extract_any_date(ctx, source="Wolters Kluwer")
+            seen.add(url)
+            links.append((title, url, dt))
+            if len(links) >= MAX_LISTING_LINKS:
+                return links
+        if links:
+            return links
+
+    soup = BeautifulSoup(html, "html.parser")
 
     for a in soup.find_all("a", href=True):
         href = (a.get("href") or "").strip()
@@ -3036,6 +3131,27 @@ def occ_links_single(page_url: str, html: str) -> List[Tuple[str, str, Optional[
         links.append((title, url, dt))
         if len(links) >= MAX_LISTING_LINKS:
             break
+
+    # Jina and other text proxies can return Markdown instead of HTML.
+    if not links and html:
+        md_re = re.compile(
+            r"\[([^\]]{8,260})\]\((https?://(?:www\.)?occ\.gov/news-issuances/news-releases/\d{4}/[^\)\s]+)\)",
+            re.I,
+        )
+        for m in md_re.finditer(html):
+            title = clean_text(m.group(1), 260)
+            url = canonical_url(m.group(2))
+            if not title or url in seen or not allowed_for_source("OCC", url):
+                continue
+            line_start = max(0, html.rfind("\n", 0, m.start()) + 1)
+            line_end = html.find("\n", m.end())
+            if line_end < 0:
+                line_end = min(len(html), m.end() + 300)
+            dt = extract_any_date(html[line_start:line_end], source="OCC")
+            seen.add(url)
+            links.append((title, url, dt))
+            if len(links) >= MAX_LISTING_LINKS:
+                break
 
     return links
 
@@ -3772,14 +3888,34 @@ def jackhenry_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[d
 TCS_PR_PATH_RE = re.compile(r"^/who-we-are/newsroom/press-release/", re.I)
         
 def tcs_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    # Proxy responses are often Markdown rather than HTML.
+    if html and "<html" not in html.lower() and "](" in html:
+        md_re = re.compile(
+            r"\[([^\]]{8,260})\]\((https?://www\.tcs\.com/who-we-are/newsroom/press-release/[^\)\s]+)\)",
+            re.I,
+        )
+        for m in md_re.finditer(html):
+            title = clean_text(m.group(1), 220)
+            url = canonical_url(m.group(2))
+            if not title or url in seen or not allowed_for_source("TCS", url):
+                continue
+            ctx = html[max(0, m.start() - 240): min(len(html), m.end() + 180)]
+            dt = extract_any_date(ctx, source="TCS")
+            seen.add(url)
+            links.append((title, url, dt))
+            if len(links) >= MAX_LISTING_LINKS:
+                return links
+        if links:
+            return links
+
     soup = BeautifulSoup(html, "html.parser")
     container = pick_container(soup) or soup
     if not container:
         return []
     strip_nav_like(container)
-        
-    links: List[Tuple[str, str, Optional[datetime]]] = []
-    seen: set[str] = set()
         
     for a in container.select('a[href^="/who-we-are/newsroom/press-release/"]'):
         href = (a.get("href") or "").strip()
@@ -4213,10 +4349,80 @@ def nacha_links(page_url: str, html: str, window_start: Optional[datetime]) -> L
     return _paginate_listing("NACHA", page_url, html, window_start, nacha_links_single)
 
 # ============================
+# BankersOnline static/listing extractor
+# ============================
+
+def bankers_online_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    """Capture BankersOnline top-story links from both the live site and its
+    static Daily/Weekly/Tech briefing pages. All existing pages remain enabled.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    for a in container.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#") or scheme(href) in GLOBAL_DENY_SCHEMES:
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("Bankers Online", url):
+            continue
+
+        pth = path(url).lower()
+        # Keep actual top-story/detail links and dated static briefing pages;
+        # reject the static index page itself and obvious navigation links.
+        is_topstory = pth.startswith("/topstory/") and pth.rstrip("/") != "/topstory"
+        is_static_detail = host(url) == "files.bankersonline.com" and pth.endswith((".html", ".htm")) and url != canonical_url(page_url)
+        if not (is_topstory or is_static_detail):
+            continue
+
+        raw_title = (a.get_text(" ", strip=True) or "").strip()
+        if not raw_title:
+            raw_title = (a.get("aria-label") or "").strip() or (a.get("title") or "").strip()
+        title = clean_text(raw_title, 240)
+        if not title or len(title) < 8 or title.lower() in {"read more", "learn more", "more", "details"}:
+            continue
+        if is_probably_nav_link("Bankers Online", title, url):
+            continue
+        if url in seen:
+            continue
+
+        dt = find_time_near_anchor(a, "Bankers Online")
+        if dt is None:
+            wrap = a.find_parent(["tr", "li", "article", "div", "section", "p"]) or a.parent
+            if wrap:
+                dt = extract_any_date(clean_text(wrap.get_text(" ", strip=True), 1000), source="Bankers Online")
+
+        seen.add(url)
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    # The static briefing page itself is useful as a final fallback even when
+    # its individual Top Story links are hidden or rewritten. Keep it as one
+    # dated briefing item rather than reporting the source as empty.
+    if not links and host(page_url) == "files.bankersonline.com":
+        title_node = soup.find("h1") or soup.find("h2") or soup.find("title")
+        title = clean_text(title_node.get_text(" ", strip=True) if title_node else "BankersOnline briefing", 240)
+        dt = extract_any_date(clean_text(container.get_text(" ", strip=True), 2500), source="Bankers Online")
+        if title and dt is not None:
+            links.append((title, canonical_url(page_url), dt))
+
+    return links
+
+
+# ============================
 # MAIN CONTENT LINK ROUTER
 # ============================
         
 def main_content_links(source: str, page_url: str, html: str, window_start: datetime, window_end: datetime) -> List[Tuple[str, str, Optional[datetime]]]:
+    if source == "OCC":
+        return occ_links(page_url, html, window_start)
     if source == "OFAC":
         return ofac_links(page_url, html, window_start)
     if source == "Treasury":
@@ -4252,6 +4458,8 @@ def main_content_links(source: str, page_url: str, html: str, window_start: date
         return aba_news_links(page_url, html)
     if source == "Wolters Kluwer":
         return wolterskluwer_news_links(page_url, html)
+    if source == "Bankers Online":
+        return bankers_online_links(page_url, html)
         
         
     # ✅ NEW vendor-specific extractors (fixes your missing pulls)
@@ -4335,6 +4543,10 @@ KNOWN_FEEDS: Dict[str, List[str]] = {
     "BleepingComputer": ["https://www.bleepingcomputer.com/feed/"],
     "Microsoft MSRC": ["https://api.msrc.microsoft.com/update-guide/rss"],
     "Fiserv": ["https://investors.fiserv.com/newsroom/rss"],  # ✅ unchanged
+
+    # Official additive backups; existing listing pages remain active.
+    "USDA Rural Development": ["https://www.rd.usda.gov/rss.xml"],
+    "ABA": ["https://www.aba.com/rss/press"],
         
     # ✅ NEW: TCS press releases RSS (commonly referenced as Feedburner)
     "TCS": ["http://feeds2.feedburner.com/tcspress"],
@@ -4374,9 +4586,15 @@ def get_start_pages() -> List[SourcePage]:
         
         # USDA RD
         SourcePage("USDA Rural Development", "https://www.rd.usda.gov/newsroom/news-releases"),
+        SourcePage("USDA Rural Development", "https://www.rd.usda.gov/newsroom"),
+        SourcePage("USDA Rural Development", "https://www.rd.usda.gov/newsroom/news-releases/usa"),
         
         # Banking regulators
         SourcePage("OCC", "https://www.occ.gov/news-issuances/news-releases/index-news-releases.html"),
+        SourcePage("OCC", "https://www.occ.gov/news-events/newsroom/news-issuances-by-year/news-releases/index-news-releases.html"),
+        SourcePage("OCC", f"https://www.occ.gov/news-events/newsroom/news-issuances-by-year/news-releases/{y}-news-releases.html"),
+        SourcePage("OCC", "https://www.occ.gov/news-events/newsroom/index.html"),
+        SourcePage("OCC", "https://www.occ.gov/news-events/index-news-events.html"),
         SourcePage("FDIC", "https://www.fdic.gov/news/press-releases/"),
         SourcePage("FRB", "https://www.federalreserve.gov/newsevents/pressreleases.htm"),
         SourcePage("FRB Payments", "https://www.federalreserve.gov/newsevents/pressreleases.htm"),
@@ -4395,6 +4613,7 @@ def get_start_pages() -> List[SourcePage]:
         SourcePage("House Financial Services", "https://financialservices.house.gov/news/"),
         SourcePage("White House", "https://www.whitehouse.gov/news/"),
         SourcePage("White House", "https://www.whitehouse.gov/presidential-actions/"),
+        SourcePage("White House", "https://www.whitehouse.gov/briefings-statements/"),
         
         # Payments
         SourcePage("NACHA", "https://www.nacha.org/news"),
@@ -4403,13 +4622,17 @@ def get_start_pages() -> List[SourcePage]:
         SourcePage("FIS", "https://www.investor.fisglobal.com/press-releases/"),
         SourcePage("Fiserv", "https://investors.fiserv.com/newsroom/news-releases"),
         SourcePage("Jack Henry", "https://ir.jackhenry.com/press-releases"),
+        SourcePage("Jack Henry", "https://jkhy.client.shareholder.com/press-releases?mobile=1&view=all"),
         SourcePage("Finastra", "https://www.finastra.com/news-events/media-room"),
+        SourcePage("TCS", "https://www.tcs.com/who-we-are/newsroom"),
+        SourcePage("TCS", "https://www.tcs.com/who-we-are/newsroom/press-release"),
               
         # Payment Networks
         SourcePage("Visa", "https://usa.visa.com/about-visa/newsroom/press-releases-listing.html"),
         
         # Mastercard
         SourcePage("Mastercard", "https://www.mastercard.com/us/en/news-and-trends/press.html"),
+        SourcePage("Mastercard", "https://www.mastercard.com/global/en/news-and-trends/press.html"),
     ]
         
     for u in mc_year_pages:
@@ -4426,12 +4649,19 @@ def get_start_pages() -> List[SourcePage]:
         
             # FASB
             SourcePage("FASB", "https://www.fasb.org/news-and-meetings/in-the-news"),
+            SourcePage("FASB", "https://www.fasb.org/news-and-meetings"),
         
             # Compliance Watch sources
             SourcePage("ABA", "https://www.aba.com/news-research"),
+            SourcePage("ABA", "https://www.aba.com/news-research/all-news"),
+            SourcePage("ABA", "https://www.aba.com/about-us/press-room"),
             SourcePage("TBA", "https://www.texasbankers.com/news/"),
             SourcePage("Wolters Kluwer", "https://www.wolterskluwer.com/en/news"),
+            SourcePage("Wolters Kluwer", "https://www.wolterskluwer.com/en/news?f:contenttype=News%20Page%7CPress%20Release%20Page"),
             SourcePage("Bankers Online", "https://www.bankersonline.com/topstory"),
+            SourcePage("Bankers Online", f"https://files.bankersonline.com/cb/{y}/cb.html"),
+            SourcePage("Bankers Online", f"https://files.bankersonline.com/bb/{y}/bb.html"),
+            SourcePage("Bankers Online", f"https://files.bankersonline.com/tt/{y}/tt.html"),
         ]
     )
         

@@ -1,0 +1,30 @@
+REGMONTHLY SOURCE BACKUP + OCC ROUTING PATCH — 2026-08-04
+
+COPY:
+  Copy the scripts folder from this ZIP into your current regmonthly project.
+  Choose Replace when Windows asks about scripts/build.py.
+
+SAFETY:
+  - No existing source URL was removed.
+  - No existing feed was removed.
+  - No generated docs/data files are included.
+  - No .git folder or Git-history backup is included.
+  - Only scripts/build.py is replaced.
+
+CHANGES:
+  1. Routes OCC through the table extractor that was already present but unused.
+  2. Adds current OCC index/year/newsroom pages alongside the old OCC URL.
+  3. Adds official USDA and ABA RSS feeds while retaining their pages.
+  4. Adds alternate pages for USDA, White House, Jack Henry, TCS, Mastercard,
+     FASB, ABA, Wolters Kluwer, and BankersOnline.
+  5. Adds BankersOnline static Daily/Weekly/Tech briefing pages and extractor,
+     with a dated briefing-page fallback when individual links are hidden.
+  6. Adds limited proxy fallback for selected official sites on 403/timeouts.
+  7. Adds Markdown parsing for OCC, TCS, and Wolters proxy responses.
+
+RUN:
+  $env:FORCE_RUN="1"
+  python -u scripts/build.py
+  Remove-Item Env:FORCE_RUN
+
+Then review source counts before committing.
