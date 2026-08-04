@@ -1,95 +1,19 @@
 # RegDashboard — Export
 
 Window: `2026-06-30T05:00:00Z` → `2026-08-01T05:00:00Z` (UTC)
-<<<<<<< HEAD
-Last updated: `2026-08-01T09:39:46-05:00` (CT) — `2026-08-01T14:39:46Z` (UTC)
-=======
-Last updated: `2026-08-03T08:05:31-05:00` (CT) — `2026-08-03T13:05:31Z` (UTC)
->>>>>>> a9427b1 (montlhy update 08032026)
+Last updated: `2026-08-04T16:15:39-05:00` (CT) — `2026-08-04T21:15:39Z` (UTC)
 
-## Fed proposes to update rules on lending to bank insiders
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-08-01T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/07/fed-proposes-to-update-rules-on-lending-to-bank-insiders/
-
-<<<<<<< HEAD
-=======
 ## Warren Statement on Trump Media API Launch
 - Source: Senate Banking
 - Category: Legislative
 - Published: 2026-08-01T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-media-api-launch
 
-## Banking Democrats Statement on Trump Administration Move to Gut Community Reinvestment Act
-- Source: Senate Banking
-- Category: Legislative
-- Published: 2026-08-01T00:00:00Z
-- URL: https://www.banking.senate.gov/newsroom/minority/banking-democrats-statement-on-trump-administration-move-to-gut-community-reinvestment-act
-
-## NEW: Banking Minority Staff Analysis Confirms Clarity Act Would Do Nothing to Prevent Trump From Making His Next $1.4 Billion in Crypto Profits
-- Source: Senate Banking
-- Category: Legislative
-- Published: 2026-08-01T00:00:00Z
-- URL: https://www.banking.senate.gov/newsroom/minority/new-banking-minority-staff-analysis-confirms-clarity-act-would-do-nothing-to-prevent-trump-from-making-his-next-14-billion-in-crypto-profits
-
->>>>>>> a9427b1 (montlhy update 08032026)
 ## Rails patches critical Active Storage flaw with RCE potential
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-08-01T00:00:00Z
 - URL: https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/
-
-<<<<<<< HEAD
-## Jump to Content
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-08-01T00:00:00Z
-- URL: https://www.aba.com/news-research
-
-Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins.
-
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
-## Risk Management Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-08-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management
-
-Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA.
-
-## Consumer Lending
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-08-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/consumer-lending
-
-Enhance your knowledge and understanding of consumer loans and issues that effect them.
-
-## Commercial Banking Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-08-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/commercial-banking
-
-Find resources on commercial banking topics like Commercial and Industrial (C&I) loans, small business, Commercial Real Estate (CRE), agricultural banking and more.
-
-## Commercial & Industrial Loans
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-08-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/commercial-banking/commercial-industrial-loans
-
-ABA's Center for Commercial Lending & Business Banking provides information, education and training, and advocacy to help your bank successfully compete in its targeted commercial market segments.
-
-## Leadership & Operations Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-08-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations
-
-Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
 
 ## Leadership
 - Source: ABA
@@ -98,46 +22,6 @@ Get news, tools, and training on the issues that affect your bank's bottom line,
 - URL: https://www.aba.com/banking-topics/operations/leadership
 
 Resources and training for bank CEOs and Executives
-
-## Workforce Excellence
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-08-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/workforce-excellence
-
-America’s banks deliver the best business results and community impact by engaging and understanding the distinct people and places they serve, and ABA is committed to supportive them in these efforts.
-
-## Economic Trends
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-08-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/economic-trends
-
-The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
-
-## Amgen says cloud data breach exposed patient health, proprietary info
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-31T22:16:42Z
-- URL: https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/
-
-Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]
-
-## Arch Linux disables AUR package adoption to stop malware flood
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-31T21:38:08Z
-- URL: https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/
-
-The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]
-
-## Online ad firm Adform’s script compromised to steal cryptocurrency
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-31T21:09:25Z
-- URL: https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/
-
-Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]
 
 ## To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products
 - Source: White House
@@ -153,29 +37,13 @@ Online advertising firm Adform suffered a supply-chain attack that delivered cry
 
 PRESS RELEASE | JULY 31, 2026 Joint Statement of Enforcement Policy in support of Venezuela’s Economic Recovery and Earthquake Relief Efforts WASHINGTON — The staffs of the Board of Governors of the Federal Reserve System (Federal Reserve), the Federal Deposit Insurance Corporation (FDIC), the National Credit Union Administration (NCUA), and the Office of the Comptroller of th…
 
-## OpenAI says its new GPT 5.6 models are becoming more cost-efficient
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-31T18:52:44Z
-- URL: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/
+## Texas Stock Exchange celebrates official launch of trading
+- Source: TBA
+- Category: Compliance Watch
+- Published: 2026-07-31T17:00:00Z
+- URL: https://www.texasbankers.com/texas-stock-exchange-celebrates-official-launch-of-trading/
 
-OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]
-
-## Hacker uses DeepSeek AI to autonomously attack vulnerable servers
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-31T17:35:35Z
-- URL: https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/
-
-A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]
-
-## CISA warns of cyberattacks disrupting U.S. water utilities
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-31T16:49:49Z
-- URL: https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]
+The Texas Stock Exchange (TXSE) celebrated the successful launch of production trading with a bell ceremony at its Dallas headquarters, marking the completion of the phased rollout of all National Market System symbols on its platform. Over 18 months, TXSE built a custom order-matching engine and delivered a fully integrated exchange. With more than 50 […] The post Texas Stock…
 
 ## FDIC Board of Directors Approve New Actions
 - Source: FDIC
@@ -192,14 +60,6 @@ BOARD MATTERS | July 31, 2026 FDIC Board of Directors Approve New Actions By not
 - URL: https://content.govdelivery.com/accounts/USFDIC/bulletins/421a8b4
 
 PRESS RELEASE | JULY 31, 2026 FDIC Publishes Enforcement Orders for June 2026 WASHINGTON — The Federal Deposit Insurance Corporation (FDIC) today published a list of orders of administrative enforcement actions taken against banks and individuals in June 2026. There are no administrative hearings scheduled for August 2026. Orders to Pay Civil Money Penalties: Planters Bank & T…
-
-## ESET tracks rise in malicious AI skills and adaptable malware
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-31T14:01:11Z
-- URL: https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/
-
-Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security software. [...]
 
 ## Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank "insiders"—bank executives, board members and major shareholders who could potentially influence a ban…
 - Source: FRB
@@ -239,165 +99,29 @@ Federal Reserve Board requests comment on a proposal to modernize rules for mutu
 - Published: 2026-07-31T13:08:35Z
 - URL: https://home.treasury.gov/news/press-releases/sb0583
 
-<<<<<<< HEAD
-## FDIC, OCC propose to narrow Community Reinvestment Act scope
+## ABA Statement on Federal Reserve Modernization of Mutual Banking Regulations
 - Source: ABA
 - Category: Compliance Watch
-- Published: 2026-07-31T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/07/fdic-occ-propose-to-narrow-community-reinvestment-act-scope/
+- Published: 2026-07-31T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-statement-on-federal-reserve-modernization-of-mutual-banking-regulations
 
-## Fed proposes to modernize mutual bank regulations
+ABA Statement on Federal Reserve Modernization of Mutual Banking Regulations
+
+## ABA Statement on Joint OCC/FDIC Community Reinvestment Act Rule Proposal
 - Source: ABA
 - Category: Compliance Watch
-- Published: 2026-07-31T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/07/fed-proposes-to-modernize-mutual-bank-regulations/
+- Published: 2026-07-31T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-statement-on-joint-occ-fdic-community-reinvestment-act-rule-proposal
 
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
-## Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-31T00:57:25Z
-- URL: https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/
-
-One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]
+ABA Statement on Joint OCC/FDIC Community Reinvestment Act Rule Proposal
 
 ## Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules
-<<<<<<< HEAD
 - Source: OCC
 - Category: Banking
 - Published: 2026-07-31T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-64.html
 
-Ensuring a safe and sound federal banking system for all Americans
-
-## OCC Continues Community Bank Comeback with Revised CBLR Framework
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-62.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Comptroller Gould Highlights OCC’s Financial Literacy Efforts at Financial Literacy and Education Commission Meeting
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-61.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Notification: Statement of Enforcement Policy in Support of Venezuelaâs Economic Recovery and Earthquake Relief Efforts
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-36.html
-
-## Community Reinvestment Act: Interagency Notice of Proposed Rulemaking
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-35.html
-
-## News, Alerts & Bulletins View the OCC Newsroom
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/news-events/newsroom/index.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## 2026 Cybersecurity and Financial System Resilience Report
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/publications-and-resources/publications/cybersecurity-and-financial-system-resilience/files/2026-cybersecurity-report.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Semiannual Risk Perspective: Spring 2026
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/publications-and-resources/publications/semiannual-risk-perspective/files/semiannual-risk-perspective-spring-2026.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Interest Rate Risk Statistics Report: Spring 2026
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/publications-and-resources/publications/interest-rate-risk-statistics-reports/files/interest-rate-risk-statistics-report-spring-2026.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Financial Literacy Digest: Spring 2026
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/publications-and-resources/publications/community-affairs/financial-literacy-digest/financial-literacy-digest-spring-2026.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## OCC Reports Mortgage Performance for First Quarter of 2026
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/publications-and-resources/publications/mortgage-metrics-reports/files/mmr-quaterly-report.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Featured Publications View All Publications
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/publications-and-resources/publications/index-publications.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Building Blocks Workshop | Strong Management: Ready and Responsible
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/news-events/events/files/event-comm-bank-dir-wksp-building-blocks-aug-2026.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Asset Management Workshop: Manage Risk, Maximize Return
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/news-events/events/files/event-comm-bank-dir-wksp-asset-management-aug-2026.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Attracting Private Capital in Indian Country Through Tax Credit Financing
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/news-events/events/files/event-cra-comm-devl-tribal-session-3-aug-2026.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Risk Governance Workshop: Strategic Oversight for Evolving Risks
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/news-events/events/files/event-comm-bank-dir-wksp-risk-governance-sep-2026.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
-## Upcoming Events View All Events
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.occ.gov/news-events/events/index-events.html
-
-Ensuring a safe and sound federal banking system for all Americans
-
 ## Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
 - Source: FDIC
 - Category: Banking
 - Published: 2026-07-31T00:00:00Z
@@ -429,52 +153,23 @@ FDIC today published a list of orders of administrative enforcement actions take
 
 Learn more about Fannie Mae’s Multifamily library of applications; DUS Disclose, DUS Docway, DUS Gateway, DUS Insights, DUS Navigate and more.
 
-<<<<<<< HEAD
 ## Banking Democrats Statement on Trump Administration Move to Gut Community Reinvestment Act
 - Source: Senate Banking
 - Category: Legislative
 - Published: 2026-07-31T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/banking-democrats-statement-on-trump-administration-move-to-gut-community-reinvestment-act
 
-## NEW: Banking Minority Staff Analysis Confirms Clarity Act Would Do Nothing to Prevent Trump From Making His Next $1.4 Billion in Crypto Profits
-- Source: Senate Banking
-- Category: Legislative
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.banking.senate.gov/newsroom/minority/new-banking-minority-staff-analysis-confirms-clarity-act-would-do-nothing-to-prevent-trump-from-making-his-next-14-billion-in-crypto-profits
-
-## Warren Presses Trump Administration Over Failure to Protect US Economic and National Security
-- Source: Senate Banking
-- Category: Legislative
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.banking.senate.gov/newsroom/minority/warren-presses-trump-administration-over-failure-to-protect-us-economic-and-national-security
-
-## Next Article
-- Source: Senate Banking
-- Category: Legislative
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-media-api-launch
-
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
 ## How Some RDFIs Review Customer Written Statements of Unauthorized Debits for First-Party Fraud
 - Source: NACHA
 - Category: Payments
 - Published: 2026-07-31T00:00:00Z
 - URL: https://www.nacha.org/news/how-some-rdfis-review-customer-written-statements-unauthorized-debits-first-party-fraud
 
-## Get lifetime access to 1,000+ online courses for $35 in this deal
+## Amgen says cloud data breach exposed patient health, proprietary info
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-07-31T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/get-lifetime-access-to-1-000-plus-online-courses-for-35-in-this-deal/
-
-## Consumer Banking Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking
-
-Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
+- URL: https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/
 
 ## Inclusive Banking
 - Source: ABA
@@ -484,17 +179,6 @@ Key areas of consideration for banking individual retail customers, including le
 
 Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion.
 
-<<<<<<< HEAD
-## Retail Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/retail-banking
-
-As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
-
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
 ## Agency Information Collection Activities: Proposed Collection Renewal; Comment Request
 - Source: Federal Register
 - Category: Federal Register
@@ -511,28 +195,6 @@ The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, 
 
 This final rule amends the Grants to States for Public Assistance Programs regulations, the General Administration--State Plans and Grant Appeals regulations, the General Administration--Public Assistance Programs regulations, the Training and Use of Subprofessionals and Volunteers regulations, the Coverage and Conditions of Eligibility in Financial Assistance Programs regulat…
 
-## South Korea fines telco giant KT $39 million for customer data breach
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T22:28:30Z
-- URL: https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/
-
-South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]
-
-## JetBrains warns of critical TeamCity remote code execution flaw
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T22:01:31Z
-- URL: https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/
-
-JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]
-
-## Fact Sheet: President Donald J. Trump Delegates Defense Production Act Authority with Respect to Recoverable Critical Minerals and Materials That Are Essential to Our National Defense
-- Source: White House
-- Category: Executive
-- Published: 2026-07-30T20:34:56Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/
-
 ## Presidential Permit: Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas
 - Source: White House
 - Category: Executive
@@ -545,58 +207,12 @@ JetBrains is warning of a critical authentication bypass vulnerability affecting
 - Published: 2026-07-30T20:33:26Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/
 
-## Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T18:13:24Z
-- URL: https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/
-
-Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]
-
-<<<<<<< HEAD
-## VMware fixes three critical flaws allowing auth bypass, VM escapes
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T18:00:51Z
-- URL: https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/
-
-Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]
-
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
 ## Treasury Cracks Down on Global Networks Enabling Iran’s Mahan Air and IRGC
 - Source: Treasury
 - Category: OFAC
 - Published: 2026-07-30T17:30:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0582
 
-<<<<<<< HEAD
-## Google says AI helped Chrome fix 1,072 security bugs in two releases
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T17:00:00Z
-- URL: https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/
-
-Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]
-
-## ShinyHunters claims Brinks Home breach, threatens to leak stolen data
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T16:46:15Z
-- URL: https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/
-
-Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]
-
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
-## Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank
-- Source: FRB
-- Category: Banking
-- Published: 2026-07-30T15:00:00Z
-- URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm
-
-Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank
-
 ## Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank
 - Source: FRB
 - Category: Banking
@@ -606,8 +222,8 @@ Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and T
 Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank
 
 ## Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank
-- Source: FRB Payments
-- Category: Payments
+- Source: FRB
+- Category: Banking
 - Published: 2026-07-30T15:00:00Z
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm
 
@@ -620,6 +236,14 @@ Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and T
 - URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm
 
 Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank
+
+## Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank
+- Source: FRB Payments
+- Category: Payments
+- Published: 2026-07-30T15:00:00Z
+- URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm
+
+Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank
 
 ## CVE-2026-54128 Windows DHCP Client Remote Code Execution Vulnerability
 - Source: Microsoft MSRC
@@ -667,27 +291,32 @@ Informational Change. CVE ID stays the same.
 - Published: 2026-07-30T11:04:08Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-facilitates-her-fifth-ukrainerussia-family-reunification/
 
+## ABA, Ohio Bankers League Release New Ad Encouraging Senator Jon Husted to Keep Fighting for Ohio Families
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-30T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/senator-jon-husted-voter-education-ad
+
+ABA, Ohio Bankers League Release New Ad Encouraging Senator Jon Husted to Keep Fighting for Ohio Families
+
 ## Counter Terrorism Designations; Non-Proliferation Designation Update
 - Source: OFAC
 - Category: OFAC
 - Published: 2026-07-30T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260730
 
-<<<<<<< HEAD
+## OCC Continues Community Bank Comeback with Revised CBLR Framework
+- Source: OCC
+- Category: Banking
+- Published: 2026-07-30T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-62.html
+
 ## OCC Releases CRA Performance Evaluations for 14 National Banks and Federal Savings Associations
 - Source: OCC
 - Category: Banking
 - Published: 2026-07-30T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-63.html
 
-## Community Bank Leverage Ratio: Updated Community Bank Compliance Guide
-- Source: OCC
-- Category: Banking
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-34.html
-
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
 ## Regulatory Reform
 - Source: FRB
 - Category: Banking
@@ -724,15 +353,18 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-07-30T00:00:00Z
 - URL: https://www.globenewswire.com/news-release/2026/07/30/3336031/0/en/freddie-mac-announces-second-quarter-2026-financial-results.html
 
-<<<<<<< HEAD
-=======
+## NEW: Banking Minority Staff Analysis Confirms Clarity Act Would Do Nothing to Prevent Trump From Making His Next $1.4 Billion in Crypto Profits
+- Source: Senate Banking
+- Category: Legislative
+- Published: 2026-07-30T00:00:00Z
+- URL: https://www.banking.senate.gov/newsroom/minority/new-banking-minority-staff-analysis-confirms-clarity-act-would-do-nothing-to-prevent-trump-from-making-his-next-14-billion-in-crypto-profits
+
 ## Warren Presses Trump Administration Over Failure to Protect US Economic and National Security
 - Source: Senate Banking
 - Category: Legislative
 - Published: 2026-07-30T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-presses-trump-administration-over-failure-to-protect-us-economic-and-national-security
 
->>>>>>> a9427b1 (montlhy update 08032026)
 ## Senator Warren Statement on June 2026 PCE
 - Source: Senate Banking
 - Category: Legislative
@@ -745,38 +377,6 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - Published: 2026-07-30T00:00:00Z
 - URL: https://www.nacha.org/news/large-gains-same-day-ach-help-drive-ach-network-second-quarter-2026
 
-## The AutoCAD software trusted by architects and engineers is just $399
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/the-autocad-software-trusted-by-architects-and-engineers-is-just-399/
-
-<<<<<<< HEAD
-## Microsoft Teams vishing attacks lead to Chaos ransomware attacks
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/
-
-## Analog Devices discloses data breach, says operations unaffected
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/
-
-## After the Break-In: What Attackers Do Once They're Already Inside
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/
-=======
-## VMware fixes three critical flaws allowing auth bypass, VM escapes
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/
->>>>>>> a9427b1 (montlhy update 08032026)
-
 ## Elder Financial Exploitation
 - Source: ABA
 - Category: Compliance Watch
@@ -784,14 +384,6 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - URL: https://www.aba.com/banking-topics/risk-management/elder-financial-exploitation
 
 This webpage provides resources to help bankers better understand elder financial exploitation (EFE).
-
-## Mortgage & Home Finance
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
-
-There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
 
 ## Agricultural Banking
 - Source: ABA
@@ -801,33 +393,6 @@ There are many paths to owning a home, and banks are prepared to help customers 
 
 Find the most relevant ag banking information, resources and research from our team of experts.
 
-## Technology Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology
-
-Balance technological advancements and digital convenience with the security and safety consumers expect from your financial institution.
-
-## Cybersecurity
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology/cybersecurity
-
-ABA offers resources to help banks protect their customers' accounts and personal information.
-
-<<<<<<< HEAD
-## Wealth Management Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/wealth-management
-
-Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices.
-
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
 ## Fed votes to hold rates, despite growing dissent
 - Source: TBA
 - Category: Compliance Watch
@@ -869,6 +434,14 @@ Federal Reserve issues FOMC statement
 - Category: OFAC
 - Published: 2026-07-29T12:27:40Z
 - URL: https://home.treasury.gov/news/press-releases/sb0580
+
+## ABA Testifies Before Senate Aging Committee on Protecting Seniors from AI-Generated Fraud
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-29T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-testifies-before-senate-aging-committee-on-protecting-seniors-from-ai-generated-fraud
+
+ABA Testifies Before Senate Aging Committee on Protecting Seniors from AI-Generated Fraud
 
 ## Iran-related Designations
 - Source: OFAC
@@ -1054,15 +627,12 @@ IR-2026-84, July 28, 2026 — The Internal Revenue Service today highlighted the
 - Published: 2026-07-28T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-remarks-at-spotlight-forum-on-need-for-strong-ethics-guardrails-to-prevent-trump-crypto-corruption
 
-<<<<<<< HEAD
-=======
 ## Visa to Acquire BioCatch
 - Source: Visa
 - Category: Payment Card Networks
 - Published: 2026-07-28T00:00:00Z
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22626.html
 
->>>>>>> a9427b1 (montlhy update 08032026)
 ## Visa Fiscal Third Quarter 2026 Financial Results
 - Source: Visa
 - Category: Payment Card Networks
@@ -1309,25 +879,6 @@ IR-2026-84, July 28, 2026 — The Internal Revenue Service today highlighted the
 - Published: 2026-07-28T00:00:00Z
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
 
-## Incident Response
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management/incident-response
-
-Resources to help you prepare for and respond to a physical or cyber incident.
-
-<<<<<<< HEAD
-## Marketing & Communications Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/communications
-
-Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
-
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
 ## Presidential Message on National Korean War Veterans Armistice Day
 - Source: White House
 - Category: Executive
@@ -1438,6 +989,12 @@ Information published.
 - Published: 2026-07-27T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260727
 
+## Comptroller Gould Highlights OCCâs Financial Literacy Efforts at Financial Literacy and Education Commission Meeting
+- Source: OCC
+- Category: Banking
+- Published: 2026-07-27T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-61.html
+
 ## MPF Announcement 2026-46
 - Source: FHLB MPF
 - Category: Mortgage
@@ -1456,15 +1013,12 @@ Information published.
 - Published: 2026-07-27T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-schumer-question-pulte-on-failure-to-lower-housing-costs-while-serving-as-fhfa-head-and-acting-dni
 
-<<<<<<< HEAD
 ## Three New Nacha Rules Approved
 - Source: NACHA
 - Category: Payments
 - Published: 2026-07-27T00:00:00Z
 - URL: https://www.nacha.org/news/three-new-nacha-rules-approved
 
-=======
->>>>>>> a9427b1 (montlhy update 08032026)
 ## Illicit Finance
 - Source: ABA
 - Category: Compliance Watch
@@ -1518,12 +1072,6 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - Category: Executive
 - Published: 2026-07-24T20:19:11Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/
-
-## Fact Sheet: President Donald J. Trump Restores Trust in the Smithsonian Institution
-- Source: White House
-- Category: Executive
-- Published: 2026-07-24T19:11:24Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-restores-trust-in-the-smithsonian-institution/
 
 ## Joint Statement on the EU-U.S. Joint Financial Regulatory Forum
 - Source: Treasury
@@ -1582,6 +1130,14 @@ Information published.
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59676
 
 Information published.
+
+## ABA, CBA Urge Federal Reserve to Strengthen Safeguards for Proposed Payment Accounts
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-24T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-cba-urge-federal-reserve-to-strengthen-safeguards-for-proposed-payment-accounts
+
+ABA, CBA Urge Federal Reserve to Strengthen Safeguards for Proposed Payment Accounts
 
 ## Iran-related Designations; Issuance of Amended Russia-related General License and Frequently Asked Questions; Issuance of Amended Venezuela-related Frequently Asked Question; Publication of Regulatory Amendments
 - Source: OFAC
@@ -2455,6 +2011,22 @@ Information published.
 
 Information published.
 
+## Banking Trades Statement on Updated Clarity Act
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-22T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/banking-trades-statement-on-updated-clarity-act
+
+Banking Trades Statement on Updated Clarity Act
+
+## ABA Welcomes House Financial Services Committee Report on Fraud and Scams
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-22T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-welcomes-house-financial-services-committee-report-on-fraud-and-scams
+
+ABA Welcomes House Financial Services Committee Report on Fraud and Scams
+
 ## Senator Warren Statement on New Text of the Clarity Act
 - Source: Senate Banking
 - Category: Legislative
@@ -2532,12 +2104,6 @@ The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995 (
 - URL: https://www.texasbankers.com/fcc-issues-warning-about-bank-impersonation-scams/
 
 The Federal Communications Commission issued an advisory warning consumers about bank impersonation scams and offering tips for avoiding them. Bank impersonation scams account for the highest losses among all impersonation scam categories, with victims often losing everything in their accounts. The scams typically pressure consumers to take immediate action to secure their acc…
-
-## Fact Sheet: President Donald J. Trump Announces Trade Deal with Jordan
-- Source: White House
-- Category: Executive
-- Published: 2026-07-21T15:56:03Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/
 
 ## AGREEMENT BETWEEN THE UNITED STATES OF AMERICA AND THE HASHEMITE KINGDOM OF JORDAN ON RECIPROCAL TRADE
 - Source: White House
@@ -3043,6 +2609,22 @@ Information published.
 
 Information published.
 
+## ABA Foundation Launches Guide to Help Nonprofits Sustain Bank Partnerships
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-21T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-foundation-launches-guide-to-help-nonprofits-sustain-bank-partnerships
+
+ABA Foundation Launches Guide to Help Nonprofits Sustain Bank Partnerships
+
+## ABA Applauds House Passage of Main Street Capital Access Act
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-21T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-applauds-house-passage-of-main-street-capital-access-act
+
+ABA Applauds House Passage of Main Street Capital Access Act
+
 ## Warren Statement Ahead of House Vote on Big Bank Deregulatory Bill
 - Source: Senate Banking
 - Category: Legislative
@@ -3133,29 +2715,11 @@ FMCSA amends its regulations by making technical corrections throughout the Fede
 - Published: 2026-07-20T21:00:00Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/
 
-## Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada
-- Source: White House
-- Category: Executive
-- Published: 2026-07-20T21:00:00Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/
-
-## Fact Sheet: President Donald J. Trump Takes Further Action To Adjust Imports Of Aluminum Into The United States
-- Source: White House
-- Category: Executive
-- Published: 2026-07-20T19:44:17Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-takes-further-action-to-adjust-imports-of-aluminum-into-the-united-states/
-
 ## Further Strengthening Actions Taken to Adjust Imports of Aluminum into the United States
 - Source: White House
 - Category: Executive
 - Published: 2026-07-20T19:44:08Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/07/further-strengthening-actions-taken-to-adjust-imports-of-aluminum-into-the-united-states/
-
-## Fact Sheet: President Donald J. Trump Secures America’s Defense Supply Chains and Ensures Domestic Acquisition of Critical Materials
-- Source: White House
-- Category: Executive
-- Published: 2026-07-20T19:38:30Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-americas-defense-supply-chains-and-ensures-domestic-acquisition-of-critical-materials/
 
 ## Securing America’s Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials
 - Source: White House
@@ -3837,6 +3401,14 @@ Information published.
 
 Information published.
 
+## ABA Donates $10,000 to Support Texas Flood Relief Efforts
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-20T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-donates-10000-to-support-texas-flood-relief-efforts
+
+ABA Donates $10,000 to Support Texas Flood Relief Efforts
+
 ## Russia-related Designations Updates
 - Source: OFAC
 - Category: OFAC
@@ -4125,6 +3697,26 @@ Accurate Metro 2® reporting is critical to compliance, reducing disputes, and i
 
 Information published.
 
+## ABA Statement on Banking Agencies' New Approach to Handling Sensitive Information
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-16T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-statement-on-banking-agencies-new-approach-to-handling-sensitive-information
+
+ABA Statement on Banking Agencies' New Approach to Handling Sensitive Information
+
+## OCC Announces Enforcement Actions for July 2026
+- Source: OCC
+- Category: Banking
+- Published: 2026-07-16T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-59.html
+
+## Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations
+- Source: OCC
+- Category: Banking
+- Published: 2026-07-16T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-60.html
+
 ## Mortgage Rates Average 6.55%
 - Source: Freddie Mac
 - Category: Mortgage
@@ -4226,12 +3818,6 @@ New credit card laws have fundamentally changed the industry.
 - URL: https://www.texasbankers.com/fed-chair-warsh-shares-annual-monetary-policy-report-with-congress/
 
 In the annual monetary policy report, Federal Reserve Chairman Kevin Warsh told the House Financial Services Committee and the Senate Banking Committee that the economy continues to expand at a solid pace, but he emphasized that the Fed remains firmly focused on controlling inflation. Warsh offered no indication of imminent rate relief and noted continued […] The post Fed Chai…
-
-## Measuring Balance of Payments Deficits
-- Source: White House
-- Category: Executive
-- Published: 2026-07-15T16:12:50Z
-- URL: https://www.whitehouse.gov/research/2026/07/measuring-balance-of-payments-deficits/
 
 ## Treasury Targets Global Network Procuring Weapons for Iranian Regime
 - Source: Treasury
@@ -4429,11 +4015,25 @@ Information published.
 
 Information published.
 
+## ABA Nominates Officers for 2026-2027
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-15T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-nominates-officers-for-2026-2027
+
+ABA Nominates Officers for 2026-2027
+
 ## Non-Proliferation Designations; Counter Terrorism Designations
 - Source: OFAC
 - Category: OFAC
 - Published: 2026-07-15T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260715
+
+## Jonathan V. Gould Marks One Year as Comptroller of the Currency
+- Source: OCC
+- Category: Banking
+- Published: 2026-07-15T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-58.html
 
 ## MPF Announcement 2026-44
 - Source: FHLB MPF
@@ -8923,12 +8523,6 @@ Fannie Mae’s market intelligence helps you understand changes in the housing a
 - Published: 2026-07-14T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-risk-technology-takes-top-industry-honors-ai-embedded
 
-## Fact Sheet: President Donald J. Trump Grants Further Regulatory Relief from Burdensome EPA Restrictions to Promote American Security
-- Source: White House
-- Category: Executive
-- Published: 2026-07-13T22:23:56Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-grants-further-regulatory-relief-from-burdensome-epa-restrictions-to-promote-american-security/
-
 ## Regulatory Relief for Certain Stationary Sources to Promote American Chemical Manufacturing Security
 - Source: White House
 - Category: Executive
@@ -8940,12 +8534,6 @@ Fannie Mae’s market intelligence helps you understand changes in the housing a
 - Category: Executive
 - Published: 2026-07-13T22:14:23Z
 - URL: https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/
-
-## Fact Sheet: President Donald J. Trump Modifies Two National Monuments, Restoring Sensible Land Management
-- Source: White House
-- Category: Executive
-- Published: 2026-07-13T22:13:50Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-modifies-two-national-monuments-restoring-sensible-land-management/
 
 ## Modifying the Grand Staircase-Escalante National Monument
 - Source: White House
@@ -9011,11 +8599,25 @@ Information published.
 
 Information published.
 
+## ABA, ICBA Join State Associations in Urging Senate to Strengthen Stablecoin Yield Provisions in Clarity Act
+- Source: ABA
+- Category: Compliance Watch
+- Published: 2026-07-13T04:00:00Z
+- URL: https://www.aba.com/about-us/press-room/press-releases/aba-icba-and-state-associations-stablecoin-yield-provisions-comment-letter
+
+ABA, ICBA Join State Associations in Urging Senate to Strengthen Stablecoin Yield Provisions in Clarity Act
+
 ## Cyber-related Designations; Cuba Designations; Issuance of Cuba-related Frequently Asked Question
 - Source: OFAC
 - Category: OFAC
 - Published: 2026-07-13T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260713
+
+## Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States
+- Source: OCC
+- Category: Banking
+- Published: 2026-07-13T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-57.html
 
 ## Warren Presses JPMorgan CEO on Bank’s Epstein Ties Following Resurfaced Emails
 - Source: Senate Banking
@@ -10455,6 +10057,12 @@ Information published.
 - Published: 2026-07-10T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260710
 
+## OCC Appoints Receiver for Kentland Federal Savings and Loan Association, Kentland, Indiana
+- Source: OCC
+- Category: Banking
+- Published: 2026-07-10T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-56.html
+
 ## Technology Manager
 - Source: Fannie Mae
 - Category: Mortgage
@@ -10488,12 +10096,6 @@ Technology Manager allows registered users of Fannie Mae applications to view an
 - URL: https://www.federalregister.gov/documents/2026/07/10/2026-13939/rescission-of-floodplain-management-and-protection-of-wetlands-minimum-property-standards-for-flood
 
 This proposed rule would revise HUD's regulations governing floodplain management and the protection of wetlands in accordance with Executive Order 14148, entitled "Initial Rescissions of Harmful Executive Orders and Actions." Executive Order 14148 revoked an earlier executive order that formed a basis for the final rule that HUD published on April 23, 2024, entitled "Floodpla…
-
-## Fact Sheet: President Donald J. Trump Adjusts Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States
-- Source: White House
-- Category: Executive
-- Published: 2026-07-09T20:23:18Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-adjusts-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/
 
 ## Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States
 - Source: White House
@@ -10987,12 +10589,6 @@ Information published.
 
 Information published.
 
-## Fact Sheet: President Donald J. Trump Secures Historic Defense Investment from NATO Allies, Powering American Industry
-- Source: White House
-- Category: Executive
-- Published: 2026-07-09T00:20:35Z
-- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/
-
 ## MPF Announcement 2026-43
 - Source: FHLB MPF
 - Category: Mortgage
@@ -11113,7 +10709,7 @@ Microsoft has released an update to the Microsoft Malware Protection Engine that
 
 Improper access control in Microsoft Edge (Chromium-based) allows an unauthorized attacker to bypass a security feature over a network.
 
-## Issuance of Amended Russia-related General License and Frequently Asked Questions
+## Issuance of Amended Russia -related General License and Frequently Asked Questions
 - Source: OFAC
 - Category: OFAC
 - Published: 2026-07-08T00:00:00Z
@@ -14489,6 +14085,12 @@ Incorrect authorization in Microsoft Exchange Online allows an authorized attack
 - Published: 2026-07-02T01:00:00Z
 - URL: https://home.treasury.gov/news/press-releases/sb0567
 
+## OCC Announces Deputy Comptroller for Supervision System and Analytical Support
+- Source: OCC
+- Category: Banking
+- Published: 2026-07-02T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-55.html
+
 ## Mortgage Rates Decline
 - Source: Freddie Mac
 - Category: Mortgage
@@ -14981,6 +14583,12 @@ Information published.
 - Published: 2026-07-01T00:00:00Z
 - URL: https://ofac.treasury.gov/recent-actions/20260701
 
+## OCC Releases CRA Performance Evaluations for 20 National Banks and Federal Savings Associations
+- Source: OCC
+- Category: Banking
+- Published: 2026-07-01T00:00:00Z
+- URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-54.html
+
 ## MPF Announcement 2026-42
 - Source: FHLB MPF
 - Category: Mortgage
@@ -15078,14 +14686,6 @@ Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Netw
 - URL: https://www.cdiaonline.org/events/2026/06/30/early-bird-ends-june-30th-make-sure-to-register-early-and-save/
 
 Seats are filling fast for the Metro 2® Format Advanced Workshop in Las Vegas, NV! Don’t miss this interactive opportunity to... The post Early Bird Ends June 30th! Make sure to register early and save! appeared first on CDIA .
-
-## Federal agencies release 2026 list of CRA-eligible communities
-- Source: TBA
-- Category: Compliance Watch
-- Published: 2026-06-30T10:00:00Z
-- URL: https://www.texasbankers.com/federal-agencies-release-2026-list-of-cra-eligible-communities/
-
-Federal bank regulatory agencies released the 2026 list of geographies where certain bank activities are eligible for Community Reinvestment Act (CRA) credit. Under the CRA, the agencies assess a bank’s record of meeting the credit needs of its entire community, including low- and moderate-income neighborhoods, in a manner consistent with safe and sound operations. The […] The…
 
 ## CVE-2026-11979 Stack-Based Buffer Overflow in libxml2
 - Source: Microsoft MSRC
