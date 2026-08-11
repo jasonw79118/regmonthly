@@ -8,30 +8,6 @@
     "summary": ""
   },
   {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Rails patches critical Active Storage flaw with RCE potential",
-    "published_at": "2026-08-01T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-    "summary": ""
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Leadership",
-    "published_at": "2026-08-01T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/operations/leadership",
-    "summary": "Resources and training for bank CEOs and Executives"
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
-    "published_at": "2026-07-31T21:00:00Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
-    "summary": ""
-  },
-  {
     "category": "Banking",
     "source": "FDIC",
     "title": "Press Release: Joint Statement of Enforcement Policy in support of Venezuela’s Economic Recovery and Earthquake Relief Efforts",
@@ -96,14 +72,6 @@
     "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations"
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "G7 2026 CROSS BORDER COORDINATION EXERCISE (CBCE)",
-    "published_at": "2026-07-31T13:08:35Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0583",
-    "summary": ""
-  },
-  {
     "category": "Compliance Watch",
     "source": "ABA",
     "title": "ABA Statement on Federal Reserve Modernization of Mutual Banking Regulations",
@@ -152,14 +120,6 @@
     "summary": "FDIC today published a list of orders of administrative enforcement actions taken against banks and individuals in June 2026."
   },
   {
-    "category": "Mortgage",
-    "source": "Fannie Mae",
-    "title": "Applications & Technology",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://multifamily.fanniemae.com/applications-technology",
-    "summary": "Learn more about Fannie Mae’s Multifamily library of applications; DUS Disclose, DUS Docway, DUS Gateway, DUS Insights, DUS Navigate and more."
-  },
-  {
     "category": "Legislative",
     "source": "Senate Banking",
     "title": "Banking Democrats Statement on Trump Administration Move to Gut Community Reinvestment Act",
@@ -174,22 +134,6 @@
     "published_at": "2026-07-31T00:00:00Z",
     "url": "https://www.nacha.org/news/how-some-rdfis-review-customer-written-statements-unauthorized-debits-first-party-fraud",
     "summary": ""
-  },
-  {
-    "category": "IS",
-    "source": "BleepingComputer",
-    "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-    "summary": ""
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Inclusive Banking",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/consumer-banking/inclusive-banking",
-    "summary": "Leading resources and information to support banks in meeting the needs of their entire communities and furthering financial inclusion."
   },
   {
     "category": "Federal Register",
@@ -217,30 +161,6 @@
       "topic:employment"
     ],
     "fedreg_document_number": "2026-15567"
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Presidential Permit: Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas",
-    "published_at": "2026-07-30T20:34:13Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-permit-authorizing-cameron-county-texas-to-own-operate-and-maintain-the-brownsville-and-matamoros-bridge-in-brownsville-texas/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials",
-    "published_at": "2026-07-30T20:33:26Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Cracks Down on Global Networks Enabling Iran’s Mahan Air and IRGC",
-    "published_at": "2026-07-30T17:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0582",
-    "summary": ""
   },
   {
     "category": "Banking",
@@ -379,22 +299,6 @@
     "summary": "The monthly summary report contains information about Fannie Mae’s monthly and year-to-date activities."
   },
   {
-    "category": "Mortgage",
-    "source": "Freddie Mac",
-    "title": "Mortgage Rates Average 6.66%",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/07/30/3336279/0/en/mortgage-rates-average-6-66.html",
-    "summary": ""
-  },
-  {
-    "category": "Mortgage",
-    "source": "Freddie Mac",
-    "title": "Freddie Mac Announces Second Quarter 2026 Financial Results",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/07/30/3336031/0/en/freddie-mac-announces-second-quarter-2026-financial-results.html",
-    "summary": ""
-  },
-  {
     "category": "Legislative",
     "source": "Senate Banking",
     "title": "NEW: Banking Minority Staff Analysis Confirms Clarity Act Would Do Nothing to Prevent Trump From Making His Next $1.4 Billion in Crypto Profits",
@@ -436,14 +340,6 @@
   },
   {
     "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Agricultural Banking",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/commercial-banking/agricultural-banking",
-    "summary": "Find the most relevant ag banking information, resources and research from our team of experts."
-  },
-  {
-    "category": "Compliance Watch",
     "source": "TBA",
     "title": "Fed votes to hold rates, despite growing dissent",
     "published_at": "2026-07-29T20:18:04Z",
@@ -473,22 +369,6 @@
     "published_at": "2026-07-29T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "summary": "Federal Reserve issues FOMC statement"
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network",
-    "published_at": "2026-07-29T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0581",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Unveils Redesigned CFIUS Website",
-    "published_at": "2026-07-29T12:27:40Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0580",
-    "summary": ""
   },
   {
     "category": "Compliance Watch",
@@ -569,22 +449,6 @@
     "published_at": "2026-07-29T00:00:00Z",
     "url": "https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts",
     "summary": ""
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Payments Overview",
-    "published_at": "2026-07-29T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments",
-    "summary": "Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions."
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Artificial Intelligence",
-    "published_at": "2026-07-29T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/technology/artificial-intelligence",
-    "summary": "Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI."
   },
   {
     "category": "Federal Register",
@@ -683,14 +547,6 @@
     "published_at": "2026-07-28T00:00:00Z",
     "url": "https://www.irs.gov/newsroom/irs-recognizes-national-whistleblower-day-with-8-billion-recovered-since-2007",
     "summary": "IR-2026-84, July 28, 2026 — The Internal Revenue Service today highlighted the upcoming National Whistleblower Day, and the important role whistleblowers play in exposing fraud, reducing the tax gap, and strengthening compliance."
-  },
-  {
-    "category": "Mortgage",
-    "source": "Freddie Mac",
-    "title": "Freddie Mac Announces Release Date for Second Quarter 2026 Financial Results",
-    "published_at": "2026-07-28T00:00:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/07/28/3334818/0/en/freddie-mac-announces-release-date-for-second-quarter-2026-financial-results.html",
-    "summary": ""
   },
   {
     "category": "Legislative",
@@ -1053,22 +909,6 @@
     "summary": ""
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Remarks by Secretary of the Treasury Scott Bessent Before the Financial Literacy and Education Commission",
-    "published_at": "2026-07-27T17:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0579",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative",
-    "published_at": "2026-07-27T17:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0578",
-    "summary": ""
-  },
-  {
     "category": "IS",
     "source": "Microsoft MSRC",
     "title": "CVE-2026-50333 Windows Spaceport.sys Elevation of Privilege Vulnerability",
@@ -1181,14 +1021,6 @@
     "summary": ""
   },
   {
-    "category": "Mortgage",
-    "source": "Freddie Mac",
-    "title": "Freddie Mac Issues Monthly Volume Summary for June 2026",
-    "published_at": "2026-07-27T00:00:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/07/27/3333902/0/en/freddie-mac-issues-monthly-volume-summary-for-june-2026.html",
-    "summary": ""
-  },
-  {
     "category": "Legislative",
     "source": "Senate Banking",
     "title": "Warren, Schumer Question Pulte on Failure to Lower Housing Costs While Serving as FHFA Head and Acting DNI",
@@ -1203,14 +1035,6 @@
     "published_at": "2026-07-27T00:00:00Z",
     "url": "https://www.nacha.org/news/three-new-nacha-rules-approved",
     "summary": ""
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Illicit Finance",
-    "published_at": "2026-07-27T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/risk-management/money-laundering",
-    "summary": "ABA helps banks better identify and report money laundering and other illicit financial activity with information on new technologies and best practices."
   },
   {
     "category": "Federal Register",
@@ -1259,38 +1083,6 @@
     "published_at": "2026-07-25T07:29:49Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-16804",
     "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information."
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Restoring Trust in the Smithsonian Institution",
-    "published_at": "2026-07-24T20:19:11Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Joint Statement on the EU-U.S. Joint Financial Regulatory Forum",
-    "published_at": "2026-07-24T15:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0577",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Further Dismantles Iranian Financier Zanjani’s Network",
-    "published_at": "2026-07-24T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0576",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "FinCEN Issues Alert on Fraud Schemes Targeting Federal Student Aid",
-    "published_at": "2026-07-24T14:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0575",
-    "summary": ""
   },
   {
     "category": "IS",
@@ -1378,38 +1170,6 @@
       "topic:investments"
     ],
     "fedreg_document_number": "2026-15027"
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Actions by the United States in the Investigations under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy to Impose and Effectively Enforce…",
-    "published_at": "2026-07-23T22:48:44Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and/",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States",
-    "published_at": "2026-07-23T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0574",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion",
-    "published_at": "2026-07-23T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0573",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks",
-    "published_at": "2026-07-23T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0572",
-    "summary": ""
   },
   {
     "category": "IS",
@@ -1892,14 +1652,6 @@
     "summary": ""
   },
   {
-    "category": "Mortgage",
-    "source": "Freddie Mac",
-    "title": "Mortgage Rates Average 6.58%",
-    "published_at": "2026-07-23T00:00:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/07/23/3332422/0/en/mortgage-rates-average-6-58.html",
-    "summary": ""
-  },
-  {
     "category": "Legislative",
     "source": "Senate Banking",
     "title": "Chairman Scott: President Trump’s Nominees Will Protect Taxpayers, Counter China, and Protect Consumer Choice",
@@ -1988,30 +1740,6 @@
       "filter:federal-deposit-insurance-corporation"
     ],
     "fedreg_document_number": "2026-14899"
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Statements & Remarks",
-    "published_at": "2026-07-22T19:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/statements-remarks",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Bessent Delivers Remarks at Wheeler High School in Marietta, Georgia",
-    "published_at": "2026-07-22T19:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0571",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Secretary of the Treasury Scott Bessent's Meeting with Pakistan's Federal Minister for Finance and Revenue Muhammad Aurangzeb",
-    "published_at": "2026-07-22T15:45:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0570",
-    "summary": ""
   },
   {
     "category": "IS",
@@ -2296,6 +2024,14 @@
   {
     "category": "Legislative",
     "source": "Senate Banking",
+    "title": "Warren Requests Communications Between CFPB and Trump’s CFPB Nominee, Capital One Executive Brian Johnson, Following CFPB’s Dropped Lawsuit Against Capital One",
+    "published_at": "2026-07-22T00:00:00Z",
+    "url": "https://www.banking.senate.gov/newsroom/minority/warren-requests-communications-between-cfpb-and-trumps-cfpb-nominee-capital-one-executive-johnnson-following-cfpbs-dropped-lawsuit-against-capital-one",
+    "summary": ""
+  },
+  {
+    "category": "Legislative",
+    "source": "Senate Banking",
     "title": "Warren Calls For GAO Investigation Into Deep CFTC Staffing Cuts",
     "published_at": "2026-07-22T00:00:00Z",
     "url": "https://www.banking.senate.gov/newsroom/minority/warren-calls-for-gao-investigation-into-deep-cftc-staffing-cuts",
@@ -2335,14 +2071,6 @@
   },
   {
     "category": "Compliance Watch",
-    "source": "CDIA",
-    "title": "Education Services",
-    "published_at": "2026-07-22T00:00:00Z",
-    "url": "https://www.cdiaonline.org/education-services/",
-    "summary": ""
-  },
-  {
-    "category": "Compliance Watch",
     "source": "ABA",
     "title": "Social Media",
     "published_at": "2026-07-22T00:00:00Z",
@@ -2368,14 +2096,6 @@
     "title": "Presidential Message on the Anniversary of the Liberation of Guam",
     "published_at": "2026-07-21T21:30:51Z",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-liberation-of-guam/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Nominations Sent to the Senate",
-    "published_at": "2026-07-21T19:58:17Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-60e9/",
     "summary": ""
   },
   {
@@ -2424,14 +2144,6 @@
     "title": "Bank of Maldives to transform core banking with Finastra",
     "published_at": "2026-07-21T12:00:00Z",
     "url": "https://www.finastra.com/press-media/bank-maldives-transform-core-banking-finastra",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Successfully Implements New Safeguard to Stop Payments to Deceased Individuals",
-    "published_at": "2026-07-21T10:30:15Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0569",
     "summary": ""
   },
   {
@@ -2971,14 +2683,6 @@
     "summary": ""
   },
   {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Accounting",
-    "published_at": "2026-07-21T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/operations/accounting",
-    "summary": "ABA represents the banking industry on policy issues related to accounting and auditing."
-  },
-  {
     "category": "Federal Register",
     "source": "Federal Register",
     "title": "Electronic Delivery of Information Under the Federal Securities Laws",
@@ -3013,70 +2717,6 @@
     "title": "Presidential Message on Space Exploration Day",
     "published_at": "2026-07-20T23:06:31Z",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-space-exploration-day-8e77/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Motor Vehicles",
-    "published_at": "2026-07-20T21:00:00Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages",
-    "published_at": "2026-07-20T21:00:00Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Dairy",
-    "published_at": "2026-07-20T21:00:00Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Further Strengthening Actions Taken to Adjust Imports of Aluminum into the United States",
-    "published_at": "2026-07-20T19:44:08Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/further-strengthening-actions-taken-to-adjust-imports-of-aluminum-into-the-united-states/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Securing America’s Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials",
-    "published_at": "2026-07-20T19:38:18Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Nomination Sent to the Senate",
-    "published_at": "2026-07-20T19:37:49Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nomination-sent-to-the-senate-4c22/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Captive Nations Week, 2026",
-    "published_at": "2026-07-20T19:33:45Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/captive-nations-week-2026/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Made in America Week, 2026",
-    "published_at": "2026-07-20T19:30:18Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/made-in-america-week-2026/",
     "summary": ""
   },
   {
@@ -3967,14 +3607,6 @@
     "fedreg_document_number": "2026-14439"
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Secretary of the Treasury Scott Bessent's Meeting with Prime Minister of the Republic of Iraq Ali Al-Zaidi",
-    "published_at": "2026-07-16T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0568",
-    "summary": ""
-  },
-  {
     "category": "Banking",
     "source": "FDIC",
     "title": "Press Release: Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations",
@@ -4039,14 +3671,6 @@
     "summary": "Exposure of private personal information to an unauthorized actor in Windows RDP allows an unauthorized attacker to disclose information over a network."
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Bessent Delivers Remarks Before the Ministerial on the Resurgence of Political Terrorism",
-    "published_at": "2026-07-16T13:35:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0566",
-    "summary": ""
-  },
-  {
     "category": "Compliance Watch",
     "source": "CDIA",
     "title": "New to Metro 2® Reporting? Start with the Right Foundation.",
@@ -4084,14 +3708,6 @@
     "title": "Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations",
     "published_at": "2026-07-16T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-60.html",
-    "summary": ""
-  },
-  {
-    "category": "Mortgage",
-    "source": "Freddie Mac",
-    "title": "Mortgage Rates Average 6.55%",
-    "published_at": "2026-07-16T00:00:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/07/16/3328703/0/en/mortgage-rates-average-6-55.html",
     "summary": ""
   },
   {
@@ -4199,28 +3815,12 @@
     "summary": ""
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Financial Stability Oversight Council Meeting on July 15, 2026",
-    "published_at": "2026-07-15T20:15:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0565",
-    "summary": ""
-  },
-  {
     "category": "Compliance Watch",
     "source": "TBA",
     "title": "Fed Chair Warsh shares annual monetary policy report with Congress",
     "published_at": "2026-07-15T17:00:00Z",
     "url": "https://www.texasbankers.com/fed-chair-warsh-shares-annual-monetary-policy-report-with-congress/",
     "summary": "In the annual monetary policy report, Federal Reserve Chairman Kevin Warsh told the House Financial Services Committee and the Senate Banking Committee that the economy continues to expand at a solid pace, but he emphasized that the Fed remains firmly focused on controlling inflation. Warsh offered no indication of imminent rate relief and noted continued […] The post Fed Chai…"
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Targets Global Network Procuring Weapons for Iranian Regime",
-    "published_at": "2026-07-15T15:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0564",
-    "summary": ""
   },
   {
     "category": "IS",
@@ -4261,14 +3861,6 @@
     "published_at": "2026-07-15T14:00:00Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45637",
     "summary": "Updated acknowledgment. This is an informational change only."
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Announces Frank Bisignano to Lead Next Phase of Trump Accounts Expansion",
-    "published_at": "2026-07-15T11:49:14Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0563",
-    "summary": ""
   },
   {
     "category": "IS",
@@ -4527,30 +4119,6 @@
     "summary": "Banks and small businesses need each other to stay healthy. The banking industry has a long history of providing the capital that small businesses need to survive and thrive."
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire",
-    "published_at": "2026-07-14T20:15:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0562",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury International Capital Data for May",
-    "published_at": "2026-07-14T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0561",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Nominations and Withdrawals Sent to the Senate",
-    "published_at": "2026-07-14T19:12:59Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/",
-    "summary": ""
-  },
-  {
     "category": "Banking",
     "source": "FRB",
     "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
@@ -4573,14 +4141,6 @@
     "published_at": "2026-07-14T15:00:10Z",
     "url": "https://www.cdiaonline.org/news/2026/07/14/preserving-the-integrity-of-the-cfpb-complaint-portal/",
     "summary": "By Dan Smith President and CEO, Consumer Data Industry Association (CDIA) Consumers should have a clear, reliable way to raise concerns... The post Preserving the Integrity of the CFPB Complaint Portal appeared first on CDIA ."
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "U.S.-UK Transatlantic Taskforce for the Markets of the Future Publishes Recommendations to Promote Growth and Innovation in Capital Markets and Digital Assets",
-    "published_at": "2026-07-14T14:49:40Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0560",
-    "summary": ""
   },
   {
     "category": "IS",
@@ -8943,14 +8503,6 @@
     "summary": ""
   },
   {
-    "category": "Legislative",
-    "source": "House Financial Services",
-    "title": "Chairman Hill: Reform is the Mechanism by Which the Fed Can Become the Best Version of Itself for the American People",
-    "published_at": "2026-07-14T00:00:00Z",
-    "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411190",
-    "summary": ""
-  },
-  {
     "category": "Payments",
     "source": "NACHA",
     "title": "Nacha Accreditations Help You Stand Out as a Payments Expert",
@@ -8967,38 +8519,6 @@
     "summary": ""
   },
   {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Regulatory Relief for Certain Stationary Sources to Promote American Chemical Manufacturing Security",
-    "published_at": "2026-07-13T22:23:12Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security-be40/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Modifying the Bears Ears National Monument",
-    "published_at": "2026-07-13T22:14:23Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Modifying the Grand Staircase-Escalante National Monument",
-    "published_at": "2026-07-13T22:10:38Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-grand-staircase-escalante-national-monument/",
-    "summary": ""
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Nominations Sent to the Senate",
-    "published_at": "2026-07-13T20:39:42Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
-    "summary": ""
-  },
-  {
     "category": "Compliance Watch",
     "source": "TBA",
     "title": "Fed agencies release guidance on lending to undocumented workers",
@@ -9007,28 +8527,12 @@
     "summary": "Lending to individuals who are not legally authorized to work in the U.S. may pose elevated credit risk for financial institutions, according to joint guidance issued by the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the National Credit Union Administration. President Trump issued an executive order in May this […] The post Fed ag…"
   },
   {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Death of Senator Lindsey Graham",
-    "published_at": "2026-07-13T16:06:47Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/death-of-senator-lindsey-graham/",
-    "summary": ""
-  },
-  {
     "category": "Banking",
     "source": "FDIC",
     "title": "Press Release: Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States",
     "published_at": "2026-07-13T15:02:45Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4204ca6",
     "summary": "PRESS RELEASE | JULY 13, 2026 Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States WASHINGTON — The Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration (collectively, the agencies) today issued guidance to remind supervised financial institutions of t…"
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans",
-    "published_at": "2026-07-13T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0559",
-    "summary": ""
   },
   {
     "category": "IS",
@@ -10513,14 +10017,6 @@
     "summary": "PRESS RELEASE | JULY 10, 2026 Kentland Bank Assumes All Deposits of Kentland Federal Savings and Loan Association WASHINGTON — Kentland Federal Savings and Loan Association of Kentland, Indiana was closed today by the Office of the Comptroller of the Currency, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement with…"
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Targets Key Supreme Leader Financier and Iran’s Shadow Exchange Houses",
-    "published_at": "2026-07-10T18:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0558",
-    "summary": ""
-  },
-  {
     "category": "IS",
     "source": "Microsoft MSRC",
     "title": "CVE-2026-59818 etcd: gRPC client listener does not enforce `--client-crl-file` certificate revocation",
@@ -10592,14 +10088,6 @@
     "fedreg_document_number": "2026-13939"
   },
   {
-    "category": "Executive",
-    "source": "White House",
-    "title": "Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States",
-    "published_at": "2026-07-09T20:21:16Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/adjusting-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/",
-    "summary": ""
-  },
-  {
     "category": "Banking",
     "source": "FRB",
     "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
@@ -10614,14 +10102,6 @@
     "published_at": "2026-07-09T19:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy"
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Scott Bessent Delivers Remarks at the Official Unveiling of the President Donald J. Trump Bridge along Interstate 40 in Dandridge, Tennessee",
-    "published_at": "2026-07-09T15:20:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0557",
-    "summary": ""
   },
   {
     "category": "Banking",
@@ -11104,14 +10584,6 @@
     "summary": ""
   },
   {
-    "category": "Mortgage",
-    "source": "Freddie Mac",
-    "title": "Mortgage Rates Hover in Mid-Six Percent Range",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/07/09/3325072/0/en/mortgage-rates-hover-in-mid-six-percent-range.html",
-    "summary": ""
-  },
-  {
     "category": "Payments",
     "source": "NACHA",
     "title": "Fraud Among the Big Topics at Nacha Hill Day 2026",
@@ -11270,26 +10742,10 @@
   {
     "category": "OFAC",
     "source": "OFAC",
-    "title": "Issuance of Amended Russia -related General License and Frequently Asked Questions",
+    "title": "Issuance of Amended Russia-related General License and Frequently Asked Questions",
     "published_at": "2026-07-08T00:00:00Z",
     "url": "https://ofac.treasury.gov/recent-actions/20260708",
     "summary": ""
-  },
-  {
-    "category": "IRS",
-    "source": "IRS",
-    "title": "IRS simplifies penalty relief, introduces automatic process for eligible taxpayers",
-    "published_at": "2026-07-08T00:00:00Z",
-    "url": "https://www.irs.gov/newsroom/irs-simplifies-penalty-relief-introduces-automatic-process-for-eligible-taxpayers",
-    "summary": "IR-2026-83, July 8, 2026 — The Internal Revenue Service today announced a new automatic process to provide penalty relief for taxpayers with a history of filing and paying on time, reducing the need for them to request assistance."
-  },
-  {
-    "category": "IRS",
-    "source": "IRS",
-    "title": "Treasury, IRS issue final regulations naming certain charitable remainder annuity trust transactions as listed transactions",
-    "published_at": "2026-07-08T00:00:00Z",
-    "url": "https://www.irs.gov/newsroom/treasury-irs-issue-final-regulations-naming-certain-charitable-remainder-annuity-trust-transactions-as-listed-transactions",
-    "summary": "IR-2026-82, July 8, 2026 —The Department of the Treasury and the Internal Revenue Service today issued final regulations identifying certain arrangements purporting to be Charitable Remainder Annuity Trusts as listed transactions."
   },
   {
     "category": "Legislative",
@@ -11340,14 +10796,6 @@
     "summary": "The Federal Reserve requests public comments on a proposal to amend its requirements for banks to maintain anti-money laundering programs. The amendments are intended to align with changes to anti-money laundering program requirements proposed separately by four other agencies. Among other changes, the proposal would require banks to allocate anti-money laundering resources ba…"
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Calls for Large Position Reports",
-    "published_at": "2026-07-07T14:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0556",
-    "summary": ""
-  },
-  {
     "category": "IS",
     "source": "Microsoft MSRC",
     "title": "CVE-2026-45638 Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
@@ -11388,14 +10836,6 @@
     "summary": ""
   },
   {
-    "category": "IRS",
-    "source": "IRS",
-    "title": "IRS, Security Summit launch summer series to help tax pros protect clients from identity theft",
-    "published_at": "2026-07-07T00:00:00Z",
-    "url": "https://www.irs.gov/newsroom/irs-security-summit-launch-summer-series-to-help-tax-pros-protect-clients-from-identity-theft",
-    "summary": "IR-2026-81, July 7, 2026 — The IRS and Security Summit partners today launched the summer “Protect Your Clients; Protect Yourself” campaign, a five-week series highlighting practical steps tax professionals can take to protect client data, their businesses, and themselves from evolving tax-related identity theft threats."
-  },
-  {
     "category": "Fintech Watch",
     "source": "FIS",
     "title": "Frankfurt International Bank Selects FIS to Bypass Legacy Infrastructure and Power Cloud-Native Treasury from Day One",
@@ -11404,27 +10844,11 @@
     "summary": ""
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Making Market History: America Celebrates President Trump’s Joint Bell-Ringing Ceremony as Trump Accounts Launch",
-    "published_at": "2026-07-06T23:40:20Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0555",
-    "summary": ""
-  },
-  {
     "category": "Legislative",
     "source": "Senate Banking",
     "title": "Warren Calls on Pulte to Resign from ODNI and FHFA As Committee Report Details Abuses of Power",
     "published_at": "2026-07-06T00:00:00Z",
     "url": "https://www.banking.senate.gov/newsroom/minority/warren-calls-on-pulte-to-resign-from-odni-and-fhfa-as-committee-report-details-abuses-of-power",
-    "summary": ""
-  },
-  {
-    "category": "Fintech Watch",
-    "source": "Fiserv",
-    "title": "Small Business Sales Grow on Higher Tickets and Retail Rebound, Fiserv Data Shows",
-    "published_at": "2026-07-06T00:00:00Z",
-    "url": "https://investors.fiserv.com/news-releases/news-release-details/small-business-sales-grow-higher-tickets-and-retail-rebound",
     "summary": ""
   },
   {
@@ -11457,28 +10881,12 @@
     "summary": ""
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "U.S. Treasury Announces the Official Launch of Trump Accounts and Full Scope of the App",
-    "published_at": "2026-07-04T16:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0554",
-    "summary": ""
-  },
-  {
     "category": "IS",
     "source": "Microsoft MSRC",
     "title": "CVE-2026-53223 net: guard timestamp cmsgs to real error queue skbs",
     "published_at": "2026-07-04T08:03:27Z",
     "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-53223",
     "summary": "Information published."
-  },
-  {
-    "category": "Executive",
-    "source": "White House",
-    "title": "250th Anniversary of the Adoption of the Declaration of Independence",
-    "published_at": "2026-07-03T19:57:05Z",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/250th-anniversary-of-the-adoption-of-the-declaration-of-independence/",
-    "summary": ""
   },
   {
     "category": "IS",
@@ -14585,22 +13993,6 @@
     "summary": "Debit cards are a preferred payment method for consumers, and are now synonymous with banking."
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "A Look at the First-Year Results of the Working Families Tax Cuts",
-    "published_at": "2026-07-02T20:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0553",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury and IRS to Accept Philanthropic Stock Contributions for Trump Accounts",
-    "published_at": "2026-07-02T17:56:04Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0552",
-    "summary": ""
-  },
-  {
     "category": "Banking",
     "source": "FDIC",
     "title": "Press Release: FDIC Issues List of Banks Examined for CRA Compliance",
@@ -14673,27 +14065,11 @@
     "summary": "Incorrect authorization in Microsoft Exchange Online allows an authorized attacker to elevate privileges over a network."
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Secretary Bessent Delivers Remarks before the 250th Anniversary Celebration at the Statue of Liberty",
-    "published_at": "2026-07-02T01:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0567",
-    "summary": ""
-  },
-  {
     "category": "Banking",
     "source": "OCC",
     "title": "OCC Announces Deputy Comptroller for Supervision System and Analytical Support",
     "published_at": "2026-07-02T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-55.html",
-    "summary": ""
-  },
-  {
-    "category": "Mortgage",
-    "source": "Freddie Mac",
-    "title": "Mortgage Rates Decline",
-    "published_at": "2026-07-02T00:00:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/07/02/3321468/0/en/mortgage-rates-decline.html",
     "summary": ""
   },
   {
@@ -14779,14 +14155,6 @@
     "summary": "The Federal Financial Institutions Examination Council released a statement affirming its members’ commitment to de novo bank formation and to exploring ways to lower regulatory barriers to establishing new financial institutions. The FFIEC statement reads: “The number of depository institutions in the U.S. has fallen steadily over the past three decades while the overall bank…"
   },
   {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Announces Investment Lineup for Trump Accounts",
-    "published_at": "2026-07-01T20:20:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0551",
-    "summary": ""
-  },
-  {
     "category": "Banking",
     "source": "FRB",
     "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
@@ -14801,22 +14169,6 @@
     "published_at": "2026-07-01T18:30:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
     "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study"
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds",
-    "published_at": "2026-07-01T14:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0549",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Opens the New Designation Cycle for Opportunity Zones",
-    "published_at": "2026-07-01T14:00:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0550",
-    "summary": ""
   },
   {
     "category": "IS",
@@ -15262,38 +14614,6 @@
       "topic:loan-programs-education"
     ],
     "fedreg_document_number": "2026-13286"
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "URIF Holds Fourth Board Meeting at Ukraine Recovery Conference",
-    "published_at": "2026-06-30T20:01:47Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0548",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Treasury Targets Criminal Facilitators Behind CJNG’s Cross‑Border Fuel Smuggling Schemes",
-    "published_at": "2026-06-30T17:30:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0545",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "READOUT: Financial Action Task Force’s June 2026 Working Group and Plenary",
-    "published_at": "2026-06-30T16:50:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0547",
-    "summary": ""
-  },
-  {
-    "category": "OFAC",
-    "source": "Treasury",
-    "title": "Terrorist Financing Targeting Center Jointly Designates Hizballah Financial Institutions and Senior Officials",
-    "published_at": "2026-06-30T14:40:00Z",
-    "url": "https://home.treasury.gov/news/press-releases/sb0546",
-    "summary": ""
   },
   {
     "category": "Banking",
