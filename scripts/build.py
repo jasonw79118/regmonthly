@@ -906,6 +906,15 @@ def polite_get(url: str, timeout: int = 25) -> Optional[str]:
                 "Pragma": "no-cache",
             }
 
+        if h in {"www.bis.org", "bis.org", "www.reginfo.gov", "reginfo.gov"}:
+            headers = {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+                "User-Agent": browser_ua,
+                "Cache-Control": "no-cache",
+                "Pragma": "no-cache",
+            }
+
         # ✅ Helps some vendor sites behave more like a browser
         if h in {"ir.jackhenry.com", "www.tcs.com", "mambu.com", "www.finastra.com", "www.bankersonline.com"}:
             headers = {
@@ -1194,7 +1203,19 @@ def fetch_bytes(url: str, timeout: int = 25) -> Optional[bytes]:
         return None
     try:
         time.sleep(REQUEST_DELAY_SEC)
-        r = SESSION.get(url, timeout=(10, timeout), allow_redirects=True)
+        h = host(url)
+        headers = None
+        if h in {"www.bis.org", "bis.org", "www.reginfo.gov", "reginfo.gov"}:
+            headers = {
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/122.0.0.0 Safari/537.36"
+                ),
+                "Accept": "application/xml,text/xml,application/rss+xml,text/html;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+            }
+        r = SESSION.get(url, headers=headers, timeout=(10, timeout), allow_redirects=True)
         if r.status_code >= 400:
             print(f"[warn] GET {r.status_code}: {url}", flush=True)
             return None
@@ -1628,6 +1649,187 @@ def items_from_feed(source: str, feed_url: str, start: datetime, end: datetime) 
             }
         )
 
+    return out
+
+
+
+# ============================
+# BIS ARCHIVE / SITEMAP BACKFILL
+# ============================
+
+BIS_SITEMAP_URL = "https://www.bis.org/sitemap.xml"
+BIS_SITEMAP_MAX_FILES = 40
+BIS_SITEMAP_DETAIL_CAP = 1800
+
+# The all-site BIS RSS feed is intentionally a rolling "what's new" feed, not
+# a historical month archive. RegMonthly runs after the target month has ended,
+# so a prior-month build can legitimately find zero target-month entries in RSS.
+# The sitemap backfill uses sitemap last-modified dates only to select candidates,
+# then confirms the actual publication date from each BIS detail page.
+BIS_STATIC_PATH_RE = re.compile(
+    r"^/(?:$|index(?:\.htm)?$|about/?$|about/index\.htm$|rss/|search/|doclist/|"
+    r"terms_conditions|privacy|contact|careers|sitemap)",
+    re.I,
+)
+
+
+def _xml_child_text(elem: Any, wanted_local_name: str) -> str:
+    wanted = wanted_local_name.lower()
+    for child in list(elem):
+        if _xml_local_name(getattr(child, "tag", "")).lower() == wanted:
+            return clean_text(" ".join(child.itertext()), 2000)
+    return ""
+
+
+def _bis_title_from_html(url: str, html: str) -> str:
+    soup = BeautifulSoup(html or "", "html.parser")
+    for attrs in [
+        {"property": "og:title"},
+        {"name": "twitter:title"},
+    ]:
+        m = soup.find("meta", attrs=attrs)
+        if m and m.get("content"):
+            t = clean_text(str(m.get("content")), 320)
+            if t:
+                return re.sub(r"\s*[|\-–—]\s*Bank for International Settlements\s*$", "", t, flags=re.I).strip()
+    h1 = soup.find("h1")
+    if h1:
+        t = clean_text(h1.get_text(" ", strip=True), 320)
+        if t:
+            return t
+    if soup.title:
+        t = clean_text(soup.title.get_text(" ", strip=True), 320)
+        t = re.sub(r"\s*[|\-–—]\s*Bank for International Settlements\s*$", "", t, flags=re.I).strip()
+        if t:
+            return t
+    return title_from_url_slug(url, "BIS update")
+
+
+def _bis_sitemap_candidates(start: datetime, end: datetime) -> List[Tuple[str, Optional[datetime]]]:
+    """Return BIS URLs whose sitemap lastmod is near the target month.
+
+    lastmod is a discovery hint only. Actual inclusion still requires a publication
+    date parsed from the page and inside RegMonthly's date window.
+    """
+    # BIS supports year-scoped sitemap URLs (e.g. ?documents=2026). Using the
+    # target year avoids crawling the entire historical site just to rebuild one month.
+    years = range(start.year, end.year + 1)
+    queue: List[str] = [f"{BIS_SITEMAP_URL}?documents={y}" for y in years]
+    seen_maps: set[str] = set()
+    candidates: List[Tuple[str, Optional[datetime]]] = []
+    seen_urls: set[str] = set()
+
+    # Give sitemap timestamps a little room for timezone/republishing differences.
+    hint_start = start - timedelta(days=3)
+    hint_end = end + timedelta(days=3)
+
+    while queue and len(seen_maps) < BIS_SITEMAP_MAX_FILES:
+        sm = queue.pop(0)
+        if sm in seen_maps:
+            continue
+        seen_maps.add(sm)
+        raw = fetch_bytes(sm, timeout=45)
+        if not raw:
+            print(f"[warn] BIS sitemap unavailable: {sm}", flush=True)
+            continue
+        try:
+            root = ET.fromstring(raw)
+        except Exception as e:
+            print(f"[warn] BIS sitemap XML parse failed: {sm} :: {e}", flush=True)
+            continue
+
+        root_name = _xml_local_name(getattr(root, "tag", "")).lower()
+        if root_name == "sitemapindex":
+            for node in list(root):
+                loc = _xml_child_text(node, "loc")
+                if loc and loc not in seen_maps and len(queue) < BIS_SITEMAP_MAX_FILES * 2:
+                    queue.append(loc)
+            continue
+
+        for node in list(root):
+            if _xml_local_name(getattr(node, "tag", "")).lower() != "url":
+                continue
+            loc = canonical_url(_xml_child_text(node, "loc"))
+            if not loc or loc in seen_urls or not allowed_for_source("BIS", loc):
+                continue
+            seen_urls.add(loc)
+
+            pth = path(loc)
+            if BIS_STATIC_PATH_RE.search(pth):
+                continue
+            # Detail/article pages on BIS are overwhelmingly .htm/.html. Keeping
+            # this tight avoids crawling PDFs, media, datasets and static assets.
+            if not re.search(r"\.html?$", pth, re.I):
+                continue
+
+            lastmod_raw = _xml_child_text(node, "lastmod")
+            lastmod = parse_date(lastmod_raw) if lastmod_raw else None
+            if lastmod is not None and not (hint_start <= lastmod <= hint_end):
+                continue
+
+            # BIS year sitemaps may omit lastmod. Many speech/press URLs encode
+            # YYMMDD; use that only as a discovery hint so old speeches don't
+            # consume the detail-fetch budget. Actual inclusion is still based on
+            # the publication date read from the page.
+            if lastmod is None:
+                m = re.search(r"/(?:review|press)/[a-z]*?(\d{2})(\d{2})(\d{2})[a-z0-9_-]*\.html?$", pth, re.I)
+                if m:
+                    try:
+                        hinted = datetime(2000 + int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
+                    except Exception:
+                        hinted = None
+                    if hinted is not None and not (hint_start <= hinted <= hint_end):
+                        continue
+                    lastmod = hinted
+                else:
+                    # Some BIS statistical filenames encode YYMM without a day.
+                    m2 = re.search(r"(?:^|[^0-9])(\d{2})(\d{2})(?:[^0-9]|$)", pth.rsplit('/', 1)[-1])
+                    if m2:
+                        try:
+                            yy, mm = 2000 + int(m2.group(1)), int(m2.group(2))
+                            if yy in range(start.year, end.year + 1) and 1 <= mm <= 12:
+                                if mm not in {start.month, end.month}:
+                                    continue
+                        except Exception:
+                            pass
+
+            candidates.append((loc, lastmod))
+
+    candidates.sort(key=lambda x: x[1] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
+    return candidates[:BIS_SITEMAP_DETAIL_CAP]
+
+
+def items_from_bis_archive(start: datetime, end: datetime) -> List[Dict[str, Any]]:
+    """Backfill BIS items for the target month from the official sitemap."""
+    out: List[Dict[str, Any]] = []
+    seen: set[str] = set()
+    candidates = _bis_sitemap_candidates(start, end)
+    print(f"[sitemap] BIS candidates: {len(candidates)}", flush=True)
+
+    for url, _lastmod in candidates:
+        html = polite_get(url, timeout=35)
+        if not html:
+            continue
+        dt, snippet = extract_published_from_detail(url, html, source="BIS")
+        if dt is None or not in_window(dt, start, end):
+            continue
+        title = _bis_title_from_html(url, html)
+        if not title or is_generic_listing_or_home("BIS", title, url) or is_probably_nav_link("BIS", title, url):
+            continue
+        key = canonical_dedupe_url(url)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append({
+            "category": CATEGORY_BY_SOURCE.get("BIS", "International Banking"),
+            "source": "BIS",
+            "title": title,
+            "published_at": iso_z(dt),
+            "url": url,
+            "summary": snippet,
+        })
+
+    print(f"[sitemap] BIS dated target-month items: {len(out)}", flush=True)
     return out
 
 
@@ -4821,7 +5023,14 @@ KNOWN_FEEDS: Dict[str, List[str]] = {
 
     # BIS publishes an official RSS feed for the entire BIS website. Main-site
     # inclusion remains date-based; Smart 100 decides relevance later.
-    "BIS": ["https://www.bis.org/doclist/rss_all_categories.rss"],
+    "BIS": [
+        "https://www.bis.org/doclist/rss_all_categories.rss",
+        "https://www.bis.org/doclist/all_pressrels.rss",
+        "https://www.bis.org/doclist/cbspeeches.rss",
+        "https://www.bis.org/doclist/mgmtspeeches.rss",
+        "https://www.bis.org/doclist/all_statistics.rss",
+        "https://www.bis.org/doclist/bis_fsi_publs.rss",
+    ],
 }
         
         
@@ -4950,6 +5159,7 @@ def get_start_pages() -> List[SourcePage]:
 # ============================
 
 REGINFO_COMPLETED_YTD_XML = "https://www.reginfo.gov/public/do/XMLViewFileAction?f=EO_RULE_COMPLETED_YTD.xml"
+REGINFO_COMPLETED_30D_XML = "https://www.reginfo.gov/public/do/XMLViewFileAction?f=EO_RULE_COMPLETED_30_DAYS.xml"
 REGINFO_UNDER_REVIEW_XML = "https://www.reginfo.gov/public/do/XMLViewFileAction?f=EO_RULES_UNDER_REVIEW.xml"
 REGINFO_REVIEW_HOME = "https://www.reginfo.gov/public/do/eoPackageMain"
 
@@ -4966,11 +5176,18 @@ def _xml_record_fields(elem: Any) -> Dict[str, str]:
     fields: Dict[str, str] = {}
     for node in elem.iter():
         key = _xml_key(getattr(node, "tag", ""))
-        if not key:
-            continue
-        text = clean_text(" ".join(node.itertext()), 1200)
-        if text and key not in fields:
-            fields[key] = text
+        if key:
+            text = clean_text(" ".join(node.itertext()), 1200)
+            if text and key not in fields:
+                fields[key] = text
+
+        # Some machine-readable exports put identifiers/dates in attributes.
+        # Preserve those too so schema changes do not silently zero the tile.
+        for attr_name, attr_value in getattr(node, "attrib", {}).items():
+            akey = _xml_key(attr_name)
+            aval = clean_text(str(attr_value), 1200)
+            if akey and aval and akey not in fields:
+                fields[akey] = aval
     return fields
 
 
@@ -4982,37 +5199,106 @@ def _xml_first(fields: Dict[str, str], *keys: str) -> str:
     return ""
 
 
+def _xml_first_fuzzy(
+    fields: Dict[str, str],
+    exact: Tuple[str, ...] = (),
+    contains_all: Tuple[Tuple[str, ...], ...] = (),
+    contains_any: Tuple[str, ...] = (),
+) -> str:
+    """Read XML fields without depending on one exact RegInfo schema spelling."""
+    value = _xml_first(fields, *exact)
+    if value:
+        return value
+
+    for required in contains_all:
+        for key, val in fields.items():
+            if val and all(part in key for part in required):
+                return val
+
+    if contains_any:
+        for key, val in fields.items():
+            if val and any(part in key for part in contains_any):
+                return val
+    return ""
+
+
+def _reginfo_fields_look_like_record(fields: Dict[str, str]) -> bool:
+    title = _xml_first_fuzzy(
+        fields,
+        exact=("title", "ruletitle", "regulationtitle", "eoruletitle"),
+        contains_any=("title",),
+    )
+    rin = _xml_first_fuzzy(
+        fields,
+        exact=("rin", "rinno", "rinnumber"),
+        contains_any=("rin",),
+    )
+    date_val = _xml_first_fuzzy(
+        fields,
+        exact=("concludeddate", "conclusiondate", "receiveddate", "reviewdate", "date"),
+        contains_all=(("date", "conclud"), ("date", "receiv"), ("date", "review")),
+        contains_any=("date",),
+    )
+    return bool(title and (rin or date_val))
+
+
 def _reginfo_record_nodes(root: Any) -> List[Any]:
-    """Find repeated review records while tolerating RegInfo XML schema changes."""
-    preferred_names = {"rule", "review", "record", "eorule", "regulatoryreview"}
+    """Find the leaf-most elements that represent one RegInfo review record.
+
+    RegInfo's XML field/tag names have varied. The previous implementation
+    required specific *direct-child* names and could therefore return zero records
+    even when the official XML was populated. This version scores flattened fields
+    and rejects parent containers when a child already looks like a record.
+    """
     candidates: List[Any] = []
-
     for elem in root.iter():
-        name = _xml_key(getattr(elem, "tag", ""))
-        direct = {_xml_key(getattr(c, "tag", "")) for c in list(elem)}
-        has_title = bool(direct & {"title", "ruletitle", "regulationtitle"})
-        has_rin = bool(direct & {"rin", "rinno", "rinnumber"})
-        has_date = bool(direct & {"concludeddate", "receiveddate", "reviewdate", "date"})
-        if name in preferred_names and (has_title or has_rin):
-            candidates.append(elem)
-        elif has_title and (has_rin or has_date):
-            candidates.append(elem)
-
-    # Preserve document order and avoid nested duplicate candidates.
-    out: List[Any] = []
-    seen_ids: set[int] = set()
-    for elem in candidates:
-        if id(elem) in seen_ids:
+        fields = _xml_record_fields(elem)
+        if not _reginfo_fields_look_like_record(fields):
             continue
-        seen_ids.add(id(elem))
-        out.append(elem)
-    return out
+
+        child_is_record = False
+        for child in list(elem):
+            try:
+                if _reginfo_fields_look_like_record(_xml_record_fields(child)):
+                    child_is_record = True
+                    break
+            except Exception:
+                pass
+        if child_is_record:
+            continue
+        candidates.append(elem)
+
+    return candidates
 
 
-def _reginfo_detail_url(fields: Dict[str, str]) -> str:
-    rrid = _xml_first(fields, "rrid", "reviewid", "review_id", "eo_review_id", "id")
-    if rrid and re.fullmatch(r"\d+", rrid.strip()):
-        return f"https://www.reginfo.gov/public/do/eoDetails?rrid={rrid.strip()}"
+def _reginfo_detail_url(fields: Dict[str, str], *, mode: str = "", date_token: str = "") -> str:
+    rrid = _xml_first_fuzzy(
+        fields,
+        exact=("rrid", "reviewid", "review_id", "eo_review_id", "id"),
+        contains_all=(("review", "id"),),
+        contains_any=("rrid",),
+    )
+    if rrid:
+        m = re.search(r"\b(\d{2,})\b", rrid)
+        if m:
+            return f"https://www.reginfo.gov/public/do/eoDetails?rrid={m.group(1)}"
+
+    # RegInfo does not always expose rrid in every XML report. Falling back to the
+    # same eoPackageMain URL for every review caused URL-based dedupe to collapse
+    # many legitimate reviews. A RIN search is useful to the user and stays unique.
+    rin = _xml_first_fuzzy(
+        fields,
+        exact=("rin", "rinno", "rinnumber"),
+        contains_any=("rin",),
+    ).strip()
+    if rin:
+        safe_rin = re.sub(r"[^A-Za-z0-9\-]", "", rin)
+        suffix = ""
+        if date_token:
+            suffix += f"&regmonthly_date={re.sub(r'[^0-9A-Za-z\-]', '', date_token)[:20]}"
+        if mode:
+            suffix += f"&regmonthly_mode={re.sub(r'[^a-z]', '', mode.lower())[:20]}"
+        return f"https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield={safe_rin}{suffix}"
     return REGINFO_REVIEW_HOME
 
 
@@ -5023,22 +5309,62 @@ def _items_from_reginfo_xml(xml_bytes: bytes, start: datetime, end: datetime, mo
         print(f"[warn] RegInfo XML parse failed ({mode}): {e}", flush=True)
         return []
 
+    nodes = _reginfo_record_nodes(root)
+    print(f"[xml] RegInfo {mode}: detected {len(nodes)} candidate review records", flush=True)
+
     out: List[Dict[str, Any]] = []
     seen: set[str] = set()
-    for elem in _reginfo_record_nodes(root):
+    for elem in nodes:
         fields = _xml_record_fields(elem)
-        title = _xml_first(fields, "title", "ruletitle", "regulationtitle")
-        rin = _xml_first(fields, "rin", "rinno", "rinnumber")
-        agency = _xml_first(fields, "agencyname", "agency", "agencycode")
-        subagency = _xml_first(fields, "subagencyname", "subagency")
-        stage = _xml_first(fields, "stage", "rulemakingstage")
-        action = _xml_first(fields, "concludedaction", "conclusionaction", "action")
+        title = _xml_first_fuzzy(
+            fields,
+            exact=("title", "ruletitle", "regulationtitle", "eoruletitle", "rulename"),
+            contains_all=(("rule", "title"),),
+            contains_any=("title",),
+        )
+        rin = _xml_first_fuzzy(
+            fields,
+            exact=("rin", "rinno", "rinnumber"),
+            contains_any=("rin",),
+        )
+        agency = _xml_first_fuzzy(
+            fields,
+            exact=("agencyname", "agency", "agencycode"),
+            contains_all=(("agency", "name"),),
+            contains_any=("agency",),
+        )
+        subagency = _xml_first_fuzzy(
+            fields,
+            exact=("subagencyname", "subagency"),
+            contains_all=(("subagency", "name"),),
+            contains_any=("subagency",),
+        )
+        stage = _xml_first_fuzzy(
+            fields,
+            exact=("stage", "rulemakingstage"),
+            contains_any=("stage",),
+        )
+        action = _xml_first_fuzzy(
+            fields,
+            exact=("concludedaction", "conclusionaction", "action"),
+            contains_all=(("conclu", "action"),),
+        )
 
         if mode == "completed":
-            date_raw = _xml_first(fields, "concludeddate", "conclusiondate", "reviewdate", "date")
+            date_raw = _xml_first_fuzzy(
+                fields,
+                exact=("concludeddate", "conclusiondate", "dateconcluded", "reviewdate", "date"),
+                contains_all=(("date", "conclud"), ("conclud", "date"), ("date", "complet")),
+                contains_any=("concludeddate", "completiondate"),
+            )
             status = "OIRA review completed"
         else:
-            date_raw = _xml_first(fields, "receiveddate", "reviewreceiveddate", "reviewdate", "date")
+            date_raw = _xml_first_fuzzy(
+                fields,
+                exact=("receiveddate", "reviewreceiveddate", "datereceived", "reviewdate", "date"),
+                contains_all=(("date", "receiv"), ("receiv", "date"), ("review", "date")),
+                contains_any=("receiveddate",),
+            )
             status = "Pending OIRA review"
 
         dt = parse_date(date_raw)
@@ -5049,7 +5375,8 @@ def _items_from_reginfo_xml(xml_bytes: bytes, start: datetime, end: datetime, mo
         if not title:
             continue
 
-        url = _reginfo_detail_url(fields)
+        date_token = dt.strftime("%Y-%m-%d")
+        url = _reginfo_detail_url(fields, mode=mode, date_token=date_token)
         unique = f"{mode}|{rin}|{title}|{iso_z(dt)}|{url}"
         if unique in seen:
             continue
@@ -5082,6 +5409,8 @@ def items_from_reginfo_reviews(start: datetime, end: datetime) -> List[Dict[str,
     """Load dated pending and completed OIRA reviews from RegInfo's official XML exports."""
     out: List[Dict[str, Any]] = []
     for mode, url in [
+        # Daily 30-day file is additive; YTD preserves earlier target-month reviews.
+        ("completed", REGINFO_COMPLETED_30D_XML),
         ("completed", REGINFO_COMPLETED_YTD_XML),
         ("pending", REGINFO_UNDER_REVIEW_XML),
     ]:
@@ -5091,8 +5420,17 @@ def items_from_reginfo_reviews(start: datetime, end: datetime) -> List[Dict[str,
             continue
         got = _items_from_reginfo_xml(raw, start, end, mode)
         out.extend(got)
-        print(f"[xml] RegInfo {mode}: {len(got)} items", flush=True)
-    return out
+        print(f"[xml] RegInfo {mode}: {len(got)} items from {url}", flush=True)
+
+    by_key: Dict[str, Dict[str, Any]] = {}
+    for it in out:
+        key = "|".join([
+            str(it.get("published_at") or ""),
+            normalized_dedupe_title(str(it.get("title") or "")),
+            str(it.get("summary") or "").split(" | ")[0],
+        ])
+        by_key.setdefault(key, it)
+    return list(by_key.values())
 
 
 # ============================
@@ -5754,6 +6092,18 @@ def build() -> None:
             if got:
                 all_items.extend(got)
                 print(f"[feed-known] {len(got)} items from {fu}", flush=True)
+
+        if source == "BIS":
+            # RSS is rolling and can age the entire prior month out of the feed.
+            # Always backfill from the official sitemap, then rely on normal URL
+            # dedupe to merge any overlap with RSS.
+            got = items_from_bis_archive(window_start, window_end)
+            if got:
+                all_items.extend(got)
+                print(f"[sitemap] BIS: {len(got)} dated archive items", flush=True)
+            else:
+                print("[note] BIS sitemap backfill produced no target-month items.", flush=True)
+            continue
         
         for page_url in pages:
             print(f"\n[source] {source} :: {page_url}", flush=True)

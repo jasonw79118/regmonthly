@@ -35,3 +35,29 @@ Primary files changed
 - scripts/build.py
 - docs/index.html
 - handoff.txt (this file)
+
+BIS + REGINFO FOLLOW-UP FIX
+Date: 2026-08-24
+
+Why both new tiles could still be empty
+1. BIS: the official "Entire BIS website" RSS feed is a rolling recent-items feed, not a reliable prior-month archive. A late-August manual rebuild can therefore see no July records even though BIS published many July items.
+2. RegInfo.gov: the first XML parser expected a narrow set of direct-child XML tag names. RegInfo's machine-readable reports can use different/nested names, causing valid reviews to be missed.
+3. RegInfo.gov dedupe: when a review had no rrid, every record fell back to the same eoPackageMain URL. Main-dashboard same-URL dedupe could then collapse multiple legitimate reviews.
+
+Changes in this follow-up
+- BIS now keeps the official RSS feed but also uses BIS's year-scoped official sitemap (sitemap.xml?documents=YYYY) as the prior-month archive/backfill.
+- BIS sitemap dates are discovery hints only. Each candidate page must still expose an actual publication date inside the RegMonthly date window before inclusion.
+- Added BIS-specific official feeds for press releases, central-bank speeches, BIS-management speeches, statistics, and research as additive sources.
+- BIS detail pages use browser-style request headers to reduce false empty fetches.
+- RegInfo XML parsing now tolerates nested/renamed fields and XML attributes using fuzzy field matching for title, RIN, agency, received date, concluded date, stage, action, and review ID.
+- Added the RegInfo completed-last-30-days XML as an additive daily backup to Completed YTD.
+- RegInfo fallback links are now RIN-specific and include a date/mode token so valid reviews do not collapse under URL dedupe when rrid is unavailable.
+- RegInfo/BIS byte fetches now use browser-style XML/RSS request headers.
+
+Validation performed
+- python -m py_compile passed.
+- Synthetic RegInfo tests passed for alternate field names, nested records, rrid and no-rrid cases.
+- Two RegInfo reviews with different RINs and the same date survive main URL dedupe.
+- Synthetic BIS year-sitemap test correctly excluded an old speech and included three target-month BIS records based on confirmed detail-page dates.
+
+Run the Monthly Build workflow again after pushing this version so docs/data/items.json is regenerated from the live sources.

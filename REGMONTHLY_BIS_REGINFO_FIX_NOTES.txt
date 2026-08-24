@@ -1,0 +1,16 @@
+REGMONTHLY BIS + REGINFO TILE FIX — 2026-08-24
+
+BIS
+- Root issue: "Entire BIS website" RSS is rolling, not a month archive.
+- Fix: retain RSS and add year-scoped BIS sitemap backfill using sitemap.xml?documents=YYYY.
+- Actual inclusion remains publication-date-only; sitemap timestamps only choose candidates.
+- Added official BIS press, speech, statistics, and research RSS feeds as additive coverage.
+
+REGINFO.GOV
+- Root issue: XML parser depended on exact/direct tag names.
+- Fix: tolerate nested/renamed XML elements and attributes.
+- Root issue: missing rrid caused every review to share the same fallback URL, which allowed URL dedupe to collapse records.
+- Fix: unique RIN/date/mode fallback search URLs.
+- Added completed-last-30-days XML as a daily additive backup to Completed YTD.
+
+The main dashboard still does not apply relevance qualification. Smart 100 remains the filtering/relevance layer.

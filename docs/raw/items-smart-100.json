@@ -54,13 +54,58 @@
     "smart_index": 6
   },
   {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Michelle W Bowman: Modernizing financial regulation",
+    "published_at": "2026-07-31T09:43:00Z",
+    "url": "https://www.bis.org/review/r260730j.htm",
+    "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Bank Policy Institute London Conference, London, 13 July 2026.",
+    "smart_index": 7
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Andrew Bailey: Growth and regulation",
+    "published_at": "2026-07-31T09:39:00Z",
+    "url": "https://www.bis.org/review/r260730s.htm",
+    "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the Mansion House Financial and Professional Services Dinner, London, 14 July 2026.",
+    "smart_index": 8
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Lisa D Cook: Economic outlook",
+    "published_at": "2026-07-31T09:31:00Z",
+    "url": "https://www.bis.org/review/r260730r.htm",
+    "summary": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at The Exchequer Club of Washington DC, Washington DC, 15 July 2026.",
+    "smart_index": 9
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "BIS global liquidity indicators at end-March 2026",
+    "published_at": "2026-07-31T09:03:00Z",
+    "url": "https://www.bis.org/statistics/gli2607.htm",
+    "summary": "The BIS global liquidity indicators exhibited robust growth in foreign currency credit denominated in US dollars and euros, with the latter expanding at a relatively faster pace.",
+    "smart_index": 10
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026",
+    "published_at": "2026-07-31T08:17:00Z",
+    "url": "https://www.bis.org/statistics/rppb2607.htm",
+    "summary": "Cross-border bank credit rose by 11% year on year at end-March 2026. The expansion was broad-based across instruments and counterparty sectors. Bank credit to emerging market and developing economies expanded by $148 billion in Q1 2026, primarily concentrated in Africa and the Middle East and emerging Europe. The BIS global liquidity indicators exhibited robust growth in forei…",
+    "smart_index": 11
+  },
+  {
     "category": "Banking",
     "source": "FDIC",
     "title": "Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules",
     "published_at": "2026-07-31T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-joint-proposal-amending-community-reinvestment-act-rules",
     "summary": "The agencies today proposed targeted changes to their current rules implementing the Community Reinvestment Act (CRA) to better align with the statutory mandate",
-    "smart_index": 7
+    "smart_index": 12
   },
   {
     "category": "Banking",
@@ -69,7 +114,7 @@
     "published_at": "2026-07-31T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-approves-proposal-amend-regulations-regarding-lending-limits",
     "summary": "FDIC is seeking public comment on a NPR that would adjust certain lending thresholds for executive officers and other insiders of FDIC-supervised Institutions.",
-    "smart_index": 8
+    "smart_index": 13
   },
   {
     "category": "Payments",
@@ -78,7 +123,7 @@
     "published_at": "2026-07-31T00:00:00Z",
     "url": "https://www.nacha.org/news/how-some-rdfis-review-customer-written-statements-unauthorized-debits-first-party-fraud",
     "summary": "",
-    "smart_index": 9
+    "smart_index": 14
   },
   {
     "category": "Banking",
@@ -87,7 +132,7 @@
     "published_at": "2026-07-31T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-64.html",
     "summary": "",
-    "smart_index": 10
+    "smart_index": 15
   },
   {
     "category": "Federal Register",
@@ -102,7 +147,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-15525",
-    "smart_index": 11
+    "smart_index": 16
   },
   {
     "category": "Banking",
@@ -111,37 +156,7 @@
     "published_at": "2026-07-31T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/joint-statement-enforcement-policy-support-venezuelas-economic-recovery",
     "summary": "Joint statement of enforcement policy in support of U.S. Government efforts to facilitate economic recovery and financial stability in Venezuela.",
-    "smart_index": 12
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Reducing Bureaucracy and Burden for Family Assistance Programs",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15567/reducing-bureaucracy-and-burden-for-family-assistance-programs",
-    "summary": "This final rule amends the Grants to States for Public Assistance Programs regulations, the General Administration--State Plans and Grant Appeals regulations, the General Administration--Public Assistance Programs regulations, the Training and Use of Subprofessionals and Volunteers regulations, the Coverage and Conditions of Eligibility in Financial Assistance Programs regulat…",
-    "fr_tags": [
-      "agency:children-and-families-administration",
-      "agency:health-and-human-services-department",
-      "type:rule"
-    ],
-    "fedreg_document_number": "2026-15567",
-    "smart_index": 13
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements",
-    "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15605/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency",
-    "summary": "FRA proposes to amend its regulations governing the qualification and certification of locomotive engineers and conductors to establish English language proficiency as a requirement for a railroad carrier to certify and recertify locomotive engineers and conductors. FRA also proposes that each railroad carrier conducting a triennial examination of skill performance, and an ann…",
-    "fr_tags": [
-      "agency:federal-railroad-administration",
-      "agency:transportation-department",
-      "type:proposed-rule"
-    ],
-    "fedreg_document_number": "2026-15605",
-    "smart_index": 14
+    "smart_index": 17
   },
   {
     "category": "Banking",
@@ -150,16 +165,7 @@
     "published_at": "2026-07-30T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-62.html",
     "summary": "",
-    "smart_index": 15
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Large Gains in Same Day ACH Help Drive ACH Network in Second Quarter of 2026",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.nacha.org/news/large-gains-same-day-ach-help-drive-ach-network-second-quarter-2026",
-    "summary": "",
-    "smart_index": 16
+    "smart_index": 18
   },
   {
     "category": "Banking",
@@ -168,7 +174,7 @@
     "published_at": "2026-07-30T00:00:00Z",
     "url": "https://www.federalreserve.gov/reform.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 17
+    "smart_index": 19
   },
   {
     "category": "Payments",
@@ -177,7 +183,7 @@
     "published_at": "2026-07-30T00:00:00Z",
     "url": "https://www.federalreserve.gov/reform.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 18
+    "smart_index": 20
   },
   {
     "category": "Federal Register",
@@ -190,35 +196,11 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-15421",
-    "smart_index": 19
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Parts and Accessories Necessary for Safe Operation; Application for Exemption Renewal From Charles Machine Works, Inc.",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15431/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-renewal-from-charles",
-    "summary": "FMCSA withdraws its January 16, 2026, notice that requested public comment on an application from Charles Machine Works, Inc. (CMW) seeking renewal of a five-year exemption from the Agency's prohibition against the use of gravity-fed or siphon-fed fuel systems on commercial motor vehicles (CMVs). FMCSA has determined that the Agency's February 19, 2026, final rule titled \"Part…",
-    "fr_tags": [
-      "agency:federal-motor-carrier-safety-administration",
-      "agency:transportation-department",
-      "type:notice"
-    ],
-    "fedreg_document_number": "2026-15431",
-    "smart_index": 20
+    "smart_index": 21
   },
   {
     "category": "Banking",
     "source": "FRB",
-    "title": "Federal Reserve issues FOMC statement",
-    "published_at": "2026-07-29T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-    "summary": "Federal Reserve issues FOMC statement",
-    "smart_index": 21
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
     "title": "Federal Reserve issues FOMC statement",
     "published_at": "2026-07-29T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
@@ -226,13 +208,22 @@
     "smart_index": 22
   },
   {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "Federal Reserve issues FOMC statement",
+    "published_at": "2026-07-29T18:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+    "summary": "Federal Reserve issues FOMC statement",
+    "smart_index": 23
+  },
+  {
     "category": "Banking",
     "source": "FRB",
     "title": "2026 FOMC",
     "published_at": "2026-07-29T00:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 23
+    "smart_index": 24
   },
   {
     "category": "Payments",
@@ -241,7 +232,7 @@
     "published_at": "2026-07-29T00:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 24
+    "smart_index": 25
   },
   {
     "category": "Federal Register",
@@ -255,7 +246,16 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-15249",
-    "smart_index": 25
+    "smart_index": 26
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "AI and the global economy: implications for central banks",
+    "published_at": "2026-07-28T09:52:00Z",
+    "url": "https://www.bis.org/publ/bisbull130.htm",
+    "summary": "by Iñaki Aldasoro, Leonardo Gambacorta, Enisse Kharroubi, Matthias Rottner The AI boom is driving a large, increasingly debt-financed investment surge and boosting trade and equity markets, generating sizeable terms-of-trade and wealth effects that differ across countries. The productivity payoff from AI, though potentially large, remains uncertain and uneven, across both sect…",
+    "smart_index": 27
   },
   {
     "category": "Payment Card Networks",
@@ -264,7 +264,7 @@
     "published_at": "2026-07-28T00:00:00Z",
     "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22256.html",
     "summary": "",
-    "smart_index": 26
+    "smart_index": 28
   },
   {
     "category": "Payment Card Networks",
@@ -273,21 +273,7 @@
     "published_at": "2026-07-28T00:00:00Z",
     "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22231.html",
     "summary": "",
-    "smart_index": 27
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Treasury Clearing Service Initial Margin Approach Model Description Document, Treasury Clearing Service Guaranty…",
-    "published_at": "2026-07-28T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15169/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
-    "summary": "",
-    "fr_tags": [
-      "agency:securities-and-exchange-commission",
-      "type:notice"
-    ],
-    "fedreg_document_number": "2026-15169",
-    "smart_index": 28
+    "smart_index": 29
   },
   {
     "category": "OFAC",
@@ -296,7 +282,7 @@
     "published_at": "2026-07-27T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-statement-enforcement-policy-support-venezuelas-economic-recovery",
     "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a statement of enforcement policy in support of economic recovery and earthquake relief efforts in Venezuela.ResourcesStatement of Enforcement Policy",
-    "smart_index": 29
+    "smart_index": 30
   },
   {
     "category": "Payments",
@@ -305,7 +291,7 @@
     "published_at": "2026-07-27T00:00:00Z",
     "url": "https://www.nacha.org/news/three-new-nacha-rules-approved",
     "summary": "",
-    "smart_index": 30
+    "smart_index": 31
   },
   {
     "category": "Federal Register",
@@ -320,7 +306,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-15112",
-    "smart_index": 31
+    "smart_index": 32
   },
   {
     "category": "Banking",
@@ -329,7 +315,7 @@
     "published_at": "2026-07-27T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-61.html",
     "summary": "",
-    "smart_index": 32
+    "smart_index": 33
   },
   {
     "category": "OFAC",
@@ -338,7 +324,7 @@
     "published_at": "2026-07-27T00:00:00Z",
     "url": "https://ofac.treasury.gov/recent-actions/20260727",
     "summary": "",
-    "smart_index": 33
+    "smart_index": 34
   },
   {
     "category": "OFAC",
@@ -347,7 +333,7 @@
     "published_at": "2026-07-24T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-alert-fraud-schemes-targeting-federal-student-aid",
     "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an Alert urging financial institutions to detect, prevent, and report suspicious activity connected to fraud schemes targeting student aid programs administered by the Federal government. Resources",
-    "smart_index": 34
+    "smart_index": 35
   },
   {
     "category": "Federal Register",
@@ -362,7 +348,7 @@
       "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-15030",
-    "smart_index": 35
+    "smart_index": 36
   },
   {
     "category": "Federal Register",
@@ -377,7 +363,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-14890",
-    "smart_index": 36
+    "smart_index": 37
   },
   {
     "category": "Federal Register",
@@ -392,7 +378,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-14889",
-    "smart_index": 37
+    "smart_index": 38
   },
   {
     "category": "Federal Register",
@@ -406,49 +392,7 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-14862",
-    "smart_index": 38
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Implementation of the Administrative False Claims Act",
-    "published_at": "2026-07-23T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14959/implementation-of-the-administrative-false-claims-act",
-    "summary": "This proposed rule would establish procedural regulations for the Administrative False Claims Act (AFCA) at the Export-Import Bank of the United States (EXIM).",
-    "fr_tags": [
-      "agency:export-import-bank",
-      "type:proposed-rule"
-    ],
-    "fedreg_document_number": "2026-14959",
     "smart_index": 39
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Loan Rehabilitation: Reasonable and Affordable Payments",
-    "published_at": "2026-07-23T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14932/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
-    "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a reinstatement with change of a previously approved information collection request (ICR).",
-    "fr_tags": [
-      "agency:education-department",
-      "type:notice"
-    ],
-    "fedreg_document_number": "2026-14932",
-    "smart_index": 40
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Support Members' Risk Management of and Enhance Their Ability To Authorize Persons as Users",
-    "published_at": "2026-07-23T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14860/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to",
-    "summary": "",
-    "fr_tags": [
-      "agency:securities-and-exchange-commission",
-      "type:notice"
-    ],
-    "fedreg_document_number": "2026-14860",
-    "smart_index": 41
   },
   {
     "category": "OFAC",
@@ -457,7 +401,16 @@
     "published_at": "2026-07-22T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group",
     "summary": "Due to a technological issue that prevented the public from electronically filing comments for several days, the Financial Crimes Enforcement Network (FinCEN) is extending the comment period for the notice of proposed rulemaking (NPRM) it published in June to amend the existing definition of Huione Group to include H-Pay Service PLC and any successor entity. Written comments o…",
-    "smart_index": 42
+    "smart_index": 40
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "What drives exchange rate pass-throughs? Evidence from a non-parametric method",
+    "published_at": "2026-07-22T08:32:00Z",
+    "url": "https://www.bis.org/publ/work1371.htm",
+    "summary": "by Emanuel Kohlscheen, Aaron Mehrotra We provide new evidence on the drivers of the pass-through of exchange rate movements into consumer prices across four decades and close to a hundred countries, combining econometrics and random forests. Random forests are particularly useful for modelling highly non-linear relationships, as well as for identifying the relative importance…",
+    "smart_index": 41
   },
   {
     "category": "Payments",
@@ -466,7 +419,7 @@
     "published_at": "2026-07-22T00:00:00Z",
     "url": "https://www.nacha.org/news/focus-tangible-comply-nachas-credit-push-fraud-rules",
     "summary": "",
-    "smart_index": 43
+    "smart_index": 42
   },
   {
     "category": "Legislative",
@@ -475,7 +428,7 @@
     "published_at": "2026-07-22T00:00:00Z",
     "url": "https://www.banking.senate.gov/newsroom/minority/warren-requests-communications-between-cfpb-and-trumps-cfpb-nominee-capital-one-executive-johnnson-following-cfpbs-dropped-lawsuit-against-capital-one",
     "summary": "",
-    "smart_index": 44
+    "smart_index": 43
   },
   {
     "category": "OFAC",
@@ -484,20 +437,24 @@
     "published_at": "2026-07-21T12:00:00Z",
     "url": "https://www.fincen.gov/news/testimony/opening-statement-fincen-director-andrea-gacki-committee-financial-services",
     "summary": "",
+    "smart_index": 44
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
+    "published_at": "2026-07-21T06:24:00Z",
+    "url": "https://www.bis.org/publ/work1370.htm",
+    "summary": "by Boris Hofmann, Aaron Mehrotra, Jan Paulick The emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on…",
     "smart_index": 45
   },
   {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Proposed Rule Change to the Risk Management Model Description for the CDS Clearing Service",
-    "published_at": "2026-07-21T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14626/self-regulatory-organizations-ice-clear-credit-llc-notice-of-proposed-rule-change-to-the-risk",
-    "summary": "",
-    "fr_tags": [
-      "agency:securities-and-exchange-commission",
-      "type:notice"
-    ],
-    "fedreg_document_number": "2026-14626",
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "A Mythos moment? Frontier AI and cyber risk",
+    "published_at": "2026-07-20T06:49:00Z",
+    "url": "https://www.bis.org/publ/bisbull129.htm",
+    "summary": "by Iñaki Aldasoro, Raphael Auer, Jon Frost, Fernando Perez-Cruz Frontier artificial intelligence (AI) models increase the speed, scale and complexity of cyber attacks, and they also strengthen cyber defence. But the costs are asymmetric and may favour attackers. The medium-term impact on systemic cyber risk depends on the various actors' access to the most advanced tools, on c…",
     "smart_index": 46
   },
   {
@@ -524,27 +481,13 @@
     "smart_index": 48
   },
   {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Operational Risk Management Framework",
-    "published_at": "2026-07-20T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14525/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
-    "summary": "",
-    "fr_tags": [
-      "agency:securities-and-exchange-commission",
-      "type:notice"
-    ],
-    "fedreg_document_number": "2026-14525",
-    "smart_index": 49
-  },
-  {
     "category": "Banking",
     "source": "FDIC",
     "title": "Press Release: The Farmers State Bank of Oakley, Kansas Assumes All Deposits of Small Business Bank, Lenexa, Kansas",
     "published_at": "2026-07-17T21:41:35Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/420fa4b",
     "summary": "PRESS RELEASE | JULY 17, 2026 The Farmers State Bank of Oakley, Kansas Assumes All Deposits of Small Business Bank, Lenexa, Kansas WASHINGTON — Small Business Bank in Lenexa, Kansas, was closed today by the Kansas Office of the State Bank Commissioner, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement with The Farm…",
-    "smart_index": 50
+    "smart_index": 49
   },
   {
     "category": "Banking",
@@ -553,7 +496,7 @@
     "published_at": "2026-07-17T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/farmers-state-bank-oakley-kansas-assumes-all-deposits-small-business-bank",
     "summary": "Small Business Bank in Lenexa, Kansas, was closed today by the Kansas Office of the State Bank Commissioner, which appointed the FDIC as receiver.",
-    "smart_index": 51
+    "smart_index": 50
   },
   {
     "category": "Federal Register",
@@ -568,7 +511,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-14447",
-    "smart_index": 52
+    "smart_index": 51
   },
   {
     "category": "Federal Register",
@@ -583,7 +526,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-14446",
-    "smart_index": 53
+    "smart_index": 52
   },
   {
     "category": "Banking",
@@ -592,7 +535,7 @@
     "published_at": "2026-07-16T18:20:46Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/420cf8d",
     "summary": "PRESS RELEASE | JULY 16, 2026 Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations WASHINGTON — The federal bank regulatory agencies today issued a joint statement describing enhanced security procedures for review of highly sensitive information in connection with examinations of supervised banks, such as reviewing materials on-s…",
-    "smart_index": 54
+    "smart_index": 53
   },
   {
     "category": "Payments",
@@ -601,7 +544,7 @@
     "published_at": "2026-07-16T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "summary": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "smart_index": 55
+    "smart_index": 54
   },
   {
     "category": "Banking",
@@ -610,6 +553,15 @@
     "published_at": "2026-07-16T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "summary": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
+    "smart_index": 55
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "The evolving nexus: sovereigns, banks and NBFIs",
+    "published_at": "2026-07-16T08:32:00Z",
+    "url": "https://www.bis.org/publ/work1369.htm",
+    "summary": "by Stefan Avdjiev, Bryan Hardy, Maximilian Jager This paper documents that the traditional sovereign-bank nexus has morphed into a broader nexus that now also includes non-bank financial institutions (NBFIs): the sovereign-bank-NBFI nexus. The classical sovereign-bank nexus has been a major financial stability concern following the eurozone crisis. Since then, sovereign debt l…",
     "smart_index": 56
   },
   {
@@ -631,13 +583,22 @@
     "smart_index": 58
   },
   {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Geopolitical risk and emerging market sovereign risk premia",
+    "published_at": "2026-07-15T08:32:00Z",
+    "url": "https://www.bis.org/publ/work1368.htm",
+    "summary": "by Fredy Gamboa, José Vicente Romero This study examines how geopolitical risk (GPR) transmits to sovereign credit risk in emerging market economies (EMEs), using monthly data on the 5-year sovereign credit default swap (SCDS) and the J.P. Morgan Emerging Markets Bond Index (EMBI) spread for 13 EMEs over the period of January 2005–October 2025. Using fixed-effects panel local…",
+    "smart_index": 59
+  },
+  {
     "category": "Payments",
     "source": "NACHA",
     "title": "Nacha Board Vice Chair: Financial Institutions Must Work Together to Drive the Industry",
     "published_at": "2026-07-15T00:00:00Z",
     "url": "https://www.nacha.org/news/nacha-board-vice-chair-financial-institutions-must-work-together-drive-industry",
     "summary": "",
-    "smart_index": 59
+    "smart_index": 60
   },
   {
     "category": "Banking",
@@ -646,7 +607,7 @@
     "published_at": "2026-07-15T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-58.html",
     "summary": "",
-    "smart_index": 60
+    "smart_index": 61
   },
   {
     "category": "Banking",
@@ -655,16 +616,25 @@
     "published_at": "2026-07-14T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-    "smart_index": 61
+    "smart_index": 62
   },
   {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-    "published_at": "2026-07-14T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
-    "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-    "smart_index": 62
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "The AI investment race",
+    "published_at": "2026-07-14T09:32:00Z",
+    "url": "https://www.bis.org/publ/work1367.htm",
+    "summary": "by Phurichai Rungcharoenkitkul The AI build-out ranks among the largest technology-driven investment booms in US history. Its scale, reliance on debt and circular equity ties raise questions about the boom's sustainability and financial stability. We study a dynamic contest in which firms competing for a few dominant positions over-commit resources. The over-investment leaves…",
+    "smart_index": 63
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "AI disruption in private credit: exposure to software firms in BDCs",
+    "published_at": "2026-07-14T06:10:00Z",
+    "url": "https://www.bis.org/publ/bisbull128.htm",
+    "summary": "by Fernando Avalos, Giulio Cornelli, Egemen Eren Business development companies (BDCs) have lent around $115 billion to software firms, which represents about a fifth of all their lending and over 80% of their fast-growing technology portfolios. Borrowers' revenue uncertainty posed by generative artificial intelligence has not affected these loans yet, and neither BDCs nor the…",
+    "smart_index": 64
   },
   {
     "category": "Payments",
@@ -673,7 +643,7 @@
     "published_at": "2026-07-14T00:00:00Z",
     "url": "https://www.nacha.org/news/nacha-accreditations-help-you-stand-out-payments-expert",
     "summary": "",
-    "smart_index": 63
+    "smart_index": 65
   },
   {
     "category": "Banking",
@@ -682,7 +652,16 @@
     "published_at": "2026-07-13T15:02:45Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4204ca6",
     "summary": "PRESS RELEASE | JULY 13, 2026 Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States WASHINGTON — The Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration (collectively, the agencies) today issued guidance to remind supervised financial institutions of t…",
-    "smart_index": 64
+    "smart_index": 66
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Competition in retail digital payments",
+    "published_at": "2026-07-13T07:14:00Z",
+    "url": "https://www.bis.org/publ/bisbull127.htm",
+    "summary": "by Daniele Natalizi, Vatsala Shreeti Retail payments have digitalised rapidly in both advanced economies and emerging market and developing economies. Digitalisation has altered the competitive landscape, with new entrants (eg fintechs and big techs) and new technologies, yet incumbent banks and card networks retain their dominant position in key markets. In their role as oper…",
+    "smart_index": 67
   },
   {
     "category": "Banking",
@@ -691,7 +670,7 @@
     "published_at": "2026-07-13T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-57.html",
     "summary": "",
-    "smart_index": 65
+    "smart_index": 68
   },
   {
     "category": "Banking",
@@ -700,7 +679,7 @@
     "published_at": "2026-07-13T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-guidance-lending-individuals-not-legally-authorized-work",
     "summary": "Guidance on Lending to Individuals Not Legally Authorized to Work in the United States",
-    "smart_index": 66
+    "smart_index": 69
   },
   {
     "category": "Federal Register",
@@ -714,7 +693,7 @@
       "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-14035",
-    "smart_index": 67
+    "smart_index": 70
   },
   {
     "category": "Federal Register",
@@ -728,21 +707,7 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-14006",
-    "smart_index": 68
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Administrative False Claims and Procedures",
-    "published_at": "2026-07-13T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14043/administrative-false-claims-and-procedures",
-    "summary": "DOE publishes this final rule to revise its regulations issued under the Program Fraud Civil Remedies Act of 1986 (\"PFCRA\"), amended by the Administrative False Claims Act of 2023 (\"the AFCA\"). The AFCA, formerly PFCRA, pertains to the Federal Government's ability to combat fraud involving Federal funds by allowing for the imposition of civil penalties and assessments against…",
-    "fr_tags": [
-      "agency:energy-department",
-      "type:rule"
-    ],
-    "fedreg_document_number": "2026-14043",
-    "smart_index": 69
+    "smart_index": 71
   },
   {
     "category": "Banking",
@@ -751,7 +716,7 @@
     "published_at": "2026-07-10T20:17:34Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41fbc2f",
     "summary": "PRESS RELEASE | JULY 10, 2026 Kentland Bank Assumes All Deposits of Kentland Federal Savings and Loan Association WASHINGTON — Kentland Federal Savings and Loan Association of Kentland, Indiana was closed today by the Office of the Comptroller of the Currency, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement with…",
-    "smart_index": 70
+    "smart_index": 72
   },
   {
     "category": "Banking",
@@ -760,7 +725,7 @@
     "published_at": "2026-07-10T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/kentland-bank-assumes-all-deposits-kentland-federal-savings-and-loan",
     "summary": "Kentland Federal Savings and Loan Association of Kentland, Indiana was closed today by the OCC, which appointed the FDIC as receiver.",
-    "smart_index": 71
+    "smart_index": 73
   },
   {
     "category": "Banking",
@@ -769,7 +734,7 @@
     "published_at": "2026-07-10T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-56.html",
     "summary": "",
-    "smart_index": 72
+    "smart_index": 74
   },
   {
     "category": "Federal Register",
@@ -783,7 +748,7 @@
       "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-13939",
-    "smart_index": 73
+    "smart_index": 75
   },
   {
     "category": "OFAC",
@@ -792,7 +757,7 @@
     "published_at": "2026-07-10T00:00:00Z",
     "url": "https://ofac.treasury.gov/recent-actions/20260710",
     "summary": "",
-    "smart_index": 74
+    "smart_index": 76
   },
   {
     "category": "Federal Register",
@@ -806,7 +771,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-13971",
-    "smart_index": 75
+    "smart_index": 77
   },
   {
     "category": "Banking",
@@ -815,7 +780,7 @@
     "published_at": "2026-07-09T19:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "smart_index": 76
+    "smart_index": 78
   },
   {
     "category": "Payments",
@@ -824,7 +789,16 @@
     "published_at": "2026-07-09T19:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "smart_index": 77
+    "smart_index": 79
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Assessing the effects of recent provisioning rules on consumer credit allocation in Colombia",
+    "published_at": "2026-07-09T07:50:00Z",
+    "url": "https://www.bis.org/publ/work1366.htm",
+    "summary": "by Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto Colombia's post-pandemic recovery in 2021–2022 was marked by rapid consumer credit growth, followed by deteriorating credit quality indicators amid tightening financial conditions. In January 2023, the Superintendence of Finance of Colombia (SFC) introduced higher provisioning requirements for long-term consumer loans t…",
+    "smart_index": 80
   },
   {
     "category": "Federal Register",
@@ -838,7 +812,7 @@
       "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-13919",
-    "smart_index": 78
+    "smart_index": 81
   },
   {
     "category": "Payments",
@@ -847,7 +821,7 @@
     "published_at": "2026-07-09T00:00:00Z",
     "url": "https://www.nacha.org/news/fraud-among-big-topics-nacha-hill-day-2026",
     "summary": "",
-    "smart_index": 79
+    "smart_index": 82
   },
   {
     "category": "Federal Register",
@@ -862,7 +836,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-13878",
-    "smart_index": 80
+    "smart_index": 83
   },
   {
     "category": "Federal Register",
@@ -876,35 +850,7 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-13814",
-    "smart_index": 81
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Proposed Agency Information Collection Activities; Comment Request",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13859/proposed-agency-information-collection-activities-comment-request",
-    "summary": "The Board of Governors of the Federal Reserve System (Board) invites comment on a proposal to extend for three years, without revision, the Consumer Financial Protection Bureau's (CFPB) Regulation DD (CFPB DD; OMB No. 7100-0271).",
-    "fr_tags": [
-      "agency:federal-reserve-system",
-      "type:notice"
-    ],
-    "fedreg_document_number": "2026-13859",
-    "smart_index": 82
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA Liquidity Plan",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13828/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa",
-    "summary": "",
-    "fr_tags": [
-      "agency:securities-and-exchange-commission",
-      "type:notice"
-    ],
-    "fedreg_document_number": "2026-13828",
-    "smart_index": 83
+    "smart_index": 84
   },
   {
     "category": "Banking",
@@ -913,7 +859,16 @@
     "published_at": "2026-07-08T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
     "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
-    "smart_index": 84
+    "smart_index": 85
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "On the comparison of capital requirements for global systemically important banks",
+    "published_at": "2026-07-08T11:15:00Z",
+    "url": "https://www.bis.org/fsi/publ/insights76.htm",
+    "summary": "Basel III introduced a comprehensive package of capital reforms to bolster the resilience of the global banking system. While the standard supports regulatory convergence across jurisdictions by establishing a common minimum set of requirements for internationally active banks, it also gives national authorities flexibility to exceed the minimum standards. Heterogeneous applic…",
+    "smart_index": 86
   },
   {
     "category": "Payments",
@@ -922,7 +877,7 @@
     "published_at": "2026-07-07T19:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "smart_index": 85
+    "smart_index": 87
   },
   {
     "category": "Banking",
@@ -931,31 +886,16 @@
     "published_at": "2026-07-07T19:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "smart_index": 86
-  },
-  {
-    "category": "Fintech Watch",
-    "source": "FIS",
-    "title": "Frankfurt International Bank Selects FIS to Bypass Legacy Infrastructure and Power Cloud-Native Treasury from Day One",
-    "published_at": "2026-07-07T00:00:00Z",
-    "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/frankfurt-international-bank-selects-fis-bypass-legacy",
-    "summary": "",
-    "smart_index": 87
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Kern Canyon Slender Salamander and Endangered Species Status for the Relictual Slender Salamander; Designation of C…",
-    "published_at": "2026-07-07T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13719/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the",
-    "summary": "We, the U.S. Fish and Wildlife Service (Service), are reopening the comment period on our October 18, 2022, proposed rule (2022 proposed rule), and November 21, 2023, revised proposed rule (2023 revised proposed rule) to list the Kern Canyon slender salamander (Batrachoseps simatus) and the relictual slender salamander (Batrachoseps relictus) under the Endangered Species Act o…",
-    "fr_tags": [
-      "agency:fish-and-wildlife-service",
-      "agency:interior-department",
-      "type:proposed-rule"
-    ],
-    "fedreg_document_number": "2026-13719",
     "smart_index": 88
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Blockchain consensus mechanisms and fragmentation",
+    "published_at": "2026-07-06T10:00:00Z",
+    "url": "https://www.bis.org/publ/bisbull126.htm",
+    "summary": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz Rybarczyk While all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs…",
+    "smart_index": 89
   },
   {
     "category": "Federal Register",
@@ -969,7 +909,7 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-13523",
-    "smart_index": 89
+    "smart_index": 90
   },
   {
     "category": "Federal Register",
@@ -983,37 +923,7 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-13542",
-    "smart_index": 90
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
-    "published_at": "2026-07-06T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13609/counter-uas-authority-for-state-local-tribal-and-territorial-law-enforcement-and-correctional",
-    "summary": "In this interim final rule (\"IFR\"), the Department of Justice (\"DOJ\") and the Department of Homeland Security (\"DHS\") (collectively, \"the Departments\") codify the framework for implementing the SAFER SKIES Act, which authorizes State, local, Tribal, and territorial law enforcement or correctional (\"SLTT\") agencies to conduct counter-unmanned aircraft system (\"C-UAS\") operation…",
-    "fr_tags": [
-      "agency:homeland-security-department",
-      "agency:justice-department",
-      "type:rule"
-    ],
-    "fedreg_document_number": "2026-13609",
     "smart_index": 91
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Organic Certification Cost Share Program (OCCSP)",
-    "published_at": "2026-07-06T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13571/organic-certification-cost-share-program-occsp",
-    "summary": "The One Big Beautiful Bill Act (OBBBA) provides funding for the Organic Certification Cost Share Program (OCCSP) for fiscal years 2025 through 2031, and, as a result, the Commodity Credit Corporation (CCC) is issuing this rule to establish OCCSP for 2025 and future program years. The rule specifies the eligibility criteria and payment calculation for OCCSP, which are consisten…",
-    "fr_tags": [
-      "agency:agriculture-department",
-      "agency:commodity-credit-corporation",
-      "type:rule"
-    ],
-    "fedreg_document_number": "2026-13571",
-    "smart_index": 92
   },
   {
     "category": "Compliance Watch",
@@ -1022,6 +932,15 @@
     "published_at": "2026-07-03T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/payments/debit-cards",
     "summary": "Debit cards are a preferred payment method for consumers, and are now synonymous with banking.",
+    "smart_index": 92
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "What makes money, money? Ensuring trust in the next generation financial ecosystem",
+    "published_at": "2026-07-02T10:05:00Z",
+    "url": "https://www.bis.org/speeches/sp260624.htm",
+    "summary": "Remarks by Ms Andréa M Maechler, Deputy General Manager, Bank for International Settlements (BIS), at the Point Zero Forum, Zurich, 24 June 2026.",
     "smart_index": 93
   },
   {
