@@ -92,6 +92,30 @@
   {
     "category": "Federal Register",
     "source": "Federal Register",
+    "title": "Clingstone Peach Diversion Program; Amendment of Program Regulations",
+    "published_at": "2026-07-31T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15525/clingstone-peach-diversion-program-amendment-of-program-regulations",
+    "summary": "This interim final rule amends the regulatory requirements for the Clingstone Peach Diversion Program (Program). The Program is voluntary, consists of payments for peach tree removal, and is implemented under clause (3) of section 32 of the Agricultural Adjustment Act Amendment of 1935, as amended. The Program is expected to reestablish the purchasing power of clingstone peach…",
+    "fr_tags": [
+      "agency:agricultural-marketing-service",
+      "agency:agriculture-department",
+      "type:rule"
+    ],
+    "fedreg_document_number": "2026-15525",
+    "smart_index": 11
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Joint Statement of Enforcement Policy in support of Venezuela’s Economic Recovery and Earthquake Relief Efforts",
+    "published_at": "2026-07-31T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/joint-statement-enforcement-policy-support-venezuelas-economic-recovery",
+    "summary": "Joint statement of enforcement policy in support of U.S. Government efforts to facilitate economic recovery and financial stability in Venezuela.",
+    "smart_index": 12
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
     "title": "Reducing Bureaucracy and Burden for Family Assistance Programs",
     "published_at": "2026-07-31T00:00:00Z",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15567/reducing-bureaucracy-and-burden-for-family-assistance-programs",
@@ -99,24 +123,25 @@
     "fr_tags": [
       "agency:children-and-families-administration",
       "agency:health-and-human-services-department",
-      "topic:employment"
+      "type:rule"
     ],
     "fedreg_document_number": "2026-15567",
-    "smart_index": 11
+    "smart_index": 13
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
+    "title": "Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements",
     "published_at": "2026-07-31T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15537/agency-information-collection-activities-proposed-collection-renewal-comment-request",
-    "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the renewal, without change, of the existing information collection described below (OMB Control No. 3064-0184).",
+    "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15605/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency",
+    "summary": "FRA proposes to amend its regulations governing the qualification and certification of locomotive engineers and conductors to establish English language proficiency as a requirement for a railroad carrier to certify and recertify locomotive engineers and conductors. FRA also proposes that each railroad carrier conducting a triennial examination of skill performance, and an ann…",
     "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
+      "agency:federal-railroad-administration",
+      "agency:transportation-department",
+      "type:proposed-rule"
     ],
-    "fedreg_document_number": "2026-15537",
-    "smart_index": 12
+    "fedreg_document_number": "2026-15605",
+    "smart_index": 14
   },
   {
     "category": "Banking",
@@ -125,7 +150,7 @@
     "published_at": "2026-07-30T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-62.html",
     "summary": "",
-    "smart_index": 13
+    "smart_index": 15
   },
   {
     "category": "Payments",
@@ -134,93 +159,103 @@
     "published_at": "2026-07-30T00:00:00Z",
     "url": "https://www.nacha.org/news/large-gains-same-day-ach-help-drive-ach-network-second-quarter-2026",
     "summary": "",
-    "smart_index": 14
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Regulatory Reform",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.federalreserve.gov/reform.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 15
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Regulatory Reform",
-    "published_at": "2026-07-30T00:00:00Z",
-    "url": "https://www.federalreserve.gov/reform.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
     "smart_index": 16
   },
   {
     "category": "Banking",
     "source": "FRB",
-    "title": "Federal Reserve issues FOMC statement",
-    "published_at": "2026-07-29T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-    "summary": "Federal Reserve issues FOMC statement",
+    "title": "Regulatory Reform",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.federalreserve.gov/reform.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC.",
     "smart_index": 17
   },
   {
     "category": "Payments",
     "source": "FRB Payments",
+    "title": "Regulatory Reform",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.federalreserve.gov/reform.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC.",
+    "smart_index": 18
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Privacy Act of 1974; System of Records",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15421/privacy-act-of-1974-system-of-records",
+    "summary": "Pursuant to the provisions of the Privacy Act of 1974, as amended, the Department of Housing and Urban Development (HUD), Office of the Chief Human Capital Officer (OCHCO) is issuing a public notice of its intent to establish a new Privacy Act System of Records Notice (SORN) titled, \"Human Resources Service Delivery (HRSD)\". The system aims to streamline the federal hiring pro…",
+    "fr_tags": [
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-15421",
+    "smart_index": 19
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Parts and Accessories Necessary for Safe Operation; Application for Exemption Renewal From Charles Machine Works, Inc.",
+    "published_at": "2026-07-30T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15431/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-renewal-from-charles",
+    "summary": "FMCSA withdraws its January 16, 2026, notice that requested public comment on an application from Charles Machine Works, Inc. (CMW) seeking renewal of a five-year exemption from the Agency's prohibition against the use of gravity-fed or siphon-fed fuel systems on commercial motor vehicles (CMVs). FMCSA has determined that the Agency's February 19, 2026, final rule titled \"Part…",
+    "fr_tags": [
+      "agency:federal-motor-carrier-safety-administration",
+      "agency:transportation-department",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-15431",
+    "smart_index": 20
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
     "title": "Federal Reserve issues FOMC statement",
     "published_at": "2026-07-29T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "summary": "Federal Reserve issues FOMC statement",
-    "smart_index": 18
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "News & Events",
-    "published_at": "2026-07-29T00:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 19
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "2026 FOMC",
-    "published_at": "2026-07-29T00:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 20
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "News & Events",
-    "published_at": "2026-07-29T00:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents.htm",
-    "summary": "The Federal Reserve Board of Governors in Washington DC.",
     "smart_index": 21
   },
   {
     "category": "Payments",
     "source": "FRB Payments",
+    "title": "Federal Reserve issues FOMC statement",
+    "published_at": "2026-07-29T18:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+    "summary": "Federal Reserve issues FOMC statement",
+    "smart_index": 22
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
     "title": "2026 FOMC",
     "published_at": "2026-07-29T00:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 22
+    "smart_index": 23
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
+    "title": "2026 FOMC",
+    "published_at": "2026-07-29T00:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/2026-press-fomc.htm",
+    "summary": "The Federal Reserve Board of Governors in Washington DC.",
+    "smart_index": 24
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scop…",
+    "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Treasury Clearing Rules and Treasury Clearing Service Treasury Operations Policies and Liquidity Risk Management…",
     "published_at": "2026-07-29T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15251/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
+    "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15249/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
     "summary": "",
     "fr_tags": [
       "agency:securities-and-exchange-commission",
-      "filter:government-sponsored-enterprise"
+      "type:notice"
     ],
-    "fedreg_document_number": "2026-15251",
-    "smart_index": 23
+    "fedreg_document_number": "2026-15249",
+    "smart_index": 25
   },
   {
     "category": "Payment Card Networks",
@@ -229,7 +264,7 @@
     "published_at": "2026-07-28T00:00:00Z",
     "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22256.html",
     "summary": "",
-    "smart_index": 24
+    "smart_index": 26
   },
   {
     "category": "Payment Card Networks",
@@ -238,16 +273,21 @@
     "published_at": "2026-07-28T00:00:00Z",
     "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22231.html",
     "summary": "",
-    "smart_index": 25
+    "smart_index": 27
   },
   {
-    "category": "Payment Card Networks",
-    "source": "Visa",
-    "title": "Men in Blazers Media Network and Visa Team Up to Launch Fan-Powered City Guides Celebrating Soccer Culture and Local Small Businesses",
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Treasury Clearing Service Initial Margin Approach Model Description Document, Treasury Clearing Service Guaranty…",
     "published_at": "2026-07-28T00:00:00Z",
-    "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22461.html",
+    "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15169/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
     "summary": "",
-    "smart_index": 26
+    "fr_tags": [
+      "agency:securities-and-exchange-commission",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-15169",
+    "smart_index": 28
   },
   {
     "category": "OFAC",
@@ -256,7 +296,16 @@
     "published_at": "2026-07-27T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-statement-enforcement-policy-support-venezuelas-economic-recovery",
     "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a statement of enforcement policy in support of economic recovery and earthquake relief efforts in Venezuela.ResourcesStatement of Enforcement Policy",
-    "smart_index": 27
+    "smart_index": 29
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Three New Nacha Rules Approved",
+    "published_at": "2026-07-27T00:00:00Z",
+    "url": "https://www.nacha.org/news/three-new-nacha-rules-approved",
+    "summary": "",
+    "smart_index": 30
   },
   {
     "category": "Federal Register",
@@ -268,21 +317,10 @@
     "fr_tags": [
       "agency:foreign-assets-control-office",
       "agency:treasury-department",
-      "topic:banks-banking",
-      "topic:credit",
-      "topic:securities"
+      "type:rule"
     ],
     "fedreg_document_number": "2026-15112",
-    "smart_index": 28
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Three New Nacha Rules Approved",
-    "published_at": "2026-07-27T00:00:00Z",
-    "url": "https://www.nacha.org/news/three-new-nacha-rules-approved",
-    "summary": "",
-    "smart_index": 29
+    "smart_index": 31
   },
   {
     "category": "Banking",
@@ -291,7 +329,7 @@
     "published_at": "2026-07-27T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-61.html",
     "summary": "",
-    "smart_index": 30
+    "smart_index": 32
   },
   {
     "category": "OFAC",
@@ -300,7 +338,7 @@
     "published_at": "2026-07-27T00:00:00Z",
     "url": "https://ofac.treasury.gov/recent-actions/20260727",
     "summary": "",
-    "smart_index": 31
+    "smart_index": 33
   },
   {
     "category": "OFAC",
@@ -309,51 +347,108 @@
     "published_at": "2026-07-24T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-alert-fraud-schemes-targeting-federal-student-aid",
     "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an Alert urging financial institutions to detect, prevent, and report suspicious activity connected to fraud schemes targeting student aid programs administered by the Federal government. Resources",
-    "smart_index": 32
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Loan Performance Categories and Financial Reporting",
-    "published_at": "2026-07-24T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15027/loan-performance-categories-and-financial-reporting",
-    "summary": "The Farm Credit Administration (FCA, we, or our) amends our regulatory high-risk loan performance categories by removing \"Formally restructured loans (TDR),\" also known as troubled debt restructurings. In 2022, changes in generally accepted accounting principles (GAAP) eliminated the accounting guidance for TDRs, enhanced disclosure requirements for certain loan refinancings a…",
-    "fr_tags": [
-      "agency:farm-credit-administration",
-      "filter:government-sponsored-enterprise",
-      "topic:banks-banking",
-      "topic:investments"
-    ],
-    "fedreg_document_number": "2026-15027",
-    "smart_index": 33
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
-    "published_at": "2026-07-23T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14899/agency-information-collection-activities-proposed-collection-renewal-comment-request",
-    "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the renewal of the existing information collection described below (OMB Control No. 3064- 0153). The FDIC is seeking a one-year extension of this information collection. The notice of the proposed renewal f…",
-    "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
-    ],
-    "fedreg_document_number": "2026-14899",
     "smart_index": 34
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Update to Notice of Financial Institutions for Which the Federal Deposit Insurance Corporation Has Been Appointed Either Receiver, Liquidator, or Manager",
-    "published_at": "2026-07-23T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14900/update-to-notice-of-financial-institutions-for-which-the-federal-deposit-insurance-corporation-has",
-    "summary": "Notice is hereby given that the Federal Deposit Insurance Corporation (Corporation) has been appointed the sole receiver for the following financial institution effective as of the Date Closed as indicated in the listing.",
+    "title": "Proposed Amendment to the Definition of Huione Group, a Financial Institution Operating Outside the United States of Primary Money Laundering Concern; Extension of Comment Period",
+    "published_at": "2026-07-24T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15030/proposed-amendment-to-the-definition-of-huione-group-a-financial-institution-operating-outside-the",
+    "summary": "FinCEN is extending the comment period for the referenced notice of proposed rulemaking (NPRM) it published to amend the existing definition of Huione Group to include, within the definition of that group, H-Pay Service PLC, and adding and defining the term \"successor entity,\" due to a technological issue with the portal that prevented the public from electronically filing com…",
     "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
+      "agency:financial-crimes-enforcement-network",
+      "agency:treasury-department",
+      "type:proposed-rule"
     ],
-    "fedreg_document_number": "2026-14900",
+    "fedreg_document_number": "2026-15030",
     "smart_index": 35
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+    "published_at": "2026-07-23T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14890/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
+    "summary": "This rule amends, suspends, or removes Standard Instrument Approach Procedures (SIAPs) and associated Takeoff Minimums and Obstacle Departure Procedures for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navi…",
+    "fr_tags": [
+      "agency:federal-aviation-administration",
+      "agency:transportation-department",
+      "type:rule"
+    ],
+    "fedreg_document_number": "2026-14890",
+    "smart_index": 36
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+    "published_at": "2026-07-23T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14889/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
+    "summary": "This rule establishes, amends, suspends, or removes Standard Instrument Approach Procedures (SIAPS) and associated Takeoff Minimums and Obstacle Departure procedures (ODPs) for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commi…",
+    "fr_tags": [
+      "agency:federal-aviation-administration",
+      "agency:transportation-department",
+      "type:rule"
+    ],
+    "fedreg_document_number": "2026-14889",
+    "smart_index": 37
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Establish the Options Regulatory Fee (ORF) Under the New Methodology for Transactions That Occur on the…",
+    "published_at": "2026-07-23T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14862/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed",
+    "summary": "",
+    "fr_tags": [
+      "agency:securities-and-exchange-commission",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-14862",
+    "smart_index": 38
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Implementation of the Administrative False Claims Act",
+    "published_at": "2026-07-23T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14959/implementation-of-the-administrative-false-claims-act",
+    "summary": "This proposed rule would establish procedural regulations for the Administrative False Claims Act (AFCA) at the Export-Import Bank of the United States (EXIM).",
+    "fr_tags": [
+      "agency:export-import-bank",
+      "type:proposed-rule"
+    ],
+    "fedreg_document_number": "2026-14959",
+    "smart_index": 39
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Loan Rehabilitation: Reasonable and Affordable Payments",
+    "published_at": "2026-07-23T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14932/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
+    "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a reinstatement with change of a previously approved information collection request (ICR).",
+    "fr_tags": [
+      "agency:education-department",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-14932",
+    "smart_index": 40
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Support Members' Risk Management of and Enhance Their Ability To Authorize Persons as Users",
+    "published_at": "2026-07-23T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14860/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to",
+    "summary": "",
+    "fr_tags": [
+      "agency:securities-and-exchange-commission",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-14860",
+    "smart_index": 41
   },
   {
     "category": "OFAC",
@@ -362,7 +457,7 @@
     "published_at": "2026-07-22T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group",
     "summary": "Due to a technological issue that prevented the public from electronically filing comments for several days, the Financial Crimes Enforcement Network (FinCEN) is extending the comment period for the notice of proposed rulemaking (NPRM) it published in June to amend the existing definition of Huione Group to include H-Pay Service PLC and any successor entity. Written comments o…",
-    "smart_index": 36
+    "smart_index": 42
   },
   {
     "category": "Payments",
@@ -371,21 +466,7 @@
     "published_at": "2026-07-22T00:00:00Z",
     "url": "https://www.nacha.org/news/focus-tangible-comply-nachas-credit-push-fraud-rules",
     "summary": "",
-    "smart_index": 37
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
-    "published_at": "2026-07-22T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14821/agency-information-collection-activities-proposed-collection-renewal-comment-request",
-    "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on the renewal of the existing information collection described below (OMB Control No. 3064-0139).",
-    "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
-    ],
-    "fedreg_document_number": "2026-14821",
-    "smart_index": 38
+    "smart_index": 43
   },
   {
     "category": "Legislative",
@@ -394,7 +475,7 @@
     "published_at": "2026-07-22T00:00:00Z",
     "url": "https://www.banking.senate.gov/newsroom/minority/warren-requests-communications-between-cfpb-and-trumps-cfpb-nominee-capital-one-executive-johnnson-following-cfpbs-dropped-lawsuit-against-capital-one",
     "summary": "",
-    "smart_index": 39
+    "smart_index": 44
   },
   {
     "category": "OFAC",
@@ -403,32 +484,21 @@
     "published_at": "2026-07-21T12:00:00Z",
     "url": "https://www.fincen.gov/news/testimony/opening-statement-fincen-director-andrea-gacki-committee-financial-services",
     "summary": "",
-    "smart_index": 40
-  },
-  {
-    "category": "Fintech Watch",
-    "source": "Fiserv",
-    "title": "Fiserv to Power Embedded Banking and Payments for Datavault AI, Including Its NIL Exchange",
-    "published_at": "2026-07-21T00:00:00Z",
-    "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-power-embedded-banking-and-payments-datavault-ai",
-    "summary": "",
-    "smart_index": 41
+    "smart_index": 45
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Electronic Delivery of Information Under the Federal Securities Laws",
+    "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Proposed Rule Change to the Risk Management Model Description for the CDS Clearing Service",
     "published_at": "2026-07-21T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14679/electronic-delivery-of-information-under-the-federal-securities-laws",
-    "summary": "The Securities and Exchange Commission (the \"SEC\" or the \"Commission\") is proposing Regulation E-Delivery. The proposed rule sets forth conditions for covered entities to deliver covered information to covered recipients electronically without first obtaining their affirmative consent. The proposed rule further establishes conditions under which the Commission would consider d…",
+    "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14626/self-regulatory-organizations-ice-clear-credit-llc-notice-of-proposed-rule-change-to-the-risk",
+    "summary": "",
     "fr_tags": [
       "agency:securities-and-exchange-commission",
-      "topic:investment-companies",
-      "topic:personally-identifiable-information",
-      "topic:securities"
+      "type:notice"
     ],
-    "fedreg_document_number": "2026-14679",
-    "smart_index": 42
+    "fedreg_document_number": "2026-14626",
+    "smart_index": 46
   },
   {
     "category": "Federal Register",
@@ -439,10 +509,10 @@
     "summary": "The FDIC invites comment on new forms and instructions associated with an Office of Management and Budget (OMB) control number (3064-0225) assigned in connection with a notice of proposed rulemaking. In accordance with the requirements of the Paperwork Reduction Act of 1995 (PRA), the FDIC may not conduct or sponsor, and the respondent is not required to respond to, an informa…",
     "fr_tags": [
       "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
+      "type:notice"
     ],
     "fedreg_document_number": "2026-14589",
-    "smart_index": 43
+    "smart_index": 47
   },
   {
     "category": "Payments",
@@ -451,7 +521,21 @@
     "published_at": "2026-07-20T00:00:00Z",
     "url": "https://www.nacha.org/news/account-validation-coverage-expanded-phixius-nacha-and-kinexys-jp-morgan-collaboration",
     "summary": "",
-    "smart_index": 44
+    "smart_index": 48
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Operational Risk Management Framework",
+    "published_at": "2026-07-20T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14525/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+    "summary": "",
+    "fr_tags": [
+      "agency:securities-and-exchange-commission",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-14525",
+    "smart_index": 49
   },
   {
     "category": "Banking",
@@ -460,35 +544,46 @@
     "published_at": "2026-07-17T21:41:35Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/420fa4b",
     "summary": "PRESS RELEASE | JULY 17, 2026 The Farmers State Bank of Oakley, Kansas Assumes All Deposits of Small Business Bank, Lenexa, Kansas WASHINGTON — Small Business Bank in Lenexa, Kansas, was closed today by the Kansas Office of the State Bank Commissioner, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement with The Farm…",
-    "smart_index": 45
+    "smart_index": 50
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "The Farmers State Bank of Oakley, Kansas Assumes All Deposits of Small Business Bank, Lenexa, Kansas",
+    "published_at": "2026-07-17T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/farmers-state-bank-oakley-kansas-assumes-all-deposits-small-business-bank",
+    "summary": "Small Business Bank in Lenexa, Kansas, was closed today by the Kansas Office of the State Bank Commissioner, which appointed the FDIC as receiver.",
+    "smart_index": 51
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+    "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
     "published_at": "2026-07-17T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant",
-    "summary": "The Department of Homeland Security (DHS) is amending its regulations to change the admission period in the F, J, and I classifications from duration of status to an admission for a fixed time period, and additional changes to admission and extension requirements. This final rule will provide additional protections and oversight of these nonimmigrant categories and will allow…",
+    "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14447/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
+    "summary": "This rule establishes, amends, suspends, or removes Standard Instrument Approach Procedures (SIAPS) and associated Takeoff Minimums and Obstacle Departure procedures (ODPs) for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commi…",
     "fr_tags": [
-      "agency:homeland-security-department",
-      "topic:employment"
+      "agency:federal-aviation-administration",
+      "agency:transportation-department",
+      "type:rule"
     ],
-    "fedreg_document_number": "2026-14439",
-    "smart_index": 46
+    "fedreg_document_number": "2026-14447",
+    "smart_index": 52
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Update to Notice of Financial Institutions for Which the Federal Deposit Insurance Corporation Has Been Appointed Either Receiver, Liquidator, or Manager",
+    "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
     "published_at": "2026-07-17T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14426/update-to-notice-of-financial-institutions-for-which-the-federal-deposit-insurance-corporation-has",
-    "summary": "Notice is hereby given that the Federal Deposit Insurance Corporation (Corporation) has been appointed the sole receiver for the following financial institution effective as of the Date Closed as indicated in the listing.",
+    "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14446/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
+    "summary": "This rule amends, suspends, or removes Standard Instrument Approach Procedures (SIAPs) and associated Takeoff Minimums and Obstacle Departure Procedures for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navi…",
     "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
+      "agency:federal-aviation-administration",
+      "agency:transportation-department",
+      "type:rule"
     ],
-    "fedreg_document_number": "2026-14426",
-    "smart_index": 47
+    "fedreg_document_number": "2026-14446",
+    "smart_index": 53
   },
   {
     "category": "Banking",
@@ -497,7 +592,7 @@
     "published_at": "2026-07-16T18:20:46Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/420cf8d",
     "summary": "PRESS RELEASE | JULY 16, 2026 Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations WASHINGTON — The federal bank regulatory agencies today issued a joint statement describing enhanced security procedures for review of highly sensitive information in connection with examinations of supervised banks, such as reviewing materials on-s…",
-    "smart_index": 48
+    "smart_index": 54
   },
   {
     "category": "Payments",
@@ -506,7 +601,7 @@
     "published_at": "2026-07-16T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "summary": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "smart_index": 49
+    "smart_index": 55
   },
   {
     "category": "Banking",
@@ -515,7 +610,7 @@
     "published_at": "2026-07-16T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "summary": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "smart_index": 50
+    "smart_index": 56
   },
   {
     "category": "Banking",
@@ -524,16 +619,16 @@
     "published_at": "2026-07-16T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-60.html",
     "summary": "",
-    "smart_index": 51
+    "smart_index": 57
   },
   {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Credit Cards",
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations",
     "published_at": "2026-07-16T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/credit-cards",
-    "summary": "New credit card laws have fundamentally changed the industry.",
-    "smart_index": 52
+    "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-joint-statement-handling-highly-sensitive-information",
+    "summary": "WASHINGTON—The federal bank regulatory agencies today issued a joint statement describing enhanced security procedures for review",
+    "smart_index": 58
   },
   {
     "category": "Payments",
@@ -542,7 +637,7 @@
     "published_at": "2026-07-15T00:00:00Z",
     "url": "https://www.nacha.org/news/nacha-board-vice-chair-financial-institutions-must-work-together-drive-industry",
     "summary": "",
-    "smart_index": 53
+    "smart_index": 59
   },
   {
     "category": "Banking",
@@ -551,25 +646,7 @@
     "published_at": "2026-07-15T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-58.html",
     "summary": "",
-    "smart_index": 54
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Small Business",
-    "published_at": "2026-07-15T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/commercial-banking/small-business",
-    "summary": "Banks and small businesses need each other to stay healthy. The banking industry has a long history of providing the capital that small businesses need to survive and thrive.",
-    "smart_index": 55
-  },
-  {
-    "category": "Legislative",
-    "source": "House Financial Services",
-    "title": "Chairman Hill: The CFPB has Stopped Regulating by Informal Guidance and Returned to a Disciplined Approach Grounded in Clear Rules",
-    "published_at": "2026-07-15T00:00:00Z",
-    "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411193",
-    "summary": "",
-    "smart_index": 56
+    "smart_index": 60
   },
   {
     "category": "Banking",
@@ -578,7 +655,7 @@
     "published_at": "2026-07-14T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-    "smart_index": 57
+    "smart_index": 61
   },
   {
     "category": "Payments",
@@ -587,7 +664,7 @@
     "published_at": "2026-07-14T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-    "smart_index": 58
+    "smart_index": 62
   },
   {
     "category": "Payments",
@@ -596,16 +673,7 @@
     "published_at": "2026-07-14T00:00:00Z",
     "url": "https://www.nacha.org/news/nacha-accreditations-help-you-stand-out-payments-expert",
     "summary": "",
-    "smart_index": 59
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "TBA",
-    "title": "Fed agencies release guidance on lending to undocumented workers",
-    "published_at": "2026-07-13T17:00:00Z",
-    "url": "https://www.texasbankers.com/fed-agencies-release-guidance-on-lending-to-undocumented-workers/",
-    "summary": "Lending to individuals who are not legally authorized to work in the U.S. may pose elevated credit risk for financial institutions, according to joint guidance issued by the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the National Credit Union Administration. President Trump issued an executive order in May this […] The post Fed ag…",
-    "smart_index": 60
+    "smart_index": 63
   },
   {
     "category": "Banking",
@@ -614,7 +682,7 @@
     "published_at": "2026-07-13T15:02:45Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4204ca6",
     "summary": "PRESS RELEASE | JULY 13, 2026 Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States WASHINGTON — The Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration (collectively, the agencies) today issued guidance to remind supervised financial institutions of t…",
-    "smart_index": 61
+    "smart_index": 64
   },
   {
     "category": "Banking",
@@ -623,7 +691,16 @@
     "published_at": "2026-07-13T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-57.html",
     "summary": "",
-    "smart_index": 62
+    "smart_index": 65
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States",
+    "published_at": "2026-07-13T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/agencies-issue-guidance-lending-individuals-not-legally-authorized-work",
+    "summary": "Guidance on Lending to Individuals Not Legally Authorized to Work in the United States",
+    "smart_index": 66
   },
   {
     "category": "Federal Register",
@@ -634,33 +711,38 @@
     "summary": "The Federal Housing Finance Agency (\"FHFA\" or the \"Agency\") is requesting comment on this notice of proposed rulemaking repealing the New Business Activities regulation.",
     "fr_tags": [
       "agency:federal-housing-finance-agency",
-      "topic:federal-home-loan-banks"
+      "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-14035",
-    "smart_index": 63
+    "smart_index": 67
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Suspended Counterparty Program",
+    "title": "Privacy Act of 1974; Matching Program",
     "published_at": "2026-07-13T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14036/suspended-counterparty-program",
-    "summary": "The Federal Housing Finance Agency (FHFA) is proposing to amend its Suspended Counterparty Program (SCP) regulation by removing the term \"reputational harm.\" This amendment would eliminate redundancy and affirm that FHFA's supervision of counterparty risk is based on material and measurable risks.",
+    "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14006/privacy-act-of-1974-matching-program",
+    "summary": "In accordance with the Privacy Act of 1974, as amended, and Office of Management and Budget (OMB) guidance on computer matching, the U.S. National Science Foundation (NSF) is providing notice of the establishment of a new matching program. Pursuant to the Payment Integrity Information Act of 2019, NSF is establishing a new matching program consisting of the computerized compar…",
     "fr_tags": [
-      "agency:federal-housing-finance-agency",
-      "topic:federal-home-loan-banks"
+      "agency:national-science-foundation",
+      "type:notice"
     ],
-    "fedreg_document_number": "2026-14036",
-    "smart_index": 64
+    "fedreg_document_number": "2026-14006",
+    "smart_index": 68
   },
   {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "Penny Phaseout",
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Administrative False Claims and Procedures",
     "published_at": "2026-07-13T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/penny-phaseout",
-    "summary": "This page provides resources to help your bank track trends, manage customer expectations, and respond to the operational impacts of the penny’s retirement.",
-    "smart_index": 65
+    "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14043/administrative-false-claims-and-procedures",
+    "summary": "DOE publishes this final rule to revise its regulations issued under the Program Fraud Civil Remedies Act of 1986 (\"PFCRA\"), amended by the Administrative False Claims Act of 2023 (\"the AFCA\"). The AFCA, formerly PFCRA, pertains to the Federal Government's ability to combat fraud involving Federal funds by allowing for the imposition of civil penalties and assessments against…",
+    "fr_tags": [
+      "agency:energy-department",
+      "type:rule"
+    ],
+    "fedreg_document_number": "2026-14043",
+    "smart_index": 69
   },
   {
     "category": "Banking",
@@ -669,7 +751,25 @@
     "published_at": "2026-07-10T20:17:34Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41fbc2f",
     "summary": "PRESS RELEASE | JULY 10, 2026 Kentland Bank Assumes All Deposits of Kentland Federal Savings and Loan Association WASHINGTON — Kentland Federal Savings and Loan Association of Kentland, Indiana was closed today by the Office of the Comptroller of the Currency, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into an agreement with…",
-    "smart_index": 66
+    "smart_index": 70
+  },
+  {
+    "category": "Banking",
+    "source": "FDIC",
+    "title": "Kentland Bank Assumes All Deposits of Kentland Federal Savings and Loan Association",
+    "published_at": "2026-07-10T00:00:00Z",
+    "url": "https://www.fdic.gov/news/press-releases/2026/kentland-bank-assumes-all-deposits-kentland-federal-savings-and-loan",
+    "summary": "Kentland Federal Savings and Loan Association of Kentland, Indiana was closed today by the OCC, which appointed the FDIC as receiver.",
+    "smart_index": 71
+  },
+  {
+    "category": "Banking",
+    "source": "OCC",
+    "title": "OCC Appoints Receiver for Kentland Federal Savings and Loan Association, Kentland, Indiana",
+    "published_at": "2026-07-10T00:00:00Z",
+    "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-56.html",
+    "summary": "",
+    "smart_index": 72
   },
   {
     "category": "Federal Register",
@@ -680,21 +780,10 @@
     "summary": "This proposed rule would revise HUD's regulations governing floodplain management and the protection of wetlands in accordance with Executive Order 14148, entitled \"Initial Rescissions of Harmful Executive Orders and Actions.\" Executive Order 14148 revoked an earlier executive order that formed a basis for the final rule that HUD published on April 23, 2024, entitled \"Floodpla…",
     "fr_tags": [
       "agency:housing-and-urban-development-department",
-      "filter:manufactured-home",
-      "topic:fair-housing",
-      "topic:mortgage-insurance"
+      "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-13939",
-    "smart_index": 67
-  },
-  {
-    "category": "Banking",
-    "source": "OCC",
-    "title": "OCC Appoints Receiver for Kentland Federal Savings and Loan Association, Kentland, Indiana",
-    "published_at": "2026-07-10T00:00:00Z",
-    "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-56.html",
-    "summary": "",
-    "smart_index": 68
+    "smart_index": 73
   },
   {
     "category": "OFAC",
@@ -703,7 +792,21 @@
     "published_at": "2026-07-10T00:00:00Z",
     "url": "https://ofac.treasury.gov/recent-actions/20260710",
     "summary": "",
-    "smart_index": 69
+    "smart_index": 74
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Expansion of VA Process for 72-Hour Notification of Emergency Treatment",
+    "published_at": "2026-07-10T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13971/expansion-of-va-process-for-72-hour-notification-of-emergency-treatment",
+    "summary": "The Department of Veterans Affairs (VA) adopts as final, with minor changes, a proposed rule amending its medical regulations to add a new method for veterans, their representatives, and eligible entities or providers to notify VA for the determination of whether emergency treatment can be authorized under the Veterans Community Care Program (VCCP). This will streamline the no…",
+    "fr_tags": [
+      "agency:veterans-affairs-department",
+      "type:rule"
+    ],
+    "fedreg_document_number": "2026-13971",
+    "smart_index": 75
   },
   {
     "category": "Banking",
@@ -712,7 +815,7 @@
     "published_at": "2026-07-09T19:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "smart_index": 70
+    "smart_index": 76
   },
   {
     "category": "Payments",
@@ -721,7 +824,7 @@
     "published_at": "2026-07-09T19:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "smart_index": 71
+    "smart_index": 77
   },
   {
     "category": "Federal Register",
@@ -732,16 +835,19 @@
     "summary": "The Board of Governors of the Federal Reserve System (the Board) is inviting comment on a proposed rule that would require its supervised banks to establish and maintain effective anti-money laundering and countering the financing of terrorism (AML/CFT) programs reasonably designed to identify, assess, and mitigate risks of illicit finance. Among other changes, this proposed r…",
     "fr_tags": [
       "agency:federal-reserve-system",
-      "topic:banks-banking",
-      "topic:currency",
-      "topic:flood-insurance",
-      "topic:insurance",
-      "topic:investments",
-      "topic:mortgages",
-      "topic:securities"
+      "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-13919",
-    "smart_index": 72
+    "smart_index": 78
+  },
+  {
+    "category": "Payments",
+    "source": "NACHA",
+    "title": "Fraud Among the Big Topics at Nacha Hill Day 2026",
+    "published_at": "2026-07-09T00:00:00Z",
+    "url": "https://www.nacha.org/news/fraud-among-big-topics-nacha-hill-day-2026",
+    "summary": "",
+    "smart_index": 79
   },
   {
     "category": "Federal Register",
@@ -753,117 +859,61 @@
     "fr_tags": [
       "agency:agriculture-department",
       "agency:commodity-credit-corporation",
-      "topic:loan-programs-agriculture"
+      "type:rule"
     ],
     "fedreg_document_number": "2026-13878",
-    "smart_index": 73
-  },
-  {
-    "category": "Payments",
-    "source": "NACHA",
-    "title": "Fraud Among the Big Topics at Nacha Hill Day 2026",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.nacha.org/news/fraud-among-big-topics-nacha-hill-day-2026",
-    "summary": "",
-    "smart_index": 74
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Request for Information Regarding Promoting Access to Mortgage Credit",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13834/request-for-information-regarding-promoting-access-to-mortgage-credit",
-    "summary": "This notice requests information from the public about potential regulatory changes that may reduce regulatory burdens and promote access to mortgage credit, as appropriate and consistent with applicable law. The Consumer Financial Protection Bureau (Bureau or CFPB) seeks to reduce unwarranted regulatory burdens to ensure that creditworthy borrowers can access mortgage credit.…",
-    "fr_tags": [
-      "agency:consumer-financial-protection-bureau",
-      "filter:consumer-financial-protection-bureau"
-    ],
-    "fedreg_document_number": "2026-13834",
-    "smart_index": 75
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Zero-Based Regulating",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13875/zero-based-regulating",
-    "summary": "Due to receipt of adverse comments, the Department of Energy (DOE) is withdrawing the direct final rule titled \"Zero-Based Regulating,\" which published on May 29, 2026.",
-    "fr_tags": [
-      "agency:energy-department",
-      "topic:credit",
-      "topic:housing",
-      "topic:income-taxes",
-      "topic:insurance",
-      "topic:loan-programs",
-      "topic:mortgage-insurance",
-      "topic:securities"
-    ],
-    "fedreg_document_number": "2026-13875",
-    "smart_index": 76
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Information Reporting and Transfer for Valuable Consideration Rules for Section 1035 Exchanges of Life Insurance and Certain Other Life Insurance Contract Transactions",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13830/information-reporting-and-transfer-for-valuable-consideration-rules-for-section-1035-exchanges-of",
-    "summary": "This document contains final regulations providing guidance on the application of the transfer for valuable consideration rules and associated information reporting requirements for reportable policy sales of interests in life insurance contracts to exchanges of life insurance contracts qualifying for nonrecognition of gain or loss and certain acquisitions of interests in life…",
-    "fr_tags": [
-      "agency:internal-revenue-service",
-      "agency:treasury-department",
-      "topic:income-taxes"
-    ],
-    "fedreg_document_number": "2026-13830",
-    "smart_index": 77
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Charitable Remainder Annuity Trust Listed Transaction",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13851/charitable-remainder-annuity-trust-listed-transaction",
-    "summary": "This document contains final regulations that identify certain charitable remainder annuity trust (CRAT) transactions and substantially similar transactions as listed transactions, a type of reportable transaction. Material advisors and certain participants in these listed transactions are required to file disclosures with the IRS and will be subject to penalties for failure t…",
-    "fr_tags": [
-      "agency:internal-revenue-service",
-      "agency:treasury-department",
-      "topic:income-taxes"
-    ],
-    "fedreg_document_number": "2026-13851",
-    "smart_index": 78
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Revisions to the Biorefinery, Renewable Chemical, and Biobased Product Manufacturing Assistance Loan Program",
-    "published_at": "2026-07-09T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13841/revisions-to-the-biorefinery-renewable-chemical-and-biobased-product-manufacturing-assistance-loan",
-    "summary": "The Biorefinery, Renewable Chemical, and Biobased Product Manufacturing Program (also referred to as the Section 9003 program) provides loan guarantees up to $250 million to assist in the development, construction, and retrofitting of new and emerging technologies. These technologies are: advanced biofuels, renewable chemicals, and biobased products. Collectively, Rural Develo…",
-    "fr_tags": [
-      "agency:agriculture-department",
-      "agency:rural-business-cooperative-service",
-      "topic:loan-programs",
-      "topic:loan-programs-business"
-    ],
-    "fedreg_document_number": "2026-13841",
-    "smart_index": 79
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
-    "published_at": "2026-07-08T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
-    "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
     "smart_index": 80
   },
   {
-    "category": "Payments",
-    "source": "FRB Payments",
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Notice of HUD-Held Healthcare Loan Sale (HLS 2026-2)",
+    "published_at": "2026-07-09T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13814/notice-of-hud-held-healthcare-loan-sale-hls-2026-2",
+    "summary": "HUD is announcing the competitive, sealed bid sale of 14 unsubsidized healthcare mortgage loans, without Federal Housing Administration (FHA) insurance. This sale, referred to as HLS 2026-2, is scheduled to occur on or about August 11, 2026. The sale supports HUD's efforts to maximize recoveries and reduce the cost of holding defaulted assets. This notice also describes genera…",
+    "fr_tags": [
+      "agency:housing-and-urban-development-department",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-13814",
+    "smart_index": 81
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Proposed Agency Information Collection Activities; Comment Request",
+    "published_at": "2026-07-09T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13859/proposed-agency-information-collection-activities-comment-request",
+    "summary": "The Board of Governors of the Federal Reserve System (Board) invites comment on a proposal to extend for three years, without revision, the Consumer Financial Protection Bureau's (CFPB) Regulation DD (CFPB DD; OMB No. 7100-0271).",
+    "fr_tags": [
+      "agency:federal-reserve-system",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-13859",
+    "smart_index": 82
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA Liquidity Plan",
+    "published_at": "2026-07-09T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13828/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa",
+    "summary": "",
+    "fr_tags": [
+      "agency:securities-and-exchange-commission",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-13828",
+    "smart_index": 83
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
     "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
     "published_at": "2026-07-08T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
     "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
-    "smart_index": 81
+    "smart_index": 84
   },
   {
     "category": "Payments",
@@ -872,7 +922,7 @@
     "published_at": "2026-07-07T19:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "smart_index": 82
+    "smart_index": 85
   },
   {
     "category": "Banking",
@@ -881,16 +931,7 @@
     "published_at": "2026-07-07T19:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "smart_index": 83
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "TBA",
-    "title": "Fed requests comment on changes to AML program rules",
-    "published_at": "2026-07-07T17:00:00Z",
-    "url": "https://www.texasbankers.com/fed-requests-comment-on-changes-to-aml-program-rules/",
-    "summary": "The Federal Reserve requests public comments on a proposal to amend its requirements for banks to maintain anti-money laundering programs. The amendments are intended to align with changes to anti-money laundering program requirements proposed separately by four other agencies. Among other changes, the proposal would require banks to allocate anti-money laundering resources ba…",
-    "smart_index": 84
+    "smart_index": 86
   },
   {
     "category": "Fintech Watch",
@@ -899,30 +940,80 @@
     "published_at": "2026-07-07T00:00:00Z",
     "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/frankfurt-international-bank-selects-fis-bypass-legacy",
     "summary": "",
-    "smart_index": 85
+    "smart_index": 87
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
-    "published_at": "2026-07-06T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13506/agency-information-collection-activities-proposed-collection-renewal-comment-request",
-    "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on this extension without change of the existing information collection described below (OMB Control No. 3064-0127). The notice of proposed renewal for this collection was previously published in the Fed…",
+    "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Kern Canyon Slender Salamander and Endangered Species Status for the Relictual Slender Salamander; Designation of C…",
+    "published_at": "2026-07-07T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13719/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the",
+    "summary": "We, the U.S. Fish and Wildlife Service (Service), are reopening the comment period on our October 18, 2022, proposed rule (2022 proposed rule), and November 21, 2023, revised proposed rule (2023 revised proposed rule) to list the Kern Canyon slender salamander (Batrachoseps simatus) and the relictual slender salamander (Batrachoseps relictus) under the Endangered Species Act o…",
     "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
+      "agency:fish-and-wildlife-service",
+      "agency:interior-department",
+      "type:proposed-rule"
     ],
-    "fedreg_document_number": "2026-13506",
-    "smart_index": 86
+    "fedreg_document_number": "2026-13719",
+    "smart_index": 88
   },
   {
-    "category": "Compliance Watch",
-    "source": "ABA",
-    "title": "ACH Transactions",
-    "published_at": "2026-07-03T00:00:00Z",
-    "url": "https://www.aba.com/banking-topics/payments/ach-transactions",
-    "summary": "Banks that originate ACH transactions will be responsible for working with their clients to determine if certain payments meet the IAT definition.",
-    "smart_index": 87
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change To Enhance the Supplemental Liquidity Deposit Rules, Methodology and Processes",
+    "published_at": "2026-07-06T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13523/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed",
+    "summary": "",
+    "fr_tags": [
+      "agency:securities-and-exchange-commission",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-13523",
+    "smart_index": 89
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Section 8 Housing Assistance Payments Program-Fiscal Year (FY) 2026 Inflation Factors for Public Housing Agency (PHA) Renewal Funding",
+    "published_at": "2026-07-06T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13542/section-8-housing-assistance-payments-program-fiscal-year-fy-2026-inflation-factors-for-public",
+    "summary": "This notice establishes Renewal Funding Inflation Factors (RFIFs) to adjust Fiscal Year (FY) 2026 renewal funding for the Housing Choice Voucher (HCV) Program of each public housing agency (PHA), as required by the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2026, enacted as part of the Consolidated Appropriations Act, 2026. The noti…",
+    "fr_tags": [
+      "agency:housing-and-urban-development-department",
+      "type:notice"
+    ],
+    "fedreg_document_number": "2026-13542",
+    "smart_index": 90
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
+    "published_at": "2026-07-06T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13609/counter-uas-authority-for-state-local-tribal-and-territorial-law-enforcement-and-correctional",
+    "summary": "In this interim final rule (\"IFR\"), the Department of Justice (\"DOJ\") and the Department of Homeland Security (\"DHS\") (collectively, \"the Departments\") codify the framework for implementing the SAFER SKIES Act, which authorizes State, local, Tribal, and territorial law enforcement or correctional (\"SLTT\") agencies to conduct counter-unmanned aircraft system (\"C-UAS\") operation…",
+    "fr_tags": [
+      "agency:homeland-security-department",
+      "agency:justice-department",
+      "type:rule"
+    ],
+    "fedreg_document_number": "2026-13609",
+    "smart_index": 91
+  },
+  {
+    "category": "Federal Register",
+    "source": "Federal Register",
+    "title": "Organic Certification Cost Share Program (OCCSP)",
+    "published_at": "2026-07-06T00:00:00Z",
+    "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13571/organic-certification-cost-share-program-occsp",
+    "summary": "The One Big Beautiful Bill Act (OBBBA) provides funding for the Organic Certification Cost Share Program (OCCSP) for fiscal years 2025 through 2031, and, as a result, the Commodity Credit Corporation (CCC) is issuing this rule to establish OCCSP for 2025 and future program years. The rule specifies the eligibility criteria and payment calculation for OCCSP, which are consisten…",
+    "fr_tags": [
+      "agency:agriculture-department",
+      "agency:commodity-credit-corporation",
+      "type:rule"
+    ],
+    "fedreg_document_number": "2026-13571",
+    "smart_index": 92
   },
   {
     "category": "Compliance Watch",
@@ -931,24 +1022,22 @@
     "published_at": "2026-07-03T00:00:00Z",
     "url": "https://www.aba.com/banking-topics/payments/debit-cards",
     "summary": "Debit cards are a preferred payment method for consumers, and are now synonymous with banking.",
-    "smart_index": 88
+    "smart_index": 93
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Direct Multifamily Housing Subsequent Loans for Acquisition",
+    "title": "Increase in Threshold for Requiring Information Reporting With Respect to Certain Payees; Extension and Modification of Limitation on Wagering Losses; Hearing",
     "published_at": "2026-07-02T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13455/direct-multifamily-housing-subsequent-loans-for-acquisition",
-    "summary": "The Rural Housing Service (RHS or the Agency), a Rural Development agency of the United States Department of Agriculture (USDA), proposes to amend the current regulation for the Direct Multifamily Housing (MFH) Loan and Grant Programs. The intent of this proposed rule is to include acquisition as an applicable form of assistance for direct MFH subsequent loans. This regulatory…",
+    "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13370/increase-in-threshold-for-requiring-information-reporting-with-respect-to-certain-payees-extension",
+    "summary": "This document provides a notice of public hearing on the notice of proposed rulemaking (REG-113229-25) published in the Federal Register on April 17, 2026. The proposed regulations contain proposed amendments relating to the dollar thresholds in regulations governing information reporting for payments made in the course of a trade or business and the corresponding backup withh…",
     "fr_tags": [
-      "agency:agriculture-department",
-      "agency:rural-housing-service",
-      "topic:insurance",
-      "topic:loan-programs-agriculture",
-      "topic:mortgages"
+      "agency:internal-revenue-service",
+      "agency:treasury-department",
+      "type:proposed-rule"
     ],
-    "fedreg_document_number": "2026-13455",
-    "smart_index": 89
+    "fedreg_document_number": "2026-13370",
+    "smart_index": 94
   },
   {
     "category": "Banking",
@@ -957,21 +1046,22 @@
     "published_at": "2026-07-02T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-55.html",
     "summary": "",
-    "smart_index": 90
+    "smart_index": 95
   },
   {
     "category": "Federal Register",
     "source": "Federal Register",
-    "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
+    "title": "Reducing Bureaucracy and Burden for Children, Youth, and Family Programs",
     "published_at": "2026-07-02T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13444/agency-information-collection-activities-proposed-collection-renewal-comment-request",
-    "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on the renewal of the existing information collections described below (OMB Control No. 3064-0176 and -0140).",
+    "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13451/reducing-bureaucracy-and-burden-for-children-youth-and-family-programs",
+    "summary": "This final rule removes duplicative and unnecessary sections from the Runaway and Homeless Youth Program regulations. These amendments will streamline the Runaway and Homeless Youth Program regulations to make them more accessible to the public.",
     "fr_tags": [
-      "agency:federal-deposit-insurance-corporation",
-      "filter:federal-deposit-insurance-corporation"
+      "agency:children-and-families-administration",
+      "agency:health-and-human-services-department",
+      "type:rule"
     ],
-    "fedreg_document_number": "2026-13444",
-    "smart_index": 91
+    "fedreg_document_number": "2026-13451",
+    "smart_index": 96
   },
   {
     "category": "Legislative",
@@ -980,48 +1070,7 @@
     "published_at": "2026-07-02T00:00:00Z",
     "url": "https://www.banking.senate.gov/newsroom/minority/following-trumps-nomination-of-capital-one-exec-to-lead-cfpb-warren-requests-update-from-eric-trump-on-familys-de-banking-lawsuit",
     "summary": "",
-    "smart_index": 92
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Privacy Act of 1974; System of Records",
-    "published_at": "2026-07-02T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13453/privacy-act-of-1974-system-of-records",
-    "summary": "Pursuant to the Privacy Act of 1974, notice is hereby given that VA is modifying the system of records titled \"Centralized Accounts Receivable System/Centralized Accounts Receivable On-Line System (CARS/CAROLS)\" (88VA244). This system is used to collect and maintain information on individuals that have an accounts receivable resulting from participating in a VA benefit program…",
-    "fr_tags": [
-      "agency:veterans-affairs-department",
-      "filter:manufactured-home"
-    ],
-    "fedreg_document_number": "2026-13453",
-    "smart_index": 93
-  },
-  {
-    "category": "Compliance Watch",
-    "source": "TBA",
-    "title": "FFIEC affirms commitment to de novo formations",
-    "published_at": "2026-07-01T20:33:44Z",
-    "url": "https://www.texasbankers.com/ffiec-affirms-commitment-to-de-novo-formations/",
-    "summary": "The Federal Financial Institutions Examination Council released a statement affirming its members’ commitment to de novo bank formation and to exploring ways to lower regulatory barriers to establishing new financial institutions. The FFIEC statement reads: “The number of depository institutions in the U.S. has fallen steadily over the past three decades while the overall bank…",
-    "smart_index": 94
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
-    "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "published_at": "2026-07-01T18:30:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
-    "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "smart_index": 95
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "published_at": "2026-07-01T18:30:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
-    "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-    "smart_index": 96
+    "smart_index": 97
   },
   {
     "category": "Banking",
@@ -1030,20 +1079,11 @@
     "published_at": "2026-06-30T14:21:28Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/41e40b0",
     "summary": "PRESS RELEASE | JUNE 30, 2026 Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies WASHINGTON — Federal bank regulatory agencies today released the 2026 list of certain geographies where certain bank activities are eligible for Community Reinvestment Act (CRA) credit. Under the CRA, the agencies assess a bank’s record of meeting the cred…",
-    "smart_index": 97
+    "smart_index": 98
   },
   {
     "category": "Banking",
     "source": "FRB",
-    "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
-    "published_at": "2026-06-30T14:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
-    "summary": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
-    "smart_index": 98
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
     "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
     "published_at": "2026-06-30T14:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",

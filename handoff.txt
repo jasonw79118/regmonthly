@@ -1,0 +1,37 @@
+REGMONTHLY DATE-ONLY MAIN DASHBOARD FIX
+Date: 2026-08-24
+
+Goal implemented
+- Main dashboard: an actual article/review/document qualifies by publication/review date in the RegMonthly window. No relevance/title/quarterly/enforcement qualification is applied to the main dataset.
+- Smart 100 JSON: remains the relevance/filtering layer.
+
+Root causes found and fixed
+1. Main dataset was globally running exclude_quarterly(). Removed that call; quarterly is now filtered only in Smart 100.
+2. Same-source, same-day normalized-title dedupe could drop a distinct article at a different URL. Removed title-based dedupe. Main dedupe now collapses only true same-source canonical-URL duplicates plus non-article landing/navigation pages.
+3. Date extraction did not support day-month-year dates such as "16 July 2026". Added DMY support.
+4. FATF pages can contain unrelated dated links before the article content. Added FATF article-region date confirmation and forced detail-date confirmation for captured FATF items.
+5. BIS was not registered. Added the official BIS entire-site RSS feed.
+6. FATF was not registered. Added FATF News and Publications collection plus dashboard source mapping.
+7. RegInfo.gov was not registered. Added its official EO 12866 XML feeds for pending reviews and completed YTD reviews, with dated records mapped to a new Regulatory Review tile.
+8. Federal Register was pre-filtered by banking topics/agencies before it reached the main dashboard. Added an all-documents date-window API pull. Optional agency/type tags remain for UI filtering.
+9. Federal Register and RegInfo.gov base Smart weights were lowered so the much broader main feed does not automatically crowd Smart 100 with unrelated records.
+
+Validation performed
+- Python syntax compilation passed.
+- Dashboard inline JavaScript syntax passed node --check.
+- Logic smoke tests passed for:
+  * DMY and MDY date parsing
+  * distinct same-title/same-day URLs both surviving main dedupe
+  * tracking-parameter duplicate URL collapsing to one
+  * quarterly item staying on main but being removed from Smart
+  * RegInfo XML record parsing
+  * Federal Register request containing only date conditions, not topic/agency/section/term qualification
+  * FATF article date winning over an unrelated older header date
+
+Important
+The generated docs/data/*.json files in this ZIP are the prior snapshot. This sandbox cannot run the live network build end-to-end. After replacing/pushing these files, run the existing GitHub Actions workflow "Monthly Build" with workflow_dispatch. It already sets FORCE_RUN=1 and installs the required dependencies. That rebuild will populate BIS, FATF, RegInfo.gov, the unfiltered Federal Register date-window data, and all other sources into the generated site files.
+
+Primary files changed
+- scripts/build.py
+- docs/index.html
+- handoff.txt (this file)

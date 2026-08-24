@@ -87,6 +87,11 @@ PER_SOURCE_DETAIL_CAP: Dict[str, int] = {
     "TBA": 25,
     "Wolters Kluwer": 120,
     "Bankers Online": 120,
+
+    # International / regulatory-review sources
+    "BIS": 0,          # official RSS feed
+    "FATF": 160,      # listing items often need detail-page date confirmation
+    "RegInfo.gov": 0, # official XML feeds
 }
 
 # Sources where we keep listing links but DO NOT fetch detail pages (to avoid blocks/timeouts)
@@ -153,6 +158,11 @@ CATEGORY_BY_SOURCE: Dict[str, str] = {
     "TBA": "Compliance Watch",
     "Wolters Kluwer": "Compliance Watch",
     "Bankers Online": "Compliance Watch",
+
+    # International / regulatory-review sources
+    "BIS": "International Banking",
+    "FATF": "OFAC",
+    "RegInfo.gov": "Regulatory Review",
 }
 
 
@@ -407,6 +417,22 @@ SOURCE_RULES: Dict[str, Dict[str, Any]] = {
     "Bankers Online": {
         "allow_domains": {"www.bankersonline.com", "files.bankersonline.com"},
         "allow_path_prefixes": {"/topstory", "/cb/", "/bb/", "/tt/", "/security/", "/"},
+    },
+
+    "BIS": {
+        "allow_domains": {"www.bis.org", "bis.org"},
+    },
+    "FATF": {
+        "allow_domains": {"www.fatf-gafi.org", "fatf-gafi.org"},
+        "allow_path_prefixes": {
+            "/en/news/",
+            "/en/publications/",
+            "/content/fatf-gafi/en/publications/",
+        },
+    },
+    "RegInfo.gov": {
+        "allow_domains": {"www.reginfo.gov", "reginfo.gov"},
+        "allow_path_prefixes": {"/public/"},
     },
 }
 
@@ -1276,7 +1302,8 @@ def irs_news_releases_for_month_url(window_start_ct: datetime) -> str:
 # DATE PATTERNS
 # ============================
 
-MONTH_DATE_RE = re.compile(r"(?P<md>([A-Z][a-z]{2,9})\.?\s+\d{1,2},\s+\d{4})")
+MONTH_DATE_RE = re.compile(r"(?P<md>\b(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s+\d{1,2},?\s+\d{4}\b)", re.I)
+DAY_MONTH_DATE_RE = re.compile(r"(?P<dmy>\b\d{1,2}\s+(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s+\d{4}\b)", re.I)
 SLASH_DATE_RE = re.compile(r"(?P<sd>\b\d{1,2}/\d{1,2}/\d{2,4}\b)")
 ISO_DATE_RE = re.compile(r"(?P<id>\b\d{4}-\d{2}-\d{2}\b)")
 
@@ -1290,6 +1317,12 @@ def extract_any_date(text: str, source: str = "") -> Optional[datetime]:
     m = MONTH_DATE_RE.search(text)
     if m:
         dt = parse_date(m.group("md"))
+        if dt:
+            return dt
+
+    m = DAY_MONTH_DATE_RE.search(text)
+    if m:
+        dt = parse_date(m.group("dmy"), dayfirst=True)
         if dt:
             return dt
 
@@ -1638,6 +1671,123 @@ def _fedreg_params_for_filter(
     return params
 
 
+
+
+def _fedreg_params_all(start_d: str, end_d: str, page: int) -> Dict[str, Any]:
+    """Federal Register query for the main dashboard: date window only."""
+    return {
+        "per_page": 200,
+        "page": page,
+        "order": "newest",
+        "conditions[publication_date][gte]": start_d,
+        "conditions[publication_date][lte]": end_d,
+        "fields[]": [
+            "title",
+            "publication_date",
+            "html_url",
+            "document_number",
+            "type",
+            "abstract",
+            "agencies",
+        ],
+    }
+
+
+def items_from_federal_register_all(start: datetime, end: datetime) -> List[Dict[str, Any]]:
+    """Pull every dated Federal Register document in the dashboard window.
+
+    The main dashboard must not pre-qualify Federal Register documents by banking
+    topic, agency, section, or keyword. Relevance filtering belongs in the Smart
+    Index only. Agency tags are retained solely for optional UI filtering.
+    """
+    start_d = start.date().isoformat()
+    end_d = end.date().isoformat()
+    endpoint = f"{FEDREG_API_BASE.rstrip('/')}/documents.json"
+
+    by_doc: Dict[str, Dict[str, Any]] = {}
+    page = 1
+
+    while True:
+        params = _fedreg_params_all(start_d, end_d, page)
+        j, status, final_url = fetch_json_status(endpoint, params=params, timeout=45)
+        if not j:
+            if status >= 400:
+                print(f"[warn] Federal Register JSON GET {status}: {final_url}", flush=True)
+            break
+
+        results = j.get("results") or []
+        if not isinstance(results, list) or not results:
+            break
+
+        for r in results:
+            try:
+                title = clean_text(str(r.get("title") or ""), 220)
+                pub_s = str(r.get("publication_date") or "").strip()
+                url = str(r.get("html_url") or "").strip()
+                docnum = str(r.get("document_number") or "").strip()
+                if not title or not pub_s or not url:
+                    continue
+
+                dt = parse_date(pub_s)
+                if not dt or not in_window(dt, start, end):
+                    continue
+
+                if url.startswith("/"):
+                    url = "https://www.federalregister.gov" + url
+                url = canonical_url(url)
+                if not allowed_for_source("Federal Register", url):
+                    continue
+
+                abstract = clean_text(str(r.get("abstract") or ""), 380)
+                agencies = r.get("agencies")
+                agency_tags = _fedreg_agency_tags(agencies)
+                doc_type = normalize_fedreg_slug(str(r.get("type") or ""))
+                tags = list(agency_tags)
+                if doc_type:
+                    tags.append(f"type:{doc_type}")
+
+                key = docnum or url
+                existing = by_doc.get(key)
+                if not existing:
+                    by_doc[key] = {
+                        "category": "Federal Register",
+                        "source": "Federal Register",
+                        "title": title,
+                        "published_at": iso_z(dt),
+                        "url": url,
+                        "summary": abstract,
+                        "fr_tags": sorted(set(tags)),
+                        "fedreg_document_number": docnum,
+                    }
+                else:
+                    existing["fr_tags"] = sorted(set(existing.get("fr_tags") or []) | set(tags))
+                    if not existing.get("summary") and abstract:
+                        existing["summary"] = abstract
+            except Exception:
+                continue
+
+        total_pages = 0
+        try:
+            total_pages = int(j.get("total_pages") or 0)
+        except Exception:
+            total_pages = 0
+
+        if total_pages and page >= total_pages:
+            break
+        if len(results) < 200 and not j.get("next_page_url"):
+            break
+
+        page += 1
+        if page > 200:
+            print("[warn] Federal Register all-documents pagination exceeded 200 pages; stopping defensively.", flush=True)
+            break
+
+    out = list(by_doc.values())
+    out.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+    print(f"[api] Federal Register all documents: {len(out)} unique dated docs", flush=True)
+    return out
+
+
 def _fedreg_pretty_slug(s: str) -> str:
     # "truth-lending" -> "Truth Lending"
     s = (s or "").strip()
@@ -1964,6 +2114,42 @@ def extract_fdic_published_from_detail(detail_url: str, html: str) -> Optional[d
 
     return None
 
+def extract_fatf_published_from_detail(html: str) -> Optional[datetime]:
+    """Find the FATF article's own publication date, avoiding dated site chrome.
+
+    FATF detail pages can show other dated links in the global header before the
+    article body. Prefer the article region immediately after H1 so an older
+    "high-risk jurisdictions" date cannot disqualify a valid monthly item.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    main = soup.find("main") or soup.find(attrs={"role": "main"}) or soup.find("article") or soup
+    h1 = main.find("h1") if getattr(main, "find", None) else None
+
+    chunks: List[str] = []
+    if h1:
+        for node in h1.find_all_next(limit=60):
+            name = getattr(node, "name", "")
+            if name in {"script", "style", "nav", "footer", "header"}:
+                continue
+            if name in {"p", "div", "span", "time", "li"} and getattr(node, "get_text", None):
+                text = clean_text(node.get_text(" ", strip=True), 700)
+                if text:
+                    chunks.append(text)
+            if len(" ".join(chunks)) > 5000:
+                break
+
+    article_text = " ".join(chunks)
+    if article_text:
+        # The normal FATF lead is e.g. "Paris, 21 July 2026 - ...".
+        m = re.search(r"\b(?:Paris,?\s*)?(\d{1,2}\s+(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s+\d{4})\b", article_text, re.I)
+        if m:
+            dt = parse_date(m.group(1), dayfirst=True)
+            if dt:
+                return dt
+
+    return None
+
+
 def extract_published_from_detail(detail_url: str, html: str, source: str = "") -> Tuple[Optional[datetime], str]:
     soup = BeautifulSoup(html, "html.parser")
 
@@ -1974,6 +2160,11 @@ def extract_published_from_detail(detail_url: str, html: str, source: str = "") 
 
     if source == "FDIC":
         dt = extract_fdic_published_from_detail(detail_url, html)
+        if dt:
+            return dt, snippet
+
+    if source == "FATF":
+        dt = extract_fatf_published_from_detail(html)
         if dt:
             return dt, snippet
 
@@ -4416,6 +4607,81 @@ def bankers_online_links(page_url: str, html: str) -> List[Tuple[str, str, Optio
     return links
 
 
+
+# ============================
+# FATF
+# ============================
+
+def fatf_links(page_url: str, html: str) -> List[Tuple[str, str, Optional[datetime]]]:
+    """Capture FATF news/publication detail pages without applying relevance filters.
+
+    FATF frequently publishes dates as "16 July 2026". extract_any_date supports
+    that format, and missing listing dates can be confirmed from the detail page
+    by the normal bounded detail-fetch path.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    container = pick_container(soup) or soup
+    if not container:
+        return []
+
+    strip_nav_like(container)
+    links: List[Tuple[str, str, Optional[datetime]]] = []
+    seen: set[str] = set()
+
+    for a in container.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith("#") or scheme(href) in GLOBAL_DENY_SCHEMES:
+            continue
+
+        url = canonical_url(urljoin(page_url, href))
+        if not allowed_for_source("FATF", url):
+            continue
+
+        pth = path(url).rstrip("/").lower()
+        # Listing/category pages are not articles. Keep individual news and
+        # publication details, including the /content/fatf-gafi legacy path.
+        if pth in {"/en/news", "/en/publications", "/en/the-fatf/news"}:
+            continue
+        if not (
+            pth.startswith("/en/news/")
+            or pth.startswith("/en/publications/")
+            or pth.startswith("/content/fatf-gafi/en/publications/")
+        ):
+            continue
+        if not pth.endswith((".html", ".htm")):
+            continue
+
+        if url in seen:
+            continue
+
+        raw_title = ""
+        heading = a.find(["h1", "h2", "h3", "h4"])
+        if heading:
+            raw_title = heading.get_text(" ", strip=True) or ""
+        if not raw_title:
+            card = a.find_parent(["article", "li", "div", "section"]) or a.parent
+            if card:
+                h = card.find(["h1", "h2", "h3", "h4"])
+                if h:
+                    raw_title = h.get_text(" ", strip=True) or ""
+        if not raw_title:
+            raw_title = a.get_text(" ", strip=True) or (a.get("aria-label") or "") or (a.get("title") or "")
+
+        title = clean_text(raw_title, 240)
+        if not title or len(title) < 8:
+            continue
+        if title.lower() in {"read more", "read the report", "learn more", "more", "details"}:
+            continue
+
+        dt = find_time_near_anchor(a, "FATF")
+        seen.add(url)
+        links.append((title, url, dt))
+        if len(links) >= MAX_LISTING_LINKS:
+            break
+
+    return links
+
+
 # ============================
 # MAIN CONTENT LINK ROUTER
 # ============================
@@ -4450,6 +4716,8 @@ def main_content_links(source: str, page_url: str, html: str, window_start: date
         return fasb_links(page_url, html)
     if source == "NACHA":
         return nacha_links(page_url, html, window_start)
+    if source == "FATF":
+        return fatf_links(page_url, html)
 
     if source == "FHLB MPF":
         return fhlbmpf_links(page_url, html)
@@ -4550,6 +4818,10 @@ KNOWN_FEEDS: Dict[str, List[str]] = {
         
     # ✅ NEW: TCS press releases RSS (commonly referenced as Feedburner)
     "TCS": ["http://feeds2.feedburner.com/tcspress"],
+
+    # BIS publishes an official RSS feed for the entire BIS website. Main-site
+    # inclusion remains date-based; Smart 100 decides relevance later.
+    "BIS": ["https://www.bis.org/doclist/rss_all_categories.rss"],
 }
         
         
@@ -4617,6 +4889,10 @@ def get_start_pages() -> List[SourcePage]:
         
         # Payments
         SourcePage("NACHA", "https://www.nacha.org/news"),
+
+        # International AML / standard-setting
+        SourcePage("FATF", "https://www.fatf-gafi.org/en/the-fatf/news.html"),
+        SourcePage("FATF", "https://www.fatf-gafi.org/en/publications.html"),
         
         # Fintech vendors
         SourcePage("FIS", "https://www.investor.fisglobal.com/press-releases/"),
@@ -4668,6 +4944,157 @@ def get_start_pages() -> List[SourcePage]:
     return pages
         
         
+
+# ============================
+# REGINFO.GOV (OIRA EO 12866 REVIEWS)
+# ============================
+
+REGINFO_COMPLETED_YTD_XML = "https://www.reginfo.gov/public/do/XMLViewFileAction?f=EO_RULE_COMPLETED_YTD.xml"
+REGINFO_UNDER_REVIEW_XML = "https://www.reginfo.gov/public/do/XMLViewFileAction?f=EO_RULES_UNDER_REVIEW.xml"
+REGINFO_REVIEW_HOME = "https://www.reginfo.gov/public/do/eoPackageMain"
+
+
+def _xml_local_name(tag: str) -> str:
+    return str(tag or "").split("}")[-1].split(":")[-1]
+
+
+def _xml_key(tag: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", _xml_local_name(tag).lower())
+
+
+def _xml_record_fields(elem: Any) -> Dict[str, str]:
+    fields: Dict[str, str] = {}
+    for node in elem.iter():
+        key = _xml_key(getattr(node, "tag", ""))
+        if not key:
+            continue
+        text = clean_text(" ".join(node.itertext()), 1200)
+        if text and key not in fields:
+            fields[key] = text
+    return fields
+
+
+def _xml_first(fields: Dict[str, str], *keys: str) -> str:
+    for key in keys:
+        value = fields.get(_xml_key(key), "")
+        if value:
+            return value
+    return ""
+
+
+def _reginfo_record_nodes(root: Any) -> List[Any]:
+    """Find repeated review records while tolerating RegInfo XML schema changes."""
+    preferred_names = {"rule", "review", "record", "eorule", "regulatoryreview"}
+    candidates: List[Any] = []
+
+    for elem in root.iter():
+        name = _xml_key(getattr(elem, "tag", ""))
+        direct = {_xml_key(getattr(c, "tag", "")) for c in list(elem)}
+        has_title = bool(direct & {"title", "ruletitle", "regulationtitle"})
+        has_rin = bool(direct & {"rin", "rinno", "rinnumber"})
+        has_date = bool(direct & {"concludeddate", "receiveddate", "reviewdate", "date"})
+        if name in preferred_names and (has_title or has_rin):
+            candidates.append(elem)
+        elif has_title and (has_rin or has_date):
+            candidates.append(elem)
+
+    # Preserve document order and avoid nested duplicate candidates.
+    out: List[Any] = []
+    seen_ids: set[int] = set()
+    for elem in candidates:
+        if id(elem) in seen_ids:
+            continue
+        seen_ids.add(id(elem))
+        out.append(elem)
+    return out
+
+
+def _reginfo_detail_url(fields: Dict[str, str]) -> str:
+    rrid = _xml_first(fields, "rrid", "reviewid", "review_id", "eo_review_id", "id")
+    if rrid and re.fullmatch(r"\d+", rrid.strip()):
+        return f"https://www.reginfo.gov/public/do/eoDetails?rrid={rrid.strip()}"
+    return REGINFO_REVIEW_HOME
+
+
+def _items_from_reginfo_xml(xml_bytes: bytes, start: datetime, end: datetime, mode: str) -> List[Dict[str, Any]]:
+    try:
+        root = ET.fromstring(xml_bytes)
+    except Exception as e:
+        print(f"[warn] RegInfo XML parse failed ({mode}): {e}", flush=True)
+        return []
+
+    out: List[Dict[str, Any]] = []
+    seen: set[str] = set()
+    for elem in _reginfo_record_nodes(root):
+        fields = _xml_record_fields(elem)
+        title = _xml_first(fields, "title", "ruletitle", "regulationtitle")
+        rin = _xml_first(fields, "rin", "rinno", "rinnumber")
+        agency = _xml_first(fields, "agencyname", "agency", "agencycode")
+        subagency = _xml_first(fields, "subagencyname", "subagency")
+        stage = _xml_first(fields, "stage", "rulemakingstage")
+        action = _xml_first(fields, "concludedaction", "conclusionaction", "action")
+
+        if mode == "completed":
+            date_raw = _xml_first(fields, "concludeddate", "conclusiondate", "reviewdate", "date")
+            status = "OIRA review completed"
+        else:
+            date_raw = _xml_first(fields, "receiveddate", "reviewreceiveddate", "reviewdate", "date")
+            status = "Pending OIRA review"
+
+        dt = parse_date(date_raw)
+        if dt is None:
+            dt = extract_any_date(date_raw, source="RegInfo.gov")
+        if dt is None or not in_window(dt, start, end):
+            continue
+        if not title:
+            continue
+
+        url = _reginfo_detail_url(fields)
+        unique = f"{mode}|{rin}|{title}|{iso_z(dt)}|{url}"
+        if unique in seen:
+            continue
+        seen.add(unique)
+
+        bits = [status]
+        if rin:
+            bits.append(f"RIN {rin}")
+        org = " / ".join(x for x in [agency, subagency] if x)
+        if org:
+            bits.append(org)
+        if stage:
+            bits.append(stage)
+        if action and mode == "completed":
+            bits.append(action)
+
+        out.append({
+            "category": CATEGORY_BY_SOURCE.get("RegInfo.gov", "Regulatory Review"),
+            "source": "RegInfo.gov",
+            "title": clean_text(title, 320),
+            "published_at": iso_z(dt),
+            "url": url,
+            "summary": clean_text(" | ".join(bits), 500),
+        })
+
+    return out
+
+
+def items_from_reginfo_reviews(start: datetime, end: datetime) -> List[Dict[str, Any]]:
+    """Load dated pending and completed OIRA reviews from RegInfo's official XML exports."""
+    out: List[Dict[str, Any]] = []
+    for mode, url in [
+        ("completed", REGINFO_COMPLETED_YTD_XML),
+        ("pending", REGINFO_UNDER_REVIEW_XML),
+    ]:
+        raw = fetch_bytes(url, timeout=45)
+        if not raw:
+            print(f"[warn] RegInfo {mode} XML unavailable: {url}", flush=True)
+            continue
+        got = _items_from_reginfo_xml(raw, start, end, mode)
+        out.extend(got)
+        print(f"[xml] RegInfo {mode}: {len(got)} items", flush=True)
+    return out
+
+
 # ============================
 # STATIC EXPORTS (NO JS)
 # ============================
@@ -4872,7 +5299,7 @@ SMART_SOURCE_WEIGHTS: Dict[str, int] = {
     "FFIEC": 38,
     "FinCEN": 38,
     "OFAC": 38,
-    "Federal Register": 35,
+    "Federal Register": 4,
     "NACHA": 32,
     "Treasury": 30,
     "Fannie Mae": 24,
@@ -4887,6 +5314,9 @@ SMART_SOURCE_WEIGHTS: Dict[str, int] = {
     "Temenos": 12,
     "Mambu": 12,
     "TCS": 10,
+    "BIS": 34,
+    "FATF": 38,
+    "RegInfo.gov": 4,
 }
 
 SMART_KEYWORD_WEIGHTS: Dict[str, int] = {
@@ -4963,7 +5393,7 @@ def _smart_text(item: Dict[str, Any]) -> str:
 
 
 def exclude_quarterly(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Remove quarterly items from every output, including the main site dataset."""
+    """Smart-feed helper only; the main dashboard intentionally keeps quarterly items."""
     return [it for it in items if "quarterly" not in _smart_text(it)]
 
 
@@ -5067,7 +5497,8 @@ def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -
     """
     smart_pool = [
         it for it in items
-        if not is_smart_enforcement_action(it)
+        if "quarterly" not in _smart_text(it)
+        and not is_smart_enforcement_action(it)
         and not is_smart_bank_exam_list(it)
         and not is_smart_supervisory_highlights(it)
     ]
@@ -5225,16 +5656,15 @@ def item_specificity_score(it: Dict[str, Any]) -> int:
 
 
 def dedupe_items_with_preference(items: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], List[Dict[str, str]]]:
-    """
-    Remove same-source duplicates and generic listing/category pages before publishing.
+    """Remove only non-article landing pages and true same-source URL duplicates.
 
-    The dedupe is intentionally source-sensitive. Interagency releases can
-    legitimately appear from multiple agencies, so this does not globally merge
-    different sources.
+    Main-dashboard inclusion is deliberately *not* based on title similarity,
+    keywords, relevance, quarterly status, enforcement status, or other content
+    qualifiers. If two dated articles have different URLs, both remain on the
+    main site even when their titles are identical. Smart 100 owns filtering.
     """
     dropped: List[Dict[str, str]] = []
 
-    # First remove generic landing/category pages that slipped through listing extraction.
     filtered: List[Dict[str, Any]] = []
     for it in items:
         source = str(it.get("source") or "")
@@ -5253,11 +5683,9 @@ def dedupe_items_with_preference(items: List[Dict[str, Any]]) -> Tuple[List[Dict
     by_url: Dict[str, Dict[str, Any]] = {}
 
     def prefer(candidate: Dict[str, Any], current: Dict[str, Any]) -> Dict[str, Any]:
-        # Keep Federal Register preference behavior from the old URL dedupe.
         if str(candidate.get("category") or "") == "Federal Register" and str(current.get("category") or "") == "Federal Register":
             if _fedreg_group_rank(candidate) > _fedreg_group_rank(current):
                 return candidate
-
         if item_specificity_score(candidate) > item_specificity_score(current):
             return candidate
         if (not current.get("summary")) and candidate.get("summary"):
@@ -5280,39 +5708,7 @@ def dedupe_items_with_preference(items: List[Dict[str, Any]]) -> Tuple[List[Dict
             "url": str(loser.get("url") or ""),
         })
 
-    # Secondary title dedupe is intentionally narrow. It catches the common
-    # "agency feed item + agency detail page" duplicate without collapsing
-    # legitimately different Federal Register documents, OFAC actions, CVEs, etc.
-    title_dedupe_sources = {"fdic", "occ", "frb", "frb payments", "treasury", "fincen"}
-
-    by_title: Dict[str, Dict[str, Any]] = {}
-    for it in by_url.values():
-        source = str(it.get("source") or "").strip().lower()
-        nt = normalized_dedupe_title(str(it.get("title") or ""))
-        pub_day = str(it.get("published_at") or "")[:10]
-
-        # Very short normalized titles are too broad; the landing-page filter handles them.
-        if source not in title_dedupe_sources or not pub_day or len(nt) < 28:
-            key = f"unique|{id(it)}"
-        else:
-            key = f"{source}|{pub_day}|{nt}"
-
-        cur = by_title.get(key)
-        if cur is None:
-            by_title[key] = it
-            continue
-
-        winner = prefer(it, cur)
-        loser = cur if winner is it else it
-        by_title[key] = winner
-        dropped.append({
-            "reason": "same-source same-day normalized-title duplicate",
-            "source": str(loser.get("source") or ""),
-            "title": str(loser.get("title") or ""),
-            "url": str(loser.get("url") or ""),
-        })
-
-    return list(by_title.values()), dropped
+    return list(by_url.values()), dropped
 
 def build() -> None:
     now_utc = utc_now()
@@ -5328,7 +5724,7 @@ def build() -> None:
     for sp in get_start_pages():
         pages_by_source.setdefault(sp.source, []).append(sp.url)
         
-    for src in set(KNOWN_FEEDS.keys()) | {"Federal Register"}:
+    for src in set(KNOWN_FEEDS.keys()) | {"Federal Register", "RegInfo.gov"}:
         pages_by_source.setdefault(src, [])
         
     for source, pages in pages_by_source.items():
@@ -5336,12 +5732,21 @@ def build() -> None:
         source_items_before = len(all_items)
         
         if source == "Federal Register":
-            got = items_from_federal_register_topics(window_start, window_end)
+            got = items_from_federal_register_all(window_start, window_end)
             if got:
                 all_items.extend(got)
-                print(f"[api] Federal Register: {len(got)} items (filters)", flush=True)
+                print(f"[api] Federal Register: {len(got)} dated items (no relevance filters)", flush=True)
             else:
                 print("[note] Federal Register: no qualifying items in window (or API issue).", flush=True)
+            continue
+
+        if source == "RegInfo.gov":
+            got = items_from_reginfo_reviews(window_start, window_end)
+            if got:
+                all_items.extend(got)
+                print(f"[xml] RegInfo.gov: {len(got)} dated review items", flush=True)
+            else:
+                print("[note] RegInfo.gov: no qualifying items in window (or XML issue).", flush=True)
             continue
         
         for fu in KNOWN_FEEDS.get(source, []):
@@ -5442,6 +5847,21 @@ def build() -> None:
                             if snippet2:
                                 snippet = snippet2
 
+                # FATF pages carry unrelated dates in global navigation. Always confirm
+                # the article's own date from its detail page when possible.
+                if source == "FATF" and src_cap > 0:
+                    if global_detail_fetches < GLOBAL_DETAIL_FETCH_CAP and src_used < src_cap:
+                        detail_html = polite_get(url)
+                        if detail_html:
+                            global_detail_fetches += 1
+                            src_used += 1
+                            per_source_detail_fetches[source] = src_used
+                            dt2, snippet2 = extract_published_from_detail(url, detail_html, source=source)
+                            if dt2:
+                                dt = dt2
+                            if snippet2:
+                                snippet = snippet2
+
                 # If we still don't have a date, use detail page (bounded by caps)
                 if dt is None and src_cap > 0:
                     if global_detail_fetches >= GLOBAL_DETAIL_FETCH_CAP:
@@ -5488,9 +5908,8 @@ def build() -> None:
         
     # ---- DEDUPE (with preference rules) ----
     items, dropped_dupes = dedupe_items_with_preference(all_items)
-    items = exclude_quarterly(items)
     if dropped_dupes:
-        print(f"[dedupe] dropped {len(dropped_dupes)} generic/duplicate same-source items", flush=True)
+        print(f"[dedupe] dropped {len(dropped_dupes)} landing/same-URL duplicate items", flush=True)
         for d in dropped_dupes[:25]:
             print(
                 f"[dedupe] {d.get('reason')}: {d.get('source')} | {d.get('title')} | {d.get('url')}",

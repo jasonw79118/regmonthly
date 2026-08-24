@@ -55,7 +55,8 @@
         sources: [
           ["OFAC Recent Actions", "https://ofac.treasury.gov/recent-actions"],
           ["Treasury Press Releases", "https://home.treasury.gov/news/press-releases"],
-          ["FinCEN Press Releases", "https://www.fincen.gov/news/press-releases"]
+          ["FinCEN Press Releases", "https://www.fincen.gov/news/press-releases"],
+          ["FATF News & Publications", "https://www.fatf-gafi.org/en/the-fatf/news.html"]
         ]
       },
       { id: "irs",      title: "Taxes (IRS)", keys: ["IRS"], accent: "#16a34a",
@@ -79,6 +80,11 @@
           ["FRB Press Releases", "https://www.federalreserve.gov/newsevents/pressreleases.htm"]
         ]
       },
+      { id: "intlbanking", title: "International Banking &amp; Standards", keys: ["International Banking"], accent: "#2563eb",
+        sources: [
+          ["Bank for International Settlements", "https://www.bis.org/"]
+        ]
+      },
       { id: "mortgage", title: "Mortgage (MPF / GSE)", keys: ["Mortgage"], accent: "#16a34a",
         sources: [
           ["FHLB MPF News", "https://www.fhlbmpf.com/program-guidelines/mpf-program-updates"],
@@ -91,6 +97,11 @@
       { id: "fedreg",   title: "Federal Register", keys: ["Federal Register"], accent: "#2563eb",
         sources: [
           ["Federal Register", "https://www.federalregister.gov/"]
+        ]
+      },
+      { id: "reginfo", title: "OIRA Regulatory Review (RegInfo.gov)", keys: ["Regulatory Review"], accent: "#16a34a",
+        sources: [
+          ["RegInfo.gov EO 12866 Review", "https://www.reginfo.gov/public/do/eoPackageMain"]
         ]
       },
 
@@ -153,6 +164,10 @@
             if (lower === "ofac, sanctions & aml" || lower === "ofac sanctions & aml") return "OFAC";
       if (lower === "fincen") return "OFAC";
       if (lower === "treasury") return "OFAC";
+      if (lower === "fatf") return "OFAC";
+
+      if (lower === "bis") return "International Banking";
+      if (lower === "reginfo.gov" || lower === "reginfo") return "Regulatory Review";
 
 if (lower === "fintech watch" || lower === "fintech") return "Fintech Watch";
 
