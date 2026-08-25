@@ -34,7 +34,7 @@ RAW_MD_PATH = f"{RAW_DIR}/items.md"
 RAW_TXT_PATH = f"{RAW_DIR}/items.txt"
 RAW_NDJSON_PATH = f"{RAW_DIR}/items.ndjson"
 RAW_ARRAY_JSON_PATH = f"{RAW_DIR}/items-array.json"
-RAW_SMART_100_ARRAY_JSON_PATH = f"{RAW_DIR}/items-smart-100.json"
+RAW_SMART_100_ARRAY_JSON_PATH = f"{RAW_DIR}/items-smart-100.json"  # existing Power Automate endpoint; now carries 150 items
 RAW_ROBOTS_PATH = f"{RAW_DIR}/robots.txt"
 RAW_SITEMAP_PATH = f"{RAW_DIR}/sitemap.xml"
 
@@ -5022,7 +5022,7 @@ KNOWN_FEEDS: Dict[str, List[str]] = {
     "TCS": ["http://feeds2.feedburner.com/tcspress"],
 
     # BIS publishes an official RSS feed for the entire BIS website. Main-site
-    # inclusion remains date-based; Smart 100 decides relevance later.
+    # inclusion remains date-based; the Smart feed decides relevance later.
     "BIS": [
         "https://www.bis.org/doclist/rss_all_categories.rss",
         "https://www.bis.org/doclist/all_pressrels.rss",
@@ -5626,7 +5626,7 @@ def render_print_html(payload: Dict[str, Any]) -> str:
 # POWER AUTOMATE SMART EXPORT FILTERS
 # ============================
 
-SMART_100_LIMIT = 100
+SMART_100_LIMIT = 150  # keep the existing items-smart-100.json endpoint, but expand it to 150 items
 
 SMART_SOURCE_WEIGHTS: Dict[str, int] = {
     "CFPB": 38,
@@ -5818,7 +5818,7 @@ def smart_relevance_score(item: Dict[str, Any]) -> int:
 
 
 def _smart_published_sort_value(item: Dict[str, Any]) -> datetime:
-    """Return a safe UTC datetime for Smart 100 final date ordering."""
+    """Return a safe UTC datetime for Smart feed final date ordering."""
     dt = parse_date(str(item.get("published_at", "") or ""))
     if dt is None:
         return datetime.min.replace(tzinfo=timezone.utc)
@@ -5826,10 +5826,10 @@ def _smart_published_sort_value(item: Dict[str, Any]) -> datetime:
 
 
 def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -> List[Dict[str, Any]]:
-    """Return the best filtered Smart 100 items, then publish them in newest-first date order.
+    """Return the best filtered Smart items, then publish them in newest-first date order.
 
     Selection still uses the bank/fintech relevance score so the endpoint contains
-    the best 100 articles. Final output order and smart_index are based on
+    the best 150 articles. Final output order and smart_index are based on
     published_at descending so Power Automate can sort/display by smart_index and
     preserve date order.
     """
@@ -5841,7 +5841,7 @@ def smart_top_items(items: List[Dict[str, Any]], limit: int = SMART_100_LIMIT) -
         and not is_smart_supervisory_highlights(it)
     ]
 
-    # First choose the best 100 by relevance.
+    # First choose the best 150 by relevance.
     ranked_by_relevance = sorted(
         smart_pool,
         key=lambda it: (smart_relevance_score(it), _smart_published_sort_value(it)),
@@ -5999,7 +5999,7 @@ def dedupe_items_with_preference(items: List[Dict[str, Any]]) -> Tuple[List[Dict
     Main-dashboard inclusion is deliberately *not* based on title similarity,
     keywords, relevance, quarterly status, enforcement status, or other content
     qualifiers. If two dated articles have different URLs, both remain on the
-    main site even when their titles are identical. Smart 100 owns filtering.
+    main site even when their titles are identical. the Smart feed owns filtering.
     """
     dropped: List[Dict[str, str]] = []
 
@@ -6301,9 +6301,10 @@ def build() -> None:
     with open(RAW_ARRAY_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(payload.get("items", []), f, ensure_ascii=False, indent=2)
 
-    # Power Automate smart feed: same JSON array format as items-array.json,
-    # ranked and limited to the 100 most bank/fintech-relevant items. Each
-    # object includes smart_index so flows can preserve the intended sequence.
+    # Power Automate smart feed: KEEP the existing items-smart-100.json URL.
+    # The filename is intentionally unchanged for existing flows, while the feed
+    # now contains up to 150 ranked bank/fintech-relevant items. Each object
+    # includes smart_index so flows can preserve the intended sequence.
     with open(RAW_SMART_100_ARRAY_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(smart_items, f, ensure_ascii=False, indent=2)
         
@@ -6314,7 +6315,7 @@ def build() -> None:
         
     print(
         f"\n[ok] wrote {OUT_PATH} with {len(items)} items | detail fetches: {global_detail_fetches}\n"
-        f"[ok] wrote raw exports: {RAW_HTML_PATH}, {RAW_MD_PATH}, {RAW_TXT_PATH}, {RAW_NDJSON_PATH}, {RAW_ARRAY_JSON_PATH}, {RAW_SMART_100_ARRAY_JSON_PATH}\n"
+        f"[ok] wrote raw exports: {RAW_HTML_PATH}, {RAW_MD_PATH}, {RAW_TXT_PATH}, {RAW_NDJSON_PATH}, {RAW_ARRAY_JSON_PATH}, {RAW_SMART_100_ARRAY_JSON_PATH} (150 items, existing endpoint)\n"
         f"[ok] wrote print export: {PRINT_HTML_PATH}\n"
         f"[ok] wrote crawler hints: {RAW_ROBOTS_PATH}, {RAW_SITEMAP_PATH}",
         flush=True,

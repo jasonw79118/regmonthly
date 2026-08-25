@@ -1,0 +1,12 @@
+RegMonthly Smart Feed Update
+============================
+
+Power Automate endpoint is unchanged:
+  docs/raw/items-smart-100.json
+
+Behavior change:
+- items-smart-100.json now contains up to 150 Smart-ranked articles.
+- The filename/URL remains items-smart-100.json so existing Power Automate flows do not need to change.
+- No items-smart-150.json endpoint is generated or advertised.
+- smart_index runs 1 through 150 when at least 150 qualifying articles are available.
+- Main dashboard article collection rules are unchanged.

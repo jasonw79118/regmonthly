@@ -3,10 +3,10 @@ Date: 2026-08-24
 
 Goal implemented
 - Main dashboard: an actual article/review/document qualifies by publication/review date in the RegMonthly window. No relevance/title/quarterly/enforcement qualification is applied to the main dataset.
-- Smart 100 JSON: remains the relevance/filtering layer.
+- Smart JSON: remains the relevance/filtering layer; existing items-smart-100.json URL now carries up to 150 items.
 
 Root causes found and fixed
-1. Main dataset was globally running exclude_quarterly(). Removed that call; quarterly is now filtered only in Smart 100.
+1. Main dataset was globally running exclude_quarterly(). Removed that call; quarterly is now filtered only in the Smart feed.
 2. Same-source, same-day normalized-title dedupe could drop a distinct article at a different URL. Removed title-based dedupe. Main dedupe now collapses only true same-source canonical-URL duplicates plus non-article landing/navigation pages.
 3. Date extraction did not support day-month-year dates such as "16 July 2026". Added DMY support.
 4. FATF pages can contain unrelated dated links before the article content. Added FATF article-region date confirmation and forced detail-date confirmation for captured FATF items.
@@ -14,7 +14,7 @@ Root causes found and fixed
 6. FATF was not registered. Added FATF News and Publications collection plus dashboard source mapping.
 7. RegInfo.gov was not registered. Added its official EO 12866 XML feeds for pending reviews and completed YTD reviews, with dated records mapped to a new Regulatory Review tile.
 8. Federal Register was pre-filtered by banking topics/agencies before it reached the main dashboard. Added an all-documents date-window API pull. Optional agency/type tags remain for UI filtering.
-9. Federal Register and RegInfo.gov base Smart weights were lowered so the much broader main feed does not automatically crowd Smart 100 with unrelated records.
+9. Federal Register and RegInfo.gov base Smart weights were lowered so the much broader main feed does not automatically crowd the Smart feed with unrelated records.
 
 Validation performed
 - Python syntax compilation passed.
@@ -61,3 +61,9 @@ Validation performed
 - Synthetic BIS year-sitemap test correctly excluded an old speech and included three target-month BIS records based on confirmed detail-page dates.
 
 Run the Monthly Build workflow again after pushing this version so docs/data/items.json is regenerated from the live sources.
+
+SMART 150 UPDATE — 2026-08-25
+- Smart relevance export cap increased from 100 to 150.
+- Power Automate endpoint remains: docs/raw/items-smart-100.json
+- That existing file now carries up to 150 Smart-ranked items; no flow URL change is required.
+- No change to main-dashboard inclusion logic.
