@@ -1,13 +1,19 @@
 # RegDashboard — Export
 
 Window: `2026-06-30T05:00:00Z` → `2026-08-01T05:00:00Z` (UTC)
-Last updated: `2026-08-25T14:18:47-05:00` (CT) — `2026-08-25T19:18:47Z` (UTC)
+Last updated: `2026-08-26T08:11:27-05:00` (CT) — `2026-08-26T13:11:27Z` (UTC)
 
 ## Warren Statement on Trump Media API Launch
 - Source: Senate Banking
 - Category: Legislative
 - Published: 2026-08-01T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-media-api-launch
+
+## To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products
+- Source: White House
+- Category: Executive
+- Published: 2026-07-31T21:00:00Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/
 
 ## Press Release: Joint Statement of Enforcement Policy in support of Venezuela’s Economic Recovery and Earthquake Relief Efforts
 - Source: FDIC
@@ -178,6 +184,54 @@ FDIC today published a list of orders of administrative enforcement actions take
 - Category: Payments
 - Published: 2026-07-31T00:00:00Z
 - URL: https://www.nacha.org/news/how-some-rdfis-review-customer-written-statements-unauthorized-debits-first-party-fraud
+
+## Substances Generally Recognized as Safe
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-31T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AJ02&regmonthly_date=2026-07-31&regmonthly_mode=completed
+
+OIRA review completed | RIN 0910-AJ02 | 0910 | Proposed Rule
+
+## Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals; the Long-Term Care Hospital Prospective Payment System; and FY 2027 Rates (CMS-1849)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-31T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV79&regmonthly_date=2026-07-31&regmonthly_mode=completed
+
+OIRA review completed | RIN 0938-AV79 | 0938 | Final Rule
+
+## Modernize the Head Start Program by Reducing Requirements and Enhancing Alignment with State and Local Systems
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-31T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD30&regmonthly_date=2026-07-31&regmonthly_mode=completed
+
+OIRA review completed | RIN 0970-AD30 | 0970 | Proposed Rule
+
+## Community Reinvestment Act Regulations
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-31T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1557-AF57&regmonthly_date=2026-07-31&regmonthly_mode=completed
+
+OIRA review completed | RIN 1557-AF57 | 1557 | Proposed Rule
+
+## Energy Conservation Program: Test Procedures for Commercial Warm Air Furnaces
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-31T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1904-AG06&regmonthly_date=2026-07-31&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1904-AG06 | 1904 | Final Rule
+
+## Employment in the Excepted Service
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-31T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO92&regmonthly_date=2026-07-31&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3206-AO92 | 3206 | Proposed Rule
 
 ## Continuation of the National Emergency With Respect to Lebanon
 - Source: Federal Register
@@ -1305,53 +1359,23 @@ In accordance with the Paperwork Reduction Act of 1995, FAA invites public comme
 
 In accordance with the Paperwork Reduction Act of 1995 (PRA), the U.S. Geological Survey (USGS) is proposing to renew an information collection.
 
-## Substances Generally Recognized as Safe
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AJ02&regmonthly_date=2026-07-31&regmonthly_mode=completed
+## Fact Sheet: President Donald J. Trump Delegates Defense Production Act Authority with Respect to Recoverable Critical Minerals and Materials That Are Essential to Our National Defense
+- Source: White House
+- Category: Executive
+- Published: 2026-07-30T20:34:56Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/
 
-OIRA review completed | RIN 0910-AJ02 | 0910 | Proposed Rule
+## Presidential Permit: Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas
+- Source: White House
+- Category: Executive
+- Published: 2026-07-30T20:34:13Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/presidential-permit-authorizing-cameron-county-texas-to-own-operate-and-maintain-the-brownsville-and-matamoros-bridge-in-brownsville-texas/
 
-## Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals; the Long-Term Care Hospital Prospective Payment System; and FY 2027 Rates (CMS-1849)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV79&regmonthly_date=2026-07-31&regmonthly_mode=completed
-
-OIRA review completed | RIN 0938-AV79 | 0938 | Final Rule
-
-## Modernize the Head Start Program by Reducing Requirements and Enhancing Alignment with State and Local Systems
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD30&regmonthly_date=2026-07-31&regmonthly_mode=completed
-
-OIRA review completed | RIN 0970-AD30 | 0970 | Proposed Rule
-
-## Community Reinvestment Act Regulations
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1557-AF57&regmonthly_date=2026-07-31&regmonthly_mode=completed
-
-OIRA review completed | RIN 1557-AF57 | 1557 | Proposed Rule
-
-## Energy Conservation Program: Test Procedures for Commercial Warm Air Furnaces
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1904-AG06&regmonthly_date=2026-07-31&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1904-AG06 | 1904 | Final Rule
-
-## Employment in the Excepted Service
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-31T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO92&regmonthly_date=2026-07-31&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3206-AO92 | 3206 | Proposed Rule
+## Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials
+- Source: White House
+- Category: Executive
+- Published: 2026-07-30T20:33:26Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/
 
 ## Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank
 - Source: FRB
@@ -1518,6 +1542,62 @@ The monthly summary report contains information about Fannie Mae’s monthly and
 - URL: https://www.aba.com/banking-topics/risk-management/elder-financial-exploitation
 
 This webpage provides resources to help bankers better understand elder financial exploitation (EFE).
+
+## FY 2027 Hospice Wage Index, Payment Rate Update, and Quality Reporting Requirements (CMS-1851)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-30T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV78&regmonthly_date=2026-07-30&regmonthly_mode=completed
+
+OIRA review completed | RIN 0938-AV78 | 0938 | Final Rule
+
+## Civil Money Penalty for Actions in Contempt of an Immigration Judge's Proper Exercise of Authority
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-30T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1125-AB02&regmonthly_date=2026-07-30&regmonthly_mode=completed
+
+OIRA review completed | RIN 1125-AB02 | 1125 | Proposed Rule
+
+## Visas: Visa Bond Program
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-30T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG33&regmonthly_date=2026-07-30&regmonthly_mode=completed
+
+OIRA review completed | RIN 1400-AG33 | 1400 | Final Rule
+
+## Mandatory Electronic Filing (e-Filing)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-30T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD19&regmonthly_date=2026-07-30&regmonthly_mode=completed
+
+OIRA review completed | RIN 1615-AD19 | 1615 | Interim Final Rule
+
+## Dole State and Tribal Outreach Grant Program
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-30T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2900-AS68&regmonthly_date=2026-07-30&regmonthly_mode=completed
+
+OIRA review completed | RIN 2900-AS68 | 2900 | Proposed Rule
+
+## Streamlining Probationary and Trial Period Appeals
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-30T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO96&regmonthly_date=2026-07-30&regmonthly_mode=completed
+
+OIRA review completed | RIN 3206-AO96 | 3206 | Final Rule
+
+## National Petroleum Reserve in Alaska Production Site Development Rule
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-30T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF57&regmonthly_date=2026-07-30&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1004-AF57 | 1004 | Proposed Rule
 
 ## Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes
 - Source: Federal Register
@@ -2487,62 +2567,6 @@ The Corporation for National and Community Service, operating as AmeriCorps, has
 
 The North Pacific Fishery Management Council's (Council) Legislative Committee will meet on August 10, 2026.
 
-## FY 2027 Hospice Wage Index, Payment Rate Update, and Quality Reporting Requirements (CMS-1851)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV78&regmonthly_date=2026-07-30&regmonthly_mode=completed
-
-OIRA review completed | RIN 0938-AV78 | 0938 | Final Rule
-
-## Civil Money Penalty for Actions in Contempt of an Immigration Judge's Proper Exercise of Authority
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1125-AB02&regmonthly_date=2026-07-30&regmonthly_mode=completed
-
-OIRA review completed | RIN 1125-AB02 | 1125 | Proposed Rule
-
-## Visas: Visa Bond Program
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG33&regmonthly_date=2026-07-30&regmonthly_mode=completed
-
-OIRA review completed | RIN 1400-AG33 | 1400 | Final Rule
-
-## Mandatory Electronic Filing (e-Filing)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD19&regmonthly_date=2026-07-30&regmonthly_mode=completed
-
-OIRA review completed | RIN 1615-AD19 | 1615 | Interim Final Rule
-
-## Dole State and Tribal Outreach Grant Program
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2900-AS68&regmonthly_date=2026-07-30&regmonthly_mode=completed
-
-OIRA review completed | RIN 2900-AS68 | 2900 | Proposed Rule
-
-## Streamlining Probationary and Trial Period Appeals
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO96&regmonthly_date=2026-07-30&regmonthly_mode=completed
-
-OIRA review completed | RIN 3206-AO96 | 3206 | Final Rule
-
-## National Petroleum Reserve in Alaska Production Site Development Rule
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF57&regmonthly_date=2026-07-30&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1004-AF57 | 1004 | Proposed Rule
-
 ## Fed votes to hold rates, despite growing dissent
 - Source: TBA
 - Category: Compliance Watch
@@ -2642,6 +2666,110 @@ Adapted from comments delivered by Peter Akwaboah, Acting Chief Executive Office
 - Category: Legislative
 - Published: 2026-07-29T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts
+
+## Definitions of Gold Star Family and Gold Star Survivor
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0790-AL56&regmonthly_date=2026-07-29&regmonthly_mode=completed
+
+OIRA review completed | RIN 0790-AL56 | 0790 | Interim Final Rule
+
+## FY 2027 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Rate Update and Quality Reporting Program (CMS-1845)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV76&regmonthly_date=2026-07-29&regmonthly_mode=completed
+
+OIRA review completed | RIN 0938-AV76 | 0938 | Final Rule
+
+## FY 2027 Inpatient Psychiatric Facilities Prospective Payment System Rate and Quality Reporting Updates (CMS-1847)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV77&regmonthly_date=2026-07-29&regmonthly_mode=completed
+
+OIRA review completed | RIN 0938-AV77 | 0938 | Final Rule
+
+## Application for Relief from Disabilities Imposed by Federal Laws with Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1105-AB78&regmonthly_date=2026-07-29&regmonthly_mode=completed
+
+OIRA review completed | RIN 1105-AB78 | 1105 | Final Rule
+
+## Eligible Investments for Trump Accounts under Section 530A
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BS14&regmonthly_date=2026-07-29&regmonthly_mode=completed
+
+OIRA review completed | RIN 1545-BS14 | 1545 | Proposed Rule
+
+## Policy Statement Regarding Disparate-Impact Claims and "Unfair Discrimination" Claims
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3084-ZA01&regmonthly_date=2026-07-29&regmonthly_mode=completed
+
+OIRA review completed | RIN 3084-ZA01 | 3084 | Notice
+
+## Reduction in Force
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO86&regmonthly_date=2026-07-29&regmonthly_mode=completed
+
+OIRA review completed | RIN 3206-AO86 | 3206 | Final Rule
+
+## Suitability Action Appeals
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO97&regmonthly_date=2026-07-29&regmonthly_mode=completed
+
+OIRA review completed | RIN 3206-AO97 | 3206 | Final Rule
+
+## Reduction in Force Appeals
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO99&regmonthly_date=2026-07-29&regmonthly_mode=completed
+
+OIRA review completed | RIN 3206-AO99 | 3206 | Final Rule
+
+## Request for Information (RFI): Inviting Comments and Suggestions on the National Institute of Nursing Research (NINR) Strategic Plan for Fiscal Years 2027-2031
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA18&regmonthly_date=2026-07-29&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0925-ZA18 | 0925 | Notice
+
+## Rescinding the Burdensome Use Restrictions of Dedicated Accounts
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0960-AI92&regmonthly_date=2026-07-29&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0960-AI92 | 0960 | Proposed Rule
+
+## Implementation of the Homicide Victims' Families' Rights Act
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1105-AB70&regmonthly_date=2026-07-29&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1105-AB70 | 1105 | Final Rule
+
+## Interpretation of "Flammable Liquid Fuels" with Respect to Fuel Additives
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-29T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3041-AE27&regmonthly_date=2026-07-29&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3041-AE27 | 3041 | Final Rule
 
 ## Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits
 - Source: Federal Register
@@ -3249,110 +3377,6 @@ The Commission hereby gives notice of the termination of preliminary phase antid
 
 The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on certain chassis and subassemblies thereof (chassis) from the People's Republic of China (China) would likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the "Final Results of Sunset Review" section of this notice.
 
-## Definitions of Gold Star Family and Gold Star Survivor
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0790-AL56&regmonthly_date=2026-07-29&regmonthly_mode=completed
-
-OIRA review completed | RIN 0790-AL56 | 0790 | Interim Final Rule
-
-## FY 2027 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Rate Update and Quality Reporting Program (CMS-1845)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV76&regmonthly_date=2026-07-29&regmonthly_mode=completed
-
-OIRA review completed | RIN 0938-AV76 | 0938 | Final Rule
-
-## FY 2027 Inpatient Psychiatric Facilities Prospective Payment System Rate and Quality Reporting Updates (CMS-1847)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV77&regmonthly_date=2026-07-29&regmonthly_mode=completed
-
-OIRA review completed | RIN 0938-AV77 | 0938 | Final Rule
-
-## Application for Relief from Disabilities Imposed by Federal Laws with Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1105-AB78&regmonthly_date=2026-07-29&regmonthly_mode=completed
-
-OIRA review completed | RIN 1105-AB78 | 1105 | Final Rule
-
-## Eligible Investments for Trump Accounts under Section 530A
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BS14&regmonthly_date=2026-07-29&regmonthly_mode=completed
-
-OIRA review completed | RIN 1545-BS14 | 1545 | Proposed Rule
-
-## Policy Statement Regarding Disparate-Impact Claims and "Unfair Discrimination" Claims
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3084-ZA01&regmonthly_date=2026-07-29&regmonthly_mode=completed
-
-OIRA review completed | RIN 3084-ZA01 | 3084 | Notice
-
-## Reduction in Force
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO86&regmonthly_date=2026-07-29&regmonthly_mode=completed
-
-OIRA review completed | RIN 3206-AO86 | 3206 | Final Rule
-
-## Suitability Action Appeals
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO97&regmonthly_date=2026-07-29&regmonthly_mode=completed
-
-OIRA review completed | RIN 3206-AO97 | 3206 | Final Rule
-
-## Reduction in Force Appeals
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO99&regmonthly_date=2026-07-29&regmonthly_mode=completed
-
-OIRA review completed | RIN 3206-AO99 | 3206 | Final Rule
-
-## Request for Information (RFI): Inviting Comments and Suggestions on the National Institute of Nursing Research (NINR) Strategic Plan for Fiscal Years 2027-2031
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA18&regmonthly_date=2026-07-29&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0925-ZA18 | 0925 | Notice
-
-## Rescinding the Burdensome Use Restrictions of Dedicated Accounts
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0960-AI92&regmonthly_date=2026-07-29&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0960-AI92 | 0960 | Proposed Rule
-
-## Implementation of the Homicide Victims' Families' Rights Act
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1105-AB70&regmonthly_date=2026-07-29&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1105-AB70 | 1105 | Final Rule
-
-## Interpretation of "Flammable Liquid Fuels" with Respect to Fuel Additives
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3041-AE27&regmonthly_date=2026-07-29&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3041-AE27 | 3041 | Final Rule
-
 ## Chromium: CVE-2026-13037 Use after free in WebView
 - Source: Microsoft MSRC
 - Category: IS
@@ -3700,6 +3724,70 @@ IR-2026-84, July 28, 2026 — The Internal Revenue Service today highlighted the
 - Category: Payment Card Networks
 - Published: 2026-07-28T00:00:00Z
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
+
+## Notice Regarding 340B Rebate Model Pilot Program
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0906-ZA23&regmonthly_date=2026-07-28&regmonthly_mode=completed
+
+OIRA review completed | RIN 0906-ZA23 | 0906 | Prerule
+
+## FY 2027 Skilled Nursing Facility (SNFs) Prospective Payment System and Consolidated Billing and Updates to the Value-Based Purchasing and Quality Reporting Programs (CMS-1843)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV75&regmonthly_date=2026-07-28&regmonthly_mode=completed
+
+OIRA review completed | RIN 0938-AV75 | 0938 | Final Rule
+
+## Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization and Competitive Bidding Programs; ET Docket No. 21-232, EA Docket No. 21-233
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AL23&regmonthly_date=2026-07-28&regmonthly_mode=completed
+
+OIRA review completed | RIN 3060-AL23 | 3060 | Final Rule
+
+## Space Modernization for the 21st Century (SB Docket No. 25.306)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM19&regmonthly_date=2026-07-28&regmonthly_mode=completed
+
+OIRA review completed | RIN 3060-AM19 | 3060 | Final Rule
+
+## Nonclinical Testing Terminology
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AJ27&regmonthly_date=2026-07-28&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0910-AJ27 | 0910 | Final Rule
+
+## Health Data, Technology, and Interoperability: ASTP/ONC Deregulatory Actions to Unleash Prosperity
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0955-AA09&regmonthly_date=2026-07-28&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0955-AA09 | 0955 | Final Rule
+
+## Reforming Federal Reporting and Assessments in Child Welfare
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD32&regmonthly_date=2026-07-28&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0970-AD32 | 0970 | Interim Final Rule
+
+## Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3010-AA10&regmonthly_date=2026-07-28&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3010-AA10 | 3010 | Proposed Rule
 
 ## Actions by the United States in the Investigations Under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy To Impose and Effectively Enforce…
 - Source: Federal Register
@@ -4345,78 +4433,6 @@ The Food and Drug Administration (FDA, Agency, or we) is announcing an opportuni
 
 The Food and Drug Administration (FDA) is amending a notice entitled "Fee Rate for Using a Priority Review Voucher in Fiscal Year 2026" that appeared in the Federal Register on September 18, 2025. The notice established the FY 2026 priority review fee rate applicable to submission of eligible applications for review of human drug or biological products using a rare pediatric d…
 
-## Notice Regarding 340B Rebate Model Pilot Program
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0906-ZA23&regmonthly_date=2026-07-28&regmonthly_mode=completed
-
-OIRA review completed | RIN 0906-ZA23 | 0906 | Prerule
-
-## FY 2027 Skilled Nursing Facility (SNFs) Prospective Payment System and Consolidated Billing and Updates to the Value-Based Purchasing and Quality Reporting Programs (CMS-1843)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV75&regmonthly_date=2026-07-28&regmonthly_mode=completed
-
-OIRA review completed | RIN 0938-AV75 | 0938 | Final Rule
-
-## Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization and Competitive Bidding Programs; ET Docket No. 21-232, EA Docket No. 21-233
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AL23&regmonthly_date=2026-07-28&regmonthly_mode=completed
-
-OIRA review completed | RIN 3060-AL23 | 3060 | Final Rule
-
-## Space Modernization for the 21st Century (SB Docket No. 25.306)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM19&regmonthly_date=2026-07-28&regmonthly_mode=completed
-
-OIRA review completed | RIN 3060-AM19 | 3060 | Final Rule
-
-## Nonclinical Testing Terminology
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AJ27&regmonthly_date=2026-07-28&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0910-AJ27 | 0910 | Final Rule
-
-## Health Data, Technology, and Interoperability: ASTP/ONC Deregulatory Actions to Unleash Prosperity
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0955-AA09&regmonthly_date=2026-07-28&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0955-AA09 | 0955 | Final Rule
-
-## Reforming Federal Reporting and Assessments in Child Welfare
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD32&regmonthly_date=2026-07-28&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0970-AD32 | 0970 | Interim Final Rule
-
-## International Traffic in Arms Regulations: Clarifying Policies of Denial, Updating the Major Non-NATO Ally List, and Minor Corrections
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG31&regmonthly_date=2026-07-28&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1400-AG31 | 1400 | Final Rule
-
-## Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3010-AA10&regmonthly_date=2026-07-28&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3010-AA10 | 3010 | Proposed Rule
-
 ## Presidential Message on National Korean War Veterans Armistice Day
 - Source: White House
 - Category: Executive
@@ -4538,6 +4554,78 @@ Information published.
 - Category: Payments
 - Published: 2026-07-27T00:00:00Z
 - URL: https://www.nacha.org/news/three-new-nacha-rules-approved
+
+## Fish and Fish Product Import Provisions of the Marine Mammal Protection Act
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-27T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BO43&regmonthly_date=2026-07-27&regmonthly_mode=completed
+
+OIRA review completed | RIN 0648-BO43 | 0648 | Prerule
+
+## Request for Information: Inviting Input on NIDA's Strategic Plan for 2027-2031
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-27T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA11&regmonthly_date=2026-07-27&regmonthly_mode=completed
+
+OIRA review completed | RIN 0925-ZA11 | 0925 | Notice
+
+## International Traffic in Arms Regulations: Modification of Civil Aircraft to Incorporate Aircraft Survivability Equipment.
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-27T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG17&regmonthly_date=2026-07-27&regmonthly_mode=completed
+
+OIRA review completed | RIN 1400-AG17 | 1400 | Final Rule
+
+## Transparency in Coverage (CMS-9882)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-27T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV64&regmonthly_date=2026-07-27&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0938-AV64 | 0938 | Final Rule
+
+## Conditions on the Preparation of Ballot Mail for Federal Elections
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-27T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3210-AA00&regmonthly_date=2026-07-27&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3210-AA00 | 3210 | Final Rule
+
+## Federal Acquisition Regulation (FAR); FAR Case 2026-010, Revolutionary Federal Acquisition Regulation Overhaul parts 14, 28, and 36.
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-27T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO83&regmonthly_date=2026-07-27&regmonthly_mode=pending
+
+Pending OIRA review | RIN 9000-AO83 | 9000 | Proposed Rule
+
+## Federal Acquisition Regulation (FAR); FAR Case 2026-011, Revolutionary Federal Acquisition Regulation Overhaul parts 9, 27, and 47.
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-27T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO84&regmonthly_date=2026-07-27&regmonthly_mode=pending
+
+Pending OIRA review | RIN 9000-AO84 | 9000 | Proposed Rule
+
+## Federal Acquisition Regulation (FAR); FAR Case 2026-003, Revolutionary Federal Acquisition Regulation Overhaul parts 8, 12, 13, 15, 38, 44, and 51.
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-27T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO88&regmonthly_date=2026-07-27&regmonthly_mode=pending
+
+Pending OIRA review | RIN 9000-AO88 | 9000 | Proposed Rule
+
+## Federal Acquisition Regulation (FAR); FAR Case 2026-006, Revolutionary Federal Acquisition Regulation Overhaul parts 16, 17, and 35.
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-27T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO91&regmonthly_date=2026-07-27&regmonthly_mode=pending
+
+Pending OIRA review | RIN 9000-AO91 | 9000 | Proposed Rule
 
 ## Sunshine Act Meetings
 - Source: Federal Register
@@ -5245,78 +5333,6 @@ Notice is hereby given that ABR, Inc. Environmental Research and Services, P.O. 
 
 An open meeting of the Taxpayer Advocacy Panel's Joint Committee will be conducted. The Taxpayer Advocacy Panel is soliciting public comments, ideas, and suggestions to improve customer service at the Internal Revenue Service. This meeting will be held as a virtual video conference via the Microsoft Teams platform.
 
-## Fish and Fish Product Import Provisions of the Marine Mammal Protection Act
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-27T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BO43&regmonthly_date=2026-07-27&regmonthly_mode=completed
-
-OIRA review completed | RIN 0648-BO43 | 0648 | Prerule
-
-## Request for Information: Inviting Input on NIDA's Strategic Plan for 2027-2031
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-27T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA11&regmonthly_date=2026-07-27&regmonthly_mode=completed
-
-OIRA review completed | RIN 0925-ZA11 | 0925 | Notice
-
-## International Traffic in Arms Regulations: Modification of Civil Aircraft to Incorporate Aircraft Survivability Equipment.
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-27T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG17&regmonthly_date=2026-07-27&regmonthly_mode=completed
-
-OIRA review completed | RIN 1400-AG17 | 1400 | Final Rule
-
-## Transparency in Coverage (CMS-9882)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-27T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV64&regmonthly_date=2026-07-27&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0938-AV64 | 0938 | Final Rule
-
-## Conditions on the Preparation of Ballot Mail for Federal Elections
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-27T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3210-AA00&regmonthly_date=2026-07-27&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3210-AA00 | 3210 | Final Rule
-
-## Federal Acquisition Regulation (FAR); FAR Case 2026-010, Revolutionary Federal Acquisition Regulation Overhaul parts 14, 28, and 36.
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-27T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO83&regmonthly_date=2026-07-27&regmonthly_mode=pending
-
-Pending OIRA review | RIN 9000-AO83 | 9000 | Proposed Rule
-
-## Federal Acquisition Regulation (FAR); FAR Case 2026-011, Revolutionary Federal Acquisition Regulation Overhaul parts 9, 27, and 47.
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-27T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO84&regmonthly_date=2026-07-27&regmonthly_mode=pending
-
-Pending OIRA review | RIN 9000-AO84 | 9000 | Proposed Rule
-
-## Federal Acquisition Regulation (FAR); FAR Case 2026-003, Revolutionary Federal Acquisition Regulation Overhaul parts 8, 12, 13, 15, 38, 44, and 51.
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-27T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO88&regmonthly_date=2026-07-27&regmonthly_mode=pending
-
-Pending OIRA review | RIN 9000-AO88 | 9000 | Proposed Rule
-
-## Federal Acquisition Regulation (FAR); FAR Case 2026-006, Revolutionary Federal Acquisition Regulation Overhaul parts 16, 17, and 35.
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-27T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO91&regmonthly_date=2026-07-27&regmonthly_mode=pending
-
-Pending OIRA review | RIN 9000-AO91 | 9000 | Proposed Rule
-
 ## Chromium: CVE-2026-16807 Out of bounds write in Codecs
 - Source: Microsoft MSRC
 - Category: IS
@@ -5348,6 +5364,18 @@ This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromiu
 - URL: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-16804
 
 This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.
+
+## Restoring Trust in the Smithsonian Institution
+- Source: White House
+- Category: Executive
+- Published: 2026-07-24T20:19:11Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/
+
+## Fact Sheet: President Donald J. Trump Restores Trust in the Smithsonian Institution
+- Source: White House
+- Category: Executive
+- Published: 2026-07-24T19:11:24Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-restores-trust-in-the-smithsonian-institution/
 
 ## CVE-2026-48561 Microsoft Edge Copilot Remote Code Execution Vulnerability
 - Source: Microsoft MSRC
@@ -5414,6 +5442,38 @@ ABA, CBA Urge Federal Reserve to Strengthen Safeguards for Proposed Payment Acco
 - Category: Legislative
 - Published: 2026-07-24T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411214
+
+## Biosimilar and Interchangeable Biosimilar Products: Considerations for Container Closure Systems and Device Constituent Parts; Draft Guidance for Industry; Availability
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-24T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD12&regmonthly_date=2026-07-24&regmonthly_mode=completed
+
+OIRA review completed | RIN 0910-ZD12 | 0910 | Notice
+
+## NIH Is Replacing Letters of Support with Letters of Collaboration to Reduce Administrative Burden
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-24T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA15&regmonthly_date=2026-07-24&regmonthly_mode=completed
+
+OIRA review completed | RIN 0925-ZA15 | 0925 | Notice
+
+## English Language Proficiency, Out of Service Criteria
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-24T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2126-AC99&regmonthly_date=2026-07-24&regmonthly_mode=completed
+
+OIRA review completed | RIN 2126-AC99 | 2126 | Proposed Rule
+
+## Upper C-band (3.98–4.2 GHz) (GN Docket No. 25-59)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-24T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM20&regmonthly_date=2026-07-24&regmonthly_mode=completed
+
+OIRA review completed | RIN 3060-AM20 | 3060 | Final Rule
 
 ## Amendment of Class D Airspace and Class E Airspace Over Westfield, MA
 - Source: Federal Register
@@ -6037,37 +6097,11 @@ The Office of Personnel Management (OPM) offers the general public the opportuni
 
 The Maritime Administration (MARAD) announces the final public hearing for the ST LNG Deepwater Port Development Project (ST LNG) Deepwater Port license application for the export of liquefied natural gas (LNG) from the United States to nations abroad. The ST LNG Deepwater Port license application describes a project located approximately 10.4 nautical miles (19.2 kilometers)…
 
-## Biosimilar and Interchangeable Biosimilar Products: Considerations for Container Closure Systems and Device Constituent Parts; Draft Guidance for Industry; Availability
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-24T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD12&regmonthly_date=2026-07-24&regmonthly_mode=completed
-
-OIRA review completed | RIN 0910-ZD12 | 0910 | Notice
-
-## NIH Is Replacing Letters of Support with Letters of Collaboration to Reduce Administrative Burden
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-24T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA15&regmonthly_date=2026-07-24&regmonthly_mode=completed
-
-OIRA review completed | RIN 0925-ZA15 | 0925 | Notice
-
-## English Language Proficiency, Out of Service Criteria
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-24T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2126-AC99&regmonthly_date=2026-07-24&regmonthly_mode=completed
-
-OIRA review completed | RIN 2126-AC99 | 2126 | Proposed Rule
-
-## Upper C-band (3.98–4.2 GHz) (GN Docket No. 25-59)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-24T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM20&regmonthly_date=2026-07-24&regmonthly_mode=completed
-
-OIRA review completed | RIN 3060-AM20 | 3060 | Final Rule
+## Actions by the United States in the Investigations under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy to Impose and Effectively Enforce…
+- Source: White House
+- Category: Executive
+- Published: 2026-07-23T22:48:44Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and/
 
 ## CVE-2026-62835 Online Services Information Disclosure Vulnerability
 - Source: Microsoft MSRC
@@ -6580,6 +6614,54 @@ Information published.
 - Category: Legislative
 - Published: 2026-07-23T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-delivers-remarks-at-hearing-of-trump-cfpb-nominee-brian-johnson
+
+## Streamlining Export Controls for Drone Exports
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-23T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK30&regmonthly_date=2026-07-23&regmonthly_mode=completed
+
+OIRA review completed | RIN 0694-AK30 | 0694 | Final Rule
+
+## Use of Salt Substitutes to Reduce the Sodium Content in Standardized Foods
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-23T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI72&regmonthly_date=2026-07-23&regmonthly_mode=completed
+
+OIRA review completed | RIN 0910-AI72 | 0910 | Final Rule
+
+## Rescission of Executive Order 11246 Implementing Regulations
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-23T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1250-AA17&regmonthly_date=2026-07-23&regmonthly_mode=completed
+
+OIRA review completed | RIN 1250-AA17 | 1250 | Final Rule
+
+## Revision of Regulations Related to Nondiscrimination in Federally Assisted Programs of the National Science Foundation
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-23T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3145-AA74&regmonthly_date=2026-07-23&regmonthly_mode=completed
+
+OIRA review completed | RIN 3145-AA74 | 3145 | Final Rule
+
+## Automatic Registration
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-23T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3240-AA09&regmonthly_date=2026-07-23&regmonthly_mode=completed
+
+OIRA review completed | RIN 3240-AA09 | 3240 | Proposed Rule
+
+## Improving Transparency into Pharmacy Benefit Manager Fee Disclosure
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-23T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-AB37&regmonthly_date=2026-07-23&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1210-AB37 | 1210 | Final Rule
 
 ## Continuation of the National Emergency With Respect to Mali
 - Source: Federal Register
@@ -7511,54 +7593,6 @@ The Department of Labor (DOL) is submitting this Bureau of Labor Statistics (BLS
 - Published: 2026-07-23T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/07/23/2026-14825/foreign-trade-zone-ftz-204-authorization-of-production-activity-eastman-chemical-company-paraxylene
 
-## Streamlining Export Controls for Drone Exports
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-23T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK30&regmonthly_date=2026-07-23&regmonthly_mode=completed
-
-OIRA review completed | RIN 0694-AK30 | 0694 | Final Rule
-
-## Use of Salt Substitutes to Reduce the Sodium Content in Standardized Foods
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-23T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI72&regmonthly_date=2026-07-23&regmonthly_mode=completed
-
-OIRA review completed | RIN 0910-AI72 | 0910 | Final Rule
-
-## Rescission of Executive Order 11246 Implementing Regulations
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-23T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1250-AA17&regmonthly_date=2026-07-23&regmonthly_mode=completed
-
-OIRA review completed | RIN 1250-AA17 | 1250 | Final Rule
-
-## Revision of Regulations Related to Nondiscrimination in Federally Assisted Programs of the National Science Foundation
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-23T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3145-AA74&regmonthly_date=2026-07-23&regmonthly_mode=completed
-
-OIRA review completed | RIN 3145-AA74 | 3145 | Final Rule
-
-## Automatic Registration
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-23T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3240-AA09&regmonthly_date=2026-07-23&regmonthly_mode=completed
-
-OIRA review completed | RIN 3240-AA09 | 3240 | Proposed Rule
-
-## Improving Transparency into Pharmacy Benefit Manager Fee Disclosure
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-23T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-AB37&regmonthly_date=2026-07-23&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1210-AB37 | 1210 | Final Rule
-
 ## CVE-2026-50407 Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -7888,6 +7922,62 @@ ABA Welcomes House Financial Services Committee Report on Fraud and Scams
 - URL: https://www.aba.com/banking-topics/communications/social-media
 
 Social media is becoming an increasingly important topic in the banking space. ABA has resources and expertise to help you navigate and leverage this key communications platform for your bank.
+
+## Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-22T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BS19&regmonthly_date=2026-07-22&regmonthly_mode=completed
+
+OIRA review completed | RIN 1545-BS19 | 1545 | Proposed Rule
+
+## Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-22T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2130-AD65&regmonthly_date=2026-07-22&regmonthly_mode=completed
+
+OIRA review completed | RIN 2130-AD65 | 2130 | Proposed Rule
+
+## Federal Ship Financing Program Revision
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-22T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2133-AC05&regmonthly_date=2026-07-22&regmonthly_mode=completed
+
+OIRA review completed | RIN 2133-AC05 | 2133 | Proposed Rule
+
+## Endangered and Threatened Wildlife and Plants; Interagency Cooperation Regulations
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-22T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BN79&regmonthly_date=2026-07-22&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0648-BN79 | 0648 | Final Rule
+
+## Revision to Rules of Practice before the Patent Trial and Appeal Board
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-22T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0651-AD89&regmonthly_date=2026-07-22&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0651-AD89 | 0651 | Final Rule
+
+## Endangered and Threatened Wildlife and Plants; Interagency Cooperation
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-22T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BI75&regmonthly_date=2026-07-22&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1018-BI75 | 1018 | Final Rule
+
+## Modernizing the Commission's National Environmental Policy Act Rules (WT Docket No. 25-217)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-22T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM15&regmonthly_date=2026-07-22&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3060-AM15 | 3060 | Final Rule
 
 ## Methylene Chloride
 - Source: Federal Register
@@ -8851,67 +8941,23 @@ This Federal Register Notice (FRN) serves as notice of the proposed adoption of 
 
 The U.S. Nuclear Regulatory Commission (NRC) is issuing for public comment draft NUREG-1220, Revision 2, "Training Review Criteria and Procedures." This NUREG provides guidance to NRC staff for reviewing training programs at nuclear power plants to verify that they are developed and maintained using a Systems Approach to Training (SAT). It describes the review criteria and eva…
 
-## Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BS19&regmonthly_date=2026-07-22&regmonthly_mode=completed
-
-OIRA review completed | RIN 1545-BS19 | 1545 | Proposed Rule
-
-## Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2130-AD65&regmonthly_date=2026-07-22&regmonthly_mode=completed
-
-OIRA review completed | RIN 2130-AD65 | 2130 | Proposed Rule
-
-## Federal Ship Financing Program Revision
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2133-AC05&regmonthly_date=2026-07-22&regmonthly_mode=completed
-
-OIRA review completed | RIN 2133-AC05 | 2133 | Proposed Rule
-
-## Endangered and Threatened Wildlife and Plants; Interagency Cooperation Regulations
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BN79&regmonthly_date=2026-07-22&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0648-BN79 | 0648 | Final Rule
-
-## Revision to Rules of Practice before the Patent Trial and Appeal Board
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0651-AD89&regmonthly_date=2026-07-22&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0651-AD89 | 0651 | Final Rule
-
-## Endangered and Threatened Wildlife and Plants; Interagency Cooperation
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BI75&regmonthly_date=2026-07-22&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1018-BI75 | 1018 | Final Rule
-
-## Modernizing the Commission's National Environmental Policy Act Rules (WT Docket No. 25-217)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM15&regmonthly_date=2026-07-22&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3060-AM15 | 3060 | Final Rule
-
 ## Presidential Message on the Anniversary of the Liberation of Guam
 - Source: White House
 - Category: Executive
 - Published: 2026-07-21T21:30:51Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-liberation-of-guam/
+
+## Nominations Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-07-21T19:58:17Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-60e9/
+
+## Fact Sheet: President Donald J. Trump Announces Trade Deal with Jordan
+- Source: White House
+- Category: Executive
+- Published: 2026-07-21T15:56:03Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/
 
 ## AGREEMENT BETWEEN THE UNITED STATES OF AMERICA AND THE HASHEMITE KINGDOM OF JORDAN ON RECIPROCAL TRADE
 - Source: White House
@@ -9470,6 +9516,46 @@ ABA Applauds House Passage of Main Street Capital Access Act
 - Category: Legislative
 - Published: 2026-07-21T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411205
+
+## Determining Whether to Submit an ANDA or a 505(b)(2) Application; Draft Guidance for Industry; Availability
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD49&regmonthly_date=2026-07-21&regmonthly_mode=completed
+
+OIRA review completed | RIN 0910-ZD49 | 0910 | Notice
+
+## Amending the Indirect Hold Harmless Threshold of Health Care-Related Taxes (CMS-2452)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV93&regmonthly_date=2026-07-21&regmonthly_mode=completed
+
+OIRA review completed | RIN 0938-AV93 | 0938 | Proposed Rule
+
+## Black Lung Benefits Act: Authorization of Self Insurers
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1240-AA16&regmonthly_date=2026-07-21&regmonthly_mode=completed
+
+OIRA review completed | RIN 1240-AA16 | 1240 | Proposed Rule
+
+## Reducing Barriers to Medical Use Licensing [NRC-2025-1237]
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL50&regmonthly_date=2026-07-21&regmonthly_mode=completed
+
+OIRA review completed | RIN 3150-AL50 | 3150 | Proposed Rule
+
+## Modernizing Package Certification Requirements [NRC-2025-1667]
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL62&regmonthly_date=2026-07-21&regmonthly_mode=completed
+
+OIRA review completed | RIN 3150-AL62 | 3150 | Proposed Rule
 
 ## Order Sunsetting Certain Large Trader Reporting Requirements for Physical Commodity Swaps
 - Source: Federal Register
@@ -10143,51 +10229,77 @@ The Secretary of Homeland Security has determined, pursuant to law, that it is n
 
 Pursuant to the provisions of the Privacy Act of 1974 (5 U.S.C. 552a), the National Aeronautics and Space Administration is issuing public notice of its proposal to significantly alter a previously noticed system of records: Special Personnel Records/NASA 10SPER. This notice incorporates locations and NASA standard routine uses previously published separately from, and cited b…
 
-## Determining Whether to Submit an ANDA or a 505(b)(2) Application; Draft Guidance for Industry; Availability
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD49&regmonthly_date=2026-07-21&regmonthly_mode=completed
-
-OIRA review completed | RIN 0910-ZD49 | 0910 | Notice
-
-## Amending the Indirect Hold Harmless Threshold of Health Care-Related Taxes (CMS-2452)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV93&regmonthly_date=2026-07-21&regmonthly_mode=completed
-
-OIRA review completed | RIN 0938-AV93 | 0938 | Proposed Rule
-
-## Black Lung Benefits Act: Authorization of Self Insurers
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1240-AA16&regmonthly_date=2026-07-21&regmonthly_mode=completed
-
-OIRA review completed | RIN 1240-AA16 | 1240 | Proposed Rule
-
-## Reducing Barriers to Medical Use Licensing [NRC-2025-1237]
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL50&regmonthly_date=2026-07-21&regmonthly_mode=completed
-
-OIRA review completed | RIN 3150-AL50 | 3150 | Proposed Rule
-
-## Modernizing Package Certification Requirements [NRC-2025-1667]
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL62&regmonthly_date=2026-07-21&regmonthly_mode=completed
-
-OIRA review completed | RIN 3150-AL62 | 3150 | Proposed Rule
-
 ## Presidential Message on Space Exploration Day
 - Source: White House
 - Category: Executive
 - Published: 2026-07-20T23:06:31Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-space-exploration-day-8e77/
+
+## Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Motor Vehicles
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T21:00:00Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/
+
+## Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T21:00:00Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages/
+
+## Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Dairy
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T21:00:00Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/
+
+## Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T21:00:00Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/
+
+## Fact Sheet: President Donald J. Trump Takes Further Action To Adjust Imports Of Aluminum Into The United States
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T19:44:17Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-takes-further-action-to-adjust-imports-of-aluminum-into-the-united-states/
+
+## Further Strengthening Actions Taken to Adjust Imports of Aluminum into the United States
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T19:44:08Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/further-strengthening-actions-taken-to-adjust-imports-of-aluminum-into-the-united-states/
+
+## Fact Sheet: President Donald J. Trump Secures America’s Defense Supply Chains and Ensures Domestic Acquisition of Critical Materials
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T19:38:30Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-americas-defense-supply-chains-and-ensures-domestic-acquisition-of-critical-materials/
+
+## Securing America’s Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T19:38:18Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/
+
+## Nomination Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T19:37:49Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/nomination-sent-to-the-senate-4c22/
+
+## Captive Nations Week, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T19:33:45Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/captive-nations-week-2026/
+
+## Made in America Week, 2026
+- Source: White House
+- Category: Executive
+- Published: 2026-07-20T19:30:18Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/made-in-america-week-2026/
 
 ## CVE-2026-47302 .NET Denial of Service Vulnerability
 - Source: Microsoft MSRC
@@ -10881,6 +10993,46 @@ ABA Donates $10,000 to Support Texas Flood Relief Efforts
 
 The relationship between banks and their core providers is essential for being competitive in today's dynamic financial marketplace. Find news and resources on this topic, and understand the policy landscape affecting core platforms.
 
+## Waiver of Specified Statutory Requirements for Commercial Space Launch and Reentry Actions
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-20T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AM51&regmonthly_date=2026-07-20&regmonthly_mode=completed
+
+OIRA review completed | RIN 2120-AM51 | 2120 | Proposed Rule
+
+## Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-20T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0584-AF17&regmonthly_date=2026-07-20&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0584-AF17 | 0584 | Proposed Rule
+
+## Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and PACE (CMS-4214)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-20T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV88&regmonthly_date=2026-07-20&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0938-AV88 | 0938 | Proposed Rule
+
+## Clinical Laboratory Improvement Amendments of 1988 (CLIA) Virtual Access, Gynecologic Cytology Proficiency Testing (PT), Personnel Qualification Requirements, and Other Changes (CMS-3478)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-20T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV89&regmonthly_date=2026-07-20&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0938-AV89 | 0938 | Proposed Rule
+
+## QPAM Re-eligibility Options After Disqualification (QROAD) Class Exemption
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-20T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-ZA37&regmonthly_date=2026-07-20&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1210-ZA37 | 1210 | Proposed Rule
+
 ## Action by the United States in the Investigation Under Section 301 of the Trade Act of 1974 of Brazil's Acts, Policies, and Practices Related to Digital Trade and Electronic Payment Services; Unfair, Preferential Tariff…
 - Source: Federal Register
 - Category: Federal Register
@@ -11525,46 +11677,6 @@ The Department of Commerce, in accordance with the Paperwork Reduction Act (PRA)
 
 The Department of Commerce, in accordance with the Paperwork Reduction Act (PRA) of 1995, invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days…
 
-## Waiver of Specified Statutory Requirements for Commercial Space Launch and Reentry Actions
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-20T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AM51&regmonthly_date=2026-07-20&regmonthly_mode=completed
-
-OIRA review completed | RIN 2120-AM51 | 2120 | Proposed Rule
-
-## Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-20T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0584-AF17&regmonthly_date=2026-07-20&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0584-AF17 | 0584 | Proposed Rule
-
-## Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and PACE (CMS-4214)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-20T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV88&regmonthly_date=2026-07-20&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0938-AV88 | 0938 | Proposed Rule
-
-## Clinical Laboratory Improvement Amendments of 1988 (CLIA) Virtual Access, Gynecologic Cytology Proficiency Testing (PT), Personnel Qualification Requirements, and Other Changes (CMS-3478)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-20T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV89&regmonthly_date=2026-07-20&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0938-AV89 | 0938 | Proposed Rule
-
-## QPAM Re-eligibility Options After Disqualification (QROAD) Class Exemption
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-20T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-ZA37&regmonthly_date=2026-07-20&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1210-ZA37 | 1210 | Proposed Rule
-
 ## CVE-2026-62309 CoreDNS: proxyproto plugin panics on PPv2 datagram with non-UDP transport — single 28-byte packet remote DoS
 - Source: Microsoft MSRC
 - Category: IS
@@ -11716,6 +11828,54 @@ Small Business Bank in Lenexa, Kansas, was closed today by the Kansas Office of 
 - Category: Legislative
 - Published: 2026-07-17T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411198
+
+## Evaluating the Safety of Antimicrobial New Animal Drugs with Regard to their Microbiological Effects on Bacteria of Human Health Concern; Guidance for Industry
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZC37&regmonthly_date=2026-07-17&regmonthly_mode=completed
+
+OIRA review completed | RIN 0910-ZC37 | 0910 | Notice
+
+## Default Electronic Disclosures by Group Health Plans Under ERISA
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-AC35&regmonthly_date=2026-07-17&regmonthly_mode=completed
+
+OIRA review completed | RIN 1210-AC35 | 1210 | Proposed Rule
+
+## Exchange Visitor Rules: Records
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AF23&regmonthly_date=2026-07-17&regmonthly_mode=completed
+
+OIRA review completed | RIN 1400-AF23 | 1400 | Proposed Rule
+
+## Affirmative Asylum Referrals Without Interview
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD18&regmonthly_date=2026-07-17&regmonthly_mode=completed
+
+OIRA review completed | RIN 1615-AD18 | 1615 | Interim Final Rule
+
+## National Pollutant Discharge Elimination System (NPDES) 2027 Issuance of General Permit for Stormwater Discharges from Construction Activities
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2040-ZA46&regmonthly_date=2026-07-17&regmonthly_mode=completed
+
+OIRA review completed | RIN 2040-ZA46 | 2040 | Notice
+
+## Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight [NRC-2025-1138]
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL45&regmonthly_date=2026-07-17&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3150-AL45 | 3150 | Proposed Rule
 
 ## Modifying the Grand Staircase-Escalante National Monument
 - Source: Federal Register
@@ -12635,54 +12795,6 @@ The United States Patent and Trademark Office (hereafter "USPTO" or "Agency") wi
 
 The Department of Justice (DOJ), Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF), will be submitting the following information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
 
-## Evaluating the Safety of Antimicrobial New Animal Drugs with Regard to their Microbiological Effects on Bacteria of Human Health Concern; Guidance for Industry
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZC37&regmonthly_date=2026-07-17&regmonthly_mode=completed
-
-OIRA review completed | RIN 0910-ZC37 | 0910 | Notice
-
-## Default Electronic Disclosures by Group Health Plans Under ERISA
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-AC35&regmonthly_date=2026-07-17&regmonthly_mode=completed
-
-OIRA review completed | RIN 1210-AC35 | 1210 | Proposed Rule
-
-## Exchange Visitor Rules: Records
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AF23&regmonthly_date=2026-07-17&regmonthly_mode=completed
-
-OIRA review completed | RIN 1400-AF23 | 1400 | Proposed Rule
-
-## Affirmative Asylum Referrals Without Interview
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD18&regmonthly_date=2026-07-17&regmonthly_mode=completed
-
-OIRA review completed | RIN 1615-AD18 | 1615 | Interim Final Rule
-
-## National Pollutant Discharge Elimination System (NPDES) 2027 Issuance of General Permit for Stormwater Discharges from Construction Activities
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2040-ZA46&regmonthly_date=2026-07-17&regmonthly_mode=completed
-
-OIRA review completed | RIN 2040-ZA46 | 2040 | Notice
-
-## Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight [NRC-2025-1138]
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL45&regmonthly_date=2026-07-17&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3150-AL45 | 3150 | Proposed Rule
-
 ## Press Release: Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations
 - Source: FDIC
 - Category: Banking
@@ -12866,6 +12978,30 @@ WASHINGTON—The federal bank regulatory agencies today issued a joint statement
 - URL: https://www.aba.com/banking-topics/consumer-banking/overdraft-protection
 
 Overdraft protection offers an important form of short-term liquidity that covers bank customers' insufficient funds transactions.
+
+## Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-16T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1082-AA05&regmonthly_date=2026-07-16&regmonthly_mode=completed
+
+OIRA review completed | RIN 1082-AA05 | 1082 | Proposed Rule
+
+## Beneficial Ownership Information Reporting Requirement Revision and Deadline Extension
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-16T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1506-ZA04&regmonthly_date=2026-07-16&regmonthly_mode=completed
+
+OIRA review completed | RIN 1506-ZA04 | 1506 | Final Rule
+
+## GSPMR Case 2026-03, Migrating Nondiscrimination in Programs Receiving Federal Financial Assistance From the FPMR to the GSPMR and Aligning the GSPMR to Reflect Department of Justice Title VI Updates
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-16T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3090-AL09&regmonthly_date=2026-07-16&regmonthly_mode=completed
+
+OIRA review completed | RIN 3090-AL09 | 3090 | Final Rule
 
 ## Continuation of the National Emergency With Respect to Significant Transnational Criminal Organizations
 - Source: Federal Register
@@ -13863,35 +13999,17 @@ This Notice announces the annual adjustments to the national average payments, t
 
 The Office of Adjudication, Recruitment and Management, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
 
-## Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-16T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1082-AA05&regmonthly_date=2026-07-16&regmonthly_mode=completed
-
-OIRA review completed | RIN 1082-AA05 | 1082 | Proposed Rule
-
-## Beneficial Ownership Information Reporting Requirement Revision and Deadline Extension
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-16T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1506-ZA04&regmonthly_date=2026-07-16&regmonthly_mode=completed
-
-OIRA review completed | RIN 1506-ZA04 | 1506 | Final Rule
-
-## GSPMR Case 2026-03, Migrating Nondiscrimination in Programs Receiving Federal Financial Assistance From the FPMR to the GSPMR and Aligning the GSPMR to Reflect Department of Justice Title VI Updates
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-16T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3090-AL09&regmonthly_date=2026-07-16&regmonthly_mode=completed
-
-OIRA review completed | RIN 3090-AL09 | 3090 | Final Rule
-
 ## Presidential Message on the Birthday of Saint Frances Xavier Cabrini
 - Source: White House
 - Category: Executive
 - Published: 2026-07-15T20:50:29Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/
+
+## Measuring Balance of Payments Deficits
+- Source: White House
+- Category: Executive
+- Published: 2026-07-15T16:12:50Z
+- URL: https://www.whitehouse.gov/research/2026/07/measuring-balance-of-payments-deficits/
 
 ## CVE-2026-58644 Microsoft SharePoint Remote Code Execution Vulnerability
 - Source: Microsoft MSRC
@@ -14152,6 +14270,78 @@ ABA Nominates Officers for 2026-2027
 - Category: Payments
 - Published: 2026-07-15T00:00:00Z
 - URL: https://www.nacha.org/news/nacha-board-vice-chair-financial-institutions-must-work-together-drive-industry
+
+## Request for Information: NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA14&regmonthly_date=2026-07-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 0925-ZA14 | 0925 | Notice
+
+## Rescinding Portions of Department of Health and Human Services Title VI Regulations to Conform More Closely with the Statutory Text and to Implement Executive Order 14281
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-AA29&regmonthly_date=2026-07-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 0945-AA29 | 0945 | Final Rule
+
+## Rescinding Guidelines for Eliminating Discrimination and Denial of Services on the Basis of Race, Color, National Origin, Sex, and Handicap in Vocational Education Programs
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-AA31&regmonthly_date=2026-07-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 0945-AA31 | 0945 | Final Rule
+
+## Elimination of Disparate Impact Theory Under Title VI of the 1964 Civil Rights Act
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1870-AA20&regmonthly_date=2026-07-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 1870-AA20 | 1870 | Final Rule
+
+## Rescinding Appendix B of Regulations Implementing Title VI of the Civil Rights Act of 1964
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1870-AA25&regmonthly_date=2026-07-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 1870-AA25 | 1870 | Final Rule
+
+## Rescinding Portions of AmeriCorps Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3045-AA95&regmonthly_date=2026-07-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 3045-AA95 | 3045 | Proposed Rule
+
+## Operation of Part 15 Devices in Space (ET Docket 25-XXX)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM28&regmonthly_date=2026-07-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 3060-AM28 | 3060 | Proposed Rule
+
+## Amendment of Section 73.3555(e) of the Commission's Rules, National Television Multiple Ownership Rule; MB Docket No. 17-318
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM48&regmonthly_date=2026-07-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 3060-AM48 | 3060 | Final Rule
+
+## Maximizing Efficiencies in Universal Service Administration, WC Docket No. 26-XX
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM49&regmonthly_date=2026-07-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 3060-AM49 | 3060 | Proposed Rule
 
 ## Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts Into the United States
 - Source: Federal Register
@@ -14841,77 +15031,11 @@ In accordance with the Native American Graves Protection and Repatriation Act (N
 
 In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Bernice Pauahi Bishop Museum (BPBM) intends to repatriate certain cultural items that meet the definition of unassociated funerary objects and that have a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.
 
-## Request for Information: NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA14&regmonthly_date=2026-07-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 0925-ZA14 | 0925 | Notice
-
-## Rescinding Portions of Department of Health and Human Services Title VI Regulations to Conform More Closely with the Statutory Text and to Implement Executive Order 14281
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-AA29&regmonthly_date=2026-07-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 0945-AA29 | 0945 | Final Rule
-
-## Rescinding Guidelines for Eliminating Discrimination and Denial of Services on the Basis of Race, Color, National Origin, Sex, and Handicap in Vocational Education Programs
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-AA31&regmonthly_date=2026-07-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 0945-AA31 | 0945 | Final Rule
-
-## Elimination of Disparate Impact Theory Under Title VI of the 1964 Civil Rights Act
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1870-AA20&regmonthly_date=2026-07-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 1870-AA20 | 1870 | Final Rule
-
-## Rescinding Appendix B of Regulations Implementing Title VI of the Civil Rights Act of 1964
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1870-AA25&regmonthly_date=2026-07-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 1870-AA25 | 1870 | Final Rule
-
-## Rescinding Portions of AmeriCorps Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3045-AA95&regmonthly_date=2026-07-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 3045-AA95 | 3045 | Proposed Rule
-
-## Operation of Part 15 Devices in Space (ET Docket 25-XXX)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM28&regmonthly_date=2026-07-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 3060-AM28 | 3060 | Proposed Rule
-
-## Amendment of Section 73.3555(e) of the Commission's Rules, National Television Multiple Ownership Rule; MB Docket No. 17-318
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM48&regmonthly_date=2026-07-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 3060-AM48 | 3060 | Final Rule
-
-## Maximizing Efficiencies in Universal Service Administration, WC Docket No. 26-XX
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM49&regmonthly_date=2026-07-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 3060-AM49 | 3060 | Proposed Rule
+## Nominations and Withdrawals Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-07-14T19:12:59Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/
 
 ## Minutes of the Board's discount rate meetings on June 8 and June 17, 2026
 - Source: FRB
@@ -19311,6 +19435,30 @@ by Fernando Avalos, Giulio Cornelli, Egemen Eren Business development companies 
 - Published: 2026-07-14T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-risk-technology-takes-top-industry-honors-ai-embedded
 
+## Revision of Crime Control and Firearms Convention Reasons for Control for Certain Items
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-14T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK48&regmonthly_date=2026-07-14&regmonthly_mode=completed
+
+OIRA review completed | RIN 0694-AK48 | 0694 | Final Rule
+
+## First Responder Fair RETIRE Act
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-14T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO54&regmonthly_date=2026-07-14&regmonthly_mode=completed
+
+OIRA review completed | RIN 3206-AO54 | 3206 | Proposed Rule
+
+## Electronic Delivery of Information Under the Federal Securities Laws
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-14T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN57&regmonthly_date=2026-07-14&regmonthly_mode=completed
+
+OIRA review completed | RIN 3235-AN57 | 3235 | Proposed Rule
+
 ## Rescinding the Definition of “Harm” Under the Endangered Species Act
 - Source: Federal Register
 - Category: Federal Register
@@ -19875,29 +20023,47 @@ The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity 
 
 The U.S. Commission on Civil Rights published a notice in the Federal Register concerning a briefing of the Montana Advisory Committee. The briefing scheduled for Thursday, July 16, 2026, at 3:00 p.m. Montana Time has been cancelled. The notice is in the Federal Register on Friday May 29, 2026, in FR Document Number 2026-10758 on pages 31998 and 31999.
 
-## Revision of Crime Control and Firearms Convention Reasons for Control for Certain Items
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK48&regmonthly_date=2026-07-14&regmonthly_mode=completed
+## Fact Sheet: President Donald J. Trump Grants Further Regulatory Relief from Burdensome EPA Restrictions to Promote American Security
+- Source: White House
+- Category: Executive
+- Published: 2026-07-13T22:23:56Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-grants-further-regulatory-relief-from-burdensome-epa-restrictions-to-promote-american-security/
 
-OIRA review completed | RIN 0694-AK48 | 0694 | Final Rule
+## Regulatory Relief for Certain Stationary Sources to Promote American Chemical Manufacturing Security
+- Source: White House
+- Category: Executive
+- Published: 2026-07-13T22:23:12Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security-be40/
 
-## First Responder Fair RETIRE Act
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO54&regmonthly_date=2026-07-14&regmonthly_mode=completed
+## Modifying the Bears Ears National Monument
+- Source: White House
+- Category: Executive
+- Published: 2026-07-13T22:14:23Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/
 
-OIRA review completed | RIN 3206-AO54 | 3206 | Proposed Rule
+## Fact Sheet: President Donald J. Trump Modifies Two National Monuments, Restoring Sensible Land Management
+- Source: White House
+- Category: Executive
+- Published: 2026-07-13T22:13:50Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-modifies-two-national-monuments-restoring-sensible-land-management/
 
-## Electronic Delivery of Information Under the Federal Securities Laws
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN57&regmonthly_date=2026-07-14&regmonthly_mode=completed
+## Modifying the Grand Staircase-Escalante National Monument
+- Source: White House
+- Category: Executive
+- Published: 2026-07-13T22:10:38Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-grand-staircase-escalante-national-monument/
 
-OIRA review completed | RIN 3235-AN57 | 3235 | Proposed Rule
+## Nominations Sent to the Senate
+- Source: White House
+- Category: Executive
+- Published: 2026-07-13T20:39:42Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/
+
+## Death of Senator Lindsey Graham
+- Source: White House
+- Category: Executive
+- Published: 2026-07-13T16:06:47Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/death-of-senator-lindsey-graham/
 
 ## Press Release: Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States
 - Source: FDIC
@@ -19986,6 +20152,38 @@ Guidance on Lending to Individuals Not Legally Authorized to Work in the United 
 - URL: https://www.aba.com/banking-topics/payments/penny-phaseout
 
 This page provides resources to help your bank track trends, manage customer expectations, and respond to the operational impacts of the penny’s retirement.
+
+## CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-13T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV82&regmonthly_date=2026-07-13&regmonthly_mode=completed
+
+OIRA review completed | RIN 0938-AV82 | 0938 | Proposed Rule
+
+## Exempting Certain Career Federal Employees from Ethics Reporting Requirements
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-13T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3209-AA76&regmonthly_date=2026-07-13&regmonthly_mode=completed
+
+OIRA review completed | RIN 3209-AA76 | 3209 | Interim Final Rule
+
+## Patient Protection and Affordable Care Act; State Innovation Waivers and Health Care Choice Compacts (CMS-9877)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-13T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV99&regmonthly_date=2026-07-13&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0938-AV99 | 0938 | Proposed Rule
+
+## Planning and Designation of Areas of Critical Environmental Concern
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-13T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF53&regmonthly_date=2026-07-13&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1004-AF53 | 1004 | Proposed Rule
 
 ## Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Foreign Gifts and Contracts Disclosures
 - Source: Federal Register
@@ -20602,38 +20800,6 @@ NMFS received a request from Petrogas Pacific, LLC (Petrogas) for the renewal of
 - URL: https://www.federalregister.gov/documents/2026/07/13/2026-13997/agency-information-collection-activities-comment-request-on-us-information-returns-and-related-forms
 
 In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.
-
-## CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-13T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV82&regmonthly_date=2026-07-13&regmonthly_mode=completed
-
-OIRA review completed | RIN 0938-AV82 | 0938 | Proposed Rule
-
-## Exempting Certain Career Federal Employees from Ethics Reporting Requirements
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-13T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3209-AA76&regmonthly_date=2026-07-13&regmonthly_mode=completed
-
-OIRA review completed | RIN 3209-AA76 | 3209 | Interim Final Rule
-
-## Patient Protection and Affordable Care Act; State Innovation Waivers and Health Care Choice Compacts (CMS-9877)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-13T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV99&regmonthly_date=2026-07-13&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0938-AV99 | 0938 | Proposed Rule
-
-## Planning and Designation of Areas of Critical Environmental Concern
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-13T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF53&regmonthly_date=2026-07-13&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1004-AF53 | 1004 | Proposed Rule
 
 ## CVE-2026-45489 Microsoft Edge (Chromium-based) Spoofing Vulnerability
 - Source: Microsoft MSRC
@@ -22071,6 +22237,46 @@ Technology Manager allows registered users of Fannie Mae applications to view an
 - Published: 2026-07-10T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-statement-on-bipartisan-housing-bill-becoming-law-without-trump-signature
 
+## Serotonin-2A Agonists and Related Products: Considerations for Clinical Investigations; Guidance for Industry; Availability
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZC89&regmonthly_date=2026-07-10&regmonthly_mode=completed
+
+OIRA review completed | RIN 0910-ZC89 | 0910 | Notice
+
+## Endangered and Threatened Wildlife and Plants; Critical Habitat Designation for Canada Lynx
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BH59&regmonthly_date=2026-07-10&regmonthly_mode=completed
+
+OIRA review completed | RIN 1018-BH59 | 1018 | Final Rule
+
+## Requirements for Certain Aircraft to be Equipped with Interference Tolerant NextGen Radio Altimeter Systems
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AM21&regmonthly_date=2026-07-10&regmonthly_mode=completed
+
+OIRA review completed | RIN 2120-AM21 | 2120 | Final Rule
+
+## U.S.-Origin Statements on Seafood; Draft Guidance for Industry
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD48&regmonthly_date=2026-07-10&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0910-ZD48 | 0910 | Notice
+
+## Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AL82&regmonthly_date=2026-07-10&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2120-AL82 | 2120 | Final Rule
+
 ## Facilitating Implementation of Next Generation 911 Services (NG911); Improving 911 Reliability
 - Source: Federal Register
 - Category: Federal Register
@@ -22719,45 +22925,17 @@ In compliance with the requirement for opportunity for public comment on propose
 
 The Office of Child Support Enforcement (OCSE), Administration for Children and Families (ACF), is requesting the Office of Management and Budget (OMB) to extend approval of the Income Withholding for Support (IWO), with changes, for an additional three years. The current OMB approval expires August 31, 2026.
 
-## Serotonin-2A Agonists and Related Products: Considerations for Clinical Investigations; Guidance for Industry; Availability
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZC89&regmonthly_date=2026-07-10&regmonthly_mode=completed
+## Fact Sheet: President Donald J. Trump Adjusts Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States
+- Source: White House
+- Category: Executive
+- Published: 2026-07-09T20:23:18Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-adjusts-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/
 
-OIRA review completed | RIN 0910-ZC89 | 0910 | Notice
-
-## Endangered and Threatened Wildlife and Plants; Critical Habitat Designation for Canada Lynx
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BH59&regmonthly_date=2026-07-10&regmonthly_mode=completed
-
-OIRA review completed | RIN 1018-BH59 | 1018 | Final Rule
-
-## Requirements for Certain Aircraft to be Equipped with Interference Tolerant NextGen Radio Altimeter Systems
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AM21&regmonthly_date=2026-07-10&regmonthly_mode=completed
-
-OIRA review completed | RIN 2120-AM21 | 2120 | Final Rule
-
-## U.S.-Origin Statements on Seafood; Draft Guidance for Industry
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD48&regmonthly_date=2026-07-10&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0910-ZD48 | 0910 | Notice
-
-## Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AL82&regmonthly_date=2026-07-10&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2120-AL82 | 2120 | Final Rule
+## Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States
+- Source: White House
+- Category: Executive
+- Published: 2026-07-09T20:21:16Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/adjusting-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/
 
 ## Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy
 - Source: FRB
@@ -23239,11 +23417,41 @@ Information published.
 
 by Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto Colombia's post-pandemic recovery in 2021–2022 was marked by rapid consumer credit growth, followed by deteriorating credit quality indicators amid tightening financial conditions. In January 2023, the Superintendence of Finance of Colombia (SFC) introduced higher provisioning requirements for long-term consumer loans t…
 
+## Fact Sheet: President Donald J. Trump Secures Historic Defense Investment from NATO Allies, Powering American Industry
+- Source: White House
+- Category: Executive
+- Published: 2026-07-09T00:20:35Z
+- URL: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/
+
 ## Fraud Among the Big Topics at Nacha Hill Day 2026
 - Source: NACHA
 - Category: Payments
 - Published: 2026-07-09T00:00:00Z
 - URL: https://www.nacha.org/news/fraud-among-big-topics-nacha-hill-day-2026
+
+## HUD's Implementation of the Fair Housing Act's Disparate Impact Standard (FR-6540)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-09T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2529-AB09&regmonthly_date=2026-07-09&regmonthly_mode=completed
+
+OIRA review completed | RIN 2529-AB09 | 2529 | Proposed Rule
+
+## Administrative Detention of Tobacco Products
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-09T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI05&regmonthly_date=2026-07-09&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0910-AI05 | 0910 | Proposed Rule
+
+## Disadvantaged Business Enterprise and Airport Concession; Disadvantaged Business Enterprise Program Implementation Modifications
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-09T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2105-AF33&regmonthly_date=2026-07-09&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2105-AF33 | 2105 | Final Rule
 
 ## Anti-Money Laundering and Countering the Financing of Terrorism Programs
 - Source: Federal Register
@@ -23925,30 +24133,6 @@ HUD is announcing the competitive, sealed bid sale of 14 unsubsidized healthcare
 - Published: 2026-07-09T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/07/09/2026-13812/notice-of-meeting
 
-## HUD's Implementation of the Fair Housing Act's Disparate Impact Standard (FR-6540)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-09T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2529-AB09&regmonthly_date=2026-07-09&regmonthly_mode=completed
-
-OIRA review completed | RIN 2529-AB09 | 2529 | Proposed Rule
-
-## Administrative Detention of Tobacco Products
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-09T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI05&regmonthly_date=2026-07-09&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0910-AI05 | 0910 | Proposed Rule
-
-## Disadvantaged Business Enterprise and Airport Concession; Disadvantaged Business Enterprise Program Implementation Modifications
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-09T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2105-AF33&regmonthly_date=2026-07-09&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2105-AF33 | 2105 | Final Rule
-
 ## Minutes of the Federal Open Market Committee, June 16-17, 2026
 - Source: FRB
 - Category: Banking
@@ -24038,6 +24222,38 @@ IR-2026-82, July 8, 2026 —The Department of the Treasury and the Internal Reve
 - URL: https://www.aba.com/banking-topics/risk-management/physical-security
 
 Know how to identify physical threats and the various resources available to you in order to help you protect your customers and your employees.
+
+## Designated Placements Requirements Under Titles IV-E and IV-B for LQBTQ+ Children; Rescission
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-08T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD19&regmonthly_date=2026-07-08&regmonthly_mode=completed
+
+OIRA review completed | RIN 0970-AD19 | 0970 | Final Rule
+
+## Rescission of Advisory Bulletin AB 2015-05 FHLBank Core Mission Achievement
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-08T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2590-ZA12&regmonthly_date=2026-07-08&regmonthly_mode=completed
+
+OIRA review completed | RIN 2590-ZA12 | 2590 | Final Rule
+
+## Rescission of EEO-1, EEO-2, EEO-3, EEO-4. EEO-5, And Reporting Requirement Under Title VII, the ADA, GINA, and the PWFA
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-08T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3046-AB37&regmonthly_date=2026-07-08&regmonthly_mode=completed
+
+OIRA review completed | RIN 3046-AB37 | 3046 | Proposed Rule
+
+## Rescinding Unnecessary Notice and Comment Procedures
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-08T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3245-AI74&regmonthly_date=2026-07-08&regmonthly_mode=completed
+
+OIRA review completed | RIN 3245-AI74 | 3245 | Final Rule
 
 ## Naturalization Application Fee Adjustments
 - Source: Federal Register
@@ -24711,38 +24927,6 @@ This notice announces the FAA's intent to designate 11 Javelin Conversions, Inc.
 
 The Postal Service gives notice of filing a request with the Postal Regulatory Commission to add a domestic shipping services contract to the list of Negotiated Service Agreements in the Mail Classification Schedule's Competitive Products List.
 
-## Designated Placements Requirements Under Titles IV-E and IV-B for LQBTQ+ Children; Rescission
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD19&regmonthly_date=2026-07-08&regmonthly_mode=completed
-
-OIRA review completed | RIN 0970-AD19 | 0970 | Final Rule
-
-## Rescission of Advisory Bulletin AB 2015-05 FHLBank Core Mission Achievement
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2590-ZA12&regmonthly_date=2026-07-08&regmonthly_mode=completed
-
-OIRA review completed | RIN 2590-ZA12 | 2590 | Final Rule
-
-## Rescission of EEO-1, EEO-2, EEO-3, EEO-4. EEO-5, And Reporting Requirement Under Title VII, the ADA, GINA, and the PWFA
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3046-AB37&regmonthly_date=2026-07-08&regmonthly_mode=completed
-
-OIRA review completed | RIN 3046-AB37 | 3046 | Proposed Rule
-
-## Rescinding Unnecessary Notice and Comment Procedures
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3245-AI74&regmonthly_date=2026-07-08&regmonthly_mode=completed
-
-OIRA review completed | RIN 3245-AI74 | 3245 | Final Rule
-
 ## Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs
 - Source: FRB
 - Category: Banking
@@ -24802,6 +24986,62 @@ IR-2026-81, July 7, 2026 — The IRS and Security Summit partners today launched
 - Category: Fintech Watch
 - Published: 2026-07-07T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/frankfurt-international-bank-selects-fis-bypass-legacy
+
+## Rescinding the Definition of "Harm" under the Endangered Species Act
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-07T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BN93&regmonthly_date=2026-07-07&regmonthly_mode=completed
+
+OIRA review completed | RIN 0648-BN93 | 0648 | Final Rule
+
+## Implementation of EAR Export Controls on Silencers, Mufflers, and Sound Suppressors; and Other Firearms Related Changes
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-07T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK35&regmonthly_date=2026-07-07&regmonthly_mode=completed
+
+OIRA review completed | RIN 0694-AK35 | 0694 | Interim Final Rule
+
+## Low-Value Shipments
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-07T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1685-AA38&regmonthly_date=2026-07-07&regmonthly_mode=completed
+
+OIRA review completed | RIN 1685-AA38 | 1685 | Interim Final Rule
+
+## Interim Part 555 Guidance and Enhanced Application Instructions
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-07T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2127-ZA27&regmonthly_date=2026-07-07&regmonthly_mode=completed
+
+OIRA review completed | RIN 2127-ZA27 | 2127 | Notice
+
+## Railroad Noise Emission Compliance Regulations
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-07T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2130-AC83&regmonthly_date=2026-07-07&regmonthly_mode=completed
+
+OIRA review completed | RIN 2130-AC83 | 2130 | Proposed Rule
+
+## Environmental Protection: Regulations for Implementation of the National Environmental Policy Act (NEPA)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-07T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AF99&regmonthly_date=2026-07-07&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1400-AF99 | 1400 | Interim Final Rule
+
+## Updating the Water Quality Certification Rule
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-07T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2040-AG47&regmonthly_date=2026-07-07&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2040-AG47 | 2040 | Final Rule
 
 ## Revisions to Financial Forms Reporting and Filing Requirements; Correction
 - Source: Federal Register
@@ -25433,62 +25673,6 @@ The Federal Trade Commission ("Commission") is proposing a policy statement rega
 
 This notice announces actions taken by FHWA and FTA that are final. The actions relate to a proposed multimodal project for the Interstate Bridge Replacement (IBR) Program for highway and high- capacity transit improvements between Portland, Oregon, and Vancouver, Washington, across the Columbia River in the Interstate 5 (I-5) corridor. Those actions grant licenses, permits, a…
 
-## Rescinding the Definition of "Harm" under the Endangered Species Act
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-07T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BN93&regmonthly_date=2026-07-07&regmonthly_mode=completed
-
-OIRA review completed | RIN 0648-BN93 | 0648 | Final Rule
-
-## Implementation of EAR Export Controls on Silencers, Mufflers, and Sound Suppressors; and Other Firearms Related Changes
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-07T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK35&regmonthly_date=2026-07-07&regmonthly_mode=completed
-
-OIRA review completed | RIN 0694-AK35 | 0694 | Interim Final Rule
-
-## Low-Value Shipments
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-07T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1685-AA38&regmonthly_date=2026-07-07&regmonthly_mode=completed
-
-OIRA review completed | RIN 1685-AA38 | 1685 | Interim Final Rule
-
-## Interim Part 555 Guidance and Enhanced Application Instructions
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-07T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2127-ZA27&regmonthly_date=2026-07-07&regmonthly_mode=completed
-
-OIRA review completed | RIN 2127-ZA27 | 2127 | Notice
-
-## Railroad Noise Emission Compliance Regulations
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-07T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2130-AC83&regmonthly_date=2026-07-07&regmonthly_mode=completed
-
-OIRA review completed | RIN 2130-AC83 | 2130 | Proposed Rule
-
-## Environmental Protection: Regulations for Implementation of the National Environmental Policy Act (NEPA)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-07T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AF99&regmonthly_date=2026-07-07&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1400-AF99 | 1400 | Interim Final Rule
-
-## Updating the Water Quality Certification Rule
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-07T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2040-AG47&regmonthly_date=2026-07-07&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2040-AG47 | 2040 | Final Rule
-
 ## Blockchain consensus mechanisms and fragmentation
 - Source: BIS
 - Category: International Banking
@@ -25502,6 +25686,62 @@ by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz 
 - Category: Legislative
 - Published: 2026-07-06T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-calls-on-pulte-to-resign-from-odni-and-fhfa-as-committee-report-details-abuses-of-power
+
+## Food Standards of Identity Modernization; Pasteurized Orange Juice
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-06T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI98&regmonthly_date=2026-07-06&regmonthly_mode=completed
+
+OIRA review completed | RIN 0910-AI98 | 0910 | Final Rule
+
+## Inviting Comments and Suggestions on Topic Areas for the NIDCR Strategic Plan for Fiscal Years 2027–2031
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-06T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA12&regmonthly_date=2026-07-06&regmonthly_mode=completed
+
+OIRA review completed | RIN 0925-ZA12 | 0925 | Notice
+
+## Request for Information; Clinical Laboratory Improvement Amendments (CLIA) of 1988 Regulations (CMS-3485)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-06T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW01&regmonthly_date=2026-07-06&regmonthly_mode=completed
+
+OIRA review completed | RIN 0938-AW01 | 0938 | Notice
+
+## Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-06T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2137-AF44&regmonthly_date=2026-07-06&regmonthly_mode=completed
+
+OIRA review completed | RIN 2137-AF44 | 2137 | Proposed Rule
+
+## Ensuring Children's Safe Use of Screens and E-Rate-Funded Services
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-06T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM39&regmonthly_date=2026-07-06&regmonthly_mode=completed
+
+OIRA review completed | RIN 3060-AM39 | 3060 | Proposed Rule
+
+## Request for Information Regarding Promoting Access to Mortgage Credit
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-06T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3170-ZA53&regmonthly_date=2026-07-06&regmonthly_mode=completed
+
+OIRA review completed | RIN 3170-ZA53 | 3170 | Prerule
+
+## Request for Information Regarding Credit Card Late Fees and Late Payments
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-06T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3170-ZA54&regmonthly_date=2026-07-06&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3170-ZA54 | 3170 | Prerule
 
 ## Improvements to Rules on Recoupment of Benefit Overpayments
 - Source: Federal Register
@@ -26519,62 +26759,6 @@ Based on affirmative final determination by the U.S. Department of Commerce (Com
 
 On October 23, 2025, the Department of Energy held a public meeting to discuss the development of voluntary agreements and plans of action under the Defense Production Act. As part of that meeting, a draft voluntary agreement was released to the accompanying docket and published in the Federal Register for comment. This notice publishes the "Nuclear Fuel Cycle Consortium" Volu…
 
-## Food Standards of Identity Modernization; Pasteurized Orange Juice
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-06T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI98&regmonthly_date=2026-07-06&regmonthly_mode=completed
-
-OIRA review completed | RIN 0910-AI98 | 0910 | Final Rule
-
-## Inviting Comments and Suggestions on Topic Areas for the NIDCR Strategic Plan for Fiscal Years 2027–2031
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-06T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA12&regmonthly_date=2026-07-06&regmonthly_mode=completed
-
-OIRA review completed | RIN 0925-ZA12 | 0925 | Notice
-
-## Request for Information; Clinical Laboratory Improvement Amendments (CLIA) of 1988 Regulations (CMS-3485)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-06T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW01&regmonthly_date=2026-07-06&regmonthly_mode=completed
-
-OIRA review completed | RIN 0938-AW01 | 0938 | Notice
-
-## Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-06T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2137-AF44&regmonthly_date=2026-07-06&regmonthly_mode=completed
-
-OIRA review completed | RIN 2137-AF44 | 2137 | Proposed Rule
-
-## Ensuring Children's Safe Use of Screens and E-Rate-Funded Services
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-06T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM39&regmonthly_date=2026-07-06&regmonthly_mode=completed
-
-OIRA review completed | RIN 3060-AM39 | 3060 | Proposed Rule
-
-## Request for Information Regarding Promoting Access to Mortgage Credit
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-06T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3170-ZA53&regmonthly_date=2026-07-06&regmonthly_mode=completed
-
-OIRA review completed | RIN 3170-ZA53 | 3170 | Prerule
-
-## Request for Information Regarding Credit Card Late Fees and Late Payments
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-06T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3170-ZA54&regmonthly_date=2026-07-06&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3170-ZA54 | 3170 | Prerule
-
 ## America 250: Presidential Message on the Anniversary of the Battle of Chippawa
 - Source: White House
 - Category: Executive
@@ -26602,6 +26786,12 @@ Information published.
 - URL: https://www.irs.gov/newsroom/working-families-tax-cuts
 
 The Working Families Tax Cuts has a significant effect on your taxes, credits and deductions.
+
+## 250th Anniversary of the Adoption of the Declaration of Independence
+- Source: White House
+- Category: Executive
+- Published: 2026-07-03T19:57:05Z
+- URL: https://www.whitehouse.gov/presidential-actions/2026/07/250th-anniversary-of-the-adoption-of-the-declaration-of-independence/
 
 ## Chromium: CVE-2026-13874 Inappropriate implementation in DataTransfer
 - Source: Microsoft MSRC
@@ -29801,6 +29991,46 @@ The FDIC today issued its list of state nonmember banks recently evaluated for c
 - Published: 2026-07-02T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-june-2026-jobs-report
 
+## CY 2027 Home Health Prospective Payment System Rate Update and Home Infusion Therapy Services Payment Update (CMS-1844)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-02T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV80&regmonthly_date=2026-07-02&regmonthly_mode=completed
+
+OIRA review completed | RIN 0938-AV80 | 0938 | Proposed Rule
+
+## Review of Submarine Cable Landing License Rules and Procedures to Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks, OI Docket No. 24-523, MD Docket No. 24-524
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-02T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM06&regmonthly_date=2026-07-02&regmonthly_mode=completed
+
+OIRA review completed | RIN 3060-AM06 | 3060 | Final Rule
+
+## Implementation of the National Environmental Policy Act [NRC-2025-0478]
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-02T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL38&regmonthly_date=2026-07-02&regmonthly_mode=completed
+
+OIRA review completed | RIN 3150-AL38 | 3150 | Proposed Rule
+
+## Cutting Administrative Requirements for Excellence in Patient Care (CMS-3484)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-02T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW04&regmonthly_date=2026-07-02&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0938-AW04 | 0938 | Proposed Rule
+
+## In-situ Recovery Monitoring and Decommissioning Timeliness [NRC-2025-1204]
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-02T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL48&regmonthly_date=2026-07-02&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3150-AL48 | 3150 | Proposed Rule
+
 ## Declaration of Emergency and Authorization for Temporary Duty-Free Importation of Phosphate Fertilizer From Morocco
 - Source: Federal Register
 - Category: Federal Register
@@ -31029,46 +31259,6 @@ In accordance with the Native American Graves Protection and Repatriation Act (N
 
 In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the University of Rhode Island (URI) has completed an inventory of human remains and associated funerary objects and has determined that there is a cultural affiliation between the human remains and associated funerary objects and Indian Tribes or Native Hawaiian organizations in this notic…
 
-## CY 2027 Home Health Prospective Payment System Rate Update and Home Infusion Therapy Services Payment Update (CMS-1844)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-02T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV80&regmonthly_date=2026-07-02&regmonthly_mode=completed
-
-OIRA review completed | RIN 0938-AV80 | 0938 | Proposed Rule
-
-## Review of Submarine Cable Landing License Rules and Procedures to Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks, OI Docket No. 24-523, MD Docket No. 24-524
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-02T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM06&regmonthly_date=2026-07-02&regmonthly_mode=completed
-
-OIRA review completed | RIN 3060-AM06 | 3060 | Final Rule
-
-## Implementation of the National Environmental Policy Act [NRC-2025-0478]
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-02T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL38&regmonthly_date=2026-07-02&regmonthly_mode=completed
-
-OIRA review completed | RIN 3150-AL38 | 3150 | Proposed Rule
-
-## Cutting Administrative Requirements for Excellence in Patient Care (CMS-3484)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-02T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW04&regmonthly_date=2026-07-02&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0938-AW04 | 0938 | Proposed Rule
-
-## In-situ Recovery Monitoring and Decommissioning Timeliness [NRC-2025-1204]
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-02T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL48&regmonthly_date=2026-07-02&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3150-AL48 | 3150 | Proposed Rule
-
 ## CVE-2026-32208 Microsoft Entra ID Spoofing Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -31482,6 +31672,38 @@ Information published.
 - Category: Legislative
 - Published: 2026-07-01T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/warren-reed-van-hollen-call-on-fed-watchdog-to-investigate-vice-chair-bowmans-private-wall-street-dinner-during-feds-blackout-period
+
+## Nondiscrimination in Federally Assisted Programs of the Department of Defense-Effectuation of Title VI of the Civil Rights Act of 1964; Amendment
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0790-AM02&regmonthly_date=2026-07-01&regmonthly_mode=completed
+
+OIRA review completed | RIN 0790-AM02 | 0790 | Final Rule
+
+## CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV83&regmonthly_date=2026-07-01&regmonthly_mode=completed
+
+OIRA review completed | RIN 0938-AV83 | 0938 | Proposed Rule
+
+## Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1110-AA39&regmonthly_date=2026-07-01&regmonthly_mode=completed
+
+OIRA review completed | RIN 1110-AA39 | 1110 | Interim Final Rule
+
+## Clean Water Act Hazardous Substance Facility Response Plans: Compliance Date Delay and Changes to Reflect Administration Policy
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-07-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2050-AH38&regmonthly_date=2026-07-01&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2050-AH38 | 2050 | Final Rule
 
 ## Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course
 - Source: Federal Register
@@ -32266,38 +32488,6 @@ As part of its continuing effort to reduce paperwork burdens, and as required by
 - Category: Federal Register
 - Published: 2026-07-01T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/07/01/2026-13212/joint-industry-plan-order-approving-the-fifty-fifth-amendment-to-the-joint-self-regulatory
-
-## Nondiscrimination in Federally Assisted Programs of the Department of Defense-Effectuation of Title VI of the Civil Rights Act of 1964; Amendment
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0790-AM02&regmonthly_date=2026-07-01&regmonthly_mode=completed
-
-OIRA review completed | RIN 0790-AM02 | 0790 | Final Rule
-
-## CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV83&regmonthly_date=2026-07-01&regmonthly_mode=completed
-
-OIRA review completed | RIN 0938-AV83 | 0938 | Proposed Rule
-
-## Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1110-AA39&regmonthly_date=2026-07-01&regmonthly_mode=completed
-
-OIRA review completed | RIN 1110-AA39 | 1110 | Interim Final Rule
-
-## Clean Water Act Hazardous Substance Facility Response Plans: Compliance Date Delay and Changes to Reflect Administration Policy
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-07-01T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2050-AH38&regmonthly_date=2026-07-01&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2050-AH38 | 2050 | Final Rule
 
 ## Press Release: Agencies Release List of Distressed or Underserved Nonmetropolitan Middle-Income Geographies
 - Source: FDIC

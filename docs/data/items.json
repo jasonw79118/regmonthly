@@ -1,8 +1,8 @@
 {
   "window_start": "2026-06-30T05:00:00Z",
   "window_end": "2026-08-01T05:00:00Z",
-  "generated_at_utc": "2026-08-25T19:18:47Z",
-  "generated_at_ct": "2026-08-25T14:18:47-05:00",
+  "generated_at_utc": "2026-08-26T13:11:27Z",
+  "generated_at_ct": "2026-08-26T08:11:27-05:00",
   "items": [
     {
       "category": "Legislative",
@@ -10,6 +10,14 @@
       "title": "Warren Statement on Trump Media API Launch",
       "published_at": "2026-08-01T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/warren-statement-on-trump-media-api-launch",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
+      "published_at": "2026-07-31T21:00:00Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
       "summary": ""
     },
     {
@@ -187,6 +195,54 @@
       "published_at": "2026-07-31T00:00:00Z",
       "url": "https://www.nacha.org/news/how-some-rdfis-review-customer-written-statements-unauthorized-debits-first-party-fraud",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Substances Generally Recognized as Safe",
+      "published_at": "2026-07-31T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AJ02&regmonthly_date=2026-07-31&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0910-AJ02 | 0910 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals; the Long-Term Care Hospital Prospective Payment System; and FY 2027 Rates (CMS-1849)",
+      "published_at": "2026-07-31T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV79&regmonthly_date=2026-07-31&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0938-AV79 | 0938 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Modernize the Head Start Program by Reducing Requirements and Enhancing Alignment with State and Local Systems",
+      "published_at": "2026-07-31T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD30&regmonthly_date=2026-07-31&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0970-AD30 | 0970 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Community Reinvestment Act Regulations",
+      "published_at": "2026-07-31T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1557-AF57&regmonthly_date=2026-07-31&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1557-AF57 | 1557 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Energy Conservation Program: Test Procedures for Commercial Warm Air Furnaces",
+      "published_at": "2026-07-31T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1904-AG06&regmonthly_date=2026-07-31&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 1904-AG06 | 1904 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Employment in the Excepted Service",
+      "published_at": "2026-07-31T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO92&regmonthly_date=2026-07-31&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 3206-AO92 | 3206 | Proposed Rule"
     },
     {
       "category": "Federal Register",
@@ -2215,52 +2271,28 @@
       "fedreg_document_number": "2026-15447"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Substances Generally Recognized as Safe",
-      "published_at": "2026-07-31T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AJ02&regmonthly_date=2026-07-31&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0910-AJ02 | 0910 | Proposed Rule"
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Delegates Defense Production Act Authority with Respect to Recoverable Critical Minerals and Materials That Are Essential to Our National Defense",
+      "published_at": "2026-07-30T20:34:56Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/",
+      "summary": ""
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals; the Long-Term Care Hospital Prospective Payment System; and FY 2027 Rates (CMS-1849)",
-      "published_at": "2026-07-31T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV79&regmonthly_date=2026-07-31&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0938-AV79 | 0938 | Final Rule"
+      "category": "Executive",
+      "source": "White House",
+      "title": "Presidential Permit: Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas",
+      "published_at": "2026-07-30T20:34:13Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-permit-authorizing-cameron-county-texas-to-own-operate-and-maintain-the-brownsville-and-matamoros-bridge-in-brownsville-texas/",
+      "summary": ""
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Modernize the Head Start Program by Reducing Requirements and Enhancing Alignment with State and Local Systems",
-      "published_at": "2026-07-31T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD30&regmonthly_date=2026-07-31&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0970-AD30 | 0970 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Community Reinvestment Act Regulations",
-      "published_at": "2026-07-31T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1557-AF57&regmonthly_date=2026-07-31&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1557-AF57 | 1557 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Energy Conservation Program: Test Procedures for Commercial Warm Air Furnaces",
-      "published_at": "2026-07-31T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1904-AG06&regmonthly_date=2026-07-31&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 1904-AG06 | 1904 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Employment in the Excepted Service",
-      "published_at": "2026-07-31T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO92&regmonthly_date=2026-07-31&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 3206-AO92 | 3206 | Proposed Rule"
+      "category": "Executive",
+      "source": "White House",
+      "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials",
+      "published_at": "2026-07-30T20:33:26Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/",
+      "summary": ""
     },
     {
       "category": "Banking",
@@ -2445,6 +2477,62 @@
       "published_at": "2026-07-30T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/risk-management/elder-financial-exploitation",
       "summary": "This webpage provides resources to help bankers better understand elder financial exploitation (EFE)."
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "FY 2027 Hospice Wage Index, Payment Rate Update, and Quality Reporting Requirements (CMS-1851)",
+      "published_at": "2026-07-30T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV78&regmonthly_date=2026-07-30&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0938-AV78 | 0938 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Civil Money Penalty for Actions in Contempt of an Immigration Judge's Proper Exercise of Authority",
+      "published_at": "2026-07-30T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1125-AB02&regmonthly_date=2026-07-30&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1125-AB02 | 1125 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Visas: Visa Bond Program",
+      "published_at": "2026-07-30T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG33&regmonthly_date=2026-07-30&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1400-AG33 | 1400 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Mandatory Electronic Filing (e-Filing)",
+      "published_at": "2026-07-30T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD19&regmonthly_date=2026-07-30&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1615-AD19 | 1615 | Interim Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Dole State and Tribal Outreach Grant Program",
+      "published_at": "2026-07-30T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2900-AS68&regmonthly_date=2026-07-30&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2900-AS68 | 2900 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Streamlining Probationary and Trial Period Appeals",
+      "published_at": "2026-07-30T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO96&regmonthly_date=2026-07-30&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3206-AO96 | 3206 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "National Petroleum Reserve in Alaska Production Site Development Rule",
+      "published_at": "2026-07-30T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF57&regmonthly_date=2026-07-30&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 1004-AF57 | 1004 | Proposed Rule"
     },
     {
       "category": "Federal Register",
@@ -4165,62 +4253,6 @@
       "fedreg_document_number": "2026-15319"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "FY 2027 Hospice Wage Index, Payment Rate Update, and Quality Reporting Requirements (CMS-1851)",
-      "published_at": "2026-07-30T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV78&regmonthly_date=2026-07-30&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0938-AV78 | 0938 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Civil Money Penalty for Actions in Contempt of an Immigration Judge's Proper Exercise of Authority",
-      "published_at": "2026-07-30T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1125-AB02&regmonthly_date=2026-07-30&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1125-AB02 | 1125 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Visas: Visa Bond Program",
-      "published_at": "2026-07-30T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG33&regmonthly_date=2026-07-30&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1400-AG33 | 1400 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Mandatory Electronic Filing (e-Filing)",
-      "published_at": "2026-07-30T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD19&regmonthly_date=2026-07-30&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1615-AD19 | 1615 | Interim Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Dole State and Tribal Outreach Grant Program",
-      "published_at": "2026-07-30T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2900-AS68&regmonthly_date=2026-07-30&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2900-AS68 | 2900 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Streamlining Probationary and Trial Period Appeals",
-      "published_at": "2026-07-30T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO96&regmonthly_date=2026-07-30&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3206-AO96 | 3206 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "National Petroleum Reserve in Alaska Production Site Development Rule",
-      "published_at": "2026-07-30T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF57&regmonthly_date=2026-07-30&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 1004-AF57 | 1004 | Proposed Rule"
-    },
-    {
       "category": "Compliance Watch",
       "source": "TBA",
       "title": "Fed votes to hold rates, despite growing dissent",
@@ -4331,6 +4363,110 @@
       "published_at": "2026-07-29T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/warren-schiff-call-on-sec-to-investigate-trump-medias-plan-to-give-wall-street-firms-faster-access-to-truth-social-posts",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Definitions of Gold Star Family and Gold Star Survivor",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0790-AL56&regmonthly_date=2026-07-29&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0790-AL56 | 0790 | Interim Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "FY 2027 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Rate Update and Quality Reporting Program (CMS-1845)",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV76&regmonthly_date=2026-07-29&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0938-AV76 | 0938 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "FY 2027 Inpatient Psychiatric Facilities Prospective Payment System Rate and Quality Reporting Updates (CMS-1847)",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV77&regmonthly_date=2026-07-29&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0938-AV77 | 0938 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Application for Relief from Disabilities Imposed by Federal Laws with Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1105-AB78&regmonthly_date=2026-07-29&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1105-AB78 | 1105 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Eligible Investments for Trump Accounts under Section 530A",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BS14&regmonthly_date=2026-07-29&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1545-BS14 | 1545 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Policy Statement Regarding Disparate-Impact Claims and \"Unfair Discrimination\" Claims",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3084-ZA01&regmonthly_date=2026-07-29&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3084-ZA01 | 3084 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Reduction in Force",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO86&regmonthly_date=2026-07-29&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3206-AO86 | 3206 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Suitability Action Appeals",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO97&regmonthly_date=2026-07-29&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3206-AO97 | 3206 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Reduction in Force Appeals",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO99&regmonthly_date=2026-07-29&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3206-AO99 | 3206 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Request for Information (RFI): Inviting Comments and Suggestions on the National Institute of Nursing Research (NINR) Strategic Plan for Fiscal Years 2027-2031",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA18&regmonthly_date=2026-07-29&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0925-ZA18 | 0925 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Rescinding the Burdensome Use Restrictions of Dedicated Accounts",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0960-AI92&regmonthly_date=2026-07-29&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0960-AI92 | 0960 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Implementation of the Homicide Victims' Families' Rights Act",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1105-AB70&regmonthly_date=2026-07-29&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 1105-AB70 | 1105 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Interpretation of \"Flammable Liquid Fuels\" with Respect to Fuel Additives",
+      "published_at": "2026-07-29T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3041-AE27&regmonthly_date=2026-07-29&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 3041-AE27 | 3041 | Final Rule"
     },
     {
       "category": "Federal Register",
@@ -5452,110 +5588,6 @@
       "fedreg_document_number": "2026-15232"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Definitions of Gold Star Family and Gold Star Survivor",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0790-AL56&regmonthly_date=2026-07-29&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0790-AL56 | 0790 | Interim Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "FY 2027 Inpatient Rehabilitation Facility (IRF) Prospective Payment System Rate Update and Quality Reporting Program (CMS-1845)",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV76&regmonthly_date=2026-07-29&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0938-AV76 | 0938 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "FY 2027 Inpatient Psychiatric Facilities Prospective Payment System Rate and Quality Reporting Updates (CMS-1847)",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV77&regmonthly_date=2026-07-29&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0938-AV77 | 0938 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Application for Relief from Disabilities Imposed by Federal Laws with Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1105-AB78&regmonthly_date=2026-07-29&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1105-AB78 | 1105 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Eligible Investments for Trump Accounts under Section 530A",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BS14&regmonthly_date=2026-07-29&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1545-BS14 | 1545 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Policy Statement Regarding Disparate-Impact Claims and \"Unfair Discrimination\" Claims",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3084-ZA01&regmonthly_date=2026-07-29&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3084-ZA01 | 3084 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Reduction in Force",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO86&regmonthly_date=2026-07-29&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3206-AO86 | 3206 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Suitability Action Appeals",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO97&regmonthly_date=2026-07-29&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3206-AO97 | 3206 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Reduction in Force Appeals",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO99&regmonthly_date=2026-07-29&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3206-AO99 | 3206 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Request for Information (RFI): Inviting Comments and Suggestions on the National Institute of Nursing Research (NINR) Strategic Plan for Fiscal Years 2027-2031",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA18&regmonthly_date=2026-07-29&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0925-ZA18 | 0925 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Rescinding the Burdensome Use Restrictions of Dedicated Accounts",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0960-AI92&regmonthly_date=2026-07-29&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0960-AI92 | 0960 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Implementation of the Homicide Victims' Families' Rights Act",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1105-AB70&regmonthly_date=2026-07-29&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 1105-AB70 | 1105 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Interpretation of \"Flammable Liquid Fuels\" with Respect to Fuel Additives",
-      "published_at": "2026-07-29T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3041-AE27&regmonthly_date=2026-07-29&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 3041-AE27 | 3041 | Final Rule"
-    },
-    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "Chromium: CVE-2026-13037 Use after free in WebView",
@@ -5994,6 +6026,70 @@
       "published_at": "2026-07-28T00:00:00Z",
       "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Notice Regarding 340B Rebate Model Pilot Program",
+      "published_at": "2026-07-28T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0906-ZA23&regmonthly_date=2026-07-28&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0906-ZA23 | 0906 | Prerule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "FY 2027 Skilled Nursing Facility (SNFs) Prospective Payment System and Consolidated Billing and Updates to the Value-Based Purchasing and Quality Reporting Programs (CMS-1843)",
+      "published_at": "2026-07-28T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV75&regmonthly_date=2026-07-28&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0938-AV75 | 0938 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization and Competitive Bidding Programs; ET Docket No. 21-232, EA Docket No. 21-233",
+      "published_at": "2026-07-28T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AL23&regmonthly_date=2026-07-28&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3060-AL23 | 3060 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Space Modernization for the 21st Century (SB Docket No. 25.306)",
+      "published_at": "2026-07-28T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM19&regmonthly_date=2026-07-28&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3060-AM19 | 3060 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Nonclinical Testing Terminology",
+      "published_at": "2026-07-28T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AJ27&regmonthly_date=2026-07-28&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0910-AJ27 | 0910 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Health Data, Technology, and Interoperability: ASTP/ONC Deregulatory Actions to Unleash Prosperity",
+      "published_at": "2026-07-28T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0955-AA09&regmonthly_date=2026-07-28&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0955-AA09 | 0955 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Reforming Federal Reporting and Assessments in Child Welfare",
+      "published_at": "2026-07-28T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD32&regmonthly_date=2026-07-28&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0970-AD32 | 0970 | Interim Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+      "published_at": "2026-07-28T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3010-AA10&regmonthly_date=2026-07-28&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 3010-AA10 | 3010 | Proposed Rule"
     },
     {
       "category": "Federal Register",
@@ -7155,78 +7251,6 @@
       "fedreg_document_number": "2026-15147"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Notice Regarding 340B Rebate Model Pilot Program",
-      "published_at": "2026-07-28T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0906-ZA23&regmonthly_date=2026-07-28&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0906-ZA23 | 0906 | Prerule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "FY 2027 Skilled Nursing Facility (SNFs) Prospective Payment System and Consolidated Billing and Updates to the Value-Based Purchasing and Quality Reporting Programs (CMS-1843)",
-      "published_at": "2026-07-28T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV75&regmonthly_date=2026-07-28&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0938-AV75 | 0938 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization and Competitive Bidding Programs; ET Docket No. 21-232, EA Docket No. 21-233",
-      "published_at": "2026-07-28T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AL23&regmonthly_date=2026-07-28&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3060-AL23 | 3060 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Space Modernization for the 21st Century (SB Docket No. 25.306)",
-      "published_at": "2026-07-28T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM19&regmonthly_date=2026-07-28&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3060-AM19 | 3060 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Nonclinical Testing Terminology",
-      "published_at": "2026-07-28T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AJ27&regmonthly_date=2026-07-28&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0910-AJ27 | 0910 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Health Data, Technology, and Interoperability: ASTP/ONC Deregulatory Actions to Unleash Prosperity",
-      "published_at": "2026-07-28T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0955-AA09&regmonthly_date=2026-07-28&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0955-AA09 | 0955 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Reforming Federal Reporting and Assessments in Child Welfare",
-      "published_at": "2026-07-28T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD32&regmonthly_date=2026-07-28&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0970-AD32 | 0970 | Interim Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "International Traffic in Arms Regulations: Clarifying Policies of Denial, Updating the Major Non-NATO Ally List, and Minor Corrections",
-      "published_at": "2026-07-28T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG31&regmonthly_date=2026-07-28&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 1400-AG31 | 1400 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
-      "published_at": "2026-07-28T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3010-AA10&regmonthly_date=2026-07-28&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 3010-AA10 | 3010 | Proposed Rule"
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "Presidential Message on National Korean War Veterans Armistice Day",
@@ -7361,6 +7385,78 @@
       "published_at": "2026-07-27T00:00:00Z",
       "url": "https://www.nacha.org/news/three-new-nacha-rules-approved",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Fish and Fish Product Import Provisions of the Marine Mammal Protection Act",
+      "published_at": "2026-07-27T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BO43&regmonthly_date=2026-07-27&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0648-BO43 | 0648 | Prerule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Request for Information: Inviting Input on NIDA's Strategic Plan for 2027-2031",
+      "published_at": "2026-07-27T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA11&regmonthly_date=2026-07-27&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0925-ZA11 | 0925 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "International Traffic in Arms Regulations: Modification of Civil Aircraft to Incorporate Aircraft Survivability Equipment.",
+      "published_at": "2026-07-27T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG17&regmonthly_date=2026-07-27&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1400-AG17 | 1400 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Transparency in Coverage (CMS-9882)",
+      "published_at": "2026-07-27T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV64&regmonthly_date=2026-07-27&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0938-AV64 | 0938 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Conditions on the Preparation of Ballot Mail for Federal Elections",
+      "published_at": "2026-07-27T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3210-AA00&regmonthly_date=2026-07-27&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 3210-AA00 | 3210 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Federal Acquisition Regulation (FAR); FAR Case 2026-010, Revolutionary Federal Acquisition Regulation Overhaul parts 14, 28, and 36.",
+      "published_at": "2026-07-27T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO83&regmonthly_date=2026-07-27&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 9000-AO83 | 9000 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Federal Acquisition Regulation (FAR); FAR Case 2026-011, Revolutionary Federal Acquisition Regulation Overhaul parts 9, 27, and 47.",
+      "published_at": "2026-07-27T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO84&regmonthly_date=2026-07-27&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 9000-AO84 | 9000 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Federal Acquisition Regulation (FAR); FAR Case 2026-003, Revolutionary Federal Acquisition Regulation Overhaul parts 8, 12, 13, 15, 38, 44, and 51.",
+      "published_at": "2026-07-27T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO88&regmonthly_date=2026-07-27&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 9000-AO88 | 9000 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Federal Acquisition Regulation (FAR); FAR Case 2026-006, Revolutionary Federal Acquisition Regulation Overhaul parts 16, 17, and 35.",
+      "published_at": "2026-07-27T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO91&regmonthly_date=2026-07-27&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 9000-AO91 | 9000 | Proposed Rule"
     },
     {
       "category": "Federal Register",
@@ -8666,78 +8762,6 @@
       "fedreg_document_number": "2026-15051"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Fish and Fish Product Import Provisions of the Marine Mammal Protection Act",
-      "published_at": "2026-07-27T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BO43&regmonthly_date=2026-07-27&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0648-BO43 | 0648 | Prerule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Request for Information: Inviting Input on NIDA's Strategic Plan for 2027-2031",
-      "published_at": "2026-07-27T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA11&regmonthly_date=2026-07-27&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0925-ZA11 | 0925 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "International Traffic in Arms Regulations: Modification of Civil Aircraft to Incorporate Aircraft Survivability Equipment.",
-      "published_at": "2026-07-27T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG17&regmonthly_date=2026-07-27&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1400-AG17 | 1400 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Transparency in Coverage (CMS-9882)",
-      "published_at": "2026-07-27T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV64&regmonthly_date=2026-07-27&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0938-AV64 | 0938 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Conditions on the Preparation of Ballot Mail for Federal Elections",
-      "published_at": "2026-07-27T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3210-AA00&regmonthly_date=2026-07-27&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 3210-AA00 | 3210 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Federal Acquisition Regulation (FAR); FAR Case 2026-010, Revolutionary Federal Acquisition Regulation Overhaul parts 14, 28, and 36.",
-      "published_at": "2026-07-27T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO83&regmonthly_date=2026-07-27&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 9000-AO83 | 9000 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Federal Acquisition Regulation (FAR); FAR Case 2026-011, Revolutionary Federal Acquisition Regulation Overhaul parts 9, 27, and 47.",
-      "published_at": "2026-07-27T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO84&regmonthly_date=2026-07-27&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 9000-AO84 | 9000 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Federal Acquisition Regulation (FAR); FAR Case 2026-003, Revolutionary Federal Acquisition Regulation Overhaul parts 8, 12, 13, 15, 38, 44, and 51.",
-      "published_at": "2026-07-27T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO88&regmonthly_date=2026-07-27&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 9000-AO88 | 9000 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Federal Acquisition Regulation (FAR); FAR Case 2026-006, Revolutionary Federal Acquisition Regulation Overhaul parts 16, 17, and 35.",
-      "published_at": "2026-07-27T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=9000-AO91&regmonthly_date=2026-07-27&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 9000-AO91 | 9000 | Proposed Rule"
-    },
-    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "Chromium: CVE-2026-16807 Out of bounds write in Codecs",
@@ -8768,6 +8792,22 @@
       "published_at": "2026-07-25T07:29:49Z",
       "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-16804",
       "summary": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information."
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Restoring Trust in the Smithsonian Institution",
+      "published_at": "2026-07-24T20:19:11Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Restores Trust in the Smithsonian Institution",
+      "published_at": "2026-07-24T19:11:24Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-restores-trust-in-the-smithsonian-institution/",
+      "summary": ""
     },
     {
       "category": "IS",
@@ -8840,6 +8880,38 @@
       "published_at": "2026-07-24T00:00:00Z",
       "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411214",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Biosimilar and Interchangeable Biosimilar Products: Considerations for Container Closure Systems and Device Constituent Parts; Draft Guidance for Industry; Availability",
+      "published_at": "2026-07-24T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD12&regmonthly_date=2026-07-24&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0910-ZD12 | 0910 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "NIH Is Replacing Letters of Support with Letters of Collaboration to Reduce Administrative Burden",
+      "published_at": "2026-07-24T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA15&regmonthly_date=2026-07-24&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0925-ZA15 | 0925 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "English Language Proficiency, Out of Service Criteria",
+      "published_at": "2026-07-24T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2126-AC99&regmonthly_date=2026-07-24&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2126-AC99 | 2126 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Upper C-band (3.98–4.2 GHz) (GN Docket No. 25-59)",
+      "published_at": "2026-07-24T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM20&regmonthly_date=2026-07-24&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3060-AM20 | 3060 | Final Rule"
     },
     {
       "category": "Federal Register",
@@ -9965,36 +10037,12 @@
       "fedreg_document_number": "2026-14960"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Biosimilar and Interchangeable Biosimilar Products: Considerations for Container Closure Systems and Device Constituent Parts; Draft Guidance for Industry; Availability",
-      "published_at": "2026-07-24T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD12&regmonthly_date=2026-07-24&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0910-ZD12 | 0910 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "NIH Is Replacing Letters of Support with Letters of Collaboration to Reduce Administrative Burden",
-      "published_at": "2026-07-24T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA15&regmonthly_date=2026-07-24&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0925-ZA15 | 0925 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "English Language Proficiency, Out of Service Criteria",
-      "published_at": "2026-07-24T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2126-AC99&regmonthly_date=2026-07-24&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2126-AC99 | 2126 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Upper C-band (3.98–4.2 GHz) (GN Docket No. 25-59)",
-      "published_at": "2026-07-24T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM20&regmonthly_date=2026-07-24&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3060-AM20 | 3060 | Final Rule"
+      "category": "Executive",
+      "source": "White House",
+      "title": "Actions by the United States in the Investigations under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy to Impose and Effectively Enforce…",
+      "published_at": "2026-07-23T22:48:44Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and/",
+      "summary": ""
     },
     {
       "category": "IS",
@@ -10523,6 +10571,54 @@
       "published_at": "2026-07-23T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/warren-delivers-remarks-at-hearing-of-trump-cfpb-nominee-brian-johnson",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Streamlining Export Controls for Drone Exports",
+      "published_at": "2026-07-23T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK30&regmonthly_date=2026-07-23&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0694-AK30 | 0694 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Use of Salt Substitutes to Reduce the Sodium Content in Standardized Foods",
+      "published_at": "2026-07-23T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI72&regmonthly_date=2026-07-23&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0910-AI72 | 0910 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Rescission of Executive Order 11246 Implementing Regulations",
+      "published_at": "2026-07-23T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1250-AA17&regmonthly_date=2026-07-23&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1250-AA17 | 1250 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Revision of Regulations Related to Nondiscrimination in Federally Assisted Programs of the National Science Foundation",
+      "published_at": "2026-07-23T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3145-AA74&regmonthly_date=2026-07-23&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3145-AA74 | 3145 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Automatic Registration",
+      "published_at": "2026-07-23T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3240-AA09&regmonthly_date=2026-07-23&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3240-AA09 | 3240 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+      "published_at": "2026-07-23T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-AB37&regmonthly_date=2026-07-23&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 1210-AB37 | 1210 | Final Rule"
     },
     {
       "category": "Federal Register",
@@ -12226,54 +12322,6 @@
       "fedreg_document_number": "2026-14825"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Streamlining Export Controls for Drone Exports",
-      "published_at": "2026-07-23T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK30&regmonthly_date=2026-07-23&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0694-AK30 | 0694 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Use of Salt Substitutes to Reduce the Sodium Content in Standardized Foods",
-      "published_at": "2026-07-23T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI72&regmonthly_date=2026-07-23&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0910-AI72 | 0910 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Rescission of Executive Order 11246 Implementing Regulations",
-      "published_at": "2026-07-23T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1250-AA17&regmonthly_date=2026-07-23&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1250-AA17 | 1250 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Revision of Regulations Related to Nondiscrimination in Federally Assisted Programs of the National Science Foundation",
-      "published_at": "2026-07-23T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3145-AA74&regmonthly_date=2026-07-23&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3145-AA74 | 3145 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Automatic Registration",
-      "published_at": "2026-07-23T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3240-AA09&regmonthly_date=2026-07-23&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3240-AA09 | 3240 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
-      "published_at": "2026-07-23T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-AB37&regmonthly_date=2026-07-23&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 1210-AB37 | 1210 | Final Rule"
-    },
-    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2026-50407 Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability",
@@ -12616,6 +12664,62 @@
       "published_at": "2026-07-22T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/communications/social-media",
       "summary": "Social media is becoming an increasingly important topic in the banking space. ABA has resources and expertise to help you navigate and leverage this key communications platform for your bank."
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs",
+      "published_at": "2026-07-22T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BS19&regmonthly_date=2026-07-22&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1545-BS19 | 1545 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency",
+      "published_at": "2026-07-22T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2130-AD65&regmonthly_date=2026-07-22&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2130-AD65 | 2130 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Federal Ship Financing Program Revision",
+      "published_at": "2026-07-22T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2133-AC05&regmonthly_date=2026-07-22&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2133-AC05 | 2133 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Endangered and Threatened Wildlife and Plants; Interagency Cooperation Regulations",
+      "published_at": "2026-07-22T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BN79&regmonthly_date=2026-07-22&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0648-BN79 | 0648 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+      "published_at": "2026-07-22T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0651-AD89&regmonthly_date=2026-07-22&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0651-AD89 | 0651 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Endangered and Threatened Wildlife and Plants; Interagency Cooperation",
+      "published_at": "2026-07-22T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BI75&regmonthly_date=2026-07-22&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 1018-BI75 | 1018 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Modernizing the Commission's National Environmental Policy Act Rules (WT Docket No. 25-217)",
+      "published_at": "2026-07-22T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM15&regmonthly_date=2026-07-22&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 3060-AM15 | 3060 | Final Rule"
     },
     {
       "category": "Federal Register",
@@ -14405,67 +14509,27 @@
       "fedreg_document_number": "2026-14702"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs",
-      "published_at": "2026-07-22T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BS19&regmonthly_date=2026-07-22&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1545-BS19 | 1545 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency",
-      "published_at": "2026-07-22T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2130-AD65&regmonthly_date=2026-07-22&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2130-AD65 | 2130 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Federal Ship Financing Program Revision",
-      "published_at": "2026-07-22T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2133-AC05&regmonthly_date=2026-07-22&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2133-AC05 | 2133 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Endangered and Threatened Wildlife and Plants; Interagency Cooperation Regulations",
-      "published_at": "2026-07-22T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BN79&regmonthly_date=2026-07-22&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0648-BN79 | 0648 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
-      "published_at": "2026-07-22T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0651-AD89&regmonthly_date=2026-07-22&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0651-AD89 | 0651 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Endangered and Threatened Wildlife and Plants; Interagency Cooperation",
-      "published_at": "2026-07-22T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BI75&regmonthly_date=2026-07-22&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 1018-BI75 | 1018 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Modernizing the Commission's National Environmental Policy Act Rules (WT Docket No. 25-217)",
-      "published_at": "2026-07-22T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM15&regmonthly_date=2026-07-22&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 3060-AM15 | 3060 | Final Rule"
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "Presidential Message on the Anniversary of the Liberation of Guam",
       "published_at": "2026-07-21T21:30:51Z",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-liberation-of-guam/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Nominations Sent to the Senate",
+      "published_at": "2026-07-21T19:58:17Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-60e9/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Announces Trade Deal with Jordan",
+      "published_at": "2026-07-21T15:56:03Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/",
       "summary": ""
     },
     {
@@ -15043,6 +15107,46 @@
       "published_at": "2026-07-21T00:00:00Z",
       "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411205",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Determining Whether to Submit an ANDA or a 505(b)(2) Application; Draft Guidance for Industry; Availability",
+      "published_at": "2026-07-21T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD49&regmonthly_date=2026-07-21&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0910-ZD49 | 0910 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Amending the Indirect Hold Harmless Threshold of Health Care-Related Taxes (CMS-2452)",
+      "published_at": "2026-07-21T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV93&regmonthly_date=2026-07-21&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0938-AV93 | 0938 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Black Lung Benefits Act: Authorization of Self Insurers",
+      "published_at": "2026-07-21T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1240-AA16&regmonthly_date=2026-07-21&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1240-AA16 | 1240 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Reducing Barriers to Medical Use Licensing [NRC-2025-1237]",
+      "published_at": "2026-07-21T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL50&regmonthly_date=2026-07-21&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3150-AL50 | 3150 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Modernizing Package Certification Requirements [NRC-2025-1667]",
+      "published_at": "2026-07-21T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL62&regmonthly_date=2026-07-21&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3150-AL62 | 3150 | Proposed Rule"
     },
     {
       "category": "Federal Register",
@@ -16275,51 +16379,99 @@
       "fedreg_document_number": "2026-14603"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Determining Whether to Submit an ANDA or a 505(b)(2) Application; Draft Guidance for Industry; Availability",
-      "published_at": "2026-07-21T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD49&regmonthly_date=2026-07-21&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0910-ZD49 | 0910 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Amending the Indirect Hold Harmless Threshold of Health Care-Related Taxes (CMS-2452)",
-      "published_at": "2026-07-21T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV93&regmonthly_date=2026-07-21&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0938-AV93 | 0938 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Black Lung Benefits Act: Authorization of Self Insurers",
-      "published_at": "2026-07-21T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1240-AA16&regmonthly_date=2026-07-21&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1240-AA16 | 1240 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Reducing Barriers to Medical Use Licensing [NRC-2025-1237]",
-      "published_at": "2026-07-21T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL50&regmonthly_date=2026-07-21&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3150-AL50 | 3150 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Modernizing Package Certification Requirements [NRC-2025-1667]",
-      "published_at": "2026-07-21T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL62&regmonthly_date=2026-07-21&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3150-AL62 | 3150 | Proposed Rule"
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "Presidential Message on Space Exploration Day",
       "published_at": "2026-07-20T23:06:31Z",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-space-exploration-day-8e77/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Motor Vehicles",
+      "published_at": "2026-07-20T21:00:00Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages",
+      "published_at": "2026-07-20T21:00:00Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Dairy",
+      "published_at": "2026-07-20T21:00:00Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada",
+      "published_at": "2026-07-20T21:00:00Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Takes Further Action To Adjust Imports Of Aluminum Into The United States",
+      "published_at": "2026-07-20T19:44:17Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-takes-further-action-to-adjust-imports-of-aluminum-into-the-united-states/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Further Strengthening Actions Taken to Adjust Imports of Aluminum into the United States",
+      "published_at": "2026-07-20T19:44:08Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/further-strengthening-actions-taken-to-adjust-imports-of-aluminum-into-the-united-states/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Secures America’s Defense Supply Chains and Ensures Domestic Acquisition of Critical Materials",
+      "published_at": "2026-07-20T19:38:30Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-americas-defense-supply-chains-and-ensures-domestic-acquisition-of-critical-materials/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Securing America’s Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials",
+      "published_at": "2026-07-20T19:38:18Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Nomination Sent to the Senate",
+      "published_at": "2026-07-20T19:37:49Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nomination-sent-to-the-senate-4c22/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Captive Nations Week, 2026",
+      "published_at": "2026-07-20T19:33:45Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/captive-nations-week-2026/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Made in America Week, 2026",
+      "published_at": "2026-07-20T19:30:18Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/made-in-america-week-2026/",
       "summary": ""
     },
     {
@@ -17017,6 +17169,46 @@
       "published_at": "2026-07-20T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/technology/core-resources",
       "summary": "The relationship between banks and their core providers is essential for being competitive in today's dynamic financial marketplace. Find news and resources on this topic, and understand the policy landscape affecting core platforms."
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Waiver of Specified Statutory Requirements for Commercial Space Launch and Reentry Actions",
+      "published_at": "2026-07-20T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AM51&regmonthly_date=2026-07-20&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2120-AM51 | 2120 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+      "published_at": "2026-07-20T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0584-AF17&regmonthly_date=2026-07-20&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0584-AF17 | 0584 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and PACE (CMS-4214)",
+      "published_at": "2026-07-20T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV88&regmonthly_date=2026-07-20&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0938-AV88 | 0938 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Clinical Laboratory Improvement Amendments of 1988 (CLIA) Virtual Access, Gynecologic Cytology Proficiency Testing (PT), Personnel Qualification Requirements, and Other Changes (CMS-3478)",
+      "published_at": "2026-07-20T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV89&regmonthly_date=2026-07-20&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0938-AV89 | 0938 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "QPAM Re-eligibility Options After Disqualification (QROAD) Class Exemption",
+      "published_at": "2026-07-20T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-ZA37&regmonthly_date=2026-07-20&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 1210-ZA37 | 1210 | Proposed Rule"
     },
     {
       "category": "Federal Register",
@@ -18208,46 +18400,6 @@
       "fedreg_document_number": "2026-14512"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Waiver of Specified Statutory Requirements for Commercial Space Launch and Reentry Actions",
-      "published_at": "2026-07-20T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AM51&regmonthly_date=2026-07-20&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2120-AM51 | 2120 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
-      "published_at": "2026-07-20T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0584-AF17&regmonthly_date=2026-07-20&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0584-AF17 | 0584 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and PACE (CMS-4214)",
-      "published_at": "2026-07-20T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV88&regmonthly_date=2026-07-20&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0938-AV88 | 0938 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Clinical Laboratory Improvement Amendments of 1988 (CLIA) Virtual Access, Gynecologic Cytology Proficiency Testing (PT), Personnel Qualification Requirements, and Other Changes (CMS-3478)",
-      "published_at": "2026-07-20T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV89&regmonthly_date=2026-07-20&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0938-AV89 | 0938 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "QPAM Re-eligibility Options After Disqualification (QROAD) Class Exemption",
-      "published_at": "2026-07-20T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-ZA37&regmonthly_date=2026-07-20&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 1210-ZA37 | 1210 | Proposed Rule"
-    },
-    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2026-62309 CoreDNS: proxyproto plugin panics on PPv2 datagram with non-UDP transport — single 28-byte packet remote DoS",
@@ -18406,6 +18558,54 @@
       "published_at": "2026-07-17T00:00:00Z",
       "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411198",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Evaluating the Safety of Antimicrobial New Animal Drugs with Regard to their Microbiological Effects on Bacteria of Human Health Concern; Guidance for Industry",
+      "published_at": "2026-07-17T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZC37&regmonthly_date=2026-07-17&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0910-ZC37 | 0910 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Default Electronic Disclosures by Group Health Plans Under ERISA",
+      "published_at": "2026-07-17T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-AC35&regmonthly_date=2026-07-17&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1210-AC35 | 1210 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Exchange Visitor Rules: Records",
+      "published_at": "2026-07-17T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AF23&regmonthly_date=2026-07-17&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1400-AF23 | 1400 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Affirmative Asylum Referrals Without Interview",
+      "published_at": "2026-07-17T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD18&regmonthly_date=2026-07-17&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1615-AD18 | 1615 | Interim Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "National Pollutant Discharge Elimination System (NPDES) 2027 Issuance of General Permit for Stormwater Discharges from Construction Activities",
+      "published_at": "2026-07-17T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2040-ZA46&regmonthly_date=2026-07-17&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2040-ZA46 | 2040 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight [NRC-2025-1138]",
+      "published_at": "2026-07-17T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL45&regmonthly_date=2026-07-17&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 3150-AL45 | 3150 | Proposed Rule"
     },
     {
       "category": "Federal Register",
@@ -20102,54 +20302,6 @@
       "fedreg_document_number": "2026-14387"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Evaluating the Safety of Antimicrobial New Animal Drugs with Regard to their Microbiological Effects on Bacteria of Human Health Concern; Guidance for Industry",
-      "published_at": "2026-07-17T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZC37&regmonthly_date=2026-07-17&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0910-ZC37 | 0910 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Default Electronic Disclosures by Group Health Plans Under ERISA",
-      "published_at": "2026-07-17T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-AC35&regmonthly_date=2026-07-17&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1210-AC35 | 1210 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Exchange Visitor Rules: Records",
-      "published_at": "2026-07-17T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AF23&regmonthly_date=2026-07-17&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1400-AF23 | 1400 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Affirmative Asylum Referrals Without Interview",
-      "published_at": "2026-07-17T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD18&regmonthly_date=2026-07-17&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1615-AD18 | 1615 | Interim Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "National Pollutant Discharge Elimination System (NPDES) 2027 Issuance of General Permit for Stormwater Discharges from Construction Activities",
-      "published_at": "2026-07-17T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2040-ZA46&regmonthly_date=2026-07-17&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2040-ZA46 | 2040 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight [NRC-2025-1138]",
-      "published_at": "2026-07-17T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL45&regmonthly_date=2026-07-17&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 3150-AL45 | 3150 | Proposed Rule"
-    },
-    {
       "category": "Banking",
       "source": "FDIC",
       "title": "Press Release: Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations",
@@ -20356,6 +20508,30 @@
       "published_at": "2026-07-16T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/consumer-banking/overdraft-protection",
       "summary": "Overdraft protection offers an important form of short-term liquidity that covers bank customers' insufficient funds transactions."
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf",
+      "published_at": "2026-07-16T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1082-AA05&regmonthly_date=2026-07-16&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1082-AA05 | 1082 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Beneficial Ownership Information Reporting Requirement Revision and Deadline Extension",
+      "published_at": "2026-07-16T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1506-ZA04&regmonthly_date=2026-07-16&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1506-ZA04 | 1506 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "GSPMR Case 2026-03, Migrating Nondiscrimination in Programs Receiving Federal Financial Assistance From the FPMR to the GSPMR and Aligning the GSPMR to Reflect Department of Justice Title VI Updates",
+      "published_at": "2026-07-16T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3090-AL09&regmonthly_date=2026-07-16&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3090-AL09 | 3090 | Final Rule"
     },
     {
       "category": "Federal Register",
@@ -22172,35 +22348,19 @@
       "fedreg_document_number": "2026-14251"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf",
-      "published_at": "2026-07-16T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1082-AA05&regmonthly_date=2026-07-16&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1082-AA05 | 1082 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Beneficial Ownership Information Reporting Requirement Revision and Deadline Extension",
-      "published_at": "2026-07-16T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1506-ZA04&regmonthly_date=2026-07-16&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1506-ZA04 | 1506 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "GSPMR Case 2026-03, Migrating Nondiscrimination in Programs Receiving Federal Financial Assistance From the FPMR to the GSPMR and Aligning the GSPMR to Reflect Department of Justice Title VI Updates",
-      "published_at": "2026-07-16T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3090-AL09&regmonthly_date=2026-07-16&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3090-AL09 | 3090 | Final Rule"
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini",
       "published_at": "2026-07-15T20:50:29Z",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Measuring Balance of Payments Deficits",
+      "published_at": "2026-07-15T16:12:50Z",
+      "url": "https://www.whitehouse.gov/research/2026/07/measuring-balance-of-payments-deficits/",
       "summary": ""
     },
     {
@@ -22482,6 +22642,78 @@
       "published_at": "2026-07-15T00:00:00Z",
       "url": "https://www.nacha.org/news/nacha-board-vice-chair-financial-institutions-must-work-together-drive-industry",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Request for Information: NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities",
+      "published_at": "2026-07-15T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA14&regmonthly_date=2026-07-15&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0925-ZA14 | 0925 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Rescinding Portions of Department of Health and Human Services Title VI Regulations to Conform More Closely with the Statutory Text and to Implement Executive Order 14281",
+      "published_at": "2026-07-15T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-AA29&regmonthly_date=2026-07-15&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0945-AA29 | 0945 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Rescinding Guidelines for Eliminating Discrimination and Denial of Services on the Basis of Race, Color, National Origin, Sex, and Handicap in Vocational Education Programs",
+      "published_at": "2026-07-15T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-AA31&regmonthly_date=2026-07-15&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0945-AA31 | 0945 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Elimination of Disparate Impact Theory Under Title VI of the 1964 Civil Rights Act",
+      "published_at": "2026-07-15T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1870-AA20&regmonthly_date=2026-07-15&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1870-AA20 | 1870 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Rescinding Appendix B of Regulations Implementing Title VI of the Civil Rights Act of 1964",
+      "published_at": "2026-07-15T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1870-AA25&regmonthly_date=2026-07-15&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1870-AA25 | 1870 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Rescinding Portions of AmeriCorps Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281",
+      "published_at": "2026-07-15T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3045-AA95&regmonthly_date=2026-07-15&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3045-AA95 | 3045 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Operation of Part 15 Devices in Space (ET Docket 25-XXX)",
+      "published_at": "2026-07-15T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM28&regmonthly_date=2026-07-15&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3060-AM28 | 3060 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Amendment of Section 73.3555(e) of the Commission's Rules, National Television Multiple Ownership Rule; MB Docket No. 17-318",
+      "published_at": "2026-07-15T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM48&regmonthly_date=2026-07-15&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3060-AM48 | 3060 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Maximizing Efficiencies in Universal Service Administration, WC Docket No. 26-XX",
+      "published_at": "2026-07-15T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM49&regmonthly_date=2026-07-15&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3060-AM49 | 3060 | Proposed Rule"
     },
     {
       "category": "Federal Register",
@@ -23717,76 +23949,12 @@
       "fedreg_document_number": "2026-14162"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Request for Information: NIH Common Fund is Soliciting Ideas for NIH-wide Challenges and Opportunities",
-      "published_at": "2026-07-15T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA14&regmonthly_date=2026-07-15&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0925-ZA14 | 0925 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Rescinding Portions of Department of Health and Human Services Title VI Regulations to Conform More Closely with the Statutory Text and to Implement Executive Order 14281",
-      "published_at": "2026-07-15T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-AA29&regmonthly_date=2026-07-15&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0945-AA29 | 0945 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Rescinding Guidelines for Eliminating Discrimination and Denial of Services on the Basis of Race, Color, National Origin, Sex, and Handicap in Vocational Education Programs",
-      "published_at": "2026-07-15T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-AA31&regmonthly_date=2026-07-15&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0945-AA31 | 0945 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Elimination of Disparate Impact Theory Under Title VI of the 1964 Civil Rights Act",
-      "published_at": "2026-07-15T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1870-AA20&regmonthly_date=2026-07-15&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1870-AA20 | 1870 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Rescinding Appendix B of Regulations Implementing Title VI of the Civil Rights Act of 1964",
-      "published_at": "2026-07-15T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1870-AA25&regmonthly_date=2026-07-15&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1870-AA25 | 1870 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Rescinding Portions of AmeriCorps Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281",
-      "published_at": "2026-07-15T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3045-AA95&regmonthly_date=2026-07-15&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3045-AA95 | 3045 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Operation of Part 15 Devices in Space (ET Docket 25-XXX)",
-      "published_at": "2026-07-15T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM28&regmonthly_date=2026-07-15&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3060-AM28 | 3060 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Amendment of Section 73.3555(e) of the Commission's Rules, National Television Multiple Ownership Rule; MB Docket No. 17-318",
-      "published_at": "2026-07-15T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM48&regmonthly_date=2026-07-15&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3060-AM48 | 3060 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Maximizing Efficiencies in Universal Service Administration, WC Docket No. 26-XX",
-      "published_at": "2026-07-15T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM49&regmonthly_date=2026-07-15&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3060-AM49 | 3060 | Proposed Rule"
+      "category": "Executive",
+      "source": "White House",
+      "title": "Nominations and Withdrawals Sent to the Senate",
+      "published_at": "2026-07-14T19:12:59Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/",
+      "summary": ""
     },
     {
       "category": "Banking",
@@ -28197,6 +28365,30 @@
       "summary": ""
     },
     {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Revision of Crime Control and Firearms Convention Reasons for Control for Certain Items",
+      "published_at": "2026-07-14T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK48&regmonthly_date=2026-07-14&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0694-AK48 | 0694 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "First Responder Fair RETIRE Act",
+      "published_at": "2026-07-14T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO54&regmonthly_date=2026-07-14&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3206-AO54 | 3206 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Electronic Delivery of Information Under the Federal Securities Laws",
+      "published_at": "2026-07-14T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN57&regmonthly_date=2026-07-14&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3235-AN57 | 3235 | Proposed Rule"
+    },
+    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Rescinding the Definition of “Harm” Under the Endangered Species Act",
@@ -29216,28 +29408,60 @@
       "fedreg_document_number": "2026-14085"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Revision of Crime Control and Firearms Convention Reasons for Control for Certain Items",
-      "published_at": "2026-07-14T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK48&regmonthly_date=2026-07-14&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0694-AK48 | 0694 | Final Rule"
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Grants Further Regulatory Relief from Burdensome EPA Restrictions to Promote American Security",
+      "published_at": "2026-07-13T22:23:56Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-grants-further-regulatory-relief-from-burdensome-epa-restrictions-to-promote-american-security/",
+      "summary": ""
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "First Responder Fair RETIRE Act",
-      "published_at": "2026-07-14T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO54&regmonthly_date=2026-07-14&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3206-AO54 | 3206 | Proposed Rule"
+      "category": "Executive",
+      "source": "White House",
+      "title": "Regulatory Relief for Certain Stationary Sources to Promote American Chemical Manufacturing Security",
+      "published_at": "2026-07-13T22:23:12Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security-be40/",
+      "summary": ""
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Electronic Delivery of Information Under the Federal Securities Laws",
-      "published_at": "2026-07-14T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN57&regmonthly_date=2026-07-14&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3235-AN57 | 3235 | Proposed Rule"
+      "category": "Executive",
+      "source": "White House",
+      "title": "Modifying the Bears Ears National Monument",
+      "published_at": "2026-07-13T22:14:23Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Modifies Two National Monuments, Restoring Sensible Land Management",
+      "published_at": "2026-07-13T22:13:50Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-modifies-two-national-monuments-restoring-sensible-land-management/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Modifying the Grand Staircase-Escalante National Monument",
+      "published_at": "2026-07-13T22:10:38Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-grand-staircase-escalante-national-monument/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Nominations Sent to the Senate",
+      "published_at": "2026-07-13T20:39:42Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
+      "summary": ""
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Death of Senator Lindsey Graham",
+      "published_at": "2026-07-13T16:06:47Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/death-of-senator-lindsey-graham/",
+      "summary": ""
     },
     {
       "category": "Banking",
@@ -29334,6 +29558,38 @@
       "published_at": "2026-07-13T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/payments/penny-phaseout",
       "summary": "This page provides resources to help your bank track trends, manage customer expectations, and respond to the operational impacts of the penny’s retirement."
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+      "published_at": "2026-07-13T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV82&regmonthly_date=2026-07-13&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0938-AV82 | 0938 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Exempting Certain Career Federal Employees from Ethics Reporting Requirements",
+      "published_at": "2026-07-13T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3209-AA76&regmonthly_date=2026-07-13&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3209-AA76 | 3209 | Interim Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Patient Protection and Affordable Care Act; State Innovation Waivers and Health Care Choice Compacts (CMS-9877)",
+      "published_at": "2026-07-13T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV99&regmonthly_date=2026-07-13&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0938-AV99 | 0938 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Planning and Designation of Areas of Critical Environmental Concern",
+      "published_at": "2026-07-13T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF53&regmonthly_date=2026-07-13&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 1004-AF53 | 1004 | Proposed Rule"
     },
     {
       "category": "Federal Register",
@@ -30502,38 +30758,6 @@
         "type:notice"
       ],
       "fedreg_document_number": "2026-13997"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
-      "published_at": "2026-07-13T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV82&regmonthly_date=2026-07-13&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0938-AV82 | 0938 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Exempting Certain Career Federal Employees from Ethics Reporting Requirements",
-      "published_at": "2026-07-13T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3209-AA76&regmonthly_date=2026-07-13&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3209-AA76 | 3209 | Interim Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Patient Protection and Affordable Care Act; State Innovation Waivers and Health Care Choice Compacts (CMS-9877)",
-      "published_at": "2026-07-13T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV99&regmonthly_date=2026-07-13&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0938-AV99 | 0938 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Planning and Designation of Areas of Critical Environmental Concern",
-      "published_at": "2026-07-13T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF53&regmonthly_date=2026-07-13&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 1004-AF53 | 1004 | Proposed Rule"
     },
     {
       "category": "IS",
@@ -31984,6 +32208,46 @@
       "summary": ""
     },
     {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Serotonin-2A Agonists and Related Products: Considerations for Clinical Investigations; Guidance for Industry; Availability",
+      "published_at": "2026-07-10T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZC89&regmonthly_date=2026-07-10&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0910-ZC89 | 0910 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Endangered and Threatened Wildlife and Plants; Critical Habitat Designation for Canada Lynx",
+      "published_at": "2026-07-10T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BH59&regmonthly_date=2026-07-10&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1018-BH59 | 1018 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Requirements for Certain Aircraft to be Equipped with Interference Tolerant NextGen Radio Altimeter Systems",
+      "published_at": "2026-07-10T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AM21&regmonthly_date=2026-07-10&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2120-AM21 | 2120 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "U.S.-Origin Statements on Seafood; Draft Guidance for Industry",
+      "published_at": "2026-07-10T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD48&regmonthly_date=2026-07-10&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0910-ZD48 | 0910 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+      "published_at": "2026-07-10T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AL82&regmonthly_date=2026-07-10&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 2120-AL82 | 2120 | Final Rule"
+    },
+    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Facilitating Implementation of Next Generation 911 Services (NG911); Improving 911 Reliability",
@@ -33148,44 +33412,20 @@
       "fedreg_document_number": "2026-13910"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Serotonin-2A Agonists and Related Products: Considerations for Clinical Investigations; Guidance for Industry; Availability",
-      "published_at": "2026-07-10T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZC89&regmonthly_date=2026-07-10&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0910-ZC89 | 0910 | Notice"
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States",
+      "published_at": "2026-07-09T20:23:18Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-adjusts-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/",
+      "summary": ""
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Endangered and Threatened Wildlife and Plants; Critical Habitat Designation for Canada Lynx",
-      "published_at": "2026-07-10T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BH59&regmonthly_date=2026-07-10&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1018-BH59 | 1018 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Requirements for Certain Aircraft to be Equipped with Interference Tolerant NextGen Radio Altimeter Systems",
-      "published_at": "2026-07-10T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AM21&regmonthly_date=2026-07-10&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2120-AM21 | 2120 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "U.S.-Origin Statements on Seafood; Draft Guidance for Industry",
-      "published_at": "2026-07-10T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD48&regmonthly_date=2026-07-10&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0910-ZD48 | 0910 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
-      "published_at": "2026-07-10T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2120-AL82&regmonthly_date=2026-07-10&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 2120-AL82 | 2120 | Final Rule"
+      "category": "Executive",
+      "source": "White House",
+      "title": "Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States",
+      "published_at": "2026-07-09T20:21:16Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/adjusting-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/",
+      "summary": ""
     },
     {
       "category": "Banking",
@@ -33668,12 +33908,44 @@
       "summary": "by Diego Cuesta-Mora, Fredy Gamboa, Camilo Sanchez-Quinto Colombia's post-pandemic recovery in 2021–2022 was marked by rapid consumer credit growth, followed by deteriorating credit quality indicators amid tightening financial conditions. In January 2023, the Superintendence of Finance of Colombia (SFC) introduced higher provisioning requirements for long-term consumer loans t…"
     },
     {
+      "category": "Executive",
+      "source": "White House",
+      "title": "Fact Sheet: President Donald J. Trump Secures Historic Defense Investment from NATO Allies, Powering American Industry",
+      "published_at": "2026-07-09T00:20:35Z",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/",
+      "summary": ""
+    },
+    {
       "category": "Payments",
       "source": "NACHA",
       "title": "Fraud Among the Big Topics at Nacha Hill Day 2026",
       "published_at": "2026-07-09T00:00:00Z",
       "url": "https://www.nacha.org/news/fraud-among-big-topics-nacha-hill-day-2026",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "HUD's Implementation of the Fair Housing Act's Disparate Impact Standard (FR-6540)",
+      "published_at": "2026-07-09T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2529-AB09&regmonthly_date=2026-07-09&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2529-AB09 | 2529 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Administrative Detention of Tobacco Products",
+      "published_at": "2026-07-09T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI05&regmonthly_date=2026-07-09&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0910-AI05 | 0910 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Disadvantaged Business Enterprise and Airport Concession; Disadvantaged Business Enterprise Program Implementation Modifications",
+      "published_at": "2026-07-09T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2105-AF33&regmonthly_date=2026-07-09&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 2105-AF33 | 2105 | Final Rule"
     },
     {
       "category": "Federal Register",
@@ -34911,30 +35183,6 @@
       "fedreg_document_number": "2026-13812"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "HUD's Implementation of the Fair Housing Act's Disparate Impact Standard (FR-6540)",
-      "published_at": "2026-07-09T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2529-AB09&regmonthly_date=2026-07-09&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2529-AB09 | 2529 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Administrative Detention of Tobacco Products",
-      "published_at": "2026-07-09T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI05&regmonthly_date=2026-07-09&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0910-AI05 | 0910 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Disadvantaged Business Enterprise and Airport Concession; Disadvantaged Business Enterprise Program Implementation Modifications",
-      "published_at": "2026-07-09T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2105-AF33&regmonthly_date=2026-07-09&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 2105-AF33 | 2105 | Final Rule"
-    },
-    {
       "category": "Banking",
       "source": "FRB",
       "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
@@ -35029,6 +35277,38 @@
       "published_at": "2026-07-08T00:00:00Z",
       "url": "https://www.aba.com/banking-topics/risk-management/physical-security",
       "summary": "Know how to identify physical threats and the various resources available to you in order to help you protect your customers and your employees."
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Designated Placements Requirements Under Titles IV-E and IV-B for LQBTQ+ Children; Rescission",
+      "published_at": "2026-07-08T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD19&regmonthly_date=2026-07-08&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0970-AD19 | 0970 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Rescission of Advisory Bulletin AB 2015-05 FHLBank Core Mission Achievement",
+      "published_at": "2026-07-08T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2590-ZA12&regmonthly_date=2026-07-08&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2590-ZA12 | 2590 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Rescission of EEO-1, EEO-2, EEO-3, EEO-4. EEO-5, And Reporting Requirement Under Title VII, the ADA, GINA, and the PWFA",
+      "published_at": "2026-07-08T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3046-AB37&regmonthly_date=2026-07-08&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3046-AB37 | 3046 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Rescinding Unnecessary Notice and Comment Procedures",
+      "published_at": "2026-07-08T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3245-AI74&regmonthly_date=2026-07-08&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3245-AI74 | 3245 | Final Rule"
     },
     {
       "category": "Federal Register",
@@ -36238,38 +36518,6 @@
       "fedreg_document_number": "2026-13722"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Designated Placements Requirements Under Titles IV-E and IV-B for LQBTQ+ Children; Rescission",
-      "published_at": "2026-07-08T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD19&regmonthly_date=2026-07-08&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0970-AD19 | 0970 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Rescission of Advisory Bulletin AB 2015-05 FHLBank Core Mission Achievement",
-      "published_at": "2026-07-08T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2590-ZA12&regmonthly_date=2026-07-08&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2590-ZA12 | 2590 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Rescission of EEO-1, EEO-2, EEO-3, EEO-4. EEO-5, And Reporting Requirement Under Title VII, the ADA, GINA, and the PWFA",
-      "published_at": "2026-07-08T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3046-AB37&regmonthly_date=2026-07-08&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3046-AB37 | 3046 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Rescinding Unnecessary Notice and Comment Procedures",
-      "published_at": "2026-07-08T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3245-AI74&regmonthly_date=2026-07-08&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3245-AI74 | 3245 | Final Rule"
-    },
-    {
       "category": "Banking",
       "source": "FRB",
       "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
@@ -36332,6 +36580,62 @@
       "published_at": "2026-07-07T00:00:00Z",
       "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/frankfurt-international-bank-selects-fis-bypass-legacy",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Rescinding the Definition of \"Harm\" under the Endangered Species Act",
+      "published_at": "2026-07-07T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BN93&regmonthly_date=2026-07-07&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0648-BN93 | 0648 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Implementation of EAR Export Controls on Silencers, Mufflers, and Sound Suppressors; and Other Firearms Related Changes",
+      "published_at": "2026-07-07T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK35&regmonthly_date=2026-07-07&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0694-AK35 | 0694 | Interim Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Low-Value Shipments",
+      "published_at": "2026-07-07T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1685-AA38&regmonthly_date=2026-07-07&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1685-AA38 | 1685 | Interim Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Interim Part 555 Guidance and Enhanced Application Instructions",
+      "published_at": "2026-07-07T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2127-ZA27&regmonthly_date=2026-07-07&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2127-ZA27 | 2127 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Railroad Noise Emission Compliance Regulations",
+      "published_at": "2026-07-07T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2130-AC83&regmonthly_date=2026-07-07&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2130-AC83 | 2130 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Environmental Protection: Regulations for Implementation of the National Environmental Policy Act (NEPA)",
+      "published_at": "2026-07-07T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AF99&regmonthly_date=2026-07-07&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 1400-AF99 | 1400 | Interim Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Updating the Water Quality Certification Rule",
+      "published_at": "2026-07-07T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2040-AG47&regmonthly_date=2026-07-07&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 2040-AG47 | 2040 | Final Rule"
     },
     {
       "category": "Federal Register",
@@ -37493,62 +37797,6 @@
       "fedreg_document_number": "2026-13627"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Rescinding the Definition of \"Harm\" under the Endangered Species Act",
-      "published_at": "2026-07-07T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BN93&regmonthly_date=2026-07-07&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0648-BN93 | 0648 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Implementation of EAR Export Controls on Silencers, Mufflers, and Sound Suppressors; and Other Firearms Related Changes",
-      "published_at": "2026-07-07T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK35&regmonthly_date=2026-07-07&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0694-AK35 | 0694 | Interim Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Low-Value Shipments",
-      "published_at": "2026-07-07T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1685-AA38&regmonthly_date=2026-07-07&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1685-AA38 | 1685 | Interim Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Interim Part 555 Guidance and Enhanced Application Instructions",
-      "published_at": "2026-07-07T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2127-ZA27&regmonthly_date=2026-07-07&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2127-ZA27 | 2127 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Railroad Noise Emission Compliance Regulations",
-      "published_at": "2026-07-07T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2130-AC83&regmonthly_date=2026-07-07&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2130-AC83 | 2130 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Environmental Protection: Regulations for Implementation of the National Environmental Policy Act (NEPA)",
-      "published_at": "2026-07-07T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AF99&regmonthly_date=2026-07-07&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 1400-AF99 | 1400 | Interim Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Updating the Water Quality Certification Rule",
-      "published_at": "2026-07-07T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2040-AG47&regmonthly_date=2026-07-07&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 2040-AG47 | 2040 | Final Rule"
-    },
-    {
       "category": "International Banking",
       "source": "BIS",
       "title": "Blockchain consensus mechanisms and fragmentation",
@@ -37563,6 +37811,62 @@
       "published_at": "2026-07-06T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/warren-calls-on-pulte-to-resign-from-odni-and-fhfa-as-committee-report-details-abuses-of-power",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Food Standards of Identity Modernization; Pasteurized Orange Juice",
+      "published_at": "2026-07-06T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI98&regmonthly_date=2026-07-06&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0910-AI98 | 0910 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Inviting Comments and Suggestions on Topic Areas for the NIDCR Strategic Plan for Fiscal Years 2027–2031",
+      "published_at": "2026-07-06T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA12&regmonthly_date=2026-07-06&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0925-ZA12 | 0925 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Request for Information; Clinical Laboratory Improvement Amendments (CLIA) of 1988 Regulations (CMS-3485)",
+      "published_at": "2026-07-06T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW01&regmonthly_date=2026-07-06&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0938-AW01 | 0938 | Notice"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines",
+      "published_at": "2026-07-06T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2137-AF44&regmonthly_date=2026-07-06&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 2137-AF44 | 2137 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Ensuring Children's Safe Use of Screens and E-Rate-Funded Services",
+      "published_at": "2026-07-06T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM39&regmonthly_date=2026-07-06&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3060-AM39 | 3060 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Request for Information Regarding Promoting Access to Mortgage Credit",
+      "published_at": "2026-07-06T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3170-ZA53&regmonthly_date=2026-07-06&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3170-ZA53 | 3170 | Prerule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Request for Information Regarding Credit Card Late Fees and Late Payments",
+      "published_at": "2026-07-06T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3170-ZA54&regmonthly_date=2026-07-06&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 3170-ZA54 | 3170 | Prerule"
     },
     {
       "category": "Federal Register",
@@ -39431,62 +39735,6 @@
       "fedreg_document_number": "2026-13486"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Food Standards of Identity Modernization; Pasteurized Orange Juice",
-      "published_at": "2026-07-06T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AI98&regmonthly_date=2026-07-06&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0910-AI98 | 0910 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Inviting Comments and Suggestions on Topic Areas for the NIDCR Strategic Plan for Fiscal Years 2027–2031",
-      "published_at": "2026-07-06T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA12&regmonthly_date=2026-07-06&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0925-ZA12 | 0925 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Request for Information; Clinical Laboratory Improvement Amendments (CLIA) of 1988 Regulations (CMS-3485)",
-      "published_at": "2026-07-06T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW01&regmonthly_date=2026-07-06&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0938-AW01 | 0938 | Notice"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines",
-      "published_at": "2026-07-06T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2137-AF44&regmonthly_date=2026-07-06&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 2137-AF44 | 2137 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Ensuring Children's Safe Use of Screens and E-Rate-Funded Services",
-      "published_at": "2026-07-06T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM39&regmonthly_date=2026-07-06&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3060-AM39 | 3060 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Request for Information Regarding Promoting Access to Mortgage Credit",
-      "published_at": "2026-07-06T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3170-ZA53&regmonthly_date=2026-07-06&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3170-ZA53 | 3170 | Prerule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Request for Information Regarding Credit Card Late Fees and Late Payments",
-      "published_at": "2026-07-06T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3170-ZA54&regmonthly_date=2026-07-06&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 3170-ZA54 | 3170 | Prerule"
-    },
-    {
       "category": "Executive",
       "source": "White House",
       "title": "America 250: Presidential Message on the Anniversary of the Battle of Chippawa",
@@ -39517,6 +39765,14 @@
       "published_at": "2026-07-04T00:00:00Z",
       "url": "https://www.irs.gov/newsroom/working-families-tax-cuts",
       "summary": "The Working Families Tax Cuts has a significant effect on your taxes, credits and deductions."
+    },
+    {
+      "category": "Executive",
+      "source": "White House",
+      "title": "250th Anniversary of the Adoption of the Declaration of Independence",
+      "published_at": "2026-07-03T19:57:05Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/250th-anniversary-of-the-adoption-of-the-declaration-of-independence/",
+      "summary": ""
     },
     {
       "category": "IS",
@@ -42727,6 +42983,46 @@
       "summary": ""
     },
     {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "CY 2027 Home Health Prospective Payment System Rate Update and Home Infusion Therapy Services Payment Update (CMS-1844)",
+      "published_at": "2026-07-02T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV80&regmonthly_date=2026-07-02&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0938-AV80 | 0938 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Review of Submarine Cable Landing License Rules and Procedures to Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks, OI Docket No. 24-523, MD Docket No. 24-524",
+      "published_at": "2026-07-02T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM06&regmonthly_date=2026-07-02&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3060-AM06 | 3060 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Implementation of the National Environmental Policy Act [NRC-2025-0478]",
+      "published_at": "2026-07-02T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL38&regmonthly_date=2026-07-02&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 3150-AL38 | 3150 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Cutting Administrative Requirements for Excellence in Patient Care (CMS-3484)",
+      "published_at": "2026-07-02T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW04&regmonthly_date=2026-07-02&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 0938-AW04 | 0938 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "In-situ Recovery Monitoring and Decommissioning Timeliness [NRC-2025-1204]",
+      "published_at": "2026-07-02T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL48&regmonthly_date=2026-07-02&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 3150-AL48 | 3150 | Proposed Rule"
+    },
+    {
       "category": "Federal Register",
       "source": "Federal Register",
       "title": "Declaration of Emergency and Authorization for Temporary Duty-Free Importation of Phosphate Fertilizer From Morocco",
@@ -44885,46 +45181,6 @@
       "fedreg_document_number": "2026-13312"
     },
     {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "CY 2027 Home Health Prospective Payment System Rate Update and Home Infusion Therapy Services Payment Update (CMS-1844)",
-      "published_at": "2026-07-02T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV80&regmonthly_date=2026-07-02&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0938-AV80 | 0938 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Review of Submarine Cable Landing License Rules and Procedures to Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks, OI Docket No. 24-523, MD Docket No. 24-524",
-      "published_at": "2026-07-02T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM06&regmonthly_date=2026-07-02&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3060-AM06 | 3060 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Implementation of the National Environmental Policy Act [NRC-2025-0478]",
-      "published_at": "2026-07-02T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL38&regmonthly_date=2026-07-02&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 3150-AL38 | 3150 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Cutting Administrative Requirements for Excellence in Patient Care (CMS-3484)",
-      "published_at": "2026-07-02T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW04&regmonthly_date=2026-07-02&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 0938-AW04 | 0938 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "In-situ Recovery Monitoring and Decommissioning Timeliness [NRC-2025-1204]",
-      "published_at": "2026-07-02T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL48&regmonthly_date=2026-07-02&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 3150-AL48 | 3150 | Proposed Rule"
-    },
-    {
       "category": "IS",
       "source": "Microsoft MSRC",
       "title": "CVE-2026-32208 Microsoft Entra ID Spoofing Vulnerability",
@@ -45347,6 +45603,38 @@
       "published_at": "2026-07-01T00:00:00Z",
       "url": "https://www.banking.senate.gov/newsroom/minority/warren-reed-van-hollen-call-on-fed-watchdog-to-investigate-vice-chair-bowmans-private-wall-street-dinner-during-feds-blackout-period",
       "summary": ""
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Nondiscrimination in Federally Assisted Programs of the Department of Defense-Effectuation of Title VI of the Civil Rights Act of 1964; Amendment",
+      "published_at": "2026-07-01T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0790-AM02&regmonthly_date=2026-07-01&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0790-AM02 | 0790 | Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+      "published_at": "2026-07-01T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV83&regmonthly_date=2026-07-01&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 0938-AV83 | 0938 | Proposed Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
+      "published_at": "2026-07-01T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1110-AA39&regmonthly_date=2026-07-01&regmonthly_mode=completed",
+      "summary": "OIRA review completed | RIN 1110-AA39 | 1110 | Interim Final Rule"
+    },
+    {
+      "category": "Regulatory Review",
+      "source": "RegInfo.gov",
+      "title": "Clean Water Act Hazardous Substance Facility Response Plans: Compliance Date Delay and Changes to Reflect Administration Policy",
+      "published_at": "2026-07-01T00:00:00Z",
+      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2050-AH38&regmonthly_date=2026-07-01&regmonthly_mode=pending",
+      "summary": "Pending OIRA review | RIN 2050-AH38 | 2050 | Final Rule"
     },
     {
       "category": "Federal Register",
@@ -46762,38 +47050,6 @@
         "type:notice"
       ],
       "fedreg_document_number": "2026-13212"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Nondiscrimination in Federally Assisted Programs of the Department of Defense-Effectuation of Title VI of the Civil Rights Act of 1964; Amendment",
-      "published_at": "2026-07-01T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0790-AM02&regmonthly_date=2026-07-01&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0790-AM02 | 0790 | Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
-      "published_at": "2026-07-01T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV83&regmonthly_date=2026-07-01&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 0938-AV83 | 0938 | Proposed Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies",
-      "published_at": "2026-07-01T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1110-AA39&regmonthly_date=2026-07-01&regmonthly_mode=completed",
-      "summary": "OIRA review completed | RIN 1110-AA39 | 1110 | Interim Final Rule"
-    },
-    {
-      "category": "Regulatory Review",
-      "source": "RegInfo.gov",
-      "title": "Clean Water Act Hazardous Substance Facility Response Plans: Compliance Date Delay and Changes to Reflect Administration Policy",
-      "published_at": "2026-07-01T00:00:00Z",
-      "url": "https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2050-AH38&regmonthly_date=2026-07-01&regmonthly_mode=pending",
-      "summary": "Pending OIRA review | RIN 2050-AH38 | 2050 | Final Rule"
     },
     {
       "category": "Banking",
