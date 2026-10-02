@@ -1,25 +1,13 @@
 # RegDashboard — Export
 
 Window: `2026-08-31T05:00:00Z` → `2026-10-01T05:00:00Z` (UTC)
-Last updated: `2026-10-01T13:51:30-05:00` (CT) — `2026-10-01T18:51:30Z` (UTC)
+Last updated: `2026-10-02T09:21:15-05:00` (CT) — `2026-10-02T14:21:15Z` (UTC)
 
-## Mortgage rates climb
+## The Shift from Demographic Marketing
 - Source: ABA
 - Category: Compliance Watch
 - Published: 2026-10-01T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/10/mortgage-rates-climb-2/
-
-## Meeting Ag Lending Goals Without Going It Alone
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-10-01T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/10/meeting-ag-lending-goals-without-going-it-alone/
-
-## ABA’s Nichols announces #BanksNeverAskThat, #PracticeSafeChecks relaunch on CNBC
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-10-01T05:00:00Z
-- URL: https://bankingjournal.aba.com/2026/10/abas-nichols-announces-banksneveraskthat-practicesafechecks-relaunch-on-cnbc/
+- URL: https://bankingjournal.aba.com/2026/10/the-shift-from-demographic-marketing/
 
 ## ABA, America’s Banks Relaunch #BanksNeverAskThat Campaign with New ‘Scam Slayer’ Initiative, Resources on AI-Powered Scams
 - Source: ABA
@@ -57,11 +45,13 @@ IR-2026-118, Oct. 1, 2026 — The Internal Revenue Service’s Volunteer Income 
 - Published: 2026-10-01T00:00:00Z
 - URL: https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-84.html
 
-## MPF Announcement 2026-65
-- Source: FHLB MPF
+## Applications & Technology
+- Source: Fannie Mae
 - Category: Mortgage
 - Published: 2026-10-01T00:00:00Z
-- URL: https://www.fhlbmpf.com/program-guidelines/mpf-program-updates/mpf-announcement-2026-65
+- URL: https://multifamily.fanniemae.com/applications-technology
+
+Learn more about Fannie Mae’s Multifamily library of applications; DUS Disclose, DUS Docway, DUS Gateway, DUS Insights, DUS Navigate and more.
 
 ## At Hearing, Ranking Member Warren Reveals FHFA Director Pulte's Attempt to Defund, Dismantle Agency Watchdog
 - Source: Senate Banking
@@ -411,6 +401,24 @@ IR-2026-118, Oct. 1, 2026 — The Internal Revenue Service’s Volunteer Income 
 - Published: 2026-10-01T00:00:00Z
 - URL: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22006.html
 
+## Fortinet warns of critical FortiMail flaw exploited in zero-day attacks
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/
+
+## Autonomous AI agents tried to hack US, Canadian government websites
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/
+
+## Microsoft says threat actors are ahead in the early AI race
+- Source: BleepingComputer
+- Category: IS
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/
+
 ## Encrypt files in seconds with this lifetime subscription, just $40
 - Source: BleepingComputer
 - Category: IS
@@ -459,30 +467,6 @@ IR-2026-118, Oct. 1, 2026 — The Internal Revenue Service’s Volunteer Income 
 - Published: 2026-10-01T00:00:00Z
 - URL: https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/
 
-## Jump to Content
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-10-01T00:00:00Z
-- URL: https://www.aba.com/news-research
-
-Stay current on banking issues with daily news, podcasts, research, data analysis and publications, including our flagship ABA Banking Journal and a variety of email bulletins.
-
-## Risk Management Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-10-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management
-
-Identify, monitor, measure and control for risk in your financial institution with these tools and resources from ABA.
-
-## Consumer Banking Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-10-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking
-
-Key areas of consideration for banking individual retail customers, including lending, privacy, financial inclusion and customer trends.
-
 ## Mortgage & Home Finance
 - Source: ABA
 - Category: Compliance Watch
@@ -490,14 +474,6 @@ Key areas of consideration for banking individual retail customers, including le
 - URL: https://www.aba.com/banking-topics/consumer-banking/mortgage-home-finance
 
 There are many paths to owning a home, and banks are prepared to help customers safely navigate whichever path they choose. At the same time, regulatory challenges can sometimes restrain banks from meeting their customers' needs.
-
-## Retail Banking
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-10-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/consumer-banking/retail-banking
-
-As retail branches evolve, banks are looking to increase customer engagement and interaction through diversified selling strategies.
 
 ## Commercial Banking Overview
 - Source: ABA
@@ -539,14 +515,6 @@ Balance technological advancements and digital convenience with the security and
 
 Understand how to safely deploy artificial intelligence at your bank with resources on the opportunities and risks of traditional and generative AI.
 
-## Wealth Management Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-10-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/wealth-management
-
-Wealth and trust client demographics, behaviors and relationship models continue to change. Use these resources from ABA to adapt to changing needs and stay current on advisory practices.
-
 ## Marketing & Communications Overview
 - Source: ABA
 - Category: Compliance Watch
@@ -554,14 +522,6 @@ Wealth and trust client demographics, behaviors and relationship models continue
 - URL: https://www.aba.com/banking-topics/communications
 
 Find sample materials, training, and best practices to help you communicate with employees and customers on current issues in banking.
-
-## Leadership & Operations Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-10-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations
-
-Get news, tools, and training on the issues that affect your bank's bottom line, including talent management, accounting standards and other operational functions.
 
 ## Leadership
 - Source: ABA
@@ -571,37 +531,77 @@ Get news, tools, and training on the issues that affect your bank's bottom line,
 
 Resources and training for bank CEOs and Executives
 
-## Economic Trends
-- Source: ABA
-- Category: Compliance Watch
+## Amendment 62 to the Fishery Management Plan for the Reef Fish Resources of the Gulf (Amendment 62): Modifications to Gulf Red Grouper Management Measures
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-10-01T00:00:00Z
-- URL: https://www.aba.com/banking-topics/operations/economic-trends
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BO10&regmonthly_date=2026-10-01&regmonthly_mode=completed
 
-The U.S. economy is the most dynamic economic power because it is supported by its premier global banking and financial sector.
+OIRA review completed | RIN 0648-BO10 | 0648 | Final Rule
 
-## Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system
-- Source: BIS
-- Category: International Banking
+## Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers; Guidance for Industry; Availability
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-10-01T00:00:00Z
-- URL: https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD69&regmonthly_date=2026-10-01&regmonthly_mode=completed
 
-Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...
+OIRA review completed | RIN 0910-ZD69 | 0910 | Notice
 
-## International supervisory community meets to discuss the future of global bank supervision and regulation
-- Source: BIS
-- Category: International Banking
+## Transparency in Coverage (CMS-9882)
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-10-01T00:00:00Z
-- URL: https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV64&regmonthly_date=2026-10-01&regmonthly_mode=completed
 
-Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...
+OIRA review completed | RIN 0938-AV64 | 0938 | Final Rule
 
-## Circular relationships among AI firms
-- Source: BIS
-- Category: International Banking
+## Universal Service
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-10-01T00:00:00Z
-- URL: https://www.bis.org/publications/bulletin-137-circular-relationships-among-ai-firms
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AK57&regmonthly_date=2026-10-01&regmonthly_mode=completed
 
-Between 2021 and 2025, 28.7% of artificial intelligence (AI) firms’ investment deals (by deal value) involved a target company that was also an AI firm, while 55.2% of incoming investments in AI firms came from other AI firms.
+OIRA review completed | RIN 3060-AK57 | 3060 | Final Rule
+
+## Amendment of Section 73.3555(e) of the Commission's Rules, National Television Multiple Ownership Rule; MB Docket No. 17-318
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM48&regmonthly_date=2026-10-01&regmonthly_mode=completed
+
+OIRA review completed | RIN 3060-AM48 | 3060 | Final Rule
+
+## Family and Medical Leave Act
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AP18&regmonthly_date=2026-10-01&regmonthly_mode=completed
+
+OIRA review completed | RIN 3206-AP18 | 3206 | Final Rule
+
+## Request for Information: Seeking New and Emerging Areas of Science Relevant to the NIDCD Mission, To Inform an Update of the NIDCD Strategic Plan for 2028-2032
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA26&regmonthly_date=2026-10-01&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0925-ZA26 | 0925 | Notice
+
+## Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) Reporting Requirements
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1670-AA04&regmonthly_date=2026-10-01&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1670-AA04 | 1670 | Final Rule
+
+## Federal Management Regulations (FMR), FMR Case 2026-02, Disposition of Federal Surplus Firearms
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3090-AL18&regmonthly_date=2026-10-01&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3090-AL18 | 3090 | Final Rule
 
 ## [WC Docket Nos. 25-208, 25-209; FCC 26-19; FR ID 370342] Reducing Barriers to Network Improvements and Service Changes, Accelerating Network Modernization
 - Source: Federal Register
@@ -1459,6 +1459,30 @@ The Food and Drug Administration (FDA or Agency) is requesting nominations for q
 
 This notice of filing announces that a petition has been filed requesting that styrene isoprene block copolymer ((C<INF>8</INF>H<INF>8</INF>)<INF>x</INF>- (C<INF>5</INF>H<INF>8</INF>)<INF>y</INF>- (C<INF>8</INF>H<INF>8</INF>)<INF>z</INF>- (C<INF>33</INF>H<INF>56</INF>N<INF>4</INF>OS<INF>2</INF>)<INF>a</INF>; x+z=482, y=2,178.51, a=1.70), also known as "SIS Rubber," be added to…
 
+## Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system
+- Source: BIS
+- Category: International Banking
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and
+
+Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...
+
+## International supervisory community meets to discuss the future of global bank supervision and regulation
+- Source: BIS
+- Category: International Banking
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation
+
+Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...
+
+## Circular relationships among AI firms
+- Source: BIS
+- Category: International Banking
+- Published: 2026-10-01T00:00:00Z
+- URL: https://www.bis.org/publications/bulletin-137-circular-relationships-among-ai-firms
+
+Between 2021 and 2025, 28.7% of artificial intelligence (AI) firms’ investment deals (by deal value) involved a target company that was also an AI firm, while 55.2% of incoming investments in AI firms came from other AI firms.
+
 ## Press Release: FDIC Announces Conclusion of Independent Monitorship
 - Source: FDIC
 - Category: Banking
@@ -1504,30 +1528,6 @@ More than 543,000 credentials exposed in public GitHub repositories were still v
 - Category: Executive
 - Published: 2026-09-30T16:17:26Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/
-
-## CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-09-30T15:49:29Z
-- URL: https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]
-
-## Cisco warns of new SD-WAN zero-day exploited in attacks
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-09-30T14:46:40Z
-- URL: https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/
-
-Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]
-
-## AI's Third Wave: Coworkers Break the Security Model That Worked for Agents
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-09-30T14:01:11Z
-- URL: https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/
-
-Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]
 
 ## CVE-2026-69451 Windows Management Instrumentation Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
@@ -1665,14 +1665,6 @@ Updated an acknowledgement. This is an informational change only.
 
 Updated an acknowledgement. This is an informational change only.
 
-## Microsoft to block Entra ID script injection attacks starting October
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-09-30T13:37:15Z
-- URL: https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/
-
-Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]
-
 ## Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements
 - Source: FRB
 - Category: Banking
@@ -1694,22 +1686,6 @@ Federal Reserve Board finalizes changes to enhance the transparency and public a
 - Category: Executive
 - Published: 2026-09-30T12:28:07Z
 - URL: https://www.whitehouse.gov/briefings-statements/2026/09/adobe-amazon-intel-starlink-google-and-zoom-partner-with-first-lady-melania-trumps-fostering-the-future-together/
-
-## TeamViewer urges users to patch severe flaws “as soon as possible”
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-09-30T12:25:10Z
-- URL: https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/
-
-Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]
-
-## Bitget hacked via zero-day in third-party security products
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-09-30T11:11:46Z
-- URL: https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/
-
-Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]
 
 ## ABA Nominates Officers Board for 2026-2027
 - Source: ABA
@@ -1815,11 +1791,11 @@ The Federal Deposit Insurance Corporation (FDIC) today announced the conclusion 
 - Published: 2026-09-30T00:00:00Z
 - URL: https://www.bleepingcomputer.com/offer/deals/use-gpt-55-pro-claude-gemini-and-more-from-one-workspace-for-just-9999/
 
-## Flash Sale: Block ads and trackers on 20 devices for $30 with AdGuard DNS
+## CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS
 - Source: BleepingComputer
 - Category: IS
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.bleepingcomputer.com/offer/deals/flash-sale-block-ads-and-trackers-on-20-devices-for-30-with-adguard-dns/
+- URL: https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/
 
 ## Incident Response
 - Source: ABA
@@ -1837,14 +1813,6 @@ Resources to help you prepare for and respond to a physical or cyber incident.
 
 Enhance your knowledge and understanding of consumer loans and issues that effect them.
 
-## Payments Overview
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-09-30T00:00:00Z
-- URL: https://www.aba.com/banking-topics/payments
-
-Innovations in payments have transformed how customers conduct transactions. See what banks are doing to offer fast and secure payments solutions.
-
 ## Credit Cards
 - Source: ABA
 - Category: Compliance Watch
@@ -1853,85 +1821,77 @@ Innovations in payments have transformed how customers conduct transactions. See
 
 New credit card laws have fundamentally changed the industry.
 
-## Convening remarks - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion
-- Source: BIS
-- Category: International Banking
+## Global Benchmark for Efficient Drug Pricing (GLOBE) Model (CMS-5545)
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.bis.org/speeches/20260930-convening-remarks-11th-annual-general-assembly-meeting-alliance-financial-inclusion
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV66&regmonthly_date=2026-09-30&regmonthly_mode=completed
 
-Convening remarks by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.
+OIRA review completed | RIN 0938-AV66 | 0938 | Final Rule
 
-## Speech - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion
-- Source: BIS
-- Category: International Banking
+## Reforming Federal Reporting and Assessments in Child Welfare
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD32&regmonthly_date=2026-09-30&regmonthly_mode=completed
 
-Speech by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.
+OIRA review completed | RIN 0970-AD32 | 0970 | Proposed Rule
 
-## Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
-- Source: BIS
-- Category: International Banking
+## Information to Lessees: Proposed Notice of Sale Cook Inlet Oil and Gas Lease Sale BBC2
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1010-ZA03&regmonthly_date=2026-09-30&regmonthly_mode=completed
 
-Speech by Ms Christine Lagarde, President of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 28 September 2026.
+OIRA review completed | RIN 1010-ZA03 | 1010 | Notice
 
-## Good practices of green finance in Southeast Asia
-- Source: BIS
-- Category: International Banking
+## Endangered and Threatened Wildlife and Plants; Four Species Not Warranted for Listing as Endangered or Threatened Species
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.bis.org/speeches/20260930-good-practices-green-finance-southeast-asia
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-ZA19&regmonthly_date=2026-09-30&regmonthly_mode=completed
 
-Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Bank of China (Hong Kong) Green Forum 2026 and Sharing Workshop “Good practices of green finance in Southeast Asia”, Hong Kong, 7 September 2026.
+OIRA review completed | RIN 1018-ZA19 | 1018 | Notice
 
-## Tending the public garden - accountable for today, stewarding for tomorrow
-- Source: BIS
-- Category: International Banking
+## Amendments to the Custody Rules
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN46&regmonthly_date=2026-09-30&regmonthly_mode=completed
 
-Remarks by Mr Colm Kincaid, Deputy Governor of the Bank of Ireland, to the DPER (Department of Public Expenditure and Reform) Management Conference, Dublin, 10 September 2026.
+OIRA review completed | RIN 3235-AN46 | 3235 | Proposed Rule
 
-## Statement - base rate of the National Bank of Kazakhstan
-- Source: BIS
-- Category: International Banking
+## Nondiscrimination on the Basis of Disability in Programs or Activities Receiving Federal Financial Assistance
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.bis.org/speeches/20260930-statement-base-rate-national-bank-kazakhstan
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-AA27&regmonthly_date=2026-09-30&regmonthly_mode=pending
 
-Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 24 July 2026.
+Pending OIRA review | RIN 0945-AA27 | 0945 | Final Rule
 
-## Keynote speech - Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum
-- Source: BIS
-- Category: International Banking
+## Further Reducing Bureaucracy and Burden from the Administration for Native Americans
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD50&regmonthly_date=2026-09-30&regmonthly_mode=pending
 
-Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum, Hong Kong, 7 September 2026.
+Pending OIRA review | RIN 0970-AD50 | 0970 | Proposed Rule
 
-## The Indian economy in an ever more volatile and complex world
-- Source: BIS
-- Category: International Banking
+## Trichloroethylene (TCE); Regulation under the Toxic Substances Control Act (TSCA); Additional Compliance Date Extensions
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.bis.org/speeches/20260930-indian-economy-ever-more-volatile-and-complex-world
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2070-AL45&regmonthly_date=2026-09-30&regmonthly_mode=pending
 
-Special address by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 23 September 2026.
+Pending OIRA review | RIN 2070-AL45 | 2070 | Proposed Rule
 
-## Digital innovation - hindrance or booster for banks’ business models?
-- Source: BIS
-- Category: International Banking
+## 2026 Increase of Gifts and Travel Reimbursements Reporting Thresholds for Financial Disclosure Reports and Nonsponsor Widely Attended Gatherings Gift Exception Ceiling
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3209-AA74&regmonthly_date=2026-09-30&regmonthly_mode=pending
 
-Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the, annual Foreign Bankers’ Association of the Netherlands conference, Amsterdam, 22 September 2026.
-
-## Core Principles for Effective Deposit Insurance Systems – Executive Summary
-- Source: BIS
-- Category: International Banking
-- Published: 2026-09-30T00:00:00Z
-- URL: https://www.bis.org/publications/core-principles-effective-deposit-insurance-systems-executive-summary
-
-The Core Principles for Effective Deposit Insurance Systems (core principles) of the International Association of Deposit Insurers are the international standard for the design, implementation and assessment of deposit insurance systems. They provide a benchmark for jurisdictions to evaluate and enhance their deposit insurance frameworks, with the dual objectives of safeguardi…
+Pending OIRA review | RIN 3209-AA74 | 3209 | Final Rule
 
 ## Gold Star Mother's and Family's Day, 2026
 - Source: Federal Register
@@ -2901,77 +2861,85 @@ The U.S. Department of Commerce (Commerce) finds that revocation of the antidump
 
 On September 14, 2026, the U.S. Court of International Trade (CIT) issued a final judgment in Maquilacero S.A. de C.V. and Tecnicas de Fluidos S.A. de C.V. and Perfiles LM, S.A. de C.V. v. United States, Consol. Court no. 23-00091, sustaining the U.S. Department of Commerce (Commerce)'s second remand results pertaining to the administrative review of the antidumping duty (AD)…
 
-## Global Benchmark for Efficient Drug Pricing (GLOBE) Model (CMS-5545)
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Good practices of green finance in Southeast Asia
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV66&regmonthly_date=2026-09-30&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260930-good-practices-green-finance-southeast-asia
 
-OIRA review completed | RIN 0938-AV66 | 0938 | Final Rule
+Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Bank of China (Hong Kong) Green Forum 2026 and Sharing Workshop “Good practices of green finance in Southeast Asia”, Hong Kong, 7 September 2026.
 
-## Reforming Federal Reporting and Assessments in Child Welfare
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Tending the public garden - accountable for today, stewarding for tomorrow
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD32&regmonthly_date=2026-09-30&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow
 
-OIRA review completed | RIN 0970-AD32 | 0970 | Proposed Rule
+Remarks by Mr Colm Kincaid, Deputy Governor of the Bank of Ireland, to the DPER (Department of Public Expenditure and Reform) Management Conference, Dublin, 10 September 2026.
 
-## Information to Lessees: Proposed Notice of Sale Cook Inlet Oil and Gas Lease Sale BBC2
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Statement - base rate of the National Bank of Kazakhstan
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1010-ZA03&regmonthly_date=2026-09-30&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260930-statement-base-rate-national-bank-kazakhstan
 
-OIRA review completed | RIN 1010-ZA03 | 1010 | Notice
+Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 24 July 2026.
 
-## Endangered and Threatened Wildlife and Plants; Four Species Not Warranted for Listing as Endangered or Threatened Species
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Keynote speech - Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-ZA19&regmonthly_date=2026-09-30&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum
 
-OIRA review completed | RIN 1018-ZA19 | 1018 | Notice
+Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum, Hong Kong, 7 September 2026.
 
-## Amendments to the Custody Rules
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## The Indian economy in an ever more volatile and complex world
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN46&regmonthly_date=2026-09-30&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260930-indian-economy-ever-more-volatile-and-complex-world
 
-OIRA review completed | RIN 3235-AN46 | 3235 | Proposed Rule
+Special address by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 23 September 2026.
 
-## Nondiscrimination on the Basis of Disability in Programs or Activities Receiving Federal Financial Assistance
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Digital innovation - hindrance or booster for banks’ business models?
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-AA27&regmonthly_date=2026-09-30&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models
 
-Pending OIRA review | RIN 0945-AA27 | 0945 | Final Rule
+Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the, annual Foreign Bankers’ Association of the Netherlands conference, Amsterdam, 22 September 2026.
 
-## Further Reducing Bureaucracy and Burden from the Administration for Native Americans
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Convening remarks - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD50&regmonthly_date=2026-09-30&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260930-convening-remarks-11th-annual-general-assembly-meeting-alliance-financial-inclusion
 
-Pending OIRA review | RIN 0970-AD50 | 0970 | Proposed Rule
+Convening remarks by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.
 
-## Trichloroethylene (TCE); Regulation under the Toxic Substances Control Act (TSCA); Additional Compliance Date Extensions
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Speech - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2070-AL45&regmonthly_date=2026-09-30&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion
 
-Pending OIRA review | RIN 2070-AL45 | 2070 | Proposed Rule
+Speech by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.
 
-## 2026 Increase of Gifts and Travel Reimbursements Reporting Thresholds for Financial Disclosure Reports and Nonsponsor Widely Attended Gatherings Gift Exception Ceiling
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-30T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3209-AA74&regmonthly_date=2026-09-30&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament
 
-Pending OIRA review | RIN 3209-AA74 | 3209 | Final Rule
+Speech by Ms Christine Lagarde, President of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 28 September 2026.
+
+## Core Principles for Effective Deposit Insurance Systems – Executive Summary
+- Source: BIS
+- Category: International Banking
+- Published: 2026-09-30T00:00:00Z
+- URL: https://www.bis.org/publications/core-principles-effective-deposit-insurance-systems-executive-summary
+
+The Core Principles for Effective Deposit Insurance Systems (core principles) of the International Association of Deposit Insurers are the international standard for the design, implementation and assessment of deposit insurance systems. They provide a benchmark for jurisdictions to evaluate and enhance their deposit insurance frameworks, with the dual objectives of safeguardi…
 
 ## Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors
 - Source: White House
@@ -3229,12 +3197,6 @@ Fannie Mae announced the results of its twenty-eighth Community Impact Pool (CIP
 - Published: 2026-09-29T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/in-bipartisan-letter-warren-indiana-reps-carson-d-and-spatz-r-lead-lawmakers-in-urging-federal-regulator-to-reject-proposed-private-equity-takeover-of-energy-company
 
-## Microsoft is rolling out Linux container support to WSL
-- Source: BleepingComputer
-- Category: IS
-- Published: 2026-09-29T00:00:00Z
-- URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/
-
 ## Agricultural Banking
 - Source: ABA
 - Category: Compliance Watch
@@ -3243,69 +3205,61 @@ Fannie Mae announced the results of its twenty-eighth Community Impact Pool (CIP
 
 Find the most relevant ag banking information, resources and research from our team of experts.
 
-## Opening remarks - 2026 Green Fintech Symposium
-- Source: BIS
-- Category: International Banking
+## Unleashing American Energy and Economic Prosperity Under Title 7 Code of Federal Regulations Part 4280 Subpart B
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-opening-remarks-2026-green-fintech-symposium
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0570-AB13&regmonthly_date=2026-09-29&regmonthly_mode=completed
 
-Opening remarks by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the 2026 Green Fintech Symposium, Hong Kong, 11 September 2026.
+OIRA review completed | RIN 0570-AB13 | 0570 | Final Rule
 
-## An update on AI and the economy
-- Source: BIS
-- Category: International Banking
+## Tax Credit for Contributions of Individuals to Scholarship Granting Organizations
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.bis.org/speeches/20260929-update-ai-and-economy
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BR97&regmonthly_date=2026-09-29&regmonthly_mode=completed
 
-Opening keynote by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the Oakland Tech Week, cohosted by the Kapor Center, Oakland, California, 28 September 2026.
+OIRA review completed | RIN 1545-BR97 | 1545 | Proposed Rule
 
-## Introductory remarks by the Governing Board, Swiss National Bank news conference
-- Source: BIS
-- Category: International Banking
+## Low-Value Shipments
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.bis.org/speeches/20260929-introductory-remarks-governing-board-swiss-national-bank-news-conference
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1685-AA38&regmonthly_date=2026-09-29&regmonthly_mode=completed
 
-Introductory remarks by Mr Martin Schlegel, Chairman of the Governing Board of the SNB, Mr Antoine Martin, Vice Chairman of the Governing Board of the SNB, and Ms Petra Tschudin, Member of the Governing Board of the SNB, at the Media News Conference of the Swiss National Bank, Berne, 24 September 2026.
+OIRA review completed | RIN 1685-AA38 | 1685 | Proposed Rule
 
-## Statement - 2026 Innovation Financial Forum
-- Source: BIS
-- Category: International Banking
+## Opportunities to Reduce Administrative Burden in NIH Extramural Research Request for Information
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-statement-2026-innovation-financial-forum
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA24&regmonthly_date=2026-09-29&regmonthly_mode=pending
 
-Statement by Ms Karina Karaivanova, Deputy Governor of the Bulgarian National Bank, at the 2026 Innovation Financial Forum, organised by the Bank of the Year Association, Sofia, 2 June 2026.
+Pending OIRA review | RIN 0925-ZA24 | 0925 | Notice
 
-## Quantitative tightening - the next chapter
-- Source: BIS
-- Category: International Banking
+## Draft Policy Update to the NIH Policy for Data and Safety Monitoring Request for Information
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.bis.org/speeches/20260929-quantitative-tightening-next-chapter
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA25&regmonthly_date=2026-09-29&regmonthly_mode=pending
 
-Speech by Sir David Ramsden, Deputy Governor for Markets and Banking of the Bank of England, at the Bank of England, co-hosted by the Money, Macro and Finance Society, London, 28 September 2026.
+Pending OIRA review | RIN 0925-ZA25 | 0925 | Notice
 
-## Opening speech - 12th edition of the Annual Scientific Conference of the Romanian Academic Economists from Abroad (ERMAS)
-- Source: BIS
-- Category: International Banking
+## CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-opening-speech-12th-edition-ermas-conference
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV82&regmonthly_date=2026-09-29&regmonthly_mode=pending
 
-Opening speech by Mr Leonardo Badea, First Deputy Governor of the National Bank of Romania, at the 12th edition of the Annual Scientific Conference of the Romanian Academic Economists from Abroad (ERMAS), Bucharest, 30 July 2026.
+Pending OIRA review | RIN 0938-AV82 | 0938 | Final Rule
 
-## Welcoming address - 30th anniversary of FAST
-- Source: BIS
-- Category: International Banking
+## Proposed Adjustments to the Aggregate Production Quotas for Schedule I and II Controlled Substances and Assessment of Annual Needs for the List I Chemicals Ephedrine, Pseudoephedrine, and Phenylpropan
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.bis.org/speeches/20260929-welcoming-address-30th-anniversary-fast
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1117-ZA10&regmonthly_date=2026-09-29&regmonthly_mode=pending
 
-Welcoming address of Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), delivered by Mr Marzunisham Omar, Deputy Governor, at the Industry Appreciation Dinner commemorating the 30th anniversary of FAST, Kuala Lumpur, 9 September 2026.
-
-## High public debt, NBFIs and the risk of market dysfunction
-- Source: BIS
-- Category: International Banking
-- Published: 2026-09-29T00:00:00Z
-- URL: https://www.bis.org/publications/bulletin-136-high-public-debt-nbfis-and-risk-market-dysfunction
-
-Near record-high government debt levels and the growing role of non-banks have reshaped government debt markets in recent years. High levels of government sector debt are expected to worsen future government debt market liquidity conditions in general, including by increasing the risk of market dysfunction. A large non-bank financial institution footprint heightens the risk of…
+Pending OIRA review | RIN 1117-ZA10 | 1117 | Notice
 
 ## Withdrawal of International Airport Designation of Chalk Seaplane Base
 - Source: Federal Register
@@ -4169,61 +4123,69 @@ The Postal Service gives notice of filing a request with the Postal Regulatory C
 
 Pursuant to section 189a.(2) of the Atomic Energy Act of 1954, as amended (the Act), the U.S. Nuclear Regulatory Commission (NRC) is publishing this regular biweekly notice. The Act requires the Commission to publish notice of any amendments issued, or proposed to be issued, and grants the Commission the authority to issue and make immediately effective any amendment to an ope…
 
-## Unleashing American Energy and Economic Prosperity Under Title 7 Code of Federal Regulations Part 4280 Subpart B
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Opening speech - 12th edition of the Annual Scientific Conference of the Romanian Academic Economists from Abroad (ERMAS)
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0570-AB13&regmonthly_date=2026-09-29&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260928-opening-speech-12th-edition-ermas-conference
 
-OIRA review completed | RIN 0570-AB13 | 0570 | Final Rule
+Opening speech by Mr Leonardo Badea, First Deputy Governor of the National Bank of Romania, at the 12th edition of the Annual Scientific Conference of the Romanian Academic Economists from Abroad (ERMAS), Bucharest, 30 July 2026.
 
-## Tax Credit for Contributions of Individuals to Scholarship Granting Organizations
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Welcoming address - 30th anniversary of FAST
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BR97&regmonthly_date=2026-09-29&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260929-welcoming-address-30th-anniversary-fast
 
-OIRA review completed | RIN 1545-BR97 | 1545 | Proposed Rule
+Welcoming address of Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), delivered by Mr Marzunisham Omar, Deputy Governor, at the Industry Appreciation Dinner commemorating the 30th anniversary of FAST, Kuala Lumpur, 9 September 2026.
 
-## Low-Value Shipments
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Opening remarks - 2026 Green Fintech Symposium
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1685-AA38&regmonthly_date=2026-09-29&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260928-opening-remarks-2026-green-fintech-symposium
 
-OIRA review completed | RIN 1685-AA38 | 1685 | Proposed Rule
+Opening remarks by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the 2026 Green Fintech Symposium, Hong Kong, 11 September 2026.
 
-## Opportunities to Reduce Administrative Burden in NIH Extramural Research Request for Information
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## An update on AI and the economy
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA24&regmonthly_date=2026-09-29&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260929-update-ai-and-economy
 
-Pending OIRA review | RIN 0925-ZA24 | 0925 | Notice
+Opening keynote by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the Oakland Tech Week, cohosted by the Kapor Center, Oakland, California, 28 September 2026.
 
-## Draft Policy Update to the NIH Policy for Data and Safety Monitoring Request for Information
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Introductory remarks by the Governing Board, Swiss National Bank news conference
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA25&regmonthly_date=2026-09-29&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260929-introductory-remarks-governing-board-swiss-national-bank-news-conference
 
-Pending OIRA review | RIN 0925-ZA25 | 0925 | Notice
+Introductory remarks by Mr Martin Schlegel, Chairman of the Governing Board of the SNB, Mr Antoine Martin, Vice Chairman of the Governing Board of the SNB, and Ms Petra Tschudin, Member of the Governing Board of the SNB, at the Media News Conference of the Swiss National Bank, Berne, 24 September 2026.
 
-## CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Statement - 2026 Innovation Financial Forum
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV82&regmonthly_date=2026-09-29&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260928-statement-2026-innovation-financial-forum
 
-Pending OIRA review | RIN 0938-AV82 | 0938 | Final Rule
+Statement by Ms Karina Karaivanova, Deputy Governor of the Bulgarian National Bank, at the 2026 Innovation Financial Forum, organised by the Bank of the Year Association, Sofia, 2 June 2026.
 
-## Proposed Adjustments to the Aggregate Production Quotas for Schedule I and II Controlled Substances and Assessment of Annual Needs for the List I Chemicals Ephedrine, Pseudoephedrine, and Phenylpropan
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Quantitative tightening - the next chapter
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-29T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1117-ZA10&regmonthly_date=2026-09-29&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260929-quantitative-tightening-next-chapter
 
-Pending OIRA review | RIN 1117-ZA10 | 1117 | Notice
+Speech by Sir David Ramsden, Deputy Governor for Markets and Banking of the Bank of England, at the Bank of England, co-hosted by the Money, Macro and Finance Society, London, 28 September 2026.
+
+## High public debt, NBFIs and the risk of market dysfunction
+- Source: BIS
+- Category: International Banking
+- Published: 2026-09-29T00:00:00Z
+- URL: https://www.bis.org/publications/bulletin-136-high-public-debt-nbfis-and-risk-market-dysfunction
+
+Near record-high government debt levels and the growing role of non-banks have reshaped government debt markets in recent years. High levels of government sector debt are expected to worsen future government debt market liquidity conditions in general, including by increasing the risk of market dysfunction. A large non-bank financial institution footprint heightens the risk of…
 
 ## Nominations Sent to the Senate
 - Source: White House
@@ -4285,14 +4247,6 @@ Fannie Mae announced that it has commenced fixed-price cash tender offers for th
 - Published: 2026-09-28T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-delivers-real-time-transaction-clarity-debit-cardholders
 
-## Illicit Finance
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-09-28T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management/money-laundering
-
-ABA helps banks better identify and report money laundering and other illicit financial activity with information on new technologies and best practices.
-
 ## Cybersecurity
 - Source: ABA
 - Category: Compliance Watch
@@ -4301,85 +4255,125 @@ ABA helps banks better identify and report money laundering and other illicit fi
 
 ABA offers resources to help banks protect their customers' accounts and personal information.
 
-## We are raising the policy rate to dampen inflation
-- Source: BIS
-- Category: International Banking
+## FAQ: Part 2 Confidentiality Requirements for Substance Use Disorder (SUD) Patient Records and Exceptions to Medicaid Community Engagement Requirements for Certain Individuals with SUD
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-we-are-raising-policy-rate-dampen-inflation
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-ZA13&regmonthly_date=2026-09-28&regmonthly_mode=completed
 
-Introductory statement by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the press conference following Norway's announcement of the policy rate, Oslo, 24 September 2026.
+OIRA review completed | RIN 0945-ZA13 | 0945 | Notice
 
-## L'Europe, C'est Nous
-- Source: BIS
-- Category: International Banking
+## Capital Investment Grants Policy Guidance
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-leurope-cest-nous
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2132-ZA11&regmonthly_date=2026-09-28&regmonthly_mode=completed
 
-Remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the informal ECOFIN dinner, Dublin, 18 September 2026.
+OIRA review completed | RIN 2132-ZA11 | 2132 | Proposed Rule
 
-## Artificial intelligence - the new frontiers of risk
-- Source: BIS
-- Category: International Banking
+## General Services Administration Regulation (GSAR); GSAR Case 2026-G502 GSAR Implementation of Executive Order 14275, Acquisition of Utility Services.
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-artificial-intelligence-new-frontiers-risk
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3090-AL14&regmonthly_date=2026-09-28&regmonthly_mode=completed
 
-Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, to the Association des avocats en droit boursier, Paris, 9 September 2026.
+OIRA review completed | RIN 3090-AL14 | 3090 | Proposed Rule
 
-## Opening remarks “Trust and innovation - the future of finance"
-- Source: BIS
-- Category: International Banking
+## Research and Higher Education Grants
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-opening-remarks-trust-and-innovation-future-finance
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0503-AA93&regmonthly_date=2026-09-28&regmonthly_mode=pending
 
-Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Central Bank of Ireland Conference “Trust and innovation - the future of finance", Dublin, 18 September 2026.
+Pending OIRA review | RIN 0503-AA93 | 0503 | Final Rule
 
-## Back to school - passing Europe's triple test
-- Source: BIS
-- Category: International Banking
+## Request for Information: Developing Menopause Common Data Elements
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-back-school-passing-europes-triple-test
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA22&regmonthly_date=2026-09-28&regmonthly_mode=pending
 
-Keynote speech by Mr Olli Rehn, Governor of the Bank of Finland, at the OMFIF Nordic SSA Forum, Helsinki, 19 August 2026.
+Pending OIRA review | RIN 0925-ZA22 | 0925 | Notice
 
-## Power, markets, and strategy in a changing global order
-- Source: BIS
-- Category: International Banking
+## Request for Information (RFI): Strategies to Advance RAPIDs and Real-World Evidence for Serious Mental Illnesses
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-power-markets-and-strategy-changing-global-order
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA23&regmonthly_date=2026-09-28&regmonthly_mode=pending
 
-Opening remarks by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the International Monetary Fund Economic Review Conference “Power, markets, and strategy in a changing global order”, Bangkok, 11 June 2026.
+Pending OIRA review | RIN 0925-ZA23 | 0925 | Notice
 
-## Discount window modernization and treasury market functioning
-- Source: BIS
-- Category: International Banking
+## Reducing Bureaucracy and Burden for Child Support Enforcement
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD39&regmonthly_date=2026-09-28&regmonthly_mode=pending
 
-Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the 2026 US Treasury Market Conference, organised by the Federal Reserve Bank of New York, New York City, 22 September 2026.
+Pending OIRA review | RIN 0970-AD39 | 0970 | Final Rule
 
-## Launch of the Anti-Money Laundering and Combatting the Financing of Terrorism Graduate Programme
-- Source: BIS
-- Category: International Banking
+## Information to Lessees: Proposed Notice of Sale Gulf of America Oil and Gas Lease Sale BBG4
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-launch-amlcft-graduate-programme
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1010-ZA02&regmonthly_date=2026-09-28&regmonthly_mode=pending
 
-Address by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the launch of the AML/CFT Graduate Programme, jointly offered by the Bank of Mauritius, the Financial Crimes Commission and the Financial Services Commission, Port Louis, 21 September 2026.
+Pending OIRA review | RIN 1010-ZA02 | 1010 | Notice
 
-## Has Europe fully digested the new geoeconomic realities - and does it have the energy to cope with them
-- Source: BIS
-- Category: International Banking
+## Certification Process for State Capital Counsel Systems
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.bis.org/speeches/20260928-has-europe-fully-digested-new-geoeconomic-realities-and-does-it-have-energy-cope-them
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1105-AB80&regmonthly_date=2026-09-28&regmonthly_mode=pending
 
-Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Annual Dinner of the Society of Professional Economists, London, 22 September 2026.
+Pending OIRA review | RIN 1105-AB80 | 1105 | Final Rule
 
-## The leverage ratio and the output floor: complementarities and overlaps
-- Source: BIS
-- Category: International Banking
+## Relationship Banking and Brokerage Class Exemption
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.bis.org/publications/fsi-paper-29-leverage-ratio-and-output-floor-complementarities-and-overlaps
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-ZA38&regmonthly_date=2026-09-28&regmonthly_mode=pending
 
-This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or complements to each other and how they interact with risk‑based regulatory requirements.
+Pending OIRA review | RIN 1210-ZA38 | 1210 | Notice
+
+## Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1235-AA46&regmonthly_date=2026-09-28&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1235-AA46 | 1235 | Final Rule
+
+## Family Seating in Air Transportation
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2105-AF15&regmonthly_date=2026-09-28&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2105-AF15 | 2105 | Final Rule
+
+## Litigation Protections for System Safety Program and Risk Reduction Program Information
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2130-AD62&regmonthly_date=2026-09-28&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2130-AD62 | 2130 | Proposed Rule
+
+## Further Definition of "Swap" to Exclude Casino-Style Gambling Products
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3038-AF81&regmonthly_date=2026-09-28&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3038-AF81 | 3038 | Interim Final Rule
+
+## Further Definition of "Swap" to Include Event Contracts
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-28T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3038-AF82&regmonthly_date=2026-09-28&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3038-AF82 | 3038 | Proposed Rule
 
 ## Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures
 - Source: Federal Register
@@ -5151,125 +5145,85 @@ This notice announces a National Highway Traffic Safety Administration's (NHTSA)
 - Published: 2026-09-28T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/09/28/2026-19711/csx-transportation-inc-abandonment-exemption-in-hamilton-county-ohio
 
-## FAQ: Part 2 Confidentiality Requirements for Substance Use Disorder (SUD) Patient Records and Exceptions to Medicaid Community Engagement Requirements for Certain Individuals with SUD
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Power, markets, and strategy in a changing global order
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-ZA13&regmonthly_date=2026-09-28&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260928-power-markets-and-strategy-changing-global-order
 
-OIRA review completed | RIN 0945-ZA13 | 0945 | Notice
+Opening remarks by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the International Monetary Fund Economic Review Conference “Power, markets, and strategy in a changing global order”, Bangkok, 11 June 2026.
 
-## Capital Investment Grants Policy Guidance
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Discount window modernization and treasury market functioning
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2132-ZA11&regmonthly_date=2026-09-28&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning
 
-OIRA review completed | RIN 2132-ZA11 | 2132 | Proposed Rule
+Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the 2026 US Treasury Market Conference, organised by the Federal Reserve Bank of New York, New York City, 22 September 2026.
 
-## General Services Administration Regulation (GSAR); GSAR Case 2026-G502 GSAR Implementation of Executive Order 14275, Acquisition of Utility Services.
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Launch of the Anti-Money Laundering and Combatting the Financing of Terrorism Graduate Programme
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3090-AL14&regmonthly_date=2026-09-28&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260928-launch-amlcft-graduate-programme
 
-OIRA review completed | RIN 3090-AL14 | 3090 | Proposed Rule
+Address by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the launch of the AML/CFT Graduate Programme, jointly offered by the Bank of Mauritius, the Financial Crimes Commission and the Financial Services Commission, Port Louis, 21 September 2026.
 
-## Research and Higher Education Grants
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Has Europe fully digested the new geoeconomic realities - and does it have the energy to cope with them
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0503-AA93&regmonthly_date=2026-09-28&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260928-has-europe-fully-digested-new-geoeconomic-realities-and-does-it-have-energy-cope-them
 
-Pending OIRA review | RIN 0503-AA93 | 0503 | Final Rule
+Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Annual Dinner of the Society of Professional Economists, London, 22 September 2026.
 
-## Request for Information: Developing Menopause Common Data Elements
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## We are raising the policy rate to dampen inflation
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA22&regmonthly_date=2026-09-28&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260928-we-are-raising-policy-rate-dampen-inflation
 
-Pending OIRA review | RIN 0925-ZA22 | 0925 | Notice
+Introductory statement by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the press conference following Norway's announcement of the policy rate, Oslo, 24 September 2026.
 
-## Request for Information (RFI): Strategies to Advance RAPIDs and Real-World Evidence for Serious Mental Illnesses
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## L'Europe, C'est Nous
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA23&regmonthly_date=2026-09-28&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260928-leurope-cest-nous
 
-Pending OIRA review | RIN 0925-ZA23 | 0925 | Notice
+Remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the informal ECOFIN dinner, Dublin, 18 September 2026.
 
-## Reducing Bureaucracy and Burden for Child Support Enforcement
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Artificial intelligence - the new frontiers of risk
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD39&regmonthly_date=2026-09-28&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260928-artificial-intelligence-new-frontiers-risk
 
-Pending OIRA review | RIN 0970-AD39 | 0970 | Final Rule
+Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, to the Association des avocats en droit boursier, Paris, 9 September 2026.
 
-## Information to Lessees: Proposed Notice of Sale Gulf of America Oil and Gas Lease Sale BBG4
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Opening remarks “Trust and innovation - the future of finance"
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1010-ZA02&regmonthly_date=2026-09-28&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260928-opening-remarks-trust-and-innovation-future-finance
 
-Pending OIRA review | RIN 1010-ZA02 | 1010 | Notice
+Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Central Bank of Ireland Conference “Trust and innovation - the future of finance", Dublin, 18 September 2026.
 
-## Certification Process for State Capital Counsel Systems
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Back to school - passing Europe's triple test
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1105-AB80&regmonthly_date=2026-09-28&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260928-back-school-passing-europes-triple-test
 
-Pending OIRA review | RIN 1105-AB80 | 1105 | Final Rule
+Keynote speech by Mr Olli Rehn, Governor of the Bank of Finland, at the OMFIF Nordic SSA Forum, Helsinki, 19 August 2026.
 
-## Relationship Banking and Brokerage Class Exemption
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## The leverage ratio and the output floor: complementarities and overlaps
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-ZA38&regmonthly_date=2026-09-28&regmonthly_mode=pending
+- URL: https://www.bis.org/publications/fsi-paper-29-leverage-ratio-and-output-floor-complementarities-and-overlaps
 
-Pending OIRA review | RIN 1210-ZA38 | 1210 | Notice
-
-## Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1235-AA46&regmonthly_date=2026-09-28&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1235-AA46 | 1235 | Final Rule
-
-## Family Seating in Air Transportation
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2105-AF15&regmonthly_date=2026-09-28&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2105-AF15 | 2105 | Final Rule
-
-## Litigation Protections for System Safety Program and Risk Reduction Program Information
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2130-AD62&regmonthly_date=2026-09-28&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2130-AD62 | 2130 | Proposed Rule
-
-## Further Definition of "Swap" to Exclude Casino-Style Gambling Products
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3038-AF81&regmonthly_date=2026-09-28&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3038-AF81 | 3038 | Interim Final Rule
-
-## Further Definition of "Swap" to Include Event Contracts
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-28T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3038-AF82&regmonthly_date=2026-09-28&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3038-AF82 | 3038 | Proposed Rule
+This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or complements to each other and how they interact with risk‑based regulatory requirements.
 
 ## Presidential Message on National Hunting and Fishing Day
 - Source: White House
@@ -6413,13 +6367,45 @@ Leading resources and information to support banks in meeting the needs of their
 
 Social media is becoming an increasingly important topic in the banking space. ABA has resources and expertise to help you navigate and leverage this key communications platform for your bank.
 
-## Trusted execution environments for central banks
-- Source: BIS
-- Category: International Banking
+## Action Levels for Cadmium in Processed Food Intended for Babies and Young Children; Draft Guidance for Industry
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-25T00:00:00Z
-- URL: https://www.bis.org/publications/paper-173-trusted-execution-environments-central-banks
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD09&regmonthly_date=2026-09-25&regmonthly_mode=completed
 
-This paper considers what TEEs can responsibly deliver for central banks, the conditions under which they are most effective and how they can be deployed without widening who must be trusted. It takes a balanced view, outlining core assurances and boundaries, highlighting implementation and governance dependencies and situating TEEs alongside alternative approaches to confiden…
+OIRA review completed | RIN 0910-ZD09 | 0910 | Notice
+
+## Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-25T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD15&regmonthly_date=2026-09-25&regmonthly_mode=completed
+
+OIRA review completed | RIN 0910-ZD15 | 0910 | Notice
+
+## Updates to the Children's Bureau Child Welfare Policy Manual
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-25T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-ZA25&regmonthly_date=2026-09-25&regmonthly_mode=completed
+
+OIRA review completed | RIN 0970-ZA25 | 0970 | Notice
+
+## Trump accounts under section 530A
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-25T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BR91&regmonthly_date=2026-09-25&regmonthly_mode=completed
+
+OIRA review completed | RIN 1545-BR91 | 1545 | Proposed Rule
+
+## Trump Accounts
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-25T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BS27&regmonthly_date=2026-09-25&regmonthly_mode=completed
+
+OIRA review completed | RIN 1545-BS27 | 1545 | Interim Final Rule
 
 ## National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations; Correction
 - Source: Federal Register
@@ -7191,45 +7177,13 @@ The Department of Defense (referred to herein as "the Department", "Department o
 
 The U.S. Nuclear Regulatory Commission (NRC), as the lead agency, and the U.S. Department of Energy (DOE) Office of Energy Dominance Financing (EDF), as a cooperating agency, are issuing an environmental assessment (EA) and finding of no significant impact (FONSI) evaluating the reasonably foreseeable environmental effects from proposed Federal actions related to reauthorizing…
 
-## Action Levels for Cadmium in Processed Food Intended for Babies and Young Children; Draft Guidance for Industry
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Trusted execution environments for central banks
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-25T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD09&regmonthly_date=2026-09-25&regmonthly_mode=completed
+- URL: https://www.bis.org/publications/paper-173-trusted-execution-environments-central-banks
 
-OIRA review completed | RIN 0910-ZD09 | 0910 | Notice
-
-## Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-25T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD15&regmonthly_date=2026-09-25&regmonthly_mode=completed
-
-OIRA review completed | RIN 0910-ZD15 | 0910 | Notice
-
-## Updates to the Children's Bureau Child Welfare Policy Manual
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-25T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-ZA25&regmonthly_date=2026-09-25&regmonthly_mode=completed
-
-OIRA review completed | RIN 0970-ZA25 | 0970 | Notice
-
-## Trump accounts under section 530A
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-25T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BR91&regmonthly_date=2026-09-25&regmonthly_mode=completed
-
-OIRA review completed | RIN 1545-BR91 | 1545 | Proposed Rule
-
-## Trump Accounts
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-25T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1545-BS27&regmonthly_date=2026-09-25&regmonthly_mode=completed
-
-OIRA review completed | RIN 1545-BS27 | 1545 | Interim Final Rule
+This paper considers what TEEs can responsibly deliver for central banks, the conditions under which they are most effective and how they can be deployed without widening who must be trusted. It takes a balanced view, outlining core assurances and boundaries, highlighting implementation and governance dependencies and situating TEEs alongside alternative approaches to confiden…
 
 ## Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act
 - Source: FRB
@@ -7479,93 +7433,53 @@ ABA Welcomes FTC Examination of Digital Advertising Practices to Combat Fraud
 - Published: 2026-09-24T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-moves-retirement-recordkeeping-real-time-cloud-native
 
-## The challenge of innovation
-- Source: BIS
-- Category: International Banking
+## Special Supplemental Nutrition Program for Women, Infants and Children (WIC): WIC Online Ordering and Transactions and Food Delivery Revisions to Meet the Needs of a Modern, Data-Driven Program
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/speeches/20260924-challenge-innovation
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0584-AE85&regmonthly_date=2026-09-24&regmonthly_mode=completed
 
-Address by Mr Fabio Panetta, Governor of the Bank of Italy, at the 10th Annual Research Conference of the National Bank of Ukraine and the National Bank of Poland “Central banks response to future challenges: resilience, credibility, and innovation”, Kyiv, 21 September 2026.
+OIRA review completed | RIN 0584-AE85 | 0584 | Final Rule
 
-## Banking regulators, supervisors and their watchers
-- Source: BIS
-- Category: International Banking
+## Modification of Living Organ Donation Reimbursement Program Eligibility Guidelines in Response to Honor Our Living Donors Act
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/speeches/20260924-banking-regulators-supervisors-and-their-watchers
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0906-ZA25&regmonthly_date=2026-09-24&regmonthly_mode=completed
 
-Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Watching European Financial Market Regulation and Supervision Conference, organised by Goethe University Frankfurt, Frankfurt am Main, 15 September 2026.
+OIRA review completed | RIN 0906-ZA25 | 0906 | Notice
 
-## A new age of capital - growth, sovereignty and AI
-- Source: BIS
-- Category: International Banking
+## Unemployment Insurance Work Search Requirements
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1205-AC31&regmonthly_date=2026-09-24&regmonthly_mode=completed
 
-Speech by Ms Christine Lagarde, President of the European Central Bank, at “Hofburg im Dialog – economy, europe, resilience”, Vienna, 14 September 2026.
+OIRA review completed | RIN 1205-AC31 | 1205 | Proposed Rule
 
-## Transition and adjustment in changing times
-- Source: BIS
-- Category: International Banking
+## Enhancing Retail Exposure to Private Markets
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/speeches/20260924-transition-and-adjustment-changing-times
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN59&regmonthly_date=2026-09-24&regmonthly_mode=completed
 
-Speech by Mr Erik Thedéen, Governor of the Sveriges Riksbank, at the Central Bank of Ireland, Dublin, 18 September 2026.
+OIRA review completed | RIN 3235-AN59 | 3235 | Proposed Rule
 
-## Trusted innovation - shaping the future of finance
-- Source: BIS
-- Category: International Banking
+## Implementation of HAVANA Act of 2021
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/speeches/20260924-trusted-innovation-shaping-future-finance
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1601-AB12&regmonthly_date=2026-09-24&regmonthly_mode=pending
 
-Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
+Pending OIRA review | RIN 1601-AB12 | 1601 | Interim Final Rule
 
-## Finance for Europe's future - getting the foundations right
-- Source: BIS
-- Category: International Banking
+## Heightened Requirements for Foreign Importers of Record
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/speeches/20260924-finance-europes-future-getting-foundations-right
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1685-AA48&regmonthly_date=2026-09-24&regmonthly_mode=pending
 
-Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Eurofi Financial Forum Gala Dinner, Dublin, 17 September 2026.
-
-## Opening address - Bank of Korea-Centre for Economic Policy Research-Organisation for Economic Co-operation and Development Conference
-- Source: BIS
-- Category: International Banking
-- Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/speeches/20260924-opening-address-bank-korea-centre-economic-policy-research-organisation-economic-co-operation-and-development-conference
-
-Speech by Mr Hyun Song Shin, Governor of the Bank of Korea, at the Bank of Korea (BOK)-Centre for Economic Policy Research (CEPR)-Organisation for Economic Co-operation and Development (OECD) Conference, Seoul, 2 September 2026.
-
-## Navigating uncertainty and adapting to change
-- Source: BIS
-- Category: International Banking
-- Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change
-
-Remarks by Mr Tiff Macklem, Governor of the Bank of Canada, to Halifax Partnership, Halifax, Nova Scotia, 21 September 2026.
-
-## Opening remarks - panel session on economics of innovation
-- Source: BIS
-- Category: International Banking
-- Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/speeches/20260924-opening-remarks-panel-session-economics-innovation
-
-Opening remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the panel session on economics of innovation, at the Central Bank of Ireland conference “Trust and innovation – the future of finance", Dublin, 18 September 2026.
-
-## Advancing digital financial literacy in Finland
-- Source: BIS
-- Category: International Banking
-- Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/speeches/20260924-advancing-digital-financial-literacy-finland
-
-Opening remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the “Advancing digital financial literacy in Finland” event, Bank of Finland Museum, Helsinki, 16 September 2026.
-
-## Old workers, young machines: can AI and automation offset population ageing?
-- Source: BIS
-- Category: International Banking
-- Published: 2026-09-24T00:00:00Z
-- URL: https://www.bis.org/publications/bulletin-135-old-workers-young-machines-can-ai-and-automation-offset-population-ageing
-
-Key takeawaysArtificial intelligence (AI) and robots have the potential to offset the macroeconomic consequences of an ageing workforce, but the ability to automate jobs depends on which industries are ageing.AI and robots substitute most readily for jobs in industries with younger workforces (eg finance), while older, high-employment industries (eg agriculture, health) have l…
+Pending OIRA review | RIN 1685-AA48 | 1685 | Interim Final Rule
 
 ## Agency Information Collection Activities; Comment Request on Tax Return Preparer Complaint Process and Fraud or Misconduct Affidavit
 - Source: Federal Register
@@ -8341,53 +8255,93 @@ The Pacific Fishery Management Council (Pacific Council) will hold an all-Adviso
 
 HUD will gather information through a written Informal Presentation of Views to allow the Secretary to reach a fully informed decision on whether to suspend or revoke Scott Wiegand's installer's license.
 
-## Special Supplemental Nutrition Program for Women, Infants and Children (WIC): WIC Online Ordering and Transactions and Food Delivery Revisions to Meet the Needs of a Modern, Data-Driven Program
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Transition and adjustment in changing times
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0584-AE85&regmonthly_date=2026-09-24&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260924-transition-and-adjustment-changing-times
 
-OIRA review completed | RIN 0584-AE85 | 0584 | Final Rule
+Speech by Mr Erik Thedéen, Governor of the Sveriges Riksbank, at the Central Bank of Ireland, Dublin, 18 September 2026.
 
-## Modification of Living Organ Donation Reimbursement Program Eligibility Guidelines in Response to Honor Our Living Donors Act
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Trusted innovation - shaping the future of finance
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0906-ZA25&regmonthly_date=2026-09-24&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260924-trusted-innovation-shaping-future-finance
 
-OIRA review completed | RIN 0906-ZA25 | 0906 | Notice
+Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
 
-## Unemployment Insurance Work Search Requirements
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Finance for Europe's future - getting the foundations right
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1205-AC31&regmonthly_date=2026-09-24&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260924-finance-europes-future-getting-foundations-right
 
-OIRA review completed | RIN 1205-AC31 | 1205 | Proposed Rule
+Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Eurofi Financial Forum Gala Dinner, Dublin, 17 September 2026.
 
-## Enhancing Retail Exposure to Private Markets
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Opening address - Bank of Korea-Centre for Economic Policy Research-Organisation for Economic Co-operation and Development Conference
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN59&regmonthly_date=2026-09-24&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260924-opening-address-bank-korea-centre-economic-policy-research-organisation-economic-co-operation-and-development-conference
 
-OIRA review completed | RIN 3235-AN59 | 3235 | Proposed Rule
+Speech by Mr Hyun Song Shin, Governor of the Bank of Korea, at the Bank of Korea (BOK)-Centre for Economic Policy Research (CEPR)-Organisation for Economic Co-operation and Development (OECD) Conference, Seoul, 2 September 2026.
 
-## Implementation of HAVANA Act of 2021
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Navigating uncertainty and adapting to change
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1601-AB12&regmonthly_date=2026-09-24&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change
 
-Pending OIRA review | RIN 1601-AB12 | 1601 | Interim Final Rule
+Remarks by Mr Tiff Macklem, Governor of the Bank of Canada, to Halifax Partnership, Halifax, Nova Scotia, 21 September 2026.
 
-## Heightened Requirements for Foreign Importers of Record
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Opening remarks - panel session on economics of innovation
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-24T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1685-AA48&regmonthly_date=2026-09-24&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260924-opening-remarks-panel-session-economics-innovation
 
-Pending OIRA review | RIN 1685-AA48 | 1685 | Interim Final Rule
+Opening remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the panel session on economics of innovation, at the Central Bank of Ireland conference “Trust and innovation – the future of finance", Dublin, 18 September 2026.
+
+## Advancing digital financial literacy in Finland
+- Source: BIS
+- Category: International Banking
+- Published: 2026-09-24T00:00:00Z
+- URL: https://www.bis.org/speeches/20260924-advancing-digital-financial-literacy-finland
+
+Opening remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the “Advancing digital financial literacy in Finland” event, Bank of Finland Museum, Helsinki, 16 September 2026.
+
+## The challenge of innovation
+- Source: BIS
+- Category: International Banking
+- Published: 2026-09-24T00:00:00Z
+- URL: https://www.bis.org/speeches/20260924-challenge-innovation
+
+Address by Mr Fabio Panetta, Governor of the Bank of Italy, at the 10th Annual Research Conference of the National Bank of Ukraine and the National Bank of Poland “Central banks response to future challenges: resilience, credibility, and innovation”, Kyiv, 21 September 2026.
+
+## Banking regulators, supervisors and their watchers
+- Source: BIS
+- Category: International Banking
+- Published: 2026-09-24T00:00:00Z
+- URL: https://www.bis.org/speeches/20260924-banking-regulators-supervisors-and-their-watchers
+
+Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Watching European Financial Market Regulation and Supervision Conference, organised by Goethe University Frankfurt, Frankfurt am Main, 15 September 2026.
+
+## A new age of capital - growth, sovereignty and AI
+- Source: BIS
+- Category: International Banking
+- Published: 2026-09-24T00:00:00Z
+- URL: https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai
+
+Speech by Ms Christine Lagarde, President of the European Central Bank, at “Hofburg im Dialog – economy, europe, resilience”, Vienna, 14 September 2026.
+
+## Old workers, young machines: can AI and automation offset population ageing?
+- Source: BIS
+- Category: International Banking
+- Published: 2026-09-24T00:00:00Z
+- URL: https://www.bis.org/publications/bulletin-135-old-workers-young-machines-can-ai-and-automation-offset-population-ageing
+
+Key takeawaysArtificial intelligence (AI) and robots have the potential to offset the macroeconomic consequences of an ageing workforce, but the ability to automate jobs depends on which industries are ageing.AI and robots substitute most readily for jobs in industries with younger workforces (eg finance), while older, high-employment industries (eg agriculture, health) have l…
 
 ## Bank Economists: Business Spending Will Drive Resilient Growth in the Face of Elevated Inflation
 - Source: ABA
@@ -8445,21 +8399,37 @@ Bank Economists: Business Spending Will Drive Resilient Growth in the Face of El
 - Published: 2026-09-23T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/all-banking-committee-democrats-call-on-chairman-scott-to-hold-public-hearing-on-prediction-markets-following-reports-of-a-republican-only-roundtable-with-industry-executives
 
-## Basel III risk-based capital and leverage ratios are stable while liquidity indicators show limited movements for large internationally active banks, latest Basel III monitoring exercise shows
-- Source: BIS
-- Category: International Banking
+## Clinical Laboratory Improvement Amendments of 1988 (CLIA) Virtual Access, Gynecologic Cytology Proficiency Testing (PT), Personnel Qualification Requirements, and Other Changes (CMS-3478)
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-23T00:00:00Z
-- URL: https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV89&regmonthly_date=2026-09-23&regmonthly_mode=completed
 
-As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025. The average Liquidity Coverage Ratio (LCR) of Group 1 banks improved slightly, while the Net Stable Funding Ratio (NSFR) decreased slightly. The average impact of the Basel III framework on Tier 1 minimum required capital (MRC)…
+OIRA review completed | RIN 0938-AV89 | 0938 | Proposed Rule
 
-## Unraveling the cobweb of global imbalances: drivers, vulnerabilities, and adjustment scenarios
-- Source: BIS
-- Category: International Banking
+## Period for Refugee Cash Assistance and Refugee Medical Assistance; Correction
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-23T00:00:00Z
-- URL: https://www.bis.org/publications/working-paper-1379-unraveling-cobweb-global-imbalances-drivers-vulnerabilities-and-adjustment-scenarios
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-ZA26&regmonthly_date=2026-09-23&regmonthly_mode=completed
 
-This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies.
+OIRA review completed | RIN 0970-ZA26 | 0970 | Notice
+
+## Forms and Procedures for Review of State Certifications by the Stablecoin Certification Review Committee
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-23T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1505-AC97&regmonthly_date=2026-09-23&regmonthly_mode=completed
+
+OIRA review completed | RIN 1505-AC97 | 1505 | Interim Final Rule
+
+## Rule on Unfair or Deceptive Acts or Practices by Digital Marketplace Platforms that Enable Impersonation of Government and Businesses
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-23T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3084-AB90&regmonthly_date=2026-09-23&regmonthly_mode=completed
+
+OIRA review completed | RIN 3084-AB90 | 3084 | Prerule
 
 ## Enhancing Program Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program
 - Source: Federal Register
@@ -9189,37 +9159,21 @@ The Office of the United States Trade Representative is providing notice of allo
 - Published: 2026-09-23T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/09/23/2026-19392/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and
 
-## Clinical Laboratory Improvement Amendments of 1988 (CLIA) Virtual Access, Gynecologic Cytology Proficiency Testing (PT), Personnel Qualification Requirements, and Other Changes (CMS-3478)
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Basel III risk-based capital and leverage ratios are stable while liquidity indicators show limited movements for large internationally active banks, latest Basel III monitoring exercise shows
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-23T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV89&regmonthly_date=2026-09-23&regmonthly_mode=completed
+- URL: https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show
 
-OIRA review completed | RIN 0938-AV89 | 0938 | Proposed Rule
+As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025. The average Liquidity Coverage Ratio (LCR) of Group 1 banks improved slightly, while the Net Stable Funding Ratio (NSFR) decreased slightly. The average impact of the Basel III framework on Tier 1 minimum required capital (MRC)…
 
-## Period for Refugee Cash Assistance and Refugee Medical Assistance; Correction
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Unraveling the cobweb of global imbalances: drivers, vulnerabilities, and adjustment scenarios
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-23T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-ZA26&regmonthly_date=2026-09-23&regmonthly_mode=completed
+- URL: https://www.bis.org/publications/working-paper-1379-unraveling-cobweb-global-imbalances-drivers-vulnerabilities-and-adjustment-scenarios
 
-OIRA review completed | RIN 0970-ZA26 | 0970 | Notice
-
-## Forms and Procedures for Review of State Certifications by the Stablecoin Certification Review Committee
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-23T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1505-AC97&regmonthly_date=2026-09-23&regmonthly_mode=completed
-
-OIRA review completed | RIN 1505-AC97 | 1505 | Interim Final Rule
-
-## Rule on Unfair or Deceptive Acts or Practices by Digital Marketplace Platforms that Enable Impersonation of Government and Businesses
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-23T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3084-AB90&regmonthly_date=2026-09-23&regmonthly_mode=completed
-
-OIRA review completed | RIN 3084-AB90 | 3084 | Prerule
+This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies.
 
 ## Texas Bankers Association Names KlariVis an Endorsed Provider
 - Source: TBA
@@ -9411,14 +9365,6 @@ Joint Statement from Co-Plaintiffs on U.S. District Court IFPA Ruling
 - Published: 2026-09-22T00:00:00Z
 - URL: https://www.cdiaonline.org/education-services/
 
-## Innovation & Fintech
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-09-22T00:00:00Z
-- URL: https://www.aba.com/banking-topics/technology/innovation-fintech
-
-ABA offers resources to ensure that banks of all sizes have the tools they need to serve their customers and communities today and in the future.
-
 ## Accounting
 - Source: ABA
 - Category: Compliance Watch
@@ -9427,53 +9373,45 @@ ABA offers resources to ensure that banks of all sizes have the tools they need 
 
 ABA represents the banking industry on policy issues related to accounting and auditing.
 
-## The future of euro cash - trusted today, designed for tomorrow
-- Source: BIS
-- Category: International Banking
+## Off-Road Vehicles
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-22T00:00:00Z
-- URL: https://www.bis.org/speeches/20260922-future-euro-cash-trusted-today-designed-tomorrow
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF55&regmonthly_date=2026-09-22&regmonthly_mode=pending
 
-Keynote speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the House of the Euro, Brussels, 14 September 2026.
+Pending OIRA review | RIN 1004-AF55 | 1004 | Proposed Rule
 
-## Opening statement - House of Representatives Standing Committee on Economics
-- Source: BIS
-- Category: International Banking
+## Endangered and Threatened Wildlife and Plants; Listing Determination and Critical Habitat Designation for Peppered (Colorless) Shiner
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-22T00:00:00Z
-- URL: https://www.bis.org/speeches/20260922-opening-statement-house-representatives-standing-committee-economics
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BH42&regmonthly_date=2026-09-22&regmonthly_mode=pending
 
-Opening statement by Ms Michele Bullock, Governor of the Reserve Bank of Australia, to the House of Representatives Standing Committee on Economics, Canberra, 18 September 2026.
+Pending OIRA review | RIN 1018-BH42 | 1018 | Proposed Rule
 
-## The importance of being earnest - building a simpler and more competitive European banking market
-- Source: BIS
-- Category: International Banking
+## BLM Establishment of Alaska's NPR-A Winter Oil and Gas Exploration Categorical Exclusion
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-22T00:00:00Z
-- URL: https://www.bis.org/speeches/20260922-importance-being-earnest-building-simpler-and-more-competitive-european-banking-market
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1090-ZA00&regmonthly_date=2026-09-22&regmonthly_mode=pending
 
-Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at Eurofi, Dublin, 18 September 2026.
+Pending OIRA review | RIN 1090-ZA00 | 1090 | Notice
 
-## The Spanish Survey of Household Finances (EFF) - more than 20 years of research experience and the way forward
-- Source: BIS
-- Category: International Banking
+## General Applicability Public Interest Waiver to Indian Tribes - Proposed Extension of Manufactured Products Waiver
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-22T00:00:00Z
-- URL: https://www.bis.org/speeches/20260922-spanish-survey-household-finances-eff-more-20-years-research-experience-and-way-forward
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1090-ZA01&regmonthly_date=2026-09-22&regmonthly_mode=pending
 
-Remarks by Mr José Luis Escrivá, Governor of the Bank of Spain, at the conference “The Spanish Survey of Household Finances (EFF): more than 20 years of research experience and the way forward”, organised by the Bank of Spain and the Center for Monetary and Financial Studies (CEMFI), Madrid, 4 September 2026.
+Pending OIRA review | RIN 1090-ZA01 | 1090 | Notice
 
-## Statement - base rate of the National Bank of Kazakhstan
-- Source: BIS
-- Category: International Banking
+## Incorporation by Reference of Institute of Electrical and Electronics Engineers Standard-603-2018 [NRC-2024-0045]
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-22T00:00:00Z
-- URL: https://www.bis.org/speeches/20260922-statement-base-rate-national-bank-kazakhstan
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL06&regmonthly_date=2026-09-22&regmonthly_mode=pending
 
-Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 4 September 2026.
-
-## Europe seen from Normandy
-- Source: BIS
-- Category: International Banking
-- Published: 2026-09-22T00:00:00Z
-- URL: https://www.bis.org/speeches/20260922-europe-seen-normandy
-
-Speech by Ms Christine Lagarde, President of the European Central Bank, at the Fête de la Pomme, Épreville-en-Lieuvin, 12 September 2026.
+Pending OIRA review | RIN 3150-AL06 | 3150 | Final Rule
 
 ## Restoring American Saltwater Angling and Recreation
 - Source: Federal Register
@@ -10253,45 +10191,53 @@ The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is
 
 The Commission is recognizing a recent filing by the Postal Service to remove a section and to make accompanying classification changes to the Mail Classification Schedule. This notice informs the public of the filing, invites public comment, and takes other administrative steps.
 
-## Off-Road Vehicles
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## The Spanish Survey of Household Finances (EFF) - more than 20 years of research experience and the way forward
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF55&regmonthly_date=2026-09-22&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260922-spanish-survey-household-finances-eff-more-20-years-research-experience-and-way-forward
 
-Pending OIRA review | RIN 1004-AF55 | 1004 | Proposed Rule
+Remarks by Mr José Luis Escrivá, Governor of the Bank of Spain, at the conference “The Spanish Survey of Household Finances (EFF): more than 20 years of research experience and the way forward”, organised by the Bank of Spain and the Center for Monetary and Financial Studies (CEMFI), Madrid, 4 September 2026.
 
-## Endangered and Threatened Wildlife and Plants; Listing Determination and Critical Habitat Designation for Peppered (Colorless) Shiner
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Statement - base rate of the National Bank of Kazakhstan
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BH42&regmonthly_date=2026-09-22&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260922-statement-base-rate-national-bank-kazakhstan
 
-Pending OIRA review | RIN 1018-BH42 | 1018 | Proposed Rule
+Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 4 September 2026.
 
-## BLM Establishment of Alaska's NPR-A Winter Oil and Gas Exploration Categorical Exclusion
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Europe seen from Normandy
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1090-ZA00&regmonthly_date=2026-09-22&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260922-europe-seen-normandy
 
-Pending OIRA review | RIN 1090-ZA00 | 1090 | Notice
+Speech by Ms Christine Lagarde, President of the European Central Bank, at the Fête de la Pomme, Épreville-en-Lieuvin, 12 September 2026.
 
-## General Applicability Public Interest Waiver to Indian Tribes - Proposed Extension of Manufactured Products Waiver
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## The future of euro cash - trusted today, designed for tomorrow
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1090-ZA01&regmonthly_date=2026-09-22&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260922-future-euro-cash-trusted-today-designed-tomorrow
 
-Pending OIRA review | RIN 1090-ZA01 | 1090 | Notice
+Keynote speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the House of the Euro, Brussels, 14 September 2026.
 
-## Incorporation by Reference of Institute of Electrical and Electronics Engineers Standard-603-2018 [NRC-2024-0045]
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Opening statement - House of Representatives Standing Committee on Economics
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-22T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL06&regmonthly_date=2026-09-22&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260922-opening-statement-house-representatives-standing-committee-economics
 
-Pending OIRA review | RIN 3150-AL06 | 3150 | Final Rule
+Opening statement by Ms Michele Bullock, Governor of the Reserve Bank of Australia, to the House of Representatives Standing Committee on Economics, Canberra, 18 September 2026.
+
+## The importance of being earnest - building a simpler and more competitive European banking market
+- Source: BIS
+- Category: International Banking
+- Published: 2026-09-22T00:00:00Z
+- URL: https://www.bis.org/speeches/20260922-importance-being-earnest-building-simpler-and-more-competitive-european-banking-market
+
+Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at Eurofi, Dublin, 18 September 2026.
 
 ## CVE-2026-68825 Windows Bind Filter Driver Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
@@ -10483,37 +10429,85 @@ Fannie Mae announced the results of its twenty-eighth non-performing loan sale t
 - Published: 2026-09-21T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411239
 
-## Building the financial system of the future - trusted, connected and resilient
-- Source: BIS
-- Category: International Banking
+## Improving Patient Access to Deceased Donor Islet Cells and Cell Products; Request for Information
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-21T00:00:00Z
-- URL: https://www.bis.org/speeches/20260921-building-financial-system-future-trusted-connected-and-resilient
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD79&regmonthly_date=2026-09-21&regmonthly_mode=completed
 
-Special address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
+OIRA review completed | RIN 0910-ZD79 | 0910 | Notice
 
-## Shaping the next decade of finance - technology, trust and innovation
-- Source: BIS
-- Category: International Banking
+## Patient Protection and Affordable Care Act; Temporary Moratorium on Certain Agent and Broker Participation in the Exchanges (CMS-9872)
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-21T00:00:00Z
-- URL: https://www.bis.org/speeches/20260921-shaping-next-decade-finance-technology-trust-and-innovation
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW26&regmonthly_date=2026-09-21&regmonthly_mode=completed
 
-Keynote address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Global Fintech Festival 2026, Mumbai, 10 September 2026.
+OIRA review completed | RIN 0938-AW26 | 0938 | Interim Final Rule
 
-## Economic activity, prices, and monetary policy in Japan
-- Source: BIS
-- Category: International Banking
+## Alaska; Hunting and Trapping in National Preserves
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-21T00:00:00Z
-- URL: https://www.bis.org/speeches/20260921-economic-activity-prices-and-monetary-policy-japan
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1024-AE96&regmonthly_date=2026-09-21&regmonthly_mode=completed
 
-Speech by Mr Kazuyuki Masu, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Fukui, 10 September 2026.
+OIRA review completed | RIN 1024-AE96 | 1024 | Final Rule
 
-## What is money?
-- Source: BIS
-- Category: International Banking
+## International Traffic in Arms Regulations: Syria Country Policy Revision
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-21T00:00:00Z
-- URL: https://www.bis.org/speeches/20260921-what-money
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG38&regmonthly_date=2026-09-21&regmonthly_mode=completed
 
-Speech by Ms Anna Seim, Deputy Governor of the Sveriges Riksbank, at the Economy Museum, Stockholm, 9 September 2026.
+OIRA review completed | RIN 1400-AG38 | 1400 | Final Rule
+
+## Dairy Program - Mandatory Manufacturing Cost Survey
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0581-AE47&regmonthly_date=2026-09-21&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0581-AE47 | 0581 | Proposed Rule
+
+## CY 2027 Home Health Prospective Payment System Rate Update and Home Infusion Therapy Services Payment Update (CMS-1844)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV80&regmonthly_date=2026-09-21&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0938-AV80 | 0938 | Final Rule
+
+## Draft Program Instructions for Identifying Essential Pharmacies and Affiliated Retail Pharmacy Data Collection: Section 6223(b) of the Consolidated Appropriations Act, 2026 – 30-Day Comment Period
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-ZC08&regmonthly_date=2026-09-21&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0938-ZC08 | 0938 | Notice
+
+## Clarification on Department of Justice and Department of Education Guidance Documents Regarding Federal Nondiscrimination Laws
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1190-ZA12&regmonthly_date=2026-09-21&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1190-ZA12 | 1190 | Notice
+
+## Draft Policy Statement on Efficient Environmental Reviews of Natural Gas Project Applications
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1902-ZA05&regmonthly_date=2026-09-21&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1902-ZA05 | 1902 | Proposed Rule
+
+## Proposed Guidance for Preferred Loan Sizing for Transit-Oriented Development Projects
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-21T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2105-ZA51&regmonthly_date=2026-09-21&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2105-ZA51 | 2105 | Notice
 
 ## Restoring Reciprocity in Government Procurement
 - Source: Federal Register
@@ -11069,85 +11063,37 @@ The National Mediation Board (NMB) invites comments on the proposed information 
 
 The National Mediation Board (NMB) invites comments on the proposed information collection request as required by the Paperwork Reduction Act of 1995. The NMB is seeking the reinstatement, with non- substantive change, of a previously approved collection of information, entitled "Application for Mediation Services." The change to the information collection is a non-substantive…
 
-## Improving Patient Access to Deceased Donor Islet Cells and Cell Products; Request for Information
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Building the financial system of the future - trusted, connected and resilient
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD79&regmonthly_date=2026-09-21&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260921-building-financial-system-future-trusted-connected-and-resilient
 
-OIRA review completed | RIN 0910-ZD79 | 0910 | Notice
+Special address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
 
-## Patient Protection and Affordable Care Act; Temporary Moratorium on Certain Agent and Broker Participation in the Exchanges (CMS-9872)
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Shaping the next decade of finance - technology, trust and innovation
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW26&regmonthly_date=2026-09-21&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260921-shaping-next-decade-finance-technology-trust-and-innovation
 
-OIRA review completed | RIN 0938-AW26 | 0938 | Interim Final Rule
+Keynote address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Global Fintech Festival 2026, Mumbai, 10 September 2026.
 
-## Alaska; Hunting and Trapping in National Preserves
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Economic activity, prices, and monetary policy in Japan
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1024-AE96&regmonthly_date=2026-09-21&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260921-economic-activity-prices-and-monetary-policy-japan
 
-OIRA review completed | RIN 1024-AE96 | 1024 | Final Rule
+Speech by Mr Kazuyuki Masu, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Fukui, 10 September 2026.
 
-## International Traffic in Arms Regulations: Syria Country Policy Revision
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## What is money?
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG38&regmonthly_date=2026-09-21&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260921-what-money
 
-OIRA review completed | RIN 1400-AG38 | 1400 | Final Rule
-
-## Dairy Program - Mandatory Manufacturing Cost Survey
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0581-AE47&regmonthly_date=2026-09-21&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0581-AE47 | 0581 | Proposed Rule
-
-## CY 2027 Home Health Prospective Payment System Rate Update and Home Infusion Therapy Services Payment Update (CMS-1844)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV80&regmonthly_date=2026-09-21&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0938-AV80 | 0938 | Final Rule
-
-## Draft Program Instructions for Identifying Essential Pharmacies and Affiliated Retail Pharmacy Data Collection: Section 6223(b) of the Consolidated Appropriations Act, 2026 – 30-Day Comment Period
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-ZC08&regmonthly_date=2026-09-21&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0938-ZC08 | 0938 | Notice
-
-## Clarification on Department of Justice and Department of Education Guidance Documents Regarding Federal Nondiscrimination Laws
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1190-ZA12&regmonthly_date=2026-09-21&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1190-ZA12 | 1190 | Notice
-
-## Draft Policy Statement on Efficient Environmental Reviews of Natural Gas Project Applications
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1902-ZA05&regmonthly_date=2026-09-21&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1902-ZA05 | 1902 | Proposed Rule
-
-## Proposed Guidance for Preferred Loan Sizing for Transit-Oriented Development Projects
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-21T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2105-ZA51&regmonthly_date=2026-09-21&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2105-ZA51 | 2105 | Notice
+Speech by Ms Anna Seim, Deputy Governor of the Sveriges Riksbank, at the Economy Museum, Stockholm, 9 September 2026.
 
 ## Presidential Message on Yom Kippur
 - Source: White House
@@ -11293,13 +11239,61 @@ FDIC today released results of its annual survey of branch office deposits for a
 - Published: 2026-09-18T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411238
 
-## Supervising banks in an AI-shaped economy
-- Source: BIS
-- Category: International Banking
+## Implementation of Certain Controls on Critical Quantum and Semiconductor Technologies
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-18T00:00:00Z
-- URL: https://www.bis.org/speeches/20260918-supervising-banks-ai-shaped-economy
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK17&regmonthly_date=2026-09-18&regmonthly_mode=completed
 
-Speech by Mr Fernando Restoy, Chair, Financial Stability Institute, at the conference on "Digital regulation in the era of agentic AI" Downing College, Cambridge University, Cambridge, 18 September 2026.
+OIRA review completed | RIN 0694-AK17 | 0694 | Final Rule
+
+## Public Land Order No. 7971; Extension of Withdrawal of Public Land for the United States Army, Fort Carson-Piñon Canyon Maneuver Site, Colorado
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-18T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-ZB06&regmonthly_date=2026-09-18&regmonthly_mode=completed
+
+OIRA review completed | RIN 1004-ZB06 | 1004 | Notice
+
+## Victim Compensation VOCApedia Questions
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-18T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1121-ZB94&regmonthly_date=2026-09-18&regmonthly_mode=completed
+
+OIRA review completed | RIN 1121-ZB94 | 1121 | Notice
+
+## Amendment of Parts 2 and 25 of the FCC Rules to Facilitate the Use of Earth Stations in Motion Communicating With Geostationary Orbit Space Stations in FSS Bands: IB Docket No. 17-95
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-18T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AK84&regmonthly_date=2026-09-18&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3060-AK84 | 3060 | Final Rule
+
+## Facilitating Opportunities for Advanced Air Mobility, WT Docket No. 24-629
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-18T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AL95&regmonthly_date=2026-09-18&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3060-AL95 | 3060 | Final Rule
+
+## Elimination of Time in Grade
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-18T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AP05&regmonthly_date=2026-09-18&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3206-AP05 | 3206 | Final Rule
+
+## Amendments to Rule 17a-7 Under the Investment Company Act
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-18T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN45&regmonthly_date=2026-09-18&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3235-AN45 | 3235 | Proposed Rule
 
 ## Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2027
 - Source: Federal Register
@@ -12113,61 +12107,13 @@ Notice is hereby given that the U.S. International Trade Commission ("Commission
 
 The Criminal Justice Information Services (CJIS) Division, FBI, DOJ, will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
 
-## Implementation of Certain Controls on Critical Quantum and Semiconductor Technologies
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Supervising banks in an AI-shaped economy
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-18T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK17&regmonthly_date=2026-09-18&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260918-supervising-banks-ai-shaped-economy
 
-OIRA review completed | RIN 0694-AK17 | 0694 | Final Rule
-
-## Public Land Order No. 7971; Extension of Withdrawal of Public Land for the United States Army, Fort Carson-Piñon Canyon Maneuver Site, Colorado
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-18T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-ZB06&regmonthly_date=2026-09-18&regmonthly_mode=completed
-
-OIRA review completed | RIN 1004-ZB06 | 1004 | Notice
-
-## Victim Compensation VOCApedia Questions
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-18T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1121-ZB94&regmonthly_date=2026-09-18&regmonthly_mode=completed
-
-OIRA review completed | RIN 1121-ZB94 | 1121 | Notice
-
-## Amendment of Parts 2 and 25 of the FCC Rules to Facilitate the Use of Earth Stations in Motion Communicating With Geostationary Orbit Space Stations in FSS Bands: IB Docket No. 17-95
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-18T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AK84&regmonthly_date=2026-09-18&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3060-AK84 | 3060 | Final Rule
-
-## Facilitating Opportunities for Advanced Air Mobility, WT Docket No. 24-629
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-18T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AL95&regmonthly_date=2026-09-18&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3060-AL95 | 3060 | Final Rule
-
-## Elimination of Time in Grade
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-18T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AP05&regmonthly_date=2026-09-18&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3206-AP05 | 3206 | Final Rule
-
-## Amendments to Rule 17a-7 Under the Investment Company Act
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-18T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN45&regmonthly_date=2026-09-18&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3235-AN45 | 3235 | Proposed Rule
+Speech by Mr Fernando Restoy, Chair, Financial Stability Institute, at the conference on "Digital regulation in the era of agentic AI" Downing College, Cambridge University, Cambridge, 18 September 2026.
 
 ## Fact Sheet: President Donald J. Trump Reinvigorates America’s Hunting Heritage
 - Source: White House
@@ -13125,13 +13071,101 @@ FDIC Board of Directors today approved an NPR that would amend the agency’s re
 - Published: 2026-09-17T00:00:00Z
 - URL: https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411236
 
-## Maritime chokepoints and the global economy: evidence from the Strait of Hormuz
-- Source: BIS
-- Category: International Banking
+## FY 2026-2030 NIH Strategic Plan for HIV and HIV-Related Research
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-17T00:00:00Z
-- URL: https://www.bis.org/publications/working-paper-1378-maritime-chokepoints-and-the-global-economy-evidence-strait-hormuz
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA20&regmonthly_date=2026-09-17&regmonthly_mode=completed
 
-The conflict in the Middle East and the subsequent disruption of traffic in the Strait of Hormuz have triggered an unprecedented shock to the global economy. Using historical data from the IMF/University of Oxford Portwatch database on maritime traffic, this paper empirically examines some of the potential economic and financial consequences of disruptions to traffic in the St…
+OIRA review completed | RIN 0925-ZA20 | 0925 | Notice
+
+## Environmental Protection: Regulations for Implementation of the National Environmental Policy Act (NEPA)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AF99&regmonthly_date=2026-09-17&regmonthly_mode=completed
+
+OIRA review completed | RIN 1400-AF99 | 1400 | Interim Final Rule
+
+## General Services Administration Regulation (GSAR); GSAR Case 2026-G501, GSAR Implementation of Executive Order 14275, FSS Ordering Procedures
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3090-AL13&regmonthly_date=2026-09-17&regmonthly_mode=completed
+
+OIRA review completed | RIN 3090-AL13 | 3090 | Proposed Rule
+
+## Potency Assurance for Cellular and Gene Therapy Products; Guidance for Industry; Availability
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD81&regmonthly_date=2026-09-17&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0910-ZD81 | 0910 | Notice
+
+## CY 2027 Changes to the End-Stage Renal Disease (ESRD) Prospective Payment System and Quality Incentive Program (CMS-1846)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV81&regmonthly_date=2026-09-17&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0938-AV81 | 0938 | Final Rule
+
+## CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV83&regmonthly_date=2026-09-17&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0938-AV83 | 0938 | Final Rule
+
+## Reducing Bureaucracy and Burden in the Child Care and Development Fund (CCDF)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD29&regmonthly_date=2026-09-17&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0970-AD29 | 0970 | Proposed Rule
+
+## Customer Due Diligence Requirements for Covered Financial Institutions
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1506-AB78&regmonthly_date=2026-09-17&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1506-AB78 | 1506 | Proposed Rule
+
+## Extending the Reporting Deadline Under the Greenhouse Gas Reporting Rule for 2025
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2060-AX07&regmonthly_date=2026-09-17&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2060-AX07 | 2060 | Interim Final Rule
+
+## Modernization of FMVSS 108 to Accommodate ADS
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2127-AM70&regmonthly_date=2026-09-17&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2127-AM70 | 2127 | Proposed Rule
+
+## Housing and Community Development Act of 1980: Verification of Eligible Status (FR-6524)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2501-AE16&regmonthly_date=2026-09-17&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2501-AE16 | 2501 | Final Rule
+
+## Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-17T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3038-AF80&regmonthly_date=2026-09-17&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3038-AF80 | 3038 | Prerule
 
 ## Airworthiness Directives; Pratt & Whitney Engines
 - Source: Federal Register
@@ -13663,101 +13697,13 @@ The Office of Community Services (OCS), Administration for Children and Families
 
 The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.
 
-## FY 2026-2030 NIH Strategic Plan for HIV and HIV-Related Research
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Maritime chokepoints and the global economy: evidence from the Strait of Hormuz
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA20&regmonthly_date=2026-09-17&regmonthly_mode=completed
+- URL: https://www.bis.org/publications/working-paper-1378-maritime-chokepoints-and-the-global-economy-evidence-strait-hormuz
 
-OIRA review completed | RIN 0925-ZA20 | 0925 | Notice
-
-## Environmental Protection: Regulations for Implementation of the National Environmental Policy Act (NEPA)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AF99&regmonthly_date=2026-09-17&regmonthly_mode=completed
-
-OIRA review completed | RIN 1400-AF99 | 1400 | Interim Final Rule
-
-## General Services Administration Regulation (GSAR); GSAR Case 2026-G501, GSAR Implementation of Executive Order 14275, FSS Ordering Procedures
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3090-AL13&regmonthly_date=2026-09-17&regmonthly_mode=completed
-
-OIRA review completed | RIN 3090-AL13 | 3090 | Proposed Rule
-
-## Potency Assurance for Cellular and Gene Therapy Products; Guidance for Industry; Availability
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD81&regmonthly_date=2026-09-17&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0910-ZD81 | 0910 | Notice
-
-## CY 2027 Changes to the End-Stage Renal Disease (ESRD) Prospective Payment System and Quality Incentive Program (CMS-1846)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV81&regmonthly_date=2026-09-17&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0938-AV81 | 0938 | Final Rule
-
-## CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV83&regmonthly_date=2026-09-17&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0938-AV83 | 0938 | Final Rule
-
-## Reducing Bureaucracy and Burden in the Child Care and Development Fund (CCDF)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD29&regmonthly_date=2026-09-17&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0970-AD29 | 0970 | Proposed Rule
-
-## Customer Due Diligence Requirements for Covered Financial Institutions
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1506-AB78&regmonthly_date=2026-09-17&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1506-AB78 | 1506 | Proposed Rule
-
-## Extending the Reporting Deadline Under the Greenhouse Gas Reporting Rule for 2025
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2060-AX07&regmonthly_date=2026-09-17&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2060-AX07 | 2060 | Interim Final Rule
-
-## Modernization of FMVSS 108 to Accommodate ADS
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2127-AM70&regmonthly_date=2026-09-17&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2127-AM70 | 2127 | Proposed Rule
-
-## Housing and Community Development Act of 1980: Verification of Eligible Status (FR-6524)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2501-AE16&regmonthly_date=2026-09-17&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2501-AE16 | 2501 | Final Rule
-
-## Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-17T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3038-AF80&regmonthly_date=2026-09-17&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3038-AF80 | 3038 | Prerule
+The conflict in the Middle East and the subsequent disruption of traffic in the Strait of Hormuz have triggered an unprecedented shock to the global economy. Using historical data from the IMF/University of Oxford Portwatch database on maritime traffic, this paper empirically examines some of the potential economic and financial consequences of disruptions to traffic in the St…
 
 ## Fact Sheet: President Donald J. Trump Restores Reciprocity in Government Procurement
 - Source: White House
@@ -13953,45 +13899,37 @@ The Federal Reserve Board of Governors in Washington DC.
 
 Talent management, retention and recruitment continue to bring a variety of challenges and changes to the financial services workplace and culture.
 
-## Bank resilience and sustainable growth - two sides of the same coin
-- Source: BIS
-- Category: International Banking
+## Request for Information: Medicare Part D Reasonable and Relevant Pharmacy Contracting Standards (CMS-4217)
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-16T00:00:00Z
-- URL: https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW08&regmonthly_date=2026-09-16&regmonthly_mode=completed
 
-Contribution by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Bruegel Annual Meetings panel “Future-proofing European banking”, Brussels, 2 September 2026.
+OIRA review completed | RIN 0938-AW08 | 0938 | Notice
 
-## The institutional form of independent central banks - from history to contemporary challenges
-- Source: BIS
-- Category: International Banking
+## Private Health Insurance; New Agent/Broker Registrations for Plan Year 2027 Moratorium Guidance
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-16T00:00:00Z
-- URL: https://www.bis.org/speeches/20260916-institutional-form-independent-central-banks-history-contemporary-challenges
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-ZC07&regmonthly_date=2026-09-16&regmonthly_mode=completed
 
-Speech by Mr Andrew Bailey, Governor of the Bank of England, at the LSE TRIUM Anniversary Conference, London, 4 September 2026.
+OIRA review completed | RIN 0938-ZC07 | 0938 | Notice
 
-## Challenges in building foreign reserves amidst geopolitical uncertainties
-- Source: BIS
-- Category: International Banking
+## Exemptions from Materials Licensing [NRC-2025-1568]
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-16T00:00:00Z
-- URL: https://www.bis.org/speeches/20260915-challenges-building-foreign-reserves-amidst-geopolitical-uncertainties
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL61&regmonthly_date=2026-09-16&regmonthly_mode=completed
 
-Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the Inaugural Reserve Management Conference, Colombo, 10 -11 September 2026.
+OIRA review completed | RIN 3150-AL61 | 3150 | Final Rule
 
-## Listening to households - expectations, behaviour and monetary policy
-- Source: BIS
-- Category: International Banking
+## Voluntary Tanker Agreement: Proposed Changes Regarding Chinese-Built Vessels and Vessel Repairs
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-16T00:00:00Z
-- URL: https://www.bis.org/speeches/20260916-listening-households-expectations-behaviour-and-monetary-policy
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2133-ZA07&regmonthly_date=2026-09-16&regmonthly_mode=pending
 
-Speech by Mr Boris Vujčić, Vice-President of the European Central Bank, at the inauguration of the Alexander von Humboldt Professorship awarded to Professor Michael Weber at the European School of Management and Technology (ESMT) Berlin, Berlin, 1 September 2026.
-
-## Twenty-five years of the Central Bank of Montenegro
-- Source: BIS
-- Category: International Banking
-- Published: 2026-09-16T00:00:00Z
-- URL: https://www.bis.org/speeches/20260915-twenty-five-years-central-bank-montenegro
-
-Opening remarks by Dr Irena Radović, Governor of the Central Bank of Montenegro, at the celebration to mark the 25th anniversary of the Central Bank of Montenegro, Lustica, 4 September 2026.
+Pending OIRA review | RIN 2133-ZA07 | 2133 | Notice
 
 ## Revised Medical Criteria for Evaluating Cardiovascular Disorders
 - Source: Federal Register
@@ -14759,37 +14697,45 @@ The Department of State (the Department) is correcting an interim final rule tha
 
 The DoD is publishing this notice to announce that the following Federal Advisory Committee meeting of the U.S. Strategic Command Strategic Advisory Group will take place.
 
-## Request for Information: Medicare Part D Reasonable and Relevant Pharmacy Contracting Standards (CMS-4217)
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## From heritage to renewal - building Europe’s future
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-16T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AW08&regmonthly_date=2026-09-16&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260916-heritage-renewal-building-europes-future
 
-OIRA review completed | RIN 0938-AW08 | 0938 | Notice
+Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the gala dinner of the Deutsche Bundesbank on the occasion of the external ECB Governing Council meeting, Berlin, 9 September 2026.
 
-## Private Health Insurance; New Agent/Broker Registrations for Plan Year 2027 Moratorium Guidance
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Economic activity, prices, and monetary policy in Japan
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-16T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-ZC07&regmonthly_date=2026-09-16&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan
 
-OIRA review completed | RIN 0938-ZC07 | 0938 | Notice
+Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.
 
-## Exemptions from Materials Licensing [NRC-2025-1568]
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Emerging technologies in finance - the imperatives of purpose, prudence, and policy
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-16T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL61&regmonthly_date=2026-09-16&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260916-emerging-technologies-finance-imperatives-purpose-prudence-and-policy
 
-OIRA review completed | RIN 3150-AL61 | 3150 | Final Rule
+Keynote address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at theGlobal Fintech Fest 2026, Mumba, 9 September 2026.
 
-## Voluntary Tanker Agreement: Proposed Changes Regarding Chinese-Built Vessels and Vessel Repairs
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## The economic outlook and some comments on my policy communication
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-16T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2133-ZA07&regmonthly_date=2026-09-16&regmonthly_mode=pending
+- URL: https://www.bis.org/speeches/20260916-economic-outlook-and-some-comments-my-policy-communication
 
-Pending OIRA review | RIN 2133-ZA07 | 2133 | Notice
+Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Reuters NEXT Newsmaker Interview, Washington DC, 3 September 2026.
+
+## Financial markets as the engine of Uganda's tenfold economic transformation
+- Source: BIS
+- Category: International Banking
+- Published: 2026-09-16T00:00:00Z
+- URL: https://www.bis.org/speeches/20260916-financial-markets-engine-ugandas-tenfold-economic-transformation
+
+Keynote speech by Prof Augustus Nuwagaba, Deputy Governor of the Bank of Uganda, at the ACI Uganda Dealers' Meeting “Financial markets as the engine of Uganda's tenfold economic transformation”, Kololo, 28 August 2026.
 
 ## First Lady Melania Trump’s Special Visit to Ashe County, North Carolina Bearing Witness to a Community’s Resilience
 - Source: White House
@@ -16763,13 +16709,45 @@ Fannie Mae’s market intelligence helps you understand changes in the housing a
 
 This page provides resources to help your bank track trends, manage customer expectations, and respond to the operational impacts of the penny’s retirement.
 
-## Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems
-- Source: BIS
-- Category: International Banking
+## Filing Procedures; Merger Transactions
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-15T00:00:00Z
-- URL: https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3064-AG18&regmonthly_date=2026-09-15&regmonthly_mode=completed
 
-Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured by the scale, fragmentation and complexity of the ecosystem. Key metrics illustrate that the rapidly evolving DeFi ecosystem introduces unique challenges for economic and financial research in accurately capturing finan…
+OIRA review completed | RIN 3064-AG18 | 3064 | Proposed Rule
+
+## Rescission of Rule 14a-8’s Federal Regulation of Shareholder Proposals and Amendments to Rule 14a-4.
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN47&regmonthly_date=2026-09-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 3235-AN47 | 3235 | Proposed Rule
+
+## Proxy Solicitation Modernization.
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN63&regmonthly_date=2026-09-15&regmonthly_mode=completed
+
+OIRA review completed | RIN 3235-AN63 | 3235 | Proposed Rule
+
+## Regulatory Considerations for Prescription Drug Use-Related Software; Guidance for Industry; Availability
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD80&regmonthly_date=2026-09-15&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0910-ZD80 | 0910 | Notice
+
+## Reducing Bureaucracy and Burden in Part 1370
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-15T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD45&regmonthly_date=2026-09-15&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0970-AD45 | 0970 | Proposed Rule
 
 ## Patriot Day 2026, the 25th Anniversary of the September 11 Terrorist Attacks
 - Source: Federal Register
@@ -17665,45 +17643,13 @@ The Federal Emergency Management Agency (FEMA) will submit the information colle
 
 Pursuant to section 189a.(2) of the Atomic Energy Act of 1954, as amended (the Act), the U.S. Nuclear Regulatory Commission (NRC) is publishing this regular biweekly notice. The Act requires the Commission to publish notice of any amendments issued, or proposed to be issued, and grants the Commission the authority to issue and make immediately effective any amendment to an ope…
 
-## Filing Procedures; Merger Transactions
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3064-AG18&regmonthly_date=2026-09-15&regmonthly_mode=completed
+- URL: https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems
 
-OIRA review completed | RIN 3064-AG18 | 3064 | Proposed Rule
-
-## Rescission of Rule 14a-8’s Federal Regulation of Shareholder Proposals and Amendments to Rule 14a-4.
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN47&regmonthly_date=2026-09-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 3235-AN47 | 3235 | Proposed Rule
-
-## Proxy Solicitation Modernization.
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN63&regmonthly_date=2026-09-15&regmonthly_mode=completed
-
-OIRA review completed | RIN 3235-AN63 | 3235 | Proposed Rule
-
-## Regulatory Considerations for Prescription Drug Use-Related Software; Guidance for Industry; Availability
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD80&regmonthly_date=2026-09-15&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0910-ZD80 | 0910 | Notice
-
-## Reducing Bureaucracy and Burden in Part 1370
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-15T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD45&regmonthly_date=2026-09-15&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0970-AD45 | 0970 | Proposed Rule
+Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured by the scale, fragmentation and complexity of the ecosystem. Key metrics illustrate that the rapidly evolving DeFi ecosystem introduces unique challenges for economic and financial research in accurately capturing finan…
 
 ## Nominations Sent to the Senate
 - Source: White House
@@ -17761,11 +17707,61 @@ ABA Recognizes Excellence in Agricultural Finance with 2026 Bruning and Blanchfi
 - Published: 2026-09-14T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/ahead-of-senate-crypto-vote-warren-and-colleagues-seek-vote-on-senate-floor-to-stop-trumps-self-dealing-end-presidential-corruption-in-banking
 
-## BIS Quarterly Review, September 2026
-- Source: BIS
-- Category: International Banking
+## Energy Conservation Program: Test Procedures for Commercial Warm Air Furnaces
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-14T00:00:00Z
-- URL: https://www.bis.org/publications/qr-202609
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1904-AG06&regmonthly_date=2026-09-14&regmonthly_mode=completed
+
+OIRA review completed | RIN 1904-AG06 | 1904 | Final Rule
+
+## Strengthening Integrity and Reducing Retailer Fraud in the Supplemental Nutrition Assistance Program (SNAP)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-14T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0584-AE71&regmonthly_date=2026-09-14&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0584-AE71 | 0584 | Proposed Rule
+
+## Change to the EAR
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-14T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK56&regmonthly_date=2026-09-14&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0694-AK56 | 0694 | Final Rule
+
+## Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program (NPRM)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-14T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1205-AC29&regmonthly_date=2026-09-14&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1205-AC29 | 1205 | Proposed Rule
+
+## Exemption for Certain Automatic Portability Transactions
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-14T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-AC21&regmonthly_date=2026-09-14&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1210-AC21 | 1210 | Final Rule
+
+## Reexport Retransfer Exemption and General Licenses
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-14T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG37&regmonthly_date=2026-09-14&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1400-AG37 | 1400 | Interim Final Rule
+
+## Treatment of Data Influenced by Exceptional Events: Rule Revisions
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-14T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2060-AW72&regmonthly_date=2026-09-14&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2060-AW72 | 2060 | Proposed Rule
 
 ## Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles
 - Source: Federal Register
@@ -18905,69 +18901,11 @@ The Assistant Regional Administrator for Sustainable Fisheries, Greater Atlantic
 
 The Corporation for National and Community Service, operating as AmeriCorps, has submitted an information collection request (ICR) for the AmeriCorps State and National Application Instructions.
 
-## Energy Conservation Program: Test Procedures for Commercial Warm Air Furnaces
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## BIS Quarterly Review, September 2026
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1904-AG06&regmonthly_date=2026-09-14&regmonthly_mode=completed
-
-OIRA review completed | RIN 1904-AG06 | 1904 | Final Rule
-
-## Strengthening Integrity and Reducing Retailer Fraud in the Supplemental Nutrition Assistance Program (SNAP)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0584-AE71&regmonthly_date=2026-09-14&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0584-AE71 | 0584 | Proposed Rule
-
-## Change to the EAR
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0694-AK56&regmonthly_date=2026-09-14&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0694-AK56 | 0694 | Final Rule
-
-## Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program (NPRM)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1205-AC29&regmonthly_date=2026-09-14&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1205-AC29 | 1205 | Proposed Rule
-
-## Exemption for Certain Automatic Portability Transactions
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1210-AC21&regmonthly_date=2026-09-14&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1210-AC21 | 1210 | Final Rule
-
-## Reexport Retransfer Exemption and General Licenses
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG37&regmonthly_date=2026-09-14&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1400-AG37 | 1400 | Interim Final Rule
-
-## Treatment of Data Influenced by Exceptional Events: Rule Revisions
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2060-AW72&regmonthly_date=2026-09-14&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2060-AW72 | 2060 | Proposed Rule
-
-## Family and Medical Leave Act
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-14T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AP18&regmonthly_date=2026-09-14&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3206-AP18 | 3206 | Final Rule
+- URL: https://www.bis.org/publications/qr-202609
 
 ## Presidential Message on the Anniversary of the Battle of Fort McHenry
 - Source: White House
@@ -19371,14 +19309,6 @@ The agencies convened for a tabletop exercise on September 3, 2026, to discuss c
 - Published: 2026-09-11T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-august-2026-cpi
 
-## Physical Security
-- Source: ABA
-- Category: Compliance Watch
-- Published: 2026-09-11T00:00:00Z
-- URL: https://www.aba.com/banking-topics/risk-management/physical-security
-
-Know how to identify physical threats and the various resources available to you in order to help you protect your customers and your employees.
-
 ## Third-Party Risk
 - Source: ABA
 - Category: Compliance Watch
@@ -19387,13 +19317,77 @@ Know how to identify physical threats and the various resources available to you
 
 Managing a bank's risk requires a firm understanding of complex factors impacting your institution's overall risk management program.
 
-## Global economic outlook, AI and innovation
-- Source: BIS
-- Category: International Banking
+## Optional Practical Training Fees
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-11T00:00:00Z
-- URL: https://www.bis.org/speeches/20260916-global-economic-outlook-ai-and-innovation
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1653-AB01&regmonthly_date=2026-09-11&regmonthly_mode=completed
 
-Interview with Mr Pablo Hernández de Cos, General Manager of the BIS, with India's Economic Times, conducted by Ms Deepshikha Sikarwar, 11 September 2026.
+OIRA review completed | RIN 1653-AB01 | 1653 | Proposed Rule
+
+## Clean Water Act Hazardous Substance Facility Response Plans: Compliance Date Delay and Changes to Reflect Administration Policy
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-11T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2050-AH38&regmonthly_date=2026-09-11&regmonthly_mode=completed
+
+OIRA review completed | RIN 2050-AH38 | 2050 | Final Rule
+
+## Carbon Pollution Standards Repeal
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-11T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2060-AW55&regmonthly_date=2026-09-11&regmonthly_mode=completed
+
+OIRA review completed | RIN 2060-AW55 | 2060 | Final Rule
+
+## Repeal of Greenhouse Gas Standards for Fossil-fired Electric Generating Units
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-11T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2060-AX00&regmonthly_date=2026-09-11&regmonthly_mode=completed
+
+OIRA review completed | RIN 2060-AX00 | 2060 | Proposed Rule
+
+## Taking Marine Mammals Incidental to the Port Everglades Harbor Deepening and Widening Project, Florida
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-11T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BL51&regmonthly_date=2026-09-11&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0648-BL51 | 0648 | Proposed Rule
+
+## 2026 NIH Research Plan on Rehabilitation
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-11T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA21&regmonthly_date=2026-09-11&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0925-ZA21 | 0925 | Notice
+
+## Revisions to Export Requirement [NRC-2025-1468]
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-11T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL57&regmonthly_date=2026-09-11&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3150-AL57 | 3150 | Interim Final Rule
+
+## Personnel Management in Agencies: Strategic Human Capital Management
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-11T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO77&regmonthly_date=2026-09-11&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3206-AO77 | 3206 | Final Rule
+
+## Administrative Leave for Workforce Realignment and Other Purposes
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-11T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AP07&regmonthly_date=2026-09-11&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3206-AP07 | 3206 | Final Rule
 
 ## Adjusting Certain Delegations Under the Defense Production Act
 - Source: Federal Register
@@ -20265,85 +20259,13 @@ NASA, as part of its continuing effort to reduce paperwork and respondent burden
 - Published: 2026-09-11T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/09/11/2026-18512/center-for-scientific-review-notice-of-closed-meetings
 
-## Optional Practical Training Fees
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Global economic outlook, AI and innovation
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-11T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1653-AB01&regmonthly_date=2026-09-11&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260916-global-economic-outlook-ai-and-innovation
 
-OIRA review completed | RIN 1653-AB01 | 1653 | Proposed Rule
-
-## Clean Water Act Hazardous Substance Facility Response Plans: Compliance Date Delay and Changes to Reflect Administration Policy
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-11T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2050-AH38&regmonthly_date=2026-09-11&regmonthly_mode=completed
-
-OIRA review completed | RIN 2050-AH38 | 2050 | Final Rule
-
-## Carbon Pollution Standards Repeal
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-11T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2060-AW55&regmonthly_date=2026-09-11&regmonthly_mode=completed
-
-OIRA review completed | RIN 2060-AW55 | 2060 | Final Rule
-
-## Repeal of Greenhouse Gas Standards for Fossil-fired Electric Generating Units
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-11T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2060-AX00&regmonthly_date=2026-09-11&regmonthly_mode=completed
-
-OIRA review completed | RIN 2060-AX00 | 2060 | Proposed Rule
-
-## Taking Marine Mammals Incidental to the Port Everglades Harbor Deepening and Widening Project, Florida
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-11T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BL51&regmonthly_date=2026-09-11&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0648-BL51 | 0648 | Proposed Rule
-
-## Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers; Guidance for Industry; Availability
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-11T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD69&regmonthly_date=2026-09-11&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0910-ZD69 | 0910 | Notice
-
-## 2026 NIH Research Plan on Rehabilitation
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-11T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA21&regmonthly_date=2026-09-11&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0925-ZA21 | 0925 | Notice
-
-## Revisions to Export Requirement [NRC-2025-1468]
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-11T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL57&regmonthly_date=2026-09-11&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3150-AL57 | 3150 | Interim Final Rule
-
-## Personnel Management in Agencies: Strategic Human Capital Management
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-11T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO77&regmonthly_date=2026-09-11&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3206-AO77 | 3206 | Final Rule
-
-## Administrative Leave for Workforce Realignment and Other Purposes
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-11T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AP07&regmonthly_date=2026-09-11&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3206-AP07 | 3206 | Final Rule
+Interview with Mr Pablo Hernández de Cos, General Manager of the BIS, with India's Economic Times, conducted by Ms Deepshikha Sikarwar, 11 September 2026.
 
 ## Press Release: Agencies Reduce Regulatory Burden for Community Banks, Increase Eligibility for 18-Month Exam Cycle
 - Source: FDIC
@@ -20461,13 +20383,61 @@ The federal bank regulatory agencies today issued an interim final rule increasi
 - Published: 2026-09-10T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/community-and-regional-banks-are-choosing-fis-accelerate
 
-## Artificial intelligence, growth and financial stability: challenges for central banks
-- Source: BIS
-- Category: International Banking
+## Recodification of Title IX Rules
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-10T00:00:00Z
-- URL: https://www.bis.org/speeches/20260910-artificial-intelligence-growth-and-financial-stability-challenges-central-banks
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1870-AA26&regmonthly_date=2026-09-10&regmonthly_mode=completed
 
-Speech by Mr Pablo Hernández de Cos, General Manager of the BIS, at the Global Fintech Fest 2026, Mumbai, India, 10 September 2026.
+OIRA review completed | RIN 1870-AA26 | 1870 | Final Rule
+
+## State Bank Parity
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3064-AG34&regmonthly_date=2026-09-10&regmonthly_mode=completed
+
+OIRA review completed | RIN 3064-AG34 | 3064 | Proposed Rule
+
+## Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight [NRC-2025-1138]
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL45&regmonthly_date=2026-09-10&regmonthly_mode=completed
+
+OIRA review completed | RIN 3150-AL45 | 3150 | Proposed Rule
+
+## Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency; Guidance for Industry and Food and Drug Administration Staff; Availability
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD68&regmonthly_date=2026-09-10&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0910-ZD68 | 0910 | Notice
+
+## Restoring Flexibility to Support Head Start Program Access
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD21&regmonthly_date=2026-09-10&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0970-AD21 | 0970 | Final Rule
+
+## Amendments to FMVSS No. 127; Light Vehicle Automatic Emergency Braking
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2127-AM69&regmonthly_date=2026-09-10&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2127-AM69 | 2127 | Proposed Rule
+
+## Discontinuing Premium Collection from Policyholders on Certain National Service Life Insurance Policies
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-10T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2900-AS98&regmonthly_date=2026-09-10&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2900-AS98 | 2900 | Proposed Rule
 
 ## Fee for Certain H-1B Petitions
 - Source: Federal Register
@@ -21369,69 +21339,13 @@ New or modified Base (1-percent annual chance) Flood Elevations (BFEs), base flo
 
 The Commission hereby gives notice of the scheduling of the final phase of antidumping investigation No. 731-TA-1770 (Final) pursuant to the Tariff Act of 1930 to determine whether an industry in the United States is materially injured or threatened with material injury, or the establishment of an industry in the United States is materially retarded, by reason of imports of fr…
 
-## Recodification of Title IX Rules
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Artificial intelligence, growth and financial stability: challenges for central banks
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1870-AA26&regmonthly_date=2026-09-10&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260910-artificial-intelligence-growth-and-financial-stability-challenges-central-banks
 
-OIRA review completed | RIN 1870-AA26 | 1870 | Final Rule
-
-## State Bank Parity
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3064-AG34&regmonthly_date=2026-09-10&regmonthly_mode=completed
-
-OIRA review completed | RIN 3064-AG34 | 3064 | Proposed Rule
-
-## Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight [NRC-2025-1138]
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL45&regmonthly_date=2026-09-10&regmonthly_mode=completed
-
-OIRA review completed | RIN 3150-AL45 | 3150 | Proposed Rule
-
-## Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency; Guidance for Industry and Food and Drug Administration Staff; Availability
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD68&regmonthly_date=2026-09-10&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0910-ZD68 | 0910 | Notice
-
-## Restoring Flexibility to Support Head Start Program Access
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD21&regmonthly_date=2026-09-10&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0970-AD21 | 0970 | Final Rule
-
-## Amendments to FMVSS No. 127; Light Vehicle Automatic Emergency Braking
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2127-AM69&regmonthly_date=2026-09-10&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2127-AM69 | 2127 | Proposed Rule
-
-## Discontinuing Premium Collection from Policyholders on Certain National Service Life Insurance Policies
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2900-AS98&regmonthly_date=2026-09-10&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2900-AS98 | 2900 | Proposed Rule
-
-## Universal Service
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-10T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AK57&regmonthly_date=2026-09-10&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3060-AK57 | 3060 | Final Rule
+Speech by Mr Pablo Hernández de Cos, General Manager of the BIS, at the Global Fintech Fest 2026, Mumbai, India, 10 September 2026.
 
 ## Patriot Day 2026, The 25th Anniversary of the September 11 Terrorist Attacks
 - Source: White House
@@ -21551,13 +21465,61 @@ Today, the U.S. Department of the Treasury's Financial Crimes Enforcement Networ
 - Published: 2026-09-09T00:00:00Z
 - URL: https://www.nacha.org/news/new-nacha-payments-innovation-alliance-project-team-focused-stablecoins-and-tokenized-deposits
 
-## When machines attack: frontier AI cyber threats and policy responses in the financial sector
-- Source: BIS
-- Category: International Banking
+## Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Increase to the Maximum Monthly Allowance of Milk for Child, Pregnant, and Breastfeeding Participants
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-09T00:00:00Z
-- URL: https://www.bis.org/publications/fsi-paper-28-when-machines-attack-frontier-ai-cyber-threats-and-policy-responses-financial-sector
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0584-AF29&regmonthly_date=2026-09-09&regmonthly_mode=completed
 
-Frontier artificial intelligence (AI) models are a game changer in the cyber threat landscape. Unlike earlier generations of AI models, they can autonomously identify critical vulnerabilities, develop effective exploits and conduct increasingly complex multi-step cyber operations, thus reducing the expertise, time and resources needed to carry out sophisticated attacks. At the…
+OIRA review completed | RIN 0584-AF29 | 0584 | Final Rule
+
+## Federal-State Unemployment Compensation (UC) Program; Data Availability
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-09T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1205-AC11&regmonthly_date=2026-09-09&regmonthly_mode=completed
+
+OIRA review completed | RIN 1205-AC11 | 1205 | Final Rule
+
+## U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-09T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AC93&regmonthly_date=2026-09-09&regmonthly_mode=completed
+
+OIRA review completed | RIN 1615-AC93 | 1615 | Final Rule
+
+## Removal of the Automatic Extension of Employment Authorization Documents
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-09T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD05&regmonthly_date=2026-09-09&regmonthly_mode=completed
+
+OIRA review completed | RIN 1615-AD05 | 1615 | Final Rule
+
+## TRICARE Network Mental Health Provider Interstate License Portability and Update to TRICARE Telehealth License Requirements
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-09T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0720-AB94&regmonthly_date=2026-09-09&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0720-AB94 | 0720 | Interim Final Rule
+
+## Sunlamp Products; Amendment to the Performance Standard
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-09T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AG30&regmonthly_date=2026-09-09&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0910-AG30 | 0910 | Final Rule
+
+## Medicare Drug Price Negotiation Program (CMS-4215)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-09T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV90&regmonthly_date=2026-09-09&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0938-AV90 | 0938 | Final Rule
 
 ## Agency Information Collection Activity Under OMB Review: Application for Disability Compensation Benefits
 - Source: Federal Register
@@ -22537,61 +22499,13 @@ This notice of filing announces that a petition has been filed requesting that b
 
 CDC has modified its structure. This notice announces the reorganization of the National Center for Immunization and Respiratory Diseases (NCIRD). NCIRD has consolidated offices, retitled divisions and branches, and modified mission and function statements.
 
-## Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Increase to the Maximum Monthly Allowance of Milk for Child, Pregnant, and Breastfeeding Participants
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## When machines attack: frontier AI cyber threats and policy responses in the financial sector
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-09T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0584-AF29&regmonthly_date=2026-09-09&regmonthly_mode=completed
+- URL: https://www.bis.org/publications/fsi-paper-28-when-machines-attack-frontier-ai-cyber-threats-and-policy-responses-financial-sector
 
-OIRA review completed | RIN 0584-AF29 | 0584 | Final Rule
-
-## Federal-State Unemployment Compensation (UC) Program; Data Availability
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-09T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1205-AC11&regmonthly_date=2026-09-09&regmonthly_mode=completed
-
-OIRA review completed | RIN 1205-AC11 | 1205 | Final Rule
-
-## U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-09T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AC93&regmonthly_date=2026-09-09&regmonthly_mode=completed
-
-OIRA review completed | RIN 1615-AC93 | 1615 | Final Rule
-
-## Removal of the Automatic Extension of Employment Authorization Documents
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-09T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD05&regmonthly_date=2026-09-09&regmonthly_mode=completed
-
-OIRA review completed | RIN 1615-AD05 | 1615 | Final Rule
-
-## TRICARE Network Mental Health Provider Interstate License Portability and Update to TRICARE Telehealth License Requirements
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-09T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0720-AB94&regmonthly_date=2026-09-09&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0720-AB94 | 0720 | Interim Final Rule
-
-## Sunlamp Products; Amendment to the Performance Standard
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-09T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-AG30&regmonthly_date=2026-09-09&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0910-AG30 | 0910 | Final Rule
-
-## Medicare Drug Price Negotiation Program (CMS-4215)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-09T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0938-AV90&regmonthly_date=2026-09-09&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0938-AV90 | 0938 | Final Rule
+Frontier artificial intelligence (AI) models are a game changer in the cyber threat landscape. Unlike earlier generations of AI models, they can autonomously identify critical vulnerabilities, develop effective exploits and conduct increasingly complex multi-step cyber operations, thus reducing the expertise, time and resources needed to carry out sophisticated attacks. At the…
 
 ## Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the United States with Respect to Motor Vehicles
 - Source: White House
@@ -29645,13 +29559,61 @@ IR-2026-108, Sept. 8, 2026 — The Internal Revenue Service today issued guidanc
 - Published: 2026-09-08T00:00:00Z
 - URL: https://www.nacha.org/news/help-ensure-ach-rules-compliance-you-need-new-ach-compliance-manual
 
-## Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers
-- Source: BIS
-- Category: International Banking
+## Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-08T00:00:00Z
-- URL: https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0607-AA75&regmonthly_date=2026-09-08&regmonthly_mode=completed
 
-CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their cyber resilience frameworks. The discussion paper FMIs’ reliance on third-party service providers: c…
+OIRA review completed | RIN 0607-AA75 | 0607 | Proposed Rule
+
+## Request for Information (RFI): Inviting Comments and Suggestions on the National Institute of Nursing Research (NINR) Strategic Plan for Fiscal Years 2027-2031
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-08T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA18&regmonthly_date=2026-09-08&regmonthly_mode=completed
+
+OIRA review completed | RIN 0925-ZA18 | 0925 | Notice
+
+## Satellite Spectrum Abundance (SB Docket No. 25-180)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-08T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM21&regmonthly_date=2026-09-08&regmonthly_mode=completed
+
+OIRA review completed | RIN 3060-AM21 | 3060 | Final Rule
+
+## Recruitment and Selection Through Competitive Examination and Pooled Hiring Actions
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-08T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO24&regmonthly_date=2026-09-08&regmonthly_mode=completed
+
+OIRA review completed | RIN 3206-AO24 | 3206 | Proposed Rule
+
+## Employment in the Excepted Service
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-08T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO92&regmonthly_date=2026-09-08&regmonthly_mode=completed
+
+OIRA review completed | RIN 3206-AO92 | 3206 | Proposed Rule
+
+## Pacific Island Fisheries; Commercial Fishing in the Pacific Remote Islands Marine National Monument
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-08T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BN99&regmonthly_date=2026-09-08&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0648-BN99 | 0648 | Proposed Rule
+
+## Public Assistance Snow Assistance Policy
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-08T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1660-ZA37&regmonthly_date=2026-09-08&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1660-ZA37 | 1660 | Notice
 
 ## Unleashing Unlicensed Spectrum for Direct-to-Device
 - Source: Federal Register
@@ -30161,61 +30123,13 @@ In compliance with the Paperwork Reduction Act of 1995, the National Institutes 
 
 NMFS has received a request from Turnagain Marine Construction (TMC) for the renewal of their currently active incidental harassment authorization (IHA) (hereinafter, the "initial IHA") to take marine mammals incidental to Seward Cruise Ship Passenger Dock and Terminal Facility project in Seward, Alaska. TMC activities will not be completed prior to the IHA's expiration. Pursu…
 
-## Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0607-AA75&regmonthly_date=2026-09-08&regmonthly_mode=completed
+- URL: https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis
 
-OIRA review completed | RIN 0607-AA75 | 0607 | Proposed Rule
-
-## Request for Information (RFI): Inviting Comments and Suggestions on the National Institute of Nursing Research (NINR) Strategic Plan for Fiscal Years 2027-2031
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0925-ZA18&regmonthly_date=2026-09-08&regmonthly_mode=completed
-
-OIRA review completed | RIN 0925-ZA18 | 0925 | Notice
-
-## Satellite Spectrum Abundance (SB Docket No. 25-180)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3060-AM21&regmonthly_date=2026-09-08&regmonthly_mode=completed
-
-OIRA review completed | RIN 3060-AM21 | 3060 | Final Rule
-
-## Recruitment and Selection Through Competitive Examination and Pooled Hiring Actions
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO24&regmonthly_date=2026-09-08&regmonthly_mode=completed
-
-OIRA review completed | RIN 3206-AO24 | 3206 | Proposed Rule
-
-## Employment in the Excepted Service
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3206-AO92&regmonthly_date=2026-09-08&regmonthly_mode=completed
-
-OIRA review completed | RIN 3206-AO92 | 3206 | Proposed Rule
-
-## Pacific Island Fisheries; Commercial Fishing in the Pacific Remote Islands Marine National Monument
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BN99&regmonthly_date=2026-09-08&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0648-BN99 | 0648 | Proposed Rule
-
-## Public Assistance Snow Assistance Policy
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-08T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1660-ZA37&regmonthly_date=2026-09-08&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1660-ZA37 | 1660 | Notice
+CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their cyber resilience frameworks. The discussion paper FMIs’ reliance on third-party service providers: c…
 
 ## Labor Day, 2026
 - Source: White House
@@ -30322,6 +30236,70 @@ IR-2026-105, Sept. 4, 2026 — The Internal Revenue Service today encouraged wor
 - Category: Legislative
 - Published: 2026-09-04T00:00:00Z
 - URL: https://www.banking.senate.gov/newsroom/minority/senator-warren-statement-on-august-2026-jobs-report
+
+## Temporary Policies for Compounding Certain Starter Parenteral Nutrition Drug Products for Neonates; Guidance for Industry; Availability
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-04T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD67&regmonthly_date=2026-09-04&regmonthly_mode=completed
+
+OIRA review completed | RIN 0910-ZD67 | 0910 | Notice
+
+## Removing 30-Day Refugee Termination Notice
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-04T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD23&regmonthly_date=2026-09-04&regmonthly_mode=completed
+
+OIRA review completed | RIN 1615-AD23 | 1615 | Interim Final Rule
+
+## Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-04T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD24&regmonthly_date=2026-09-04&regmonthly_mode=completed
+
+OIRA review completed | RIN 1615-AD24 | 1615 | Interim Final Rule
+
+## Updating the Water Quality Certification Rule
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-04T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2040-AG47&regmonthly_date=2026-09-04&regmonthly_mode=completed
+
+OIRA review completed | RIN 2040-AG47 | 2040 | Final Rule
+
+## Formaldehyde Emission Standards for Composite Wood Products; Voluntary Consensus Standards Update (Fourth Update)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-04T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2070-AL36&regmonthly_date=2026-09-04&regmonthly_mode=completed
+
+OIRA review completed | RIN 2070-AL36 | 2070 | Final Rule
+
+## Fisheries of the Exclusive Economic Zone off Alaska; Pelagic Trawl Gear Definition
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-04T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BO04&regmonthly_date=2026-09-04&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0648-BO04 | 0648 | Proposed Rule
+
+## Endangered and Threatened Wildlife and Plants; Critical Habitat Designation for Northern Spotted Owl
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-04T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BJ06&regmonthly_date=2026-09-04&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1018-BJ06 | 1018 | Proposed Rule
+
+## Rescinding Regulations Related to Nondiscrimination in Federally Assisted Programs or Activities (General Provisions)
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-04T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1903-AA20&regmonthly_date=2026-09-04&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1903-AA20 | 1903 | Final Rule
 
 ## Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border
 - Source: Federal Register
@@ -30939,70 +30917,6 @@ The Department of Labor (DOL) Veterans' Employment and Training Service (VETS) i
 - Published: 2026-09-04T00:00:00Z
 - URL: https://www.federalregister.gov/documents/2026/09/04/2026-18097/information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review
 
-## Temporary Policies for Compounding Certain Starter Parenteral Nutrition Drug Products for Neonates; Guidance for Industry; Availability
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-04T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0910-ZD67&regmonthly_date=2026-09-04&regmonthly_mode=completed
-
-OIRA review completed | RIN 0910-ZD67 | 0910 | Notice
-
-## Removing 30-Day Refugee Termination Notice
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-04T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD23&regmonthly_date=2026-09-04&regmonthly_mode=completed
-
-OIRA review completed | RIN 1615-AD23 | 1615 | Interim Final Rule
-
-## Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-04T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1615-AD24&regmonthly_date=2026-09-04&regmonthly_mode=completed
-
-OIRA review completed | RIN 1615-AD24 | 1615 | Interim Final Rule
-
-## Updating the Water Quality Certification Rule
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-04T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2040-AG47&regmonthly_date=2026-09-04&regmonthly_mode=completed
-
-OIRA review completed | RIN 2040-AG47 | 2040 | Final Rule
-
-## Formaldehyde Emission Standards for Composite Wood Products; Voluntary Consensus Standards Update (Fourth Update)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-04T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2070-AL36&regmonthly_date=2026-09-04&regmonthly_mode=completed
-
-OIRA review completed | RIN 2070-AL36 | 2070 | Final Rule
-
-## Fisheries of the Exclusive Economic Zone off Alaska; Pelagic Trawl Gear Definition
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-04T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0648-BO04&regmonthly_date=2026-09-04&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0648-BO04 | 0648 | Proposed Rule
-
-## Endangered and Threatened Wildlife and Plants; Critical Habitat Designation for Northern Spotted Owl
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-04T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1018-BJ06&regmonthly_date=2026-09-04&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1018-BJ06 | 1018 | Proposed Rule
-
-## Rescinding Regulations Related to Nondiscrimination in Federally Assisted Programs or Activities (General Provisions)
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-04T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1903-AA20&regmonthly_date=2026-09-04&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1903-AA20 | 1903 | Final Rule
-
 ## CVE-2026-58641 .NET Elevation of Privilege Vulnerability
 - Source: Microsoft MSRC
 - Category: IS
@@ -31109,21 +31023,45 @@ IR-2026-103, Sep. 3, 2026 – The Department of the Treasury and the Internal Re
 - Published: 2026-09-03T00:00:00Z
 - URL: https://investors.fiserv.com/news-releases/news-release-details/fiserv-small-business-index-shows-yoy-sales-growth-august
 
-## Zombie firms in emerging Asia: domestic and cross border implications
-- Source: BIS
-- Category: International Banking
+## 9 CFR Parts 101 Through 118, 123 Through 124
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-03T00:00:00Z
-- URL: https://www.bis.org/publications/working-paper-1375-zombie-firms-emerging-asia-domestic-and-cross-border-implications
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0503-ZA04&regmonthly_date=2026-09-03&regmonthly_mode=completed
 
-Using firm-bank linked data for 10 Asian emerging market economies (EMEs) over 2005–2021, we study the domestic and cross-border implications of zombie firms. We document three main findings.
+OIRA review completed | RIN 0503-ZA04 | 0503 | Notice
 
-## Simple, resilient and proportional: revisiting regulation for small banks
-- Source: BIS
-- Category: International Banking
+## National Petroleum Reserve in Alaska Production Site Development Rule
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-03T00:00:00Z
-- URL: https://www.bis.org/publications/fsi-insight-78-simple-resilient-and-proportional-revisiting-regulation-small-banks
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF57&regmonthly_date=2026-09-03&regmonthly_mode=completed
 
-Small banks are the backbone of local economies but have distinct business models and risk profiles compared to larger banks. Recognising these differences, the Basel Committee on Banking Supervision (BCBS) promotes proportionality in global banking standards, encouraging tailored requirements based on bank size, complexity, and risk profile. The BCBS does not define ‘small ba…
+OIRA review completed | RIN 1004-AF57 | 1004 | Proposed Rule
+
+## Pay-to-Play Reform
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-03T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN65&regmonthly_date=2026-09-03&regmonthly_mode=completed
+
+OIRA review completed | RIN 3235-AN65 | 3235 | Proposed Rule
+
+## Reducing Bureaucracy and Burden for Block Grants
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-03T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD49&regmonthly_date=2026-09-03&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0970-AD49 | 0970 | Proposed Rule
+
+## Passports: Requirements for Certain Passengers Entering the United States at Sea Ports
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-03T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG18&regmonthly_date=2026-09-03&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1400-AG18 | 1400 | Proposed Rule
 
 ## Establishing the United States Space Academy
 - Source: Federal Register
@@ -31949,45 +31887,21 @@ The Mid-Atlantic Fishery Management Council's Spiny Dogfish Monitoring Committee
 
 The CJIS, FBI, DOJ will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.
 
-## 9 CFR Parts 101 Through 118, 123 Through 124
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Zombie firms in emerging Asia: domestic and cross border implications
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-03T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0503-ZA04&regmonthly_date=2026-09-03&regmonthly_mode=completed
+- URL: https://www.bis.org/publications/working-paper-1375-zombie-firms-emerging-asia-domestic-and-cross-border-implications
 
-OIRA review completed | RIN 0503-ZA04 | 0503 | Notice
+Using firm-bank linked data for 10 Asian emerging market economies (EMEs) over 2005–2021, we study the domestic and cross-border implications of zombie firms. We document three main findings.
 
-## National Petroleum Reserve in Alaska Production Site Development Rule
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Simple, resilient and proportional: revisiting regulation for small banks
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-03T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1004-AF57&regmonthly_date=2026-09-03&regmonthly_mode=completed
+- URL: https://www.bis.org/publications/fsi-insight-78-simple-resilient-and-proportional-revisiting-regulation-small-banks
 
-OIRA review completed | RIN 1004-AF57 | 1004 | Proposed Rule
-
-## Pay-to-Play Reform
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-03T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3235-AN65&regmonthly_date=2026-09-03&regmonthly_mode=completed
-
-OIRA review completed | RIN 3235-AN65 | 3235 | Proposed Rule
-
-## Reducing Bureaucracy and Burden for Block Grants
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-03T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD49&regmonthly_date=2026-09-03&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0970-AD49 | 0970 | Proposed Rule
-
-## Passports: Requirements for Certain Passengers Entering the United States at Sea Ports
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-03T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1400-AG18&regmonthly_date=2026-09-03&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1400-AG18 | 1400 | Proposed Rule
+Small banks are the backbone of local economies but have distinct business models and risk profiles compared to larger banks. Recognising these differences, the Basel Committee on Banking Supervision (BCBS) promotes proportionality in global banking standards, encouraging tailored requirements based on bank size, complexity, and risk profile. The BCBS does not define ‘small ba…
 
 ## Presidential Message on National Preparedness Month
 - Source: White House
@@ -32135,13 +32049,37 @@ Today, the U.S.
 
 An HSA is a tax-free savings account that's paired with a high deductible health insurance plan to pay for routine medical expenses. The ABA's Health Savings Account (HSA) Council supports expansion of account-based health care solutions for all Americans.
 
-## Verifiable official statistics: a blockchain-based approach
-- Source: BIS
-- Category: International Banking
+## Dear Colleague Letter: Combating Discrimination Rooted in Antisemitism in HHS-Funded Programs and Activities
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-02T00:00:00Z
-- URL: https://www.bis.org/publications/working-paper-1374-verifiable-official-statistics-blockchain-based-approach
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-ZA12&regmonthly_date=2026-09-02&regmonthly_mode=completed
 
-International organisations including the Bank for International Settlements (BIS) have adopted SDMx (Statistical Data and Metadata) as the standard for exchanging official statistics. Trust in published data is essential for evidence-based policymaking. This paper shows how binding each SDMx dataset to its source using blockchain technology can enhance confidence in official…
+OIRA review completed | RIN 0945-ZA12 | 0945 | Notice
+
+## Grazing and Livestock Use on the National Forest System
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-02T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0596-AD75&regmonthly_date=2026-09-02&regmonthly_mode=pending
+
+Pending OIRA review | RIN 0596-AD75 | 0596 | Proposed Rule
+
+## Federal Sector Labor Arbitration Requests
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-02T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3076-AA32&regmonthly_date=2026-09-02&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3076-AA32 | 3076 | Proposed Rule
+
+## NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War [NRC-2025-1503]
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-02T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL60&regmonthly_date=2026-09-02&regmonthly_mode=pending
+
+Pending OIRA review | RIN 3150-AL60 | 3150 | Final Rule
 
 ## Continuation of the National Emergency With Respect to Foreign Interference in or Undermining Public Confidence in United States Elections
 - Source: Federal Register
@@ -32775,37 +32713,13 @@ In compliance with the requirement of the Paperwork Reduction Act of 1995 to pro
 
 The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on certain steel nails (nails) from the Socialist Republic of Vietnam (Vietnam) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the "Final Results of Sunset Review" section of this notice.
 
-## Dear Colleague Letter: Combating Discrimination Rooted in Antisemitism in HHS-Funded Programs and Activities
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## Verifiable official statistics: a blockchain-based approach
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-02T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0945-ZA12&regmonthly_date=2026-09-02&regmonthly_mode=completed
+- URL: https://www.bis.org/publications/working-paper-1374-verifiable-official-statistics-blockchain-based-approach
 
-OIRA review completed | RIN 0945-ZA12 | 0945 | Notice
-
-## Grazing and Livestock Use on the National Forest System
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-02T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0596-AD75&regmonthly_date=2026-09-02&regmonthly_mode=pending
-
-Pending OIRA review | RIN 0596-AD75 | 0596 | Proposed Rule
-
-## Federal Sector Labor Arbitration Requests
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-02T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3076-AA32&regmonthly_date=2026-09-02&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3076-AA32 | 3076 | Proposed Rule
-
-## NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War [NRC-2025-1503]
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-02T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=3150-AL60&regmonthly_date=2026-09-02&regmonthly_mode=pending
-
-Pending OIRA review | RIN 3150-AL60 | 3150 | Final Rule
+International organisations including the Bank for International Settlements (BIS) have adopted SDMx (Statistical Data and Metadata) as the standard for exchanging official statistics. Trust in published data is essential for evidence-based policymaking. This paper shows how binding each SDMx dataset to its source using blockchain technology can enhance confidence in official…
 
 ## OCC Releases CRA Performance Evaluations for 23 National Banks and Federal Savings Associations
 - Source: OCC
@@ -32849,13 +32763,29 @@ Pending OIRA review | RIN 3150-AL60 | 3150 | Final Rule
 - Published: 2026-09-01T00:00:00Z
 - URL: https://www.investor.fisglobal.com/news-releases/news-release-details/fis-and-ericsson-aim-remove-integration-barriers-organizations
 
-## The quest for a more efficient bank resolution regime in the European banking union
-- Source: BIS
-- Category: International Banking
+## Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals
+- Source: RegInfo.gov
+- Category: Regulatory Review
 - Published: 2026-09-01T00:00:00Z
-- URL: https://www.bis.org/speeches/20260901-quest-more-efficient-bank-resolution-regime-european-banking-union
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD48&regmonthly_date=2026-09-01&regmonthly_mode=completed
 
-Speech by Mr Fernando Restoy, Chair, Financial Stability Institute, at the UNIDROIT Centenary Regional Conference for Europe, Paris, 1 September 2026.
+OIRA review completed | RIN 0970-AD48 | 0970 | Proposed Rule
+
+## Subsistence Management Regulations for Public Lands in Alaska, 2026–27 and 2027–28; Subsistence Taking of Wildlife Regulations
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1090-AB29&regmonthly_date=2026-09-01&regmonthly_mode=pending
+
+Pending OIRA review | RIN 1090-AB29 | 1090 | Final Rule
+
+## NPDES General Permit for New and Existing Sources in the Offshore Subcategory of the Oil and Gas Extraction Point Source Category for the Western Portion of the OCS
+- Source: RegInfo.gov
+- Category: Regulatory Review
+- Published: 2026-09-01T00:00:00Z
+- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2006-ZA03&regmonthly_date=2026-09-01&regmonthly_mode=pending
+
+Pending OIRA review | RIN 2006-ZA03 | 2006 | Final Rule
 
 ## Privacy Act of 1974; System of Records
 - Source: Federal Register
@@ -33731,29 +33661,13 @@ On August 12, 2026, the U.S. Court of International Trade (CIT or the Court) iss
 
 The U.S. Department of Commerce (Commerce) determines Hyundai Steel Company (Hyundai Steel) and POSCO, producers/exporters of certain cold-rolled steel flat products (cold-rolled steel) from the Republic of Korea (Korea), received countervailable subsidies during the period of review (POR) January 1, 2023, through December 31, 2023.
 
-## Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals
-- Source: RegInfo.gov
-- Category: Regulatory Review
+## The quest for a more efficient bank resolution regime in the European banking union
+- Source: BIS
+- Category: International Banking
 - Published: 2026-09-01T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=0970-AD48&regmonthly_date=2026-09-01&regmonthly_mode=completed
+- URL: https://www.bis.org/speeches/20260901-quest-more-efficient-bank-resolution-regime-european-banking-union
 
-OIRA review completed | RIN 0970-AD48 | 0970 | Proposed Rule
-
-## Subsistence Management Regulations for Public Lands in Alaska, 2026–27 and 2027–28; Subsistence Taking of Wildlife Regulations
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-01T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=1090-AB29&regmonthly_date=2026-09-01&regmonthly_mode=pending
-
-Pending OIRA review | RIN 1090-AB29 | 1090 | Final Rule
-
-## NPDES General Permit for New and Existing Sources in the Offshore Subcategory of the Oil and Gas Extraction Point Source Category for the Western Portion of the OCS
-- Source: RegInfo.gov
-- Category: Regulatory Review
-- Published: 2026-09-01T00:00:00Z
-- URL: https://www.reginfo.gov/public/Forward?SearchTarget=RegReview&textfield=2006-ZA03&regmonthly_date=2026-09-01&regmonthly_mode=pending
-
-Pending OIRA review | RIN 2006-ZA03 | 2006 | Final Rule
+Speech by Mr Fernando Restoy, Chair, Financial Stability Institute, at the UNIDROIT Centenary Regional Conference for Europe, Paris, 1 September 2026.
 
 ## Fact Sheet: President Donald J. Trump Announces Historic Oil Agreement to Secure American Energy Dominance and Drive Venezuela’s Economic Recovery
 - Source: White House

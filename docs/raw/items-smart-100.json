@@ -143,38 +143,11 @@
   {
     "category": "International Banking",
     "source": "BIS",
-    "title": "Convening remarks - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
-    "published_at": "2026-09-30T00:00:00Z",
-    "url": "https://www.bis.org/speeches/20260930-convening-remarks-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
-    "summary": "Convening remarks by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
-    "smart_index": 16
-  },
-  {
-    "category": "International Banking",
-    "source": "BIS",
-    "title": "Speech - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
-    "published_at": "2026-09-30T00:00:00Z",
-    "url": "https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
-    "summary": "Speech by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
-    "smart_index": 17
-  },
-  {
-    "category": "International Banking",
-    "source": "BIS",
-    "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-    "published_at": "2026-09-30T00:00:00Z",
-    "url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament",
-    "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 28 September 2026.",
-    "smart_index": 18
-  },
-  {
-    "category": "International Banking",
-    "source": "BIS",
     "title": "Good practices of green finance in Southeast Asia",
     "published_at": "2026-09-30T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260930-good-practices-green-finance-southeast-asia",
     "summary": "Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Bank of China (Hong Kong) Green Forum 2026 and Sharing Workshop “Good practices of green finance in Southeast Asia”, Hong Kong, 7 September 2026.",
-    "smart_index": 19
+    "smart_index": 16
   },
   {
     "category": "International Banking",
@@ -183,7 +156,7 @@
     "published_at": "2026-09-30T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260930-statement-base-rate-national-bank-kazakhstan",
     "summary": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 24 July 2026.",
-    "smart_index": 20
+    "smart_index": 17
   },
   {
     "category": "International Banking",
@@ -192,7 +165,7 @@
     "published_at": "2026-09-30T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum",
     "summary": "Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum, Hong Kong, 7 September 2026.",
-    "smart_index": 21
+    "smart_index": 18
   },
   {
     "category": "International Banking",
@@ -201,6 +174,33 @@
     "published_at": "2026-09-30T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260930-indian-economy-ever-more-volatile-and-complex-world",
     "summary": "Special address by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 23 September 2026.",
+    "smart_index": 19
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Convening remarks - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
+    "published_at": "2026-09-30T00:00:00Z",
+    "url": "https://www.bis.org/speeches/20260930-convening-remarks-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
+    "summary": "Convening remarks by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
+    "smart_index": 20
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Speech - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
+    "published_at": "2026-09-30T00:00:00Z",
+    "url": "https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
+    "summary": "Speech by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
+    "smart_index": 21
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+    "published_at": "2026-09-30T00:00:00Z",
+    "url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament",
+    "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 28 September 2026.",
     "smart_index": 22
   },
   {
@@ -233,28 +233,13 @@
     "smart_index": 24
   },
   {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 131E, 131F, and 131G",
-    "published_at": "2026-09-30T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20014/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-131e",
-    "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing three general licenses (GLs) issued pursuant to the Russian Harmful Foreign Activities Sanctions Regulations: GLs 131E, 131F, and 131G, each of which was previously made available on OFAC's website.",
-    "fr_tags": [
-      "agency:foreign-assets-control-office",
-      "agency:treasury-department",
-      "type:rule"
-    ],
-    "fedreg_document_number": "2026-20014",
-    "smart_index": 25
-  },
-  {
     "category": "Banking",
     "source": "FDIC",
     "title": "Press Release: Agencies Publish Resolution Plan Feedback Letters for 15 Banking Organizations",
     "published_at": "2026-09-29T20:02:30Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/42c31dd",
     "summary": "PRESS RELEASE | SEPTEMBER 29, 2026 Agencies Publish Resolution Plan Feedback Letters for 15 Banking Organizations WASHINGTON— The Federal Deposit Insurance Corporation and the Federal Reserve Board today published feedback letters for resolution plans submitted in October 2025. The agencies did not identify any shortcomings or deficiencies in these resolution plan submissions.…",
-    "smart_index": 26
+    "smart_index": 25
   },
   {
     "category": "Payments",
@@ -263,7 +248,7 @@
     "published_at": "2026-09-29T20:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
     "summary": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-    "smart_index": 27
+    "smart_index": 26
   },
   {
     "category": "International Banking",
@@ -272,7 +257,7 @@
     "published_at": "2026-09-29T00:00:00Z",
     "url": "https://www.bis.org/publications/bulletin-136-high-public-debt-nbfis-and-risk-market-dysfunction",
     "summary": "Near record-high government debt levels and the growing role of non-banks have reshaped government debt markets in recent years. High levels of government sector debt are expected to worsen future government debt market liquidity conditions in general, including by increasing the risk of market dysfunction. A large non-bank financial institution footprint heightens the risk of…",
-    "smart_index": 28
+    "smart_index": 27
   },
   {
     "category": "International Banking",
@@ -281,7 +266,7 @@
     "published_at": "2026-09-29T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260929-update-ai-and-economy",
     "summary": "Opening keynote by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the Oakland Tech Week, cohosted by the Kapor Center, Oakland, California, 28 September 2026.",
-    "smart_index": 29
+    "smart_index": 28
   },
   {
     "category": "International Banking",
@@ -290,7 +275,7 @@
     "published_at": "2026-09-29T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260928-opening-remarks-2026-green-fintech-symposium",
     "summary": "Opening remarks by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the 2026 Green Fintech Symposium, Hong Kong, 11 September 2026.",
-    "smart_index": 30
+    "smart_index": 29
   },
   {
     "category": "Banking",
@@ -299,7 +284,7 @@
     "published_at": "2026-09-29T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-82.html",
     "summary": "",
-    "smart_index": 31
+    "smart_index": 30
   },
   {
     "category": "Banking",
@@ -308,34 +293,7 @@
     "published_at": "2026-09-29T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-publish-resolution-plan-feedback-letters-15-banking-organizations",
     "summary": "The FDIC and FRB today published feedback letters for resolution plans submitted in October 2025.",
-    "smart_index": 32
-  },
-  {
-    "category": "International Banking",
-    "source": "BIS",
-    "title": "Statement - 2026 Innovation Financial Forum",
-    "published_at": "2026-09-29T00:00:00Z",
-    "url": "https://www.bis.org/speeches/20260928-statement-2026-innovation-financial-forum",
-    "summary": "Statement by Ms Karina Karaivanova, Deputy Governor of the Bulgarian National Bank, at the 2026 Innovation Financial Forum, organised by the Bank of the Year Association, Sofia, 2 June 2026.",
-    "smart_index": 33
-  },
-  {
-    "category": "International Banking",
-    "source": "BIS",
-    "title": "Quantitative tightening - the next chapter",
-    "published_at": "2026-09-29T00:00:00Z",
-    "url": "https://www.bis.org/speeches/20260929-quantitative-tightening-next-chapter",
-    "summary": "Speech by Sir David Ramsden, Deputy Governor for Markets and Banking of the Bank of England, at the Bank of England, co-hosted by the Money, Macro and Finance Society, London, 28 September 2026.",
-    "smart_index": 34
-  },
-  {
-    "category": "International Banking",
-    "source": "BIS",
-    "title": "Welcoming address - 30th anniversary of FAST",
-    "published_at": "2026-09-29T00:00:00Z",
-    "url": "https://www.bis.org/speeches/20260929-welcoming-address-30th-anniversary-fast",
-    "summary": "Welcoming address of Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), delivered by Mr Marzunisham Omar, Deputy Governor, at the Industry Appreciation Dinner commemorating the 30th anniversary of FAST, Kuala Lumpur, 9 September 2026.",
-    "smart_index": 35
+    "smart_index": 31
   },
   {
     "category": "Federal Register",
@@ -349,21 +307,34 @@
       "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-19899",
-    "smart_index": 36
+    "smart_index": 32
   },
   {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Sunshine Act; Open Commission Meeting Wednesday, September 30, 2026",
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Welcoming address - 30th anniversary of FAST",
     "published_at": "2026-09-29T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19920/sunshine-act-open-commission-meeting-wednesday-september-30-2026",
-    "summary": "The Commission will consider a Report and Order and Further Notice of Proposed Rulemaking to overhaul the Commission's outdated National Environmental Policy Act (NEPA) rules. These reforms will clarify the scope of Commission actions subject to environmental review and streamline and expedite the review process to ensure NEPA serves as a tool for informed decision- making rat…",
-    "fr_tags": [
-      "agency:federal-communications-commission",
-      "type:notice"
-    ],
-    "fedreg_document_number": "2026-19920",
-    "smart_index": 37
+    "url": "https://www.bis.org/speeches/20260929-welcoming-address-30th-anniversary-fast",
+    "summary": "Welcoming address of Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), delivered by Mr Marzunisham Omar, Deputy Governor, at the Industry Appreciation Dinner commemorating the 30th anniversary of FAST, Kuala Lumpur, 9 September 2026.",
+    "smart_index": 33
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Statement - 2026 Innovation Financial Forum",
+    "published_at": "2026-09-29T00:00:00Z",
+    "url": "https://www.bis.org/speeches/20260928-statement-2026-innovation-financial-forum",
+    "summary": "Statement by Ms Karina Karaivanova, Deputy Governor of the Bulgarian National Bank, at the 2026 Innovation Financial Forum, organised by the Bank of the Year Association, Sofia, 2 June 2026.",
+    "smart_index": 34
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Quantitative tightening - the next chapter",
+    "published_at": "2026-09-29T00:00:00Z",
+    "url": "https://www.bis.org/speeches/20260929-quantitative-tightening-next-chapter",
+    "summary": "Speech by Sir David Ramsden, Deputy Governor for Markets and Banking of the Bank of England, at the Bank of England, co-hosted by the Money, Macro and Finance Society, London, 28 September 2026.",
+    "smart_index": 35
   },
   {
     "category": "International Banking",
@@ -372,7 +343,7 @@
     "published_at": "2026-09-28T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260928-launch-amlcft-graduate-programme",
     "summary": "Address by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the launch of the AML/CFT Graduate Programme, jointly offered by the Bank of Mauritius, the Financial Crimes Commission and the Financial Services Commission, Port Louis, 21 September 2026.",
-    "smart_index": 38
+    "smart_index": 36
   },
   {
     "category": "International Banking",
@@ -381,7 +352,7 @@
     "published_at": "2026-09-28T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260928-has-europe-fully-digested-new-geoeconomic-realities-and-does-it-have-energy-cope-them",
     "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Annual Dinner of the Society of Professional Economists, London, 22 September 2026.",
-    "smart_index": 39
+    "smart_index": 37
   },
   {
     "category": "International Banking",
@@ -390,7 +361,7 @@
     "published_at": "2026-09-28T00:00:00Z",
     "url": "https://www.bis.org/publications/fsi-paper-29-leverage-ratio-and-output-floor-complementarities-and-overlaps",
     "summary": "This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or complements to each other and how they interact with risk‑based regulatory requirements.",
-    "smart_index": 40
+    "smart_index": 38
   },
   {
     "category": "Payments",
@@ -399,7 +370,7 @@
     "published_at": "2026-09-28T00:00:00Z",
     "url": "https://www.nacha.org/news/request-information-should-secure-electronic-channels-be-required-exception-processing",
     "summary": "",
-    "smart_index": 41
+    "smart_index": 39
   },
   {
     "category": "International Banking",
@@ -408,7 +379,7 @@
     "published_at": "2026-09-28T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning",
     "summary": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the 2026 US Treasury Market Conference, organised by the Federal Reserve Bank of New York, New York City, 22 September 2026.",
-    "smart_index": 42
+    "smart_index": 40
   },
   {
     "category": "Banking",
@@ -417,7 +388,7 @@
     "published_at": "2026-09-28T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-81.html",
     "summary": "",
-    "smart_index": 43
+    "smart_index": 41
   },
   {
     "category": "International Banking",
@@ -426,7 +397,7 @@
     "published_at": "2026-09-28T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260928-we-are-raising-policy-rate-dampen-inflation",
     "summary": "Introductory statement by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the press conference following Norway's announcement of the policy rate, Oslo, 24 September 2026.",
-    "smart_index": 44
+    "smart_index": 42
   },
   {
     "category": "International Banking",
@@ -435,7 +406,7 @@
     "published_at": "2026-09-28T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260928-leurope-cest-nous",
     "summary": "Remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the informal ECOFIN dinner, Dublin, 18 September 2026.",
-    "smart_index": 45
+    "smart_index": 43
   },
   {
     "category": "International Banking",
@@ -444,7 +415,7 @@
     "published_at": "2026-09-28T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260928-artificial-intelligence-new-frontiers-risk",
     "summary": "Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, to the Association des avocats en droit boursier, Paris, 9 September 2026.",
-    "smart_index": 46
+    "smart_index": 44
   },
   {
     "category": "International Banking",
@@ -453,7 +424,7 @@
     "published_at": "2026-09-28T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260928-back-school-passing-europes-triple-test",
     "summary": "Keynote speech by Mr Olli Rehn, Governor of the Bank of Finland, at the OMFIF Nordic SSA Forum, Helsinki, 19 August 2026.",
-    "smart_index": 47
+    "smart_index": 45
   },
   {
     "category": "Banking",
@@ -462,7 +433,7 @@
     "published_at": "2026-09-25T23:09:49Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/42c8901",
     "summary": "PRESS RELEASE | SEPTEMBER 25, 2026 Sunwest Bank Assumes All Deposits and Certain Assets of Nano Banc, Irvine, California WASHINGTON—Nano Banc of Irvine, California was closed today by the California Department of Financial Protection and Innovation, which appointed the Federal Deposit Insurance Corporation (FDIC) as receiver. The FDIC entered into a purchase and assumption agr…",
-    "smart_index": 48
+    "smart_index": 46
   },
   {
     "category": "Banking",
@@ -471,7 +442,7 @@
     "published_at": "2026-09-25T20:30:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
     "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-    "smart_index": 49
+    "smart_index": 47
   },
   {
     "category": "Payments",
@@ -480,7 +451,7 @@
     "published_at": "2026-09-25T20:30:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
     "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-    "smart_index": 50
+    "smart_index": 48
   },
   {
     "category": "Banking",
@@ -489,7 +460,7 @@
     "published_at": "2026-09-25T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/sunwest-bank-assumes-all-deposits-and-certain-assets-nano-banc-irvine",
     "summary": "Nano Banc of Irvine, California was closed today by the California Department of Financial Protection and Innovation, which appointed the FDIC as receiver.",
-    "smart_index": 51
+    "smart_index": 49
   },
   {
     "category": "International Banking",
@@ -498,7 +469,7 @@
     "published_at": "2026-09-25T00:00:00Z",
     "url": "https://www.bis.org/publications/paper-173-trusted-execution-environments-central-banks",
     "summary": "This paper considers what TEEs can responsibly deliver for central banks, the conditions under which they are most effective and how they can be deployed without widening who must be trusted. It takes a balanced view, outlining core assurances and boundaries, highlighting implementation and governance dependencies and situating TEEs alongside alternative approaches to confiden…",
-    "smart_index": 52
+    "smart_index": 50
   },
   {
     "category": "Banking",
@@ -507,7 +478,7 @@
     "published_at": "2026-09-24T18:30:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
     "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-    "smart_index": 53
+    "smart_index": 51
   },
   {
     "category": "Payments",
@@ -516,7 +487,7 @@
     "published_at": "2026-09-24T18:30:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
     "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-    "smart_index": 54
+    "smart_index": 52
   },
   {
     "category": "International Banking",
@@ -525,7 +496,7 @@
     "published_at": "2026-09-24T00:00:00Z",
     "url": "https://www.bis.org/publications/bulletin-135-old-workers-young-machines-can-ai-and-automation-offset-population-ageing",
     "summary": "Key takeawaysArtificial intelligence (AI) and robots have the potential to offset the macroeconomic consequences of an ageing workforce, but the ability to automate jobs depends on which industries are ageing.AI and robots substitute most readily for jobs in industries with younger workforces (eg finance), while older, high-employment industries (eg agriculture, health) have l…",
-    "smart_index": 55
+    "smart_index": 53
   },
   {
     "category": "International Banking",
@@ -534,7 +505,7 @@
     "published_at": "2026-09-24T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260924-trusted-innovation-shaping-future-finance",
     "summary": "Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.",
-    "smart_index": 56
+    "smart_index": 54
   },
   {
     "category": "International Banking",
@@ -543,7 +514,7 @@
     "published_at": "2026-09-24T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai",
     "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at “Hofburg im Dialog – economy, europe, resilience”, Vienna, 14 September 2026.",
-    "smart_index": 57
+    "smart_index": 55
   },
   {
     "category": "International Banking",
@@ -552,7 +523,7 @@
     "published_at": "2026-09-24T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260924-banking-regulators-supervisors-and-their-watchers",
     "summary": "Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Watching European Financial Market Regulation and Supervision Conference, organised by Goethe University Frankfurt, Frankfurt am Main, 15 September 2026.",
-    "smart_index": 58
+    "smart_index": 56
   },
   {
     "category": "International Banking",
@@ -561,7 +532,7 @@
     "published_at": "2026-09-24T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260924-opening-remarks-panel-session-economics-innovation",
     "summary": "Opening remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the panel session on economics of innovation, at the Central Bank of Ireland conference “Trust and innovation – the future of finance\", Dublin, 18 September 2026.",
-    "smart_index": 59
+    "smart_index": 57
   },
   {
     "category": "International Banking",
@@ -570,7 +541,7 @@
     "published_at": "2026-09-24T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260924-transition-and-adjustment-changing-times",
     "summary": "Speech by Mr Erik Thedéen, Governor of the Sveriges Riksbank, at the Central Bank of Ireland, Dublin, 18 September 2026.",
-    "smart_index": 60
+    "smart_index": 58
   },
   {
     "category": "International Banking",
@@ -579,7 +550,7 @@
     "published_at": "2026-09-24T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260924-finance-europes-future-getting-foundations-right",
     "summary": "Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Eurofi Financial Forum Gala Dinner, Dublin, 17 September 2026.",
-    "smart_index": 61
+    "smart_index": 59
   },
   {
     "category": "International Banking",
@@ -588,7 +559,7 @@
     "published_at": "2026-09-24T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change",
     "summary": "Remarks by Mr Tiff Macklem, Governor of the Bank of Canada, to Halifax Partnership, Halifax, Nova Scotia, 21 September 2026.",
-    "smart_index": 62
+    "smart_index": 60
   },
   {
     "category": "International Banking",
@@ -597,7 +568,7 @@
     "published_at": "2026-09-24T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260924-advancing-digital-financial-literacy-finland",
     "summary": "Opening remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the “Advancing digital financial literacy in Finland” event, Bank of Finland Museum, Helsinki, 16 September 2026.",
-    "smart_index": 63
+    "smart_index": 61
   },
   {
     "category": "International Banking",
@@ -606,7 +577,7 @@
     "published_at": "2026-09-23T00:00:00Z",
     "url": "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show",
     "summary": "As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025. The average Liquidity Coverage Ratio (LCR) of Group 1 banks improved slightly, while the Net Stable Funding Ratio (NSFR) decreased slightly. The average impact of the Basel III framework on Tier 1 minimum required capital (MRC)…",
-    "smart_index": 64
+    "smart_index": 62
   },
   {
     "category": "Banking",
@@ -615,7 +586,7 @@
     "published_at": "2026-09-23T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-80.html",
     "summary": "",
-    "smart_index": 65
+    "smart_index": 63
   },
   {
     "category": "International Banking",
@@ -624,7 +595,7 @@
     "published_at": "2026-09-23T00:00:00Z",
     "url": "https://www.bis.org/publications/working-paper-1379-unraveling-cobweb-global-imbalances-drivers-vulnerabilities-and-adjustment-scenarios",
     "summary": "This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies.",
-    "smart_index": 66
+    "smart_index": 64
   },
   {
     "category": "Banking",
@@ -633,7 +604,7 @@
     "published_at": "2026-09-22T20:30:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
     "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-    "smart_index": 67
+    "smart_index": 65
   },
   {
     "category": "Payments",
@@ -642,7 +613,7 @@
     "published_at": "2026-09-22T20:30:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
     "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-    "smart_index": 68
+    "smart_index": 66
   },
   {
     "category": "OFAC",
@@ -651,7 +622,7 @@
     "published_at": "2026-09-22T15:05:00Z",
     "url": "https://home.treasury.gov/news/press-releases/statements-remarks",
     "summary": "The Department of the Treasury manages federal finances, collects taxes and duties, enforces finance and tax laws, and protects the nation's financial systems.",
-    "smart_index": 69
+    "smart_index": 67
   },
   {
     "category": "Payments",
@@ -660,7 +631,7 @@
     "published_at": "2026-09-22T00:00:00Z",
     "url": "https://www.nacha.org/news/redefining-banking-day-nacha-rules-your-input-needed",
     "summary": "",
-    "smart_index": 70
+    "smart_index": 68
   },
   {
     "category": "Federal Register",
@@ -674,7 +645,7 @@
       "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-19308",
-    "smart_index": 71
+    "smart_index": 69
   },
   {
     "category": "Federal Register",
@@ -690,7 +661,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-19312",
-    "smart_index": 72
+    "smart_index": 70
   },
   {
     "category": "Federal Register",
@@ -704,7 +675,7 @@
       "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-19310",
-    "smart_index": 73
+    "smart_index": 71
   },
   {
     "category": "Federal Register",
@@ -719,6 +690,24 @@
       "type:proposed-rule"
     ],
     "fedreg_document_number": "2026-19370",
+    "smart_index": 72
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Statement - base rate of the National Bank of Kazakhstan",
+    "published_at": "2026-09-22T00:00:00Z",
+    "url": "https://www.bis.org/speeches/20260922-statement-base-rate-national-bank-kazakhstan",
+    "summary": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 4 September 2026.",
+    "smart_index": 73
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Europe seen from Normandy",
+    "published_at": "2026-09-22T00:00:00Z",
+    "url": "https://www.bis.org/speeches/20260922-europe-seen-normandy",
+    "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at the Fête de la Pomme, Épreville-en-Lieuvin, 12 September 2026.",
     "smart_index": 74
   },
   {
@@ -751,29 +740,11 @@
   {
     "category": "International Banking",
     "source": "BIS",
-    "title": "Statement - base rate of the National Bank of Kazakhstan",
-    "published_at": "2026-09-22T00:00:00Z",
-    "url": "https://www.bis.org/speeches/20260922-statement-base-rate-national-bank-kazakhstan",
-    "summary": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 4 September 2026.",
-    "smart_index": 78
-  },
-  {
-    "category": "International Banking",
-    "source": "BIS",
-    "title": "Europe seen from Normandy",
-    "published_at": "2026-09-22T00:00:00Z",
-    "url": "https://www.bis.org/speeches/20260922-europe-seen-normandy",
-    "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at the Fête de la Pomme, Épreville-en-Lieuvin, 12 September 2026.",
-    "smart_index": 79
-  },
-  {
-    "category": "International Banking",
-    "source": "BIS",
     "title": "Building the financial system of the future - trusted, connected and resilient",
     "published_at": "2026-09-21T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260921-building-financial-system-future-trusted-connected-and-resilient",
     "summary": "Special address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.",
-    "smart_index": 80
+    "smart_index": 78
   },
   {
     "category": "International Banking",
@@ -782,7 +753,7 @@
     "published_at": "2026-09-21T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260921-shaping-next-decade-finance-technology-trust-and-innovation",
     "summary": "Keynote address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Global Fintech Festival 2026, Mumbai, 10 September 2026.",
-    "smart_index": 81
+    "smart_index": 79
   },
   {
     "category": "Banking",
@@ -791,7 +762,7 @@
     "published_at": "2026-09-21T00:00:00Z",
     "url": "https://www.federalreserve.gov/reform.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 82
+    "smart_index": 80
   },
   {
     "category": "Payments",
@@ -800,7 +771,7 @@
     "published_at": "2026-09-21T00:00:00Z",
     "url": "https://www.federalreserve.gov/reform.htm",
     "summary": "The Federal Reserve Board of Governors in Washington DC.",
-    "smart_index": 83
+    "smart_index": 81
   },
   {
     "category": "International Banking",
@@ -809,7 +780,7 @@
     "published_at": "2026-09-21T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260921-economic-activity-prices-and-monetary-policy-japan",
     "summary": "Speech by Mr Kazuyuki Masu, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Fukui, 10 September 2026.",
-    "smart_index": 84
+    "smart_index": 82
   },
   {
     "category": "International Banking",
@@ -818,7 +789,7 @@
     "published_at": "2026-09-21T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260921-what-money",
     "summary": "Speech by Ms Anna Seim, Deputy Governor of the Sveriges Riksbank, at the Economy Museum, Stockholm, 9 September 2026.",
-    "smart_index": 85
+    "smart_index": 83
   },
   {
     "category": "Banking",
@@ -827,7 +798,7 @@
     "published_at": "2026-09-18T15:17:39Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/42b6691",
     "summary": "PRESS RELEASE | SEPTEMBER 18, 2026 FDIC Releases Results of Summary of Deposits Annual Survey WASHINGTON—The Federal Deposit Insurance Corporation (FDIC) today released results of its annual survey of branch office deposits for all FDIC-insured institutions as of June 30, 2026. The FDIC’s Summary of Deposits (SOD) provides branch-level deposit information for more than 75,000…",
-    "smart_index": 86
+    "smart_index": 84
   },
   {
     "category": "Banking",
@@ -836,7 +807,7 @@
     "published_at": "2026-09-18T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-releases-results-summary-deposits-annual-survey",
     "summary": "FDIC today released results of its annual survey of branch office deposits for all FDIC-insured institutions as of June 30, 2026.",
-    "smart_index": 87
+    "smart_index": 85
   },
   {
     "category": "Banking",
@@ -845,7 +816,7 @@
     "published_at": "2026-09-17T14:42:43Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/42aca83",
     "summary": "BOARD MEETING | SEPTEMBER 17, 2026 FDIC Board of Directors Meeting Today, the Federal Deposit Insurance Corporation’s Board of Directors met in open session to consider the following matters. Materials and information relative to the open Board actions are available on the Board Matters webpage . Items Addressed in Open Session: Notice of Proposed Rulemaking: Merger Transactio…",
-    "smart_index": 88
+    "smart_index": 86
   },
   {
     "category": "Banking",
@@ -854,7 +825,7 @@
     "published_at": "2026-09-17T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-state-bank-parity",
     "summary": "FDIC Board of Directors today approved an NPR that would amend the agency’s regulations to promote parity between state banks and national banks.",
-    "smart_index": 89
+    "smart_index": 87
   },
   {
     "category": "Banking",
@@ -863,7 +834,7 @@
     "published_at": "2026-09-17T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics",
     "summary": "FDIC Board of Directors today approved an NPR that would modernize and reform the process by which the FDIC reviews merger transactions under the BMA",
-    "smart_index": 90
+    "smart_index": 88
   },
   {
     "category": "International Banking",
@@ -872,11 +843,29 @@
     "published_at": "2026-09-17T00:00:00Z",
     "url": "https://www.bis.org/publications/working-paper-1378-maritime-chokepoints-and-the-global-economy-evidence-strait-hormuz",
     "summary": "The conflict in the Middle East and the subsequent disruption of traffic in the Strait of Hormuz have triggered an unprecedented shock to the global economy. Using historical data from the IMF/University of Oxford Portwatch database on maritime traffic, this paper empirically examines some of the potential economic and financial consequences of disruptions to traffic in the St…",
-    "smart_index": 91
+    "smart_index": 89
   },
   {
     "category": "Banking",
     "source": "FRB",
+    "title": "Federal Reserve issues FOMC statement",
+    "published_at": "2026-09-16T18:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "summary": "Federal Reserve issues FOMC statement",
+    "smart_index": 90
+  },
+  {
+    "category": "Banking",
+    "source": "FRB",
+    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "published_at": "2026-09-16T18:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+    "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "smart_index": 91
+  },
+  {
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Federal Reserve issues FOMC statement",
     "published_at": "2026-09-16T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
@@ -884,31 +873,13 @@
     "smart_index": 92
   },
   {
-    "category": "Banking",
-    "source": "FRB",
+    "category": "Payments",
+    "source": "FRB Payments",
     "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
     "published_at": "2026-09-16T18:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
     "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
     "smart_index": 93
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve issues FOMC statement",
-    "published_at": "2026-09-16T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-    "summary": "Federal Reserve issues FOMC statement",
-    "smart_index": 94
-  },
-  {
-    "category": "Payments",
-    "source": "FRB Payments",
-    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-    "published_at": "2026-09-16T18:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-    "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-    "smart_index": 95
   },
   {
     "category": "OFAC",
@@ -917,15 +888,33 @@
     "published_at": "2026-09-16T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/treasury-convenes-global-financial-institutions-advance-operation-economic",
     "summary": "WASHINGTON—Today, the U.S. Department of the Treasury’s (Treasury) Financial Crimes Enforcement Network (FinCEN) led a FinCEN Exchange with global financial institutions to advance Operation Economic Outcast. The event armed financial institutions with the information they need to shut down revenue streams and procurement networks tied to the Iranian regime.",
+    "smart_index": 94
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "From heritage to renewal - building Europe’s future",
+    "published_at": "2026-09-16T00:00:00Z",
+    "url": "https://www.bis.org/speeches/20260916-heritage-renewal-building-europes-future",
+    "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the gala dinner of the Deutsche Bundesbank on the occasion of the external ECB Governing Council meeting, Berlin, 9 September 2026.",
+    "smart_index": 95
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "The economic outlook and some comments on my policy communication",
+    "published_at": "2026-09-16T00:00:00Z",
+    "url": "https://www.bis.org/speeches/20260916-economic-outlook-and-some-comments-my-policy-communication",
+    "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Reuters NEXT Newsmaker Interview, Washington DC, 3 September 2026.",
     "smart_index": 96
   },
   {
     "category": "International Banking",
     "source": "BIS",
-    "title": "Bank resilience and sustainable growth - two sides of the same coin",
+    "title": "Emerging technologies in finance - the imperatives of purpose, prudence, and policy",
     "published_at": "2026-09-16T00:00:00Z",
-    "url": "https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin",
-    "summary": "Contribution by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Bruegel Annual Meetings panel “Future-proofing European banking”, Brussels, 2 September 2026.",
+    "url": "https://www.bis.org/speeches/20260916-emerging-technologies-finance-imperatives-purpose-prudence-and-policy",
+    "summary": "Keynote address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at theGlobal Fintech Fest 2026, Mumba, 9 September 2026.",
     "smart_index": 97
   },
   {
@@ -976,11 +965,20 @@
   {
     "category": "International Banking",
     "source": "BIS",
-    "title": "Twenty-five years of the Central Bank of Montenegro",
+    "title": "Economic activity, prices, and monetary policy in Japan",
     "published_at": "2026-09-16T00:00:00Z",
-    "url": "https://www.bis.org/speeches/20260915-twenty-five-years-central-bank-montenegro",
-    "summary": "Opening remarks by Dr Irena Radović, Governor of the Central Bank of Montenegro, at the celebration to mark the 25th anniversary of the Central Bank of Montenegro, Lustica, 4 September 2026.",
+    "url": "https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan",
+    "summary": "Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.",
     "smart_index": 103
+  },
+  {
+    "category": "International Banking",
+    "source": "BIS",
+    "title": "Financial markets as the engine of Uganda's tenfold economic transformation",
+    "published_at": "2026-09-16T00:00:00Z",
+    "url": "https://www.bis.org/speeches/20260916-financial-markets-engine-ugandas-tenfold-economic-transformation",
+    "summary": "Keynote speech by Prof Augustus Nuwagaba, Deputy Governor of the Bank of Uganda, at the ACI Uganda Dealers' Meeting “Financial markets as the engine of Uganda's tenfold economic transformation”, Kololo, 28 August 2026.",
+    "smart_index": 104
   },
   {
     "category": "Banking",
@@ -989,7 +987,7 @@
     "published_at": "2026-09-15T14:57:18Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/42aa4ac",
     "summary": "SUNSHINE ACT MEETING NOTICE The FDIC Board of Directors will meet in an open session: Date and Time: Thursday, September 17, 2026 | 10:00 a.m. ET Place: The Board meeting will be open to public observation by webcast . Members of the media should contact the Office of Communications by Wednesday, September 16, at MediaRequests@FDIC.gov to attend in person from FDIC Headquarter…",
-    "smart_index": 104
+    "smart_index": 105
   },
   {
     "category": "Federal Register",
@@ -1007,7 +1005,7 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-18859",
-    "smart_index": 105
+    "smart_index": 106
   },
   {
     "category": "Federal Register",
@@ -1021,7 +1019,7 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-18852",
-    "smart_index": 106
+    "smart_index": 107
   },
   {
     "category": "International Banking",
@@ -1030,7 +1028,7 @@
     "published_at": "2026-09-15T00:00:00Z",
     "url": "https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems",
     "summary": "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured by the scale, fragmentation and complexity of the ecosystem. Key metrics illustrate that the rapidly evolving DeFi ecosystem introduces unique challenges for economic and financial research in accurately capturing finan…",
-    "smart_index": 107
+    "smart_index": 108
   },
   {
     "category": "Federal Register",
@@ -1047,7 +1045,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-18766",
-    "smart_index": 108
+    "smart_index": 109
   },
   {
     "category": "Banking",
@@ -1056,7 +1054,7 @@
     "published_at": "2026-09-11T15:01:03Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/429c028",
     "summary": "PRESS RELEASE | SEPTEMBER 11, 2026 Joint Readout of Principals’ Meeting of UK and U.S. Authorities Regarding Central Counterparty Resolution WASHINGTON—Senior officials from the Bank of England, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Securities and Exchange Commission, and Federal Reserve Board convened for a tabletop exercise on September…",
-    "smart_index": 109
+    "smart_index": 110
   },
   {
     "category": "Banking",
@@ -1065,20 +1063,11 @@
     "published_at": "2026-09-11T14:05:21Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/42943e6",
     "summary": "PRESS RELEASE | SEPTEMBER 11, 2026 Agencies Seek Comment on Proposed Third-Party Risk Management Guidance and Issue Statement on Community Bank Engagement with Core Service Providers WASHINGTON— Today the Federal Deposit Insurance Corporation, the Federal Reserve Board, the National Credit Union Administration, and the Office of the Comptroller of the Currency (collectively, t…",
-    "smart_index": 110
+    "smart_index": 111
   },
   {
     "category": "Payments",
     "source": "FRB Payments",
-    "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-    "published_at": "2026-09-11T14:00:00Z",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-    "summary": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-    "smart_index": 111
-  },
-  {
-    "category": "Banking",
-    "source": "FRB",
     "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
     "published_at": "2026-09-11T14:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
@@ -1087,12 +1076,21 @@
   },
   {
     "category": "Banking",
+    "source": "FRB",
+    "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+    "published_at": "2026-09-11T14:00:00Z",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+    "summary": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+    "smart_index": 113
+  },
+  {
+    "category": "Banking",
     "source": "OCC",
     "title": "Agencies Seek Comment on Proposed Third-Party Risk Management Guidance and Issue Statement on Community Bank Engagement with Core Service Providers",
     "published_at": "2026-09-11T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-77.html",
     "summary": "",
-    "smart_index": 113
+    "smart_index": 114
   },
   {
     "category": "Banking",
@@ -1101,7 +1099,7 @@
     "published_at": "2026-09-11T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-seek-comment-proposed-third-party-risk-management-guidance-and",
     "summary": "Requested comment on proposed guidance to assist financial institutions with managing risks associated with third-party relationships.",
-    "smart_index": 114
+    "smart_index": 115
   },
   {
     "category": "Banking",
@@ -1110,7 +1108,7 @@
     "published_at": "2026-09-11T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-78.html",
     "summary": "",
-    "smart_index": 115
+    "smart_index": 116
   },
   {
     "category": "Banking",
@@ -1119,7 +1117,7 @@
     "published_at": "2026-09-11T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/joint-readout-principals-meeting-uk-and-us-authorities-regarding-central",
     "summary": "The agencies convened for a tabletop exercise on September 3, 2026, to discuss certain issues relating to the hypothetical resolution of central counterparties.",
-    "smart_index": 116
+    "smart_index": 117
   },
   {
     "category": "International Banking",
@@ -1128,7 +1126,7 @@
     "published_at": "2026-09-11T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260916-global-economic-outlook-ai-and-innovation",
     "summary": "Interview with Mr Pablo Hernández de Cos, General Manager of the BIS, with India's Economic Times, conducted by Ms Deepshikha Sikarwar, 11 September 2026.",
-    "smart_index": 117
+    "smart_index": 118
   },
   {
     "category": "Banking",
@@ -1137,7 +1135,7 @@
     "published_at": "2026-09-10T20:01:57Z",
     "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4292db4",
     "summary": "PRESS RELEASE | SEPTEMBER 10, 2026 Agencies Reduce Regulatory Burden for Community Banks, Increase Eligibility for 18-Month Exam Cycle WASHINGTON— The federal bank regulatory agencies today issued an interim final rule increasing the number of community banks eligible for an 18-month exam cycle. The 21st Century ROAD to Housing Act increased the total asset threshold from $3 b…",
-    "smart_index": 118
+    "smart_index": 119
   },
   {
     "category": "Payments",
@@ -1146,7 +1144,7 @@
     "published_at": "2026-09-10T20:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
     "summary": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
-    "smart_index": 119
+    "smart_index": 120
   },
   {
     "category": "Banking",
@@ -1155,7 +1153,7 @@
     "published_at": "2026-09-10T20:00:00Z",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
     "summary": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
-    "smart_index": 120
+    "smart_index": 121
   },
   {
     "category": "Compliance Watch",
@@ -1164,7 +1162,7 @@
     "published_at": "2026-09-10T16:57:48Z",
     "url": "https://www.texasbankers.com/regulators-expand-18-month-exam-cycle-eligibility-to-more-community-banks/",
     "summary": "More community banks will qualify for longer intervals between on-site exams under an interim final rule issued by the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation and the Federal Reserve, raising the asset threshold for the 18-month exam cycle from $3 billion to $6 billion. The higher threshold, mandated by […] The post Regulators expan…",
-    "smart_index": 121
+    "smart_index": 122
   },
   {
     "category": "OFAC",
@@ -1173,7 +1171,7 @@
     "published_at": "2026-09-10T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-whistleblower-bulletin-iran-related-illicit-finance",
     "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) is issuing a Whistleblower Bulletin in support of Operation Economic Outcast. FinCEN maintains a whistleblower incentive program for the public to submit information about violations of certain statutes enforced by Treasury and the Department of Justice, including the Bank Secrecy Act (B…",
-    "smart_index": 122
+    "smart_index": 123
   },
   {
     "category": "Banking",
@@ -1182,7 +1180,7 @@
     "published_at": "2026-09-10T00:00:00Z",
     "url": "https://www.fdic.gov/news/press-releases/2026/agencies-reduce-regulatory-burden-community-banks-increase-eligibility-18",
     "summary": "The federal bank regulatory agencies today issued an interim final rule increasing the number of community banks eligible for an 18-month exam cycle.",
-    "smart_index": 123
+    "smart_index": 124
   },
   {
     "category": "Banking",
@@ -1191,7 +1189,7 @@
     "published_at": "2026-09-10T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-75.html",
     "summary": "",
-    "smart_index": 124
+    "smart_index": 125
   },
   {
     "category": "Banking",
@@ -1200,7 +1198,7 @@
     "published_at": "2026-09-10T00:00:00Z",
     "url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-76.html",
     "summary": "",
-    "smart_index": 125
+    "smart_index": 126
   },
   {
     "category": "International Banking",
@@ -1209,7 +1207,7 @@
     "published_at": "2026-09-10T00:00:00Z",
     "url": "https://www.bis.org/speeches/20260910-artificial-intelligence-growth-and-financial-stability-challenges-central-banks",
     "summary": "Speech by Mr Pablo Hernández de Cos, General Manager of the BIS, at the Global Fintech Fest 2026, Mumbai, India, 10 September 2026.",
-    "smart_index": 126
+    "smart_index": 127
   },
   {
     "category": "Compliance Watch",
@@ -1218,7 +1216,7 @@
     "published_at": "2026-09-09T16:16:19Z",
     "url": "https://www.texasbankers.com/fdic-to-issue-stablecoin-rulemaking-by-years-end-according-to-chair/",
     "summary": "The Federal Deposit Insurance Corporation plans to issue a final rulemaking before the end of the year to establish an application process and prudential requirements for stablecoin issuers under its jurisdiction, likely not until after the Office of the Comptroller of the Currency issues its own stablecoin rules, FDIC Chairman Travis Hill said during a […] The post FDIC to is…",
-    "smart_index": 127
+    "smart_index": 128
   },
   {
     "category": "OFAC",
@@ -1227,7 +1225,7 @@
     "published_at": "2026-09-09T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-financial-trend-analysis-health-care-fraud",
     "summary": "Today, the U.S. Department of the Treasury's Financial Crimes Enforcement Network (FinCEN) issued a Financial Trend Analysis identifying approximately $17.5 billion in suspicious financial activity potentially linked to health care fraud, underscoring the Trump Administration’s commitment to eliminating fraud, protecting taxpayers, and safeguarding the integrity of federal hea…",
-    "smart_index": 128
+    "smart_index": 129
   },
   {
     "category": "Payments",
@@ -1236,7 +1234,7 @@
     "published_at": "2026-09-09T00:00:00Z",
     "url": "https://www.nacha.org/news/new-nacha-payments-innovation-alliance-project-team-focused-stablecoins-and-tokenized-deposits",
     "summary": "",
-    "smart_index": 129
+    "smart_index": 130
   },
   {
     "category": "International Banking",
@@ -1245,7 +1243,7 @@
     "published_at": "2026-09-09T00:00:00Z",
     "url": "https://www.bis.org/publications/fsi-paper-28-when-machines-attack-frontier-ai-cyber-threats-and-policy-responses-financial-sector",
     "summary": "Frontier artificial intelligence (AI) models are a game changer in the cyber threat landscape. Unlike earlier generations of AI models, they can autonomously identify critical vulnerabilities, develop effective exploits and conduct increasingly complex multi-step cyber operations, thus reducing the expertise, time and resources needed to carry out sophisticated attacks. At the…",
-    "smart_index": 130
+    "smart_index": 131
   },
   {
     "category": "OFAC",
@@ -1254,7 +1252,7 @@
     "published_at": "2026-09-08T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-frequently-asked-questions-regarding-treatment-verifiable-digital",
     "summary": "Today, the U.S.",
-    "smart_index": 131
+    "smart_index": 132
   },
   {
     "category": "OFAC",
@@ -1263,7 +1261,7 @@
     "published_at": "2026-09-08T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-issues-alert-counter-iranian-procurement-efforts-its-commercial-aviation",
     "summary": "Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) is issuing an Alert to assist financial institutions in identifying and reporting procurement networks supporting Iran’s aviation industry, which the Iranian regime uses to transport weapons, funds, and personnel in support the Islamic Revolutionary Guard Corps (IRGC) and its terrorist p…",
-    "smart_index": 132
+    "smart_index": 133
   },
   {
     "category": "Payments",
@@ -1272,7 +1270,7 @@
     "published_at": "2026-09-08T00:00:00Z",
     "url": "https://www.nacha.org/news/help-ensure-ach-rules-compliance-you-need-new-ach-compliance-manual",
     "summary": "",
-    "smart_index": 133
+    "smart_index": 134
   },
   {
     "category": "Federal Register",
@@ -1287,7 +1285,7 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-18259",
-    "smart_index": 134
+    "smart_index": 135
   },
   {
     "category": "International Banking",
@@ -1296,7 +1294,7 @@
     "published_at": "2026-09-08T00:00:00Z",
     "url": "https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis",
     "summary": "CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their cyber resilience frameworks. The discussion paper FMIs’ reliance on third-party service providers: c…",
-    "smart_index": 135
+    "smart_index": 136
   },
   {
     "category": "International Banking",
@@ -1305,7 +1303,7 @@
     "published_at": "2026-09-07T00:00:00Z",
     "url": "https://www.bis.org/publications/working-paper-1376-what-determines-banks-excess-demand-reserves",
     "summary": "The amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were built up during quantitative easing.",
-    "smart_index": 136
+    "smart_index": 137
   },
   {
     "category": "OFAC",
@@ -1314,7 +1312,7 @@
     "published_at": "2026-09-03T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-identifies-nearly-13-billion-linked-suspected-digital-asset-scams",
     "summary": "Urges Financial Institutions to be Vigilant and Report Suspicious ActivityWASHINGTON—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) published an analysis and an alert to financial institutions to be vigilant to digital asset investment scams perpetrated by overseas scam centers. Today’s action is the latest in Treasury’s efforts to p…",
-    "smart_index": 137
+    "smart_index": 138
   },
   {
     "category": "Payments",
@@ -1323,7 +1321,7 @@
     "published_at": "2026-09-03T00:00:00Z",
     "url": "https://www.nacha.org/news/nacha-announces-dhango-nacha-preferred-partner-risk-and-fraud-prevention-compliance-and-open",
     "summary": "",
-    "smart_index": 138
+    "smart_index": 139
   },
   {
     "category": "Federal Register",
@@ -1337,7 +1335,7 @@
       "type:notice"
     ],
     "fedreg_document_number": "2026-17995",
-    "smart_index": 139
+    "smart_index": 140
   },
   {
     "category": "Fintech Watch",
@@ -1346,7 +1344,7 @@
     "published_at": "2026-09-03T00:00:00Z",
     "url": "https://www.investor.fisglobal.com/news-releases/news-release-details/fis-launches-embedded-banking-platform-letting-banks-deliver",
     "summary": "",
-    "smart_index": 140
+    "smart_index": 141
   },
   {
     "category": "International Banking",
@@ -1355,7 +1353,7 @@
     "published_at": "2026-09-03T00:00:00Z",
     "url": "https://www.bis.org/publications/working-paper-1375-zombie-firms-emerging-asia-domestic-and-cross-border-implications",
     "summary": "Using firm-bank linked data for 10 Asian emerging market economies (EMEs) over 2005–2021, we study the domestic and cross-border implications of zombie firms. We document three main findings.",
-    "smart_index": 141
+    "smart_index": 142
   },
   {
     "category": "International Banking",
@@ -1364,7 +1362,7 @@
     "published_at": "2026-09-03T00:00:00Z",
     "url": "https://www.bis.org/publications/fsi-insight-78-simple-resilient-and-proportional-revisiting-regulation-small-banks",
     "summary": "Small banks are the backbone of local economies but have distinct business models and risk profiles compared to larger banks. Recognising these differences, the Basel Committee on Banking Supervision (BCBS) promotes proportionality in global banking standards, encouraging tailored requirements based on bank size, complexity, and risk profile. The BCBS does not define ‘small ba…",
-    "smart_index": 142
+    "smart_index": 143
   },
   {
     "category": "Compliance Watch",
@@ -1373,7 +1371,7 @@
     "published_at": "2026-09-02T16:07:45Z",
     "url": "https://www.texasbankers.com/agencies-issue-guidance-about-suspicious-activity-reports-on-customer-communications/",
     "summary": "The Financial Crimes Enforcement Network and banking agencies issued a joint statement clarifying that banks can still speak with customers about potential fraud, account closures or other suspicious activity, even though confidentiality rules apply to suspicious activity reports. Last year, the Federal Reserve, FDIC, and Office of the Comptroller of the Currency asked the pub…",
-    "smart_index": 143
+    "smart_index": 144
   },
   {
     "category": "OFAC",
@@ -1382,7 +1380,7 @@
     "published_at": "2026-09-02T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-reissues-order-requiring-transparency-msbs-along-southwest-border",
     "summary": "WASHINGTON—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) reissued a Geographic Targeting Order (GTO) to help law enforcement combat illicit activity and associated money laundering by Mexico-based cartels and other criminal actors along the southwest border of the United States.",
-    "smart_index": 144
+    "smart_index": 145
   },
   {
     "category": "OFAC",
@@ -1391,7 +1389,7 @@
     "published_at": "2026-09-02T12:00:00Z",
     "url": "https://www.fincen.gov/news/news-releases/fincen-agencies-issue-joint-statement-suspicious-activity-report-confidentiality",
     "summary": "Today, the U.S.",
-    "smart_index": 145
+    "smart_index": 146
   },
   {
     "category": "International Banking",
@@ -1400,7 +1398,7 @@
     "published_at": "2026-09-02T00:00:00Z",
     "url": "https://www.bis.org/publications/working-paper-1374-verifiable-official-statistics-blockchain-based-approach",
     "summary": "International organisations including the Bank for International Settlements (BIS) have adopted SDMx (Statistical Data and Metadata) as the standard for exchanging official statistics. Trust in published data is essential for evidence-based policymaking. This paper shows how binding each SDMx dataset to its source using blockchain technology can enhance confidence in official…",
-    "smart_index": 146
+    "smart_index": 147
   },
   {
     "category": "Federal Register",
@@ -1416,7 +1414,7 @@
       "type:rule"
     ],
     "fedreg_document_number": "2026-17823",
-    "smart_index": 147
+    "smart_index": 148
   },
   {
     "category": "Payments",
@@ -1425,7 +1423,7 @@
     "published_at": "2026-09-01T00:00:00Z",
     "url": "https://www.nacha.org/news/new-rule-providing-clarity-definition-iats-takes-effect-sept-18",
     "summary": "",
-    "smart_index": 148
+    "smart_index": 149
   },
   {
     "category": "Payments",
@@ -1434,21 +1432,6 @@
     "published_at": "2026-09-01T00:00:00Z",
     "url": "https://www.nacha.org/news/new-funds-availability-requirements-take-effect-sept-18",
     "summary": "",
-    "smart_index": 149
-  },
-  {
-    "category": "Federal Register",
-    "source": "Federal Register",
-    "title": "Proposal of Special Measure Regarding Banque Misr UAE as a Financial Institution Operating Outside of the United States of Primary Money Laundering Concern",
-    "published_at": "2026-09-01T00:00:00Z",
-    "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17871/proposal-of-special-measure-regarding-banque-misr-uae-as-a-financial-institution-operating-outside",
-    "summary": "FinCEN is issuing a notice of proposed rulemaking, pursuant to section 311 of the USA PATRIOT Act, that finds the five United Arab Emirates-based branches of Banque Misr (collectively, Banque Misr UAE) to be of primary money laundering concern and proposes imposing a special measure to: prohibit U.S. financial institutions from opening or maintaining a correspondent account fo…",
-    "fr_tags": [
-      "agency:financial-crimes-enforcement-network",
-      "agency:treasury-department",
-      "type:proposed-rule"
-    ],
-    "fedreg_document_number": "2026-17871",
     "smart_index": 150
   }
 ]
